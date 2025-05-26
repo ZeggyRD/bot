@@ -1,0 +1,14 @@
+C:\Users\ceram\Music\OTW_MUSIC_SYSTEM\Launcher\bin\Debug\net8.0-windows\OTWLauncher.exe
+C:\Users\ceram\Music\OTW_MUSIC_SYSTEM\Launcher\bin\Debug\net8.0-windows\OTWLauncher.deps.json
+C:\Users\ceram\Music\OTW_MUSIC_SYSTEM\Launcher\bin\Debug\net8.0-windows\OTWLauncher.runtimeconfig.json
+C:\Users\ceram\Music\OTW_MUSIC_SYSTEM\Launcher\bin\Debug\net8.0-windows\OTWLauncher.dll
+C:\Users\ceram\Music\OTW_MUSIC_SYSTEM\Launcher\bin\Debug\net8.0-windows\OTWLauncher.pdb
+C:\Users\ceram\Music\OTW_MUSIC_SYSTEM\Launcher\obj\Debug\net8.0-windows\OTWLauncher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ceram\Music\OTW_MUSIC_SYSTEM\Launcher\obj\Debug\net8.0-windows\OTWLauncher.AssemblyInfoInputs.cache
+C:\Users\ceram\Music\OTW_MUSIC_SYSTEM\Launcher\obj\Debug\net8.0-windows\OTWLauncher.AssemblyInfo.cs
+C:\Users\ceram\Music\OTW_MUSIC_SYSTEM\Launcher\obj\Debug\net8.0-windows\OTWLauncher.csproj.CoreCompileInputs.cache
+C:\Users\ceram\Music\OTW_MUSIC_SYSTEM\Launcher\obj\Debug\net8.0-windows\OTWLauncher.dll
+C:\Users\ceram\Music\OTW_MUSIC_SYSTEM\Launcher\obj\Debug\net8.0-windows\refint\OTWLauncher.dll
+C:\Users\ceram\Music\OTW_MUSIC_SYSTEM\Launcher\obj\Debug\net8.0-windows\OTWLauncher.pdb
+C:\Users\ceram\Music\OTW_MUSIC_SYSTEM\Launcher\obj\Debug\net8.0-windows\OTWLauncher.genruntimeconfig.cache
+C:\Users\ceram\Music\OTW_MUSIC_SYSTEM\Launcher\obj\Debug\net8.0-windows\ref\OTWLauncher.dll

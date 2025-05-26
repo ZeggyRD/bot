@@ -1,0 +1,699 @@
+2025-05-18 22:47:51,913 - AccountManager - INFO - Cargadas 10 cuentas desde el archivo
+2025-05-18 22:47:51,914 - AccountManager - INFO - Cargados 250 proxies desde el archivo
+2025-05-18 22:47:51,925 - AccountManager - INFO - AccountManager inicializado con 10 cuentas y 500 proxies
+2025-05-18 22:47:51,927 - HumanBehavior - INFO - Perfiles de comportamiento cargados desde C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\config\behavior_profiles.json
+2025-05-18 22:47:51,927 - HumanBehavior - INFO - HumanBehaviorSimulator inicializado con 4 perfiles
+2025-05-18 22:47:52,088 - LoginManager - DEBUG - Sesiones cargadas: 1 entradas
+2025-05-18 22:47:52,088 - LoginManager - INFO - LoginManager inicializado
+2025-05-18 22:47:52,088 - LoginManager - DEBUG - Ruta de sesiones: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\data\sessions.json
+2025-05-18 22:47:52,088 - LoginManager - DEBUG - Ruta de plantillas: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\templates
+2025-05-18 22:47:52,089 - LoginManager - WARNING - Plantillas faltantes: login_submit.png, home_icon.png, library_icon.png
+2025-05-18 22:47:52,089 - LoginManager - WARNING - Algunas funciones de reconocimiento visual pueden fallar
+2025-05-18 22:47:52,264 - AndroidDevice - INFO - Dispositivos detectados: ['2040306023079082']
+2025-05-18 22:48:02,042 - OTWMusicSystem - INFO - Configuración guardada en: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\config\config.json
+2025-05-18 22:48:02,043 - OTWMusicSystem - INFO - Archivo proxies copiado a C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\data\proxies.txt
+2025-05-18 22:48:04,346 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-18 22:48:04,548 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-18 22:48:04,549 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-18 22:48:04,559 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:48:04,561 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:48:04,574 - uiautomator2.core - DEBUG - launch uiautomator with cmd: CLASSPATH=/data/local/tmp/u2.jar app_process / com.wetest.uia2.Main
+2025-05-18 22:48:04,590 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-18 22:48:04,600 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:48:04,602 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:48:05,117 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-18 22:48:05,127 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:48:05,128 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:48:05,639 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-18 22:48:05,650 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:48:05,651 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:48:05,704 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: [UiAutomator2Server] Starting Server'
+2025-05-18 22:48:05,705 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-18 22:48:06,093 - uiautomator2.core - DEBUG - MockAdbProcess: b'SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".'
+2025-05-18 22:48:06,094 - uiautomator2.core - DEBUG - MockAdbProcess: b'\nSLF4J: Defaulting to no-operation (NOP) logger implementation\nSLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.'
+2025-05-18 22:48:06,095 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-18 22:48:06,162 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-18 22:48:06,163 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:48:06,164 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:48:06,436 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: clipboardManager inited'
+2025-05-18 22:48:06,437 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-18 22:48:06,444 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: tmpdir is /data/local/tmp/u2'
+2025-05-18 22:48:06,445 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-18 22:48:06,469 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: http server listening on *:9008'
+2025-05-18 22:48:06,469 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-18 22:48:06,676 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-18 22:48:06,677 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:48:06,678 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:48:06,716 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "GET /ping HTTP/1.1" 200 4
+2025-05-18 22:48:06,717 - uiautomator2 - DEBUG - shell: monkey -p net.typeblog.socks -c android.intent.category.LAUNCHER 1
+2025-05-18 22:48:10,765 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'exist', 'params': ({'mask': 1, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'Server IP'},)}
+2025-05-18 22:48:10,776 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:48:10,777 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:48:11,128 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-18 22:48:11,129 - uiautomator2 - DEBUG - swipe from (0.5, 0.8) to (0.5, 0.2), steps: 55
+2025-05-18 22:48:11,326 - adbutils.shell - DEBUG - get window size from 'wm size': WindowSize(width=480, height=960) False
+2025-05-18 22:48:11,327 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'swipe', 'params': (240, 768, 240, 192, 55)}
+2025-05-18 22:48:11,337 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:48:11,338 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:48:12,424 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:48:12,925 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'exist', 'params': ({'mask': 1, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'Server IP'},)}
+2025-05-18 22:48:12,937 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:48:12,938 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:48:13,357 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:48:13,359 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 1, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'Server IP'}, 5000)}
+2025-05-18 22:48:13,360 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:48:13,361 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:48:13,462 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:48:13,464 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 1, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'Server IP'}, 20000)}
+2025-05-18 22:48:13,475 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:48:13,477 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:48:13,572 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:48:13,573 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'objInfo', 'params': ({'mask': 1, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'Server IP'},)}
+2025-05-18 22:48:13,574 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:48:13,575 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:48:13,989 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 481
+2025-05-18 22:48:13,990 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'click', 'params': (66.0, 299.0)}
+2025-05-18 22:48:13,990 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:48:13,991 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:48:14,254 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:48:14,658 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'clearInputText', 'params': {}}
+2025-05-18 22:48:14,669 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:48:14,670 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:48:14,706 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:48:15,007 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'setClipboard', 'params': (None, '149.6.162.2')}
+2025-05-18 22:48:15,018 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:48:15,019 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:48:15,056 - uiautomator2.core - DEBUG - MockAdbProcess: b'java.lang.SecurityException: Package android does not belong to 2000'
+2025-05-18 22:48:15,057 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-18 22:48:15,058 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat android.os.Parcel.createExceptionOrNull(Parcel.java:2374)\n'
+2025-05-18 22:48:15,060 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat android.os.Parcel.createException(Parcel.java:2358)\n'
+2025-05-18 22:48:15,061 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat android.os.Parcel.readException(Parcel.java:2341)'
+2025-05-18 22:48:15,064 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n\tat android.os.Parcel.readException(Parcel.java:2283)\n\tat android.content.IClipboard$Stub$Proxy.setPrimaryClip(IClipboard.java:293)\n'
+2025-05-18 22:48:15,066 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat android.content.ClipboardManager.setPrimaryClip(ClipboardManager.java:105)\n'
+2025-05-18 22:48:15,066 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat com.wetest.uia2.stub.AutomatorServiceImpl.setClipboard(AutomatorServiceImpl.java:1652)\n'
+2025-05-18 22:48:15,069 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat java.lang.reflect.Method.invoke(Native Method)\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.invoke(JsonRpcBasicServer.java:467)'
+2025-05-18 22:48:15,071 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleObject(JsonRpcBasicServer.java:352)\n'
+2025-05-18 22:48:15,073 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleJsonNodeRequest(JsonRpcBasicServer.java:283)\n'
+2025-05-18 22:48:15,075 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleRequest(JsonRpcBasicServer.java:251)\n\tat com.wetest.uia2.stub.AutomatorHttpServer.serve(AutomatorHttpServer.java:101)\n'
+2025-05-18 22:48:15,078 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat fi.iki.elonen.NanoHTTPD.serve(NanoHTTPD.java:2244)\n\tat fi.iki.elonen.NanoHTTPD$HTTPSession.execute(NanoHTTPD.java:945)\n'
+2025-05-18 22:48:15,080 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat fi.iki.elonen.NanoHTTPD$ClientHandler.run(NanoHTTPD.java:192)\n\tat java.lang.Thread.run(Thread.java:923)\n'
+2025-05-18 22:48:15,081 - uiautomator2.core - DEBUG - MockAdbProcess: b'Caused by: android.os.RemoteException: Remote stack trace:\n\tat android.app.AppOpsManager.checkPackage(AppOpsManager.java:7757)\n\tat com.android.server.clipboard.ClipboardService.clipboardAccessAllowed(ClipboardService.java:752)\n\tat com.android.server.clipboard.ClipboardService.clipboardAccessAllowed(ClipboardService.java:743)\n\tat com.android.server.clipboard.ClipboardService.access$400(ClipboardService.java:157)\n\tat com.android.server.clipboard.ClipboardService$ClipboardImpl.setPrimaryClip(ClipboardService.java:359)\n'
+2025-05-18 22:48:15,082 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-18 22:48:15,096 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 1938
+2025-05-18 22:48:15,098 - uiautomator2.core - DEBUG - jsonrpc error: {'jsonrpc': '2.0', 'id': 1, 'error': {'code': -32001, 'message': 'java.lang.SecurityException', 'data': 'java.lang.SecurityException: Package android does not belong to 2000\n\tat android.os.Parcel.createExceptionOrNull(Parcel.java:2374)\n\tat android.os.Parcel.createException(Parcel.java:2358)\n\tat android.os.Parcel.readException(Parcel.java:2341)\n\tat android.os.Parcel.readException(Parcel.java:2283)\n\tat android.content.IClipboard$Stub$Proxy.setPrimaryClip(IClipboard.java:293)\n\tat android.content.ClipboardManager.setPrimaryClip(ClipboardManager.java:105)\n\tat com.wetest.uia2.stub.AutomatorServiceImpl.setClipboard(AutomatorServiceImpl.java:1652)\n\tat java.lang.reflect.Method.invoke(Native Method)\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.invoke(JsonRpcBasicServer.java:467)\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleObject(JsonRpcBasicServer.java:352)\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleJsonNodeRequest(JsonRpcBasicServer.java:283)\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleRequest(JsonRpcBasicServer.java:251)\n\tat com.wetest.uia2.stub.AutomatorHttpServer.serve(AutomatorHttpServer.java:101)\n\tat fi.iki.elonen.NanoHTTPD.serve(NanoHTTPD.java:2244)\n\tat fi.iki.elonen.NanoHTTPD$HTTPSession.execute(NanoHTTPD.java:945)\n\tat fi.iki.elonen.NanoHTTPD$ClientHandler.run(NanoHTTPD.java:192)\n\tat java.lang.Thread.run(Thread.java:923)\nCaused by: android.os.RemoteException: Remote stack trace:\n\tat android.app.AppOpsManager.checkPackage(AppOpsManager.java:7757)\n\tat com.android.server.clipboard.ClipboardService.clipboardAccessAllowed(ClipboardService.java:752)\n\tat com.android.server.clipboard.ClipboardService.clipboardAccessAllowed(ClipboardService.java:743)\n\tat com.android.server.clipboard.ClipboardService.access$400(ClipboardService.java:157)\n\tat com.android.server.clipboard.ClipboardService$ClipboardImpl.setPrimaryClip(ClipboardService.java:359)\n\n'}}
+2025-05-18 22:48:15,098 - uiautomator2 - DEBUG - shell: settings get secure default_input_method
+2025-05-18 22:48:15,212 - uiautomator2 - DEBUG - shell: am broadcast -a ADB_KEYBOARD_INPUT_TEXT --es text MTQ5LjYuMTYyLjI=
+2025-05-18 22:48:15,632 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'exist', 'params': ({'mask': 1, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'OK'},)}
+2025-05-18 22:48:15,643 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:48:15,644 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:48:15,685 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:48:15,686 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 1, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'OK'}, 20000)}
+2025-05-18 22:48:15,697 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:48:15,698 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:48:15,775 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:48:15,777 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'objInfo', 'params': ({'mask': 1, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'OK'},)}
+2025-05-18 22:48:15,788 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:48:15,789 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:48:16,133 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 474
+2025-05-18 22:48:16,134 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'click', 'params': (384.0, 554.0)}
+2025-05-18 22:48:16,145 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:48:16,146 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:48:16,314 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:48:16,617 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'exist', 'params': ({'mask': 1, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'Server Port'},)}
+2025-05-18 22:48:16,628 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:48:16,629 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:48:16,682 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:48:16,683 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 1, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'Server Port'}, 5000)}
+2025-05-18 22:48:16,694 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:48:16,695 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:48:16,754 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:48:16,756 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 1, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'Server Port'}, 20000)}
+2025-05-18 22:48:16,766 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:48:16,768 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:48:16,827 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:48:16,828 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'objInfo', 'params': ({'mask': 1, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'Server Port'},)}
+2025-05-18 22:48:16,829 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:48:16,830 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:48:16,973 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 483
+2025-05-18 22:48:16,974 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'click', 'params': (76.5, 401.0)}
+2025-05-18 22:48:16,984 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:48:16,986 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:48:17,229 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:48:17,630 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'clearInputText', 'params': {}}
+2025-05-18 22:48:17,640 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:48:17,642 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:48:17,679 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:48:17,980 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'setClipboard', 'params': (None, '80')}
+2025-05-18 22:48:17,991 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:48:17,992 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:48:18,016 - uiautomator2.core - DEBUG - MockAdbProcess: b'java.lang.SecurityException: Package android does not belong to 2000\n'
+2025-05-18 22:48:18,018 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat android.os.Parcel.createExceptionOrNull(Parcel.java:2374)'
+2025-05-18 22:48:18,019 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n\tat android.os.Parcel.createException(Parcel.java:2358)'
+2025-05-18 22:48:18,021 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n\tat android.os.Parcel.readException(Parcel.java:2341)'
+2025-05-18 22:48:18,022 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n\tat android.os.Parcel.readException(Parcel.java:2283)'
+2025-05-18 22:48:18,023 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n\tat android.content.IClipboard$Stub$Proxy.setPrimaryClip(IClipboard.java:293)'
+2025-05-18 22:48:18,024 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-18 22:48:18,025 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat android.content.ClipboardManager.setPrimaryClip(ClipboardManager.java:105)\n'
+2025-05-18 22:48:18,028 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat com.wetest.uia2.stub.AutomatorServiceImpl.setClipboard(AutomatorServiceImpl.java:1652)\n\tat java.lang.reflect.Method.invoke(Native Method)\n'
+2025-05-18 22:48:18,029 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.invoke(JsonRpcBasicServer.java:467)'
+2025-05-18 22:48:18,031 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleObject(JsonRpcBasicServer.java:352)\n'
+2025-05-18 22:48:18,032 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleJsonNodeRequest(JsonRpcBasicServer.java:283)\n'
+2025-05-18 22:48:18,033 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleRequest(JsonRpcBasicServer.java:251)\n'
+2025-05-18 22:48:18,034 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat com.wetest.uia2.stub.AutomatorHttpServer.serve(AutomatorHttpServer.java:101)\n'
+2025-05-18 22:48:18,037 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat fi.iki.elonen.NanoHTTPD.serve(NanoHTTPD.java:2244)\n\tat fi.iki.elonen.NanoHTTPD$HTTPSession.execute(NanoHTTPD.java:945)\n'
+2025-05-18 22:48:18,039 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat fi.iki.elonen.NanoHTTPD$ClientHandler.run(NanoHTTPD.java:192)\n'
+2025-05-18 22:48:18,040 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat java.lang.Thread.run(Thread.java:923)\n'
+2025-05-18 22:48:18,041 - uiautomator2.core - DEBUG - MockAdbProcess: b'Caused by: android.os.RemoteException: Remote stack trace:\n\tat android.app.AppOpsManager.checkPackage(AppOpsManager.java:7757)\n\tat com.android.server.clipboard.ClipboardService.clipboardAccessAllowed(ClipboardService.java:752)\n\tat com.android.server.clipboard.ClipboardService.clipboardAccessAllowed(ClipboardService.java:743)\n\tat com.android.server.clipboard.ClipboardService.access$400(ClipboardService.java:157)\n\tat com.android.server.clipboard.ClipboardService$ClipboardImpl.setPrimaryClip(ClipboardService.java:359)\n\n'
+2025-05-18 22:48:18,050 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 1938
+2025-05-18 22:48:18,052 - uiautomator2.core - DEBUG - jsonrpc error: {'jsonrpc': '2.0', 'id': 1, 'error': {'code': -32001, 'message': 'java.lang.SecurityException', 'data': 'java.lang.SecurityException: Package android does not belong to 2000\n\tat android.os.Parcel.createExceptionOrNull(Parcel.java:2374)\n\tat android.os.Parcel.createException(Parcel.java:2358)\n\tat android.os.Parcel.readException(Parcel.java:2341)\n\tat android.os.Parcel.readException(Parcel.java:2283)\n\tat android.content.IClipboard$Stub$Proxy.setPrimaryClip(IClipboard.java:293)\n\tat android.content.ClipboardManager.setPrimaryClip(ClipboardManager.java:105)\n\tat com.wetest.uia2.stub.AutomatorServiceImpl.setClipboard(AutomatorServiceImpl.java:1652)\n\tat java.lang.reflect.Method.invoke(Native Method)\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.invoke(JsonRpcBasicServer.java:467)\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleObject(JsonRpcBasicServer.java:352)\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleJsonNodeRequest(JsonRpcBasicServer.java:283)\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleRequest(JsonRpcBasicServer.java:251)\n\tat com.wetest.uia2.stub.AutomatorHttpServer.serve(AutomatorHttpServer.java:101)\n\tat fi.iki.elonen.NanoHTTPD.serve(NanoHTTPD.java:2244)\n\tat fi.iki.elonen.NanoHTTPD$HTTPSession.execute(NanoHTTPD.java:945)\n\tat fi.iki.elonen.NanoHTTPD$ClientHandler.run(NanoHTTPD.java:192)\n\tat java.lang.Thread.run(Thread.java:923)\nCaused by: android.os.RemoteException: Remote stack trace:\n\tat android.app.AppOpsManager.checkPackage(AppOpsManager.java:7757)\n\tat com.android.server.clipboard.ClipboardService.clipboardAccessAllowed(ClipboardService.java:752)\n\tat com.android.server.clipboard.ClipboardService.clipboardAccessAllowed(ClipboardService.java:743)\n\tat com.android.server.clipboard.ClipboardService.access$400(ClipboardService.java:157)\n\tat com.android.server.clipboard.ClipboardService$ClipboardImpl.setPrimaryClip(ClipboardService.java:359)\n\n'}}
+2025-05-18 22:48:18,052 - uiautomator2 - DEBUG - shell: settings get secure default_input_method
+2025-05-18 22:48:18,195 - uiautomator2 - DEBUG - shell: am broadcast -a ADB_KEYBOARD_INPUT_TEXT --es text ODA=
+2025-05-18 22:48:18,690 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'exist', 'params': ({'mask': 1, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'OK'},)}
+2025-05-18 22:48:18,701 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:48:18,702 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:48:18,750 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:48:18,751 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 1, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'OK'}, 20000)}
+2025-05-18 22:48:18,762 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:48:18,764 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:48:18,840 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:48:18,841 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'objInfo', 'params': ({'mask': 1, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'OK'},)}
+2025-05-18 22:48:18,852 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:48:18,853 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:48:19,123 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 474
+2025-05-18 22:48:19,124 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'click', 'params': (384.0, 554.0)}
+2025-05-18 22:48:19,125 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:48:19,126 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:48:19,309 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:48:19,613 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'exist', 'params': ({'mask': 1, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'Username'},)}
+2025-05-18 22:48:19,624 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:48:19,625 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:48:19,705 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-18 22:48:19,706 - uiautomator2 - DEBUG - swipe from (0.5, 0.8) to (0.5, 0.2), steps: 55
+2025-05-18 22:48:19,903 - adbutils.shell - DEBUG - get window size from 'wm size': WindowSize(width=480, height=960) False
+2025-05-18 22:48:19,903 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'swipe', 'params': (240, 768, 240, 192, 55)}
+2025-05-18 22:48:19,913 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:48:19,914 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:48:20,904 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:48:21,406 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'exist', 'params': ({'mask': 1, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'Username'},)}
+2025-05-18 22:48:21,417 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:48:21,419 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:48:21,486 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:48:21,487 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 1, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'Username'}, 5000)}
+2025-05-18 22:48:21,497 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:48:21,498 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:48:21,555 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:48:21,557 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 1, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'Username'}, 20000)}
+2025-05-18 22:48:21,567 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:48:21,568 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:48:21,625 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:48:21,626 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'objInfo', 'params': ({'mask': 1, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'Username'},)}
+2025-05-18 22:48:21,637 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:48:21,638 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:48:21,938 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 480
+2025-05-18 22:48:21,939 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'click', 'params': (71.5, 439.0)}
+2025-05-18 22:48:21,950 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:48:21,951 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:48:22,217 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:48:22,628 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'clearInputText', 'params': {}}
+2025-05-18 22:48:22,639 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:48:22,640 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:48:22,673 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:48:22,974 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'setClipboard', 'params': (None, 'fpelmuks-1')}
+2025-05-18 22:48:22,984 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:48:22,986 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:48:23,013 - uiautomator2.core - DEBUG - MockAdbProcess: b'java.lang.SecurityException: Package android does not belong to 2000'
+2025-05-18 22:48:23,015 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-18 22:48:23,016 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat android.os.Parcel.createExceptionOrNull(Parcel.java:2374)\n'
+2025-05-18 22:48:23,017 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat android.os.Parcel.createException(Parcel.java:2358)\n'
+2025-05-18 22:48:23,020 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat android.os.Parcel.readException(Parcel.java:2341)\n'
+2025-05-18 22:48:23,021 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat android.os.Parcel.readException(Parcel.java:2283)\n\tat android.content.IClipboard$Stub$Proxy.setPrimaryClip(IClipboard.java:293)'
+2025-05-18 22:48:23,023 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n\tat android.content.ClipboardManager.setPrimaryClip(ClipboardManager.java:105)\n'
+2025-05-18 22:48:23,024 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat com.wetest.uia2.stub.AutomatorServiceImpl.setClipboard(AutomatorServiceImpl.java:1652)'
+2025-05-18 22:48:23,025 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n\tat java.lang.reflect.Method.invoke(Native Method)'
+2025-05-18 22:48:23,027 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.invoke(JsonRpcBasicServer.java:467)'
+2025-05-18 22:48:23,030 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleObject(JsonRpcBasicServer.java:352)\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleJsonNodeRequest(JsonRpcBasicServer.java:283)\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleRequest(JsonRpcBasicServer.java:251)'
+2025-05-18 22:48:23,033 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n\tat com.wetest.uia2.stub.AutomatorHttpServer.serve(AutomatorHttpServer.java:101)'
+2025-05-18 22:48:23,033 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n\tat fi.iki.elonen.NanoHTTPD.serve(NanoHTTPD.java:2244)\n'
+2025-05-18 22:48:23,034 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat fi.iki.elonen.NanoHTTPD$HTTPSession.execute(NanoHTTPD.java:945)\n'
+2025-05-18 22:48:23,036 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat fi.iki.elonen.NanoHTTPD$ClientHandler.run(NanoHTTPD.java:192)\n'
+2025-05-18 22:48:23,038 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat java.lang.Thread.run(Thread.java:923)\n'
+2025-05-18 22:48:23,039 - uiautomator2.core - DEBUG - MockAdbProcess: b'Caused by: android.os.RemoteException: Remote stack trace:\n\tat android.app.AppOpsManager.checkPackage(AppOpsManager.java:7757)\n\tat com.android.server.clipboard.ClipboardService.clipboardAccessAllowed(ClipboardService.java:752)\n\tat com.android.server.clipboard.ClipboardService.clipboardAccessAllowed(ClipboardService.java:743)\n\tat com.android.server.clipboard.ClipboardService.access$400(ClipboardService.java:157)\n\tat com.android.server.clipboard.ClipboardService$ClipboardImpl.setPrimaryClip(ClipboardService.java:359)\n\n'
+2025-05-18 22:48:23,047 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 1938
+2025-05-18 22:48:23,049 - uiautomator2.core - DEBUG - jsonrpc error: {'jsonrpc': '2.0', 'id': 1, 'error': {'code': -32001, 'message': 'java.lang.SecurityException', 'data': 'java.lang.SecurityException: Package android does not belong to 2000\n\tat android.os.Parcel.createExceptionOrNull(Parcel.java:2374)\n\tat android.os.Parcel.createException(Parcel.java:2358)\n\tat android.os.Parcel.readException(Parcel.java:2341)\n\tat android.os.Parcel.readException(Parcel.java:2283)\n\tat android.content.IClipboard$Stub$Proxy.setPrimaryClip(IClipboard.java:293)\n\tat android.content.ClipboardManager.setPrimaryClip(ClipboardManager.java:105)\n\tat com.wetest.uia2.stub.AutomatorServiceImpl.setClipboard(AutomatorServiceImpl.java:1652)\n\tat java.lang.reflect.Method.invoke(Native Method)\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.invoke(JsonRpcBasicServer.java:467)\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleObject(JsonRpcBasicServer.java:352)\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleJsonNodeRequest(JsonRpcBasicServer.java:283)\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleRequest(JsonRpcBasicServer.java:251)\n\tat com.wetest.uia2.stub.AutomatorHttpServer.serve(AutomatorHttpServer.java:101)\n\tat fi.iki.elonen.NanoHTTPD.serve(NanoHTTPD.java:2244)\n\tat fi.iki.elonen.NanoHTTPD$HTTPSession.execute(NanoHTTPD.java:945)\n\tat fi.iki.elonen.NanoHTTPD$ClientHandler.run(NanoHTTPD.java:192)\n\tat java.lang.Thread.run(Thread.java:923)\nCaused by: android.os.RemoteException: Remote stack trace:\n\tat android.app.AppOpsManager.checkPackage(AppOpsManager.java:7757)\n\tat com.android.server.clipboard.ClipboardService.clipboardAccessAllowed(ClipboardService.java:752)\n\tat com.android.server.clipboard.ClipboardService.clipboardAccessAllowed(ClipboardService.java:743)\n\tat com.android.server.clipboard.ClipboardService.access$400(ClipboardService.java:157)\n\tat com.android.server.clipboard.ClipboardService$ClipboardImpl.setPrimaryClip(ClipboardService.java:359)\n\n'}}
+2025-05-18 22:48:23,049 - uiautomator2 - DEBUG - shell: settings get secure default_input_method
+2025-05-18 22:48:23,199 - uiautomator2 - DEBUG - shell: am broadcast -a ADB_KEYBOARD_INPUT_TEXT --es text ZnBlbG11a3MtMQ==
+2025-05-18 22:48:23,601 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'exist', 'params': ({'mask': 1, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'OK'},)}
+2025-05-18 22:48:23,612 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:48:23,613 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:48:23,676 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:48:23,677 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 1, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'OK'}, 20000)}
+2025-05-18 22:48:23,688 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:48:23,690 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:48:23,748 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:48:23,749 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'objInfo', 'params': ({'mask': 1, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'OK'},)}
+2025-05-18 22:48:23,760 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:48:23,762 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:48:24,100 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 474
+2025-05-18 22:48:24,101 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'click', 'params': (384.0, 554.0)}
+2025-05-18 22:48:24,112 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:48:24,113 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:48:24,291 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:48:24,593 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'exist', 'params': ({'mask': 1, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'Password'},)}
+2025-05-18 22:48:24,604 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:48:24,605 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:48:24,665 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:48:24,666 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 1, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'Password'}, 5000)}
+2025-05-18 22:48:24,677 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:48:24,678 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:48:24,731 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:48:24,732 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 1, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'Password'}, 20000)}
+2025-05-18 22:48:24,733 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:48:24,734 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:48:24,782 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:48:24,783 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'objInfo', 'params': ({'mask': 1, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'Password'},)}
+2025-05-18 22:48:24,784 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:48:24,785 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:48:24,921 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 480
+2025-05-18 22:48:24,922 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'click', 'params': (70.5, 541.0)}
+2025-05-18 22:48:24,933 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:48:24,934 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:48:25,169 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:48:25,572 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'clearInputText', 'params': {}}
+2025-05-18 22:48:25,582 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:48:25,584 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:48:25,628 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:48:25,930 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'setClipboard', 'params': (None, '0lrxoh26it92')}
+2025-05-18 22:48:25,940 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:48:25,941 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:48:25,964 - uiautomator2.core - DEBUG - MockAdbProcess: b'java.lang.SecurityException: Package android does not belong to 2000'
+2025-05-18 22:48:25,966 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-18 22:48:25,967 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat android.os.Parcel.createExceptionOrNull(Parcel.java:2374)\n'
+2025-05-18 22:48:25,968 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat android.os.Parcel.createException(Parcel.java:2358)\n'
+2025-05-18 22:48:25,969 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat android.os.Parcel.readException(Parcel.java:2341)\n\tat android.os.Parcel.readException(Parcel.java:2283)\n'
+2025-05-18 22:48:25,970 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat android.content.IClipboard$Stub$Proxy.setPrimaryClip(IClipboard.java:293)\n'
+2025-05-18 22:48:25,975 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat android.content.ClipboardManager.setPrimaryClip(ClipboardManager.java:105)\n\tat com.wetest.uia2.stub.AutomatorServiceImpl.setClipboard(AutomatorServiceImpl.java:1652)\n\tat java.lang.reflect.Method.invoke(Native Method)\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.invoke(JsonRpcBasicServer.java:467)\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleObject(JsonRpcBasicServer.java:352)\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleJsonNodeRequest(JsonRpcBasicServer.java:283)\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleRequest(JsonRpcBasicServer.java:251)'
+2025-05-18 22:48:25,976 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n\tat com.wetest.uia2.stub.AutomatorHttpServer.serve(AutomatorHttpServer.java:101)'
+2025-05-18 22:48:25,977 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n\tat fi.iki.elonen.NanoHTTPD.serve(NanoHTTPD.java:2244)'
+2025-05-18 22:48:25,978 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n\tat fi.iki.elonen.NanoHTTPD$HTTPSession.execute(NanoHTTPD.java:945)'
+2025-05-18 22:48:25,979 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-18 22:48:25,979 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat fi.iki.elonen.NanoHTTPD$ClientHandler.run(NanoHTTPD.java:192)\n'
+2025-05-18 22:48:25,980 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat java.lang.Thread.run(Thread.java:923)'
+2025-05-18 22:48:25,981 - uiautomator2.core - DEBUG - MockAdbProcess: b'\nCaused by: android.os.RemoteException: Remote stack trace:\n\tat android.app.AppOpsManager.checkPackage(AppOpsManager.java:7757)\n\tat com.android.server.clipboard.ClipboardService.clipboardAccessAllowed(ClipboardService.java:752)\n\tat com.android.server.clipboard.ClipboardService.clipboardAccessAllowed(ClipboardService.java:743)\n\tat com.android.server.clipboard.ClipboardService.access$400(ClipboardService.java:157)\n\tat com.android.server.clipboard.ClipboardService$ClipboardImpl.setPrimaryClip(ClipboardService.java:359)\n'
+2025-05-18 22:48:25,982 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-18 22:48:25,987 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 1938
+2025-05-18 22:48:25,989 - uiautomator2.core - DEBUG - jsonrpc error: {'jsonrpc': '2.0', 'id': 1, 'error': {'code': -32001, 'message': 'java.lang.SecurityException', 'data': 'java.lang.SecurityException: Package android does not belong to 2000\n\tat android.os.Parcel.createExceptionOrNull(Parcel.java:2374)\n\tat android.os.Parcel.createException(Parcel.java:2358)\n\tat android.os.Parcel.readException(Parcel.java:2341)\n\tat android.os.Parcel.readException(Parcel.java:2283)\n\tat android.content.IClipboard$Stub$Proxy.setPrimaryClip(IClipboard.java:293)\n\tat android.content.ClipboardManager.setPrimaryClip(ClipboardManager.java:105)\n\tat com.wetest.uia2.stub.AutomatorServiceImpl.setClipboard(AutomatorServiceImpl.java:1652)\n\tat java.lang.reflect.Method.invoke(Native Method)\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.invoke(JsonRpcBasicServer.java:467)\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleObject(JsonRpcBasicServer.java:352)\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleJsonNodeRequest(JsonRpcBasicServer.java:283)\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleRequest(JsonRpcBasicServer.java:251)\n\tat com.wetest.uia2.stub.AutomatorHttpServer.serve(AutomatorHttpServer.java:101)\n\tat fi.iki.elonen.NanoHTTPD.serve(NanoHTTPD.java:2244)\n\tat fi.iki.elonen.NanoHTTPD$HTTPSession.execute(NanoHTTPD.java:945)\n\tat fi.iki.elonen.NanoHTTPD$ClientHandler.run(NanoHTTPD.java:192)\n\tat java.lang.Thread.run(Thread.java:923)\nCaused by: android.os.RemoteException: Remote stack trace:\n\tat android.app.AppOpsManager.checkPackage(AppOpsManager.java:7757)\n\tat com.android.server.clipboard.ClipboardService.clipboardAccessAllowed(ClipboardService.java:752)\n\tat com.android.server.clipboard.ClipboardService.clipboardAccessAllowed(ClipboardService.java:743)\n\tat com.android.server.clipboard.ClipboardService.access$400(ClipboardService.java:157)\n\tat com.android.server.clipboard.ClipboardService$ClipboardImpl.setPrimaryClip(ClipboardService.java:359)\n\n'}}
+2025-05-18 22:48:25,989 - uiautomator2 - DEBUG - shell: settings get secure default_input_method
+2025-05-18 22:48:26,099 - uiautomator2 - DEBUG - shell: am broadcast -a ADB_KEYBOARD_INPUT_TEXT --es text MGxyeG9oMjZpdDky
+2025-05-18 22:48:26,578 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'exist', 'params': ({'mask': 1, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'OK'},)}
+2025-05-18 22:48:26,579 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:48:26,580 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:48:26,628 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:48:26,629 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 1, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'OK'}, 20000)}
+2025-05-18 22:48:26,630 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:48:26,631 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:48:26,668 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:48:26,669 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'objInfo', 'params': ({'mask': 1, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'OK'},)}
+2025-05-18 22:48:26,680 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:48:26,681 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:48:27,037 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 474
+2025-05-18 22:48:27,040 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'click', 'params': (384.0, 554.0)}
+2025-05-18 22:48:27,050 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:48:27,051 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:48:27,234 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:48:27,537 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'exist', 'params': ({'mask': 2097152, 'childOrSibling': [], 'childOrSiblingSelector': [], 'resourceId': 'net.typeblog.socks:id/switch_action_button'},)}
+2025-05-18 22:48:27,548 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:48:27,549 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:48:27,608 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:48:27,609 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 2097152, 'childOrSibling': [], 'childOrSiblingSelector': [], 'resourceId': 'net.typeblog.socks:id/switch_action_button'}, 20000)}
+2025-05-18 22:48:27,620 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:48:27,621 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:48:27,680 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:48:27,681 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'objInfo', 'params': ({'mask': 2097152, 'childOrSibling': [], 'childOrSiblingSelector': [], 'resourceId': 'net.typeblog.socks:id/switch_action_button'},)}
+2025-05-18 22:48:27,682 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:48:27,683 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:48:29,987 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 493
+2025-05-18 22:48:29,987 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'click', 'params': (392.0, 71.0)}
+2025-05-18 22:48:29,998 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:48:29,999 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:48:30,234 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:48:32,236 - uiautomator2 - DEBUG - shell: monkey -p com.android.chrome -c android.intent.category.LAUNCHER 1
+2025-05-18 22:48:38,392 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'setClipboard', 'params': (None, 'https://fast.com/es/')}
+2025-05-18 22:48:38,403 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:48:38,404 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:48:38,432 - uiautomator2.core - DEBUG - MockAdbProcess: b'java.lang.SecurityException: Package android does not belong to 2000'
+2025-05-18 22:48:38,433 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-18 22:48:38,434 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat android.os.Parcel.createExceptionOrNull(Parcel.java:2374)\n'
+2025-05-18 22:48:38,435 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat android.os.Parcel.createException(Parcel.java:2358)'
+2025-05-18 22:48:38,437 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n\tat android.os.Parcel.readException(Parcel.java:2341)'
+2025-05-18 22:48:38,438 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n\tat android.os.Parcel.readException(Parcel.java:2283)'
+2025-05-18 22:48:38,439 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-18 22:48:38,440 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat android.content.IClipboard$Stub$Proxy.setPrimaryClip(IClipboard.java:293)\n'
+2025-05-18 22:48:38,442 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat android.content.ClipboardManager.setPrimaryClip(ClipboardManager.java:105)\n'
+2025-05-18 22:48:38,444 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat com.wetest.uia2.stub.AutomatorServiceImpl.setClipboard(AutomatorServiceImpl.java:1652)\n'
+2025-05-18 22:48:38,446 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat java.lang.reflect.Method.invoke(Native Method)\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.invoke(JsonRpcBasicServer.java:467)'
+2025-05-18 22:48:38,448 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleObject(JsonRpcBasicServer.java:352)\n'
+2025-05-18 22:48:38,450 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleJsonNodeRequest(JsonRpcBasicServer.java:283)\n'
+2025-05-18 22:48:38,452 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleRequest(JsonRpcBasicServer.java:251)\n'
+2025-05-18 22:48:38,453 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat com.wetest.uia2.stub.AutomatorHttpServer.serve(AutomatorHttpServer.java:101)\n'
+2025-05-18 22:48:38,454 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat fi.iki.elonen.NanoHTTPD.serve(NanoHTTPD.java:2244)\n'
+2025-05-18 22:48:38,456 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat fi.iki.elonen.NanoHTTPD$HTTPSession.execute(NanoHTTPD.java:945)\n'
+2025-05-18 22:48:38,457 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat fi.iki.elonen.NanoHTTPD$ClientHandler.run(NanoHTTPD.java:192)\n\tat java.lang.Thread.run(Thread.java:923)'
+2025-05-18 22:48:38,459 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-18 22:48:38,459 - uiautomator2.core - DEBUG - MockAdbProcess: b'Caused by: android.os.RemoteException: Remote stack trace:\n\tat android.app.AppOpsManager.checkPackage(AppOpsManager.java:7757)\n\tat com.android.server.clipboard.ClipboardService.clipboardAccessAllowed(ClipboardService.java:752)\n\tat com.android.server.clipboard.ClipboardService.clipboardAccessAllowed(ClipboardService.java:743)\n\tat com.android.server.clipboard.ClipboardService.access$400(ClipboardService.java:157)\n\tat com.android.server.clipboard.ClipboardService$ClipboardImpl.setPrimaryClip(ClipboardService.java:359)\n\n'
+2025-05-18 22:48:38,469 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 1938
+2025-05-18 22:48:38,470 - uiautomator2.core - DEBUG - jsonrpc error: {'jsonrpc': '2.0', 'id': 1, 'error': {'code': -32001, 'message': 'java.lang.SecurityException', 'data': 'java.lang.SecurityException: Package android does not belong to 2000\n\tat android.os.Parcel.createExceptionOrNull(Parcel.java:2374)\n\tat android.os.Parcel.createException(Parcel.java:2358)\n\tat android.os.Parcel.readException(Parcel.java:2341)\n\tat android.os.Parcel.readException(Parcel.java:2283)\n\tat android.content.IClipboard$Stub$Proxy.setPrimaryClip(IClipboard.java:293)\n\tat android.content.ClipboardManager.setPrimaryClip(ClipboardManager.java:105)\n\tat com.wetest.uia2.stub.AutomatorServiceImpl.setClipboard(AutomatorServiceImpl.java:1652)\n\tat java.lang.reflect.Method.invoke(Native Method)\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.invoke(JsonRpcBasicServer.java:467)\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleObject(JsonRpcBasicServer.java:352)\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleJsonNodeRequest(JsonRpcBasicServer.java:283)\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleRequest(JsonRpcBasicServer.java:251)\n\tat com.wetest.uia2.stub.AutomatorHttpServer.serve(AutomatorHttpServer.java:101)\n\tat fi.iki.elonen.NanoHTTPD.serve(NanoHTTPD.java:2244)\n\tat fi.iki.elonen.NanoHTTPD$HTTPSession.execute(NanoHTTPD.java:945)\n\tat fi.iki.elonen.NanoHTTPD$ClientHandler.run(NanoHTTPD.java:192)\n\tat java.lang.Thread.run(Thread.java:923)\nCaused by: android.os.RemoteException: Remote stack trace:\n\tat android.app.AppOpsManager.checkPackage(AppOpsManager.java:7757)\n\tat com.android.server.clipboard.ClipboardService.clipboardAccessAllowed(ClipboardService.java:752)\n\tat com.android.server.clipboard.ClipboardService.clipboardAccessAllowed(ClipboardService.java:743)\n\tat com.android.server.clipboard.ClipboardService.access$400(ClipboardService.java:157)\n\tat com.android.server.clipboard.ClipboardService$ClipboardImpl.setPrimaryClip(ClipboardService.java:359)\n\n'}}
+2025-05-18 22:48:38,470 - uiautomator2 - DEBUG - shell: settings get secure default_input_method
+2025-05-18 22:48:38,625 - uiautomator2 - DEBUG - shell: am broadcast -a ADB_KEYBOARD_INPUT_TEXT --es text aHR0cHM6Ly9mYXN0LmNvbS9lcy8=
+2025-05-18 22:48:38,840 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'pressKey', 'params': ('enter',)}
+2025-05-18 22:48:38,850 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:48:38,851 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:48:38,930 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:49:16,563 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-18 22:49:16,658 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-18 22:49:16,659 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-18 22:49:16,659 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:49:16,661 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:49:16,672 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "GET /ping HTTP/1.1" 200 4
+2025-05-18 22:49:16,674 - uiautomator2 - DEBUG - shell: monkey -p net.typeblog.socks -c android.intent.category.LAUNCHER 1
+2025-05-18 22:49:21,164 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'exist', 'params': ({'mask': 1, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'Server IP'},)}
+2025-05-18 22:49:21,175 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:49:21,176 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:49:21,222 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:49:21,223 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 1, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'Server IP'}, 5000)}
+2025-05-18 22:49:21,233 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:49:21,234 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:49:21,281 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:49:21,282 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 1, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'Server IP'}, 20000)}
+2025-05-18 22:49:21,292 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:49:21,294 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:49:21,345 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:49:21,346 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'objInfo', 'params': ({'mask': 1, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'Server IP'},)}
+2025-05-18 22:49:21,347 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:49:21,348 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:49:21,488 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 481
+2025-05-18 22:49:21,489 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'click', 'params': (66.0, 299.0)}
+2025-05-18 22:49:21,501 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:49:21,502 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:49:21,740 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:49:22,144 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'clearInputText', 'params': {}}
+2025-05-18 22:49:22,154 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:49:22,155 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:49:22,186 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:49:22,487 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'setClipboard', 'params': (None, '149.6.162.2')}
+2025-05-18 22:49:22,488 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:49:22,490 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:49:22,511 - uiautomator2.core - DEBUG - MockAdbProcess: b'java.lang.SecurityException: Package android does not belong to 2000'
+2025-05-18 22:49:22,512 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-18 22:49:22,513 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat android.os.Parcel.createExceptionOrNull(Parcel.java:2374)'
+2025-05-18 22:49:22,515 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n\tat android.os.Parcel.createException(Parcel.java:2358)\n\tat android.os.Parcel.readException(Parcel.java:2341)\n'
+2025-05-18 22:49:22,515 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat android.os.Parcel.readException(Parcel.java:2283)\n'
+2025-05-18 22:49:22,516 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat android.content.IClipboard$Stub$Proxy.setPrimaryClip(IClipboard.java:293)\n'
+2025-05-18 22:49:22,517 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat android.content.ClipboardManager.setPrimaryClip(ClipboardManager.java:105)'
+2025-05-18 22:49:22,517 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n\tat com.wetest.uia2.stub.AutomatorServiceImpl.setClipboard(AutomatorServiceImpl.java:1652)\n'
+2025-05-18 22:49:22,518 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat java.lang.reflect.Method.invoke(Native Method)\n'
+2025-05-18 22:49:22,519 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.invoke(JsonRpcBasicServer.java:467)\n'
+2025-05-18 22:49:22,519 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleObject(JsonRpcBasicServer.java:352)'
+2025-05-18 22:49:22,520 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleJsonNodeRequest(JsonRpcBasicServer.java:283)'
+2025-05-18 22:49:22,521 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleRequest(JsonRpcBasicServer.java:251)'
+2025-05-18 22:49:22,521 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n\tat com.wetest.uia2.stub.AutomatorHttpServer.serve(AutomatorHttpServer.java:101)\n'
+2025-05-18 22:49:22,522 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat fi.iki.elonen.NanoHTTPD.serve(NanoHTTPD.java:2244)'
+2025-05-18 22:49:22,523 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n\tat fi.iki.elonen.NanoHTTPD$HTTPSession.execute(NanoHTTPD.java:945)'
+2025-05-18 22:49:22,523 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n\tat fi.iki.elonen.NanoHTTPD$ClientHandler.run(NanoHTTPD.java:192)'
+2025-05-18 22:49:22,524 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-18 22:49:22,524 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat java.lang.Thread.run(Thread.java:923)\n'
+2025-05-18 22:49:22,525 - uiautomator2.core - DEBUG - MockAdbProcess: b'Caused by: android.os.RemoteException: Remote stack trace:\n\tat android.app.AppOpsManager.checkPackage(AppOpsManager.java:7757)\n\tat com.android.server.clipboard.ClipboardService.clipboardAccessAllowed(ClipboardService.java:752)\n\tat com.android.server.clipboard.ClipboardService.clipboardAccessAllowed(ClipboardService.java:743)\n\tat com.android.server.clipboard.ClipboardService.access$400(ClipboardService.java:157)\n\tat com.android.server.clipboard.ClipboardService$ClipboardImpl.setPrimaryClip(ClipboardService.java:359)\n'
+2025-05-18 22:49:22,525 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-18 22:49:22,529 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 1938
+2025-05-18 22:49:22,530 - uiautomator2.core - DEBUG - jsonrpc error: {'jsonrpc': '2.0', 'id': 1, 'error': {'code': -32001, 'message': 'java.lang.SecurityException', 'data': 'java.lang.SecurityException: Package android does not belong to 2000\n\tat android.os.Parcel.createExceptionOrNull(Parcel.java:2374)\n\tat android.os.Parcel.createException(Parcel.java:2358)\n\tat android.os.Parcel.readException(Parcel.java:2341)\n\tat android.os.Parcel.readException(Parcel.java:2283)\n\tat android.content.IClipboard$Stub$Proxy.setPrimaryClip(IClipboard.java:293)\n\tat android.content.ClipboardManager.setPrimaryClip(ClipboardManager.java:105)\n\tat com.wetest.uia2.stub.AutomatorServiceImpl.setClipboard(AutomatorServiceImpl.java:1652)\n\tat java.lang.reflect.Method.invoke(Native Method)\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.invoke(JsonRpcBasicServer.java:467)\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleObject(JsonRpcBasicServer.java:352)\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleJsonNodeRequest(JsonRpcBasicServer.java:283)\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleRequest(JsonRpcBasicServer.java:251)\n\tat com.wetest.uia2.stub.AutomatorHttpServer.serve(AutomatorHttpServer.java:101)\n\tat fi.iki.elonen.NanoHTTPD.serve(NanoHTTPD.java:2244)\n\tat fi.iki.elonen.NanoHTTPD$HTTPSession.execute(NanoHTTPD.java:945)\n\tat fi.iki.elonen.NanoHTTPD$ClientHandler.run(NanoHTTPD.java:192)\n\tat java.lang.Thread.run(Thread.java:923)\nCaused by: android.os.RemoteException: Remote stack trace:\n\tat android.app.AppOpsManager.checkPackage(AppOpsManager.java:7757)\n\tat com.android.server.clipboard.ClipboardService.clipboardAccessAllowed(ClipboardService.java:752)\n\tat com.android.server.clipboard.ClipboardService.clipboardAccessAllowed(ClipboardService.java:743)\n\tat com.android.server.clipboard.ClipboardService.access$400(ClipboardService.java:157)\n\tat com.android.server.clipboard.ClipboardService$ClipboardImpl.setPrimaryClip(ClipboardService.java:359)\n\n'}}
+2025-05-18 22:49:22,530 - uiautomator2 - DEBUG - shell: settings get secure default_input_method
+2025-05-18 22:49:22,633 - uiautomator2 - DEBUG - shell: am broadcast -a ADB_KEYBOARD_INPUT_TEXT --es text MTQ5LjYuMTYyLjI=
+2025-05-18 22:49:23,026 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'exist', 'params': ({'mask': 1, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'OK'},)}
+2025-05-18 22:49:23,036 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:49:23,038 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:49:23,087 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:49:23,088 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 1, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'OK'}, 20000)}
+2025-05-18 22:49:23,089 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:49:23,090 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:49:23,136 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:49:23,137 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'objInfo', 'params': ({'mask': 1, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'OK'},)}
+2025-05-18 22:49:23,148 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:49:23,149 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:49:23,423 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 474
+2025-05-18 22:49:23,425 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'click', 'params': (384.0, 554.0)}
+2025-05-18 22:49:23,435 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:49:23,437 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:49:23,604 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:49:23,905 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'exist', 'params': ({'mask': 1, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'Server Port'},)}
+2025-05-18 22:49:23,916 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:49:23,918 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:49:23,969 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:49:23,970 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 1, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'Server Port'}, 5000)}
+2025-05-18 22:49:23,970 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:49:23,972 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:49:24,017 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:49:24,018 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 1, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'Server Port'}, 20000)}
+2025-05-18 22:49:24,029 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:49:24,029 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:49:24,079 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:49:24,080 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'objInfo', 'params': ({'mask': 1, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'Server Port'},)}
+2025-05-18 22:49:24,091 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:49:24,092 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:49:24,242 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 483
+2025-05-18 22:49:24,242 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'click', 'params': (76.5, 401.0)}
+2025-05-18 22:49:24,243 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:49:24,245 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:49:24,472 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:49:24,875 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'clearInputText', 'params': {}}
+2025-05-18 22:49:24,886 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:49:24,887 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:49:24,919 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:49:25,222 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'setClipboard', 'params': (None, '80')}
+2025-05-18 22:49:25,232 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:49:25,234 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:49:25,254 - uiautomator2.core - DEBUG - MockAdbProcess: b'java.lang.SecurityException: Package android does not belong to 2000'
+2025-05-18 22:49:25,256 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-18 22:49:25,257 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat android.os.Parcel.createExceptionOrNull(Parcel.java:2374)\n\tat android.os.Parcel.createException(Parcel.java:2358)'
+2025-05-18 22:49:25,258 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n\tat android.os.Parcel.readException(Parcel.java:2341)'
+2025-05-18 22:49:25,258 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n\tat android.os.Parcel.readException(Parcel.java:2283)'
+2025-05-18 22:49:25,259 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-18 22:49:25,260 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat android.content.IClipboard$Stub$Proxy.setPrimaryClip(IClipboard.java:293)\n\tat android.content.ClipboardManager.setPrimaryClip(ClipboardManager.java:105)'
+2025-05-18 22:49:25,261 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n\tat com.wetest.uia2.stub.AutomatorServiceImpl.setClipboard(AutomatorServiceImpl.java:1652)'
+2025-05-18 22:49:25,261 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n\tat java.lang.reflect.Method.invoke(Native Method)'
+2025-05-18 22:49:25,262 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.invoke(JsonRpcBasicServer.java:467)'
+2025-05-18 22:49:25,262 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleObject(JsonRpcBasicServer.java:352)'
+2025-05-18 22:49:25,263 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-18 22:49:25,263 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleJsonNodeRequest(JsonRpcBasicServer.java:283)'
+2025-05-18 22:49:25,264 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleRequest(JsonRpcBasicServer.java:251)'
+2025-05-18 22:49:25,265 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n\tat com.wetest.uia2.stub.AutomatorHttpServer.serve(AutomatorHttpServer.java:101)'
+2025-05-18 22:49:25,265 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-18 22:49:25,266 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat fi.iki.elonen.NanoHTTPD.serve(NanoHTTPD.java:2244)\n'
+2025-05-18 22:49:25,266 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat fi.iki.elonen.NanoHTTPD$HTTPSession.execute(NanoHTTPD.java:945)'
+2025-05-18 22:49:25,267 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n\tat fi.iki.elonen.NanoHTTPD$ClientHandler.run(NanoHTTPD.java:192)\n'
+2025-05-18 22:49:25,268 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat java.lang.Thread.run(Thread.java:923)\n'
+2025-05-18 22:49:25,268 - uiautomator2.core - DEBUG - MockAdbProcess: b'Caused by: android.os.RemoteException: Remote stack trace:\n\tat android.app.AppOpsManager.checkPackage(AppOpsManager.java:7757)\n\tat com.android.server.clipboard.ClipboardService.clipboardAccessAllowed(ClipboardService.java:752)\n\tat com.android.server.clipboard.ClipboardService.clipboardAccessAllowed(ClipboardService.java:743)\n\tat com.android.server.clipboard.ClipboardService.access$400(ClipboardService.java:157)\n\tat com.android.server.clipboard.ClipboardService$ClipboardImpl.setPrimaryClip(ClipboardService.java:359)\n'
+2025-05-18 22:49:25,269 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-18 22:49:25,272 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 1938
+2025-05-18 22:49:25,273 - uiautomator2.core - DEBUG - jsonrpc error: {'jsonrpc': '2.0', 'id': 1, 'error': {'code': -32001, 'message': 'java.lang.SecurityException', 'data': 'java.lang.SecurityException: Package android does not belong to 2000\n\tat android.os.Parcel.createExceptionOrNull(Parcel.java:2374)\n\tat android.os.Parcel.createException(Parcel.java:2358)\n\tat android.os.Parcel.readException(Parcel.java:2341)\n\tat android.os.Parcel.readException(Parcel.java:2283)\n\tat android.content.IClipboard$Stub$Proxy.setPrimaryClip(IClipboard.java:293)\n\tat android.content.ClipboardManager.setPrimaryClip(ClipboardManager.java:105)\n\tat com.wetest.uia2.stub.AutomatorServiceImpl.setClipboard(AutomatorServiceImpl.java:1652)\n\tat java.lang.reflect.Method.invoke(Native Method)\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.invoke(JsonRpcBasicServer.java:467)\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleObject(JsonRpcBasicServer.java:352)\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleJsonNodeRequest(JsonRpcBasicServer.java:283)\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleRequest(JsonRpcBasicServer.java:251)\n\tat com.wetest.uia2.stub.AutomatorHttpServer.serve(AutomatorHttpServer.java:101)\n\tat fi.iki.elonen.NanoHTTPD.serve(NanoHTTPD.java:2244)\n\tat fi.iki.elonen.NanoHTTPD$HTTPSession.execute(NanoHTTPD.java:945)\n\tat fi.iki.elonen.NanoHTTPD$ClientHandler.run(NanoHTTPD.java:192)\n\tat java.lang.Thread.run(Thread.java:923)\nCaused by: android.os.RemoteException: Remote stack trace:\n\tat android.app.AppOpsManager.checkPackage(AppOpsManager.java:7757)\n\tat com.android.server.clipboard.ClipboardService.clipboardAccessAllowed(ClipboardService.java:752)\n\tat com.android.server.clipboard.ClipboardService.clipboardAccessAllowed(ClipboardService.java:743)\n\tat com.android.server.clipboard.ClipboardService.access$400(ClipboardService.java:157)\n\tat com.android.server.clipboard.ClipboardService$ClipboardImpl.setPrimaryClip(ClipboardService.java:359)\n\n'}}
+2025-05-18 22:49:25,273 - uiautomator2 - DEBUG - shell: settings get secure default_input_method
+2025-05-18 22:49:25,371 - uiautomator2 - DEBUG - shell: am broadcast -a ADB_KEYBOARD_INPUT_TEXT --es text ODA=
+2025-05-18 22:49:25,769 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'exist', 'params': ({'mask': 1, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'OK'},)}
+2025-05-18 22:49:25,770 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:49:25,771 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:49:25,819 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:49:25,820 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 1, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'OK'}, 20000)}
+2025-05-18 22:49:25,831 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:49:25,832 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:49:25,878 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:49:25,879 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'objInfo', 'params': ({'mask': 1, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'OK'},)}
+2025-05-18 22:49:25,880 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:49:25,881 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:49:26,061 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 474
+2025-05-18 22:49:26,064 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'click', 'params': (384.0, 554.0)}
+2025-05-18 22:49:26,075 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:49:26,076 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:49:26,251 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:49:26,553 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'exist', 'params': ({'mask': 1, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'Username'},)}
+2025-05-18 22:49:26,563 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:49:26,565 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:49:26,658 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-18 22:49:26,660 - uiautomator2 - DEBUG - swipe from (0.5, 0.8) to (0.5, 0.2), steps: 55
+2025-05-18 22:49:26,834 - adbutils.shell - DEBUG - get window size from 'wm size': WindowSize(width=480, height=960) False
+2025-05-18 22:49:26,834 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'swipe', 'params': (240, 768, 240, 192, 55)}
+2025-05-18 22:49:26,845 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:49:26,846 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:49:27,901 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:49:28,402 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'exist', 'params': ({'mask': 1, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'Username'},)}
+2025-05-18 22:49:28,403 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:49:28,404 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:49:28,465 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:49:28,467 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 1, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'Username'}, 5000)}
+2025-05-18 22:49:28,468 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:49:28,469 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:49:28,518 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:49:28,519 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 1, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'Username'}, 20000)}
+2025-05-18 22:49:28,530 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:49:28,531 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:49:28,583 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:49:28,584 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'objInfo', 'params': ({'mask': 1, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'Username'},)}
+2025-05-18 22:49:28,584 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:49:28,586 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:49:28,899 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 480
+2025-05-18 22:49:28,901 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'click', 'params': (71.5, 450.0)}
+2025-05-18 22:49:28,912 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:49:28,913 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:49:29,143 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:49:29,544 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'clearInputText', 'params': {}}
+2025-05-18 22:49:29,555 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:49:29,556 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:49:29,587 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:49:29,888 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'setClipboard', 'params': (None, 'fpelmuks-1')}
+2025-05-18 22:49:29,899 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:49:29,900 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:49:29,915 - uiautomator2.core - DEBUG - MockAdbProcess: b'java.lang.SecurityException: Package android does not belong to 2000'
+2025-05-18 22:49:29,917 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-18 22:49:29,918 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat android.os.Parcel.createExceptionOrNull(Parcel.java:2374)\n\tat android.os.Parcel.createException(Parcel.java:2358)\n'
+2025-05-18 22:49:29,919 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat android.os.Parcel.readException(Parcel.java:2341)\n\tat android.os.Parcel.readException(Parcel.java:2283)'
+2025-05-18 22:49:29,920 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-18 22:49:29,921 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat android.content.IClipboard$Stub$Proxy.setPrimaryClip(IClipboard.java:293)\n\tat android.content.ClipboardManager.setPrimaryClip(ClipboardManager.java:105)'
+2025-05-18 22:49:29,922 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n\tat com.wetest.uia2.stub.AutomatorServiceImpl.setClipboard(AutomatorServiceImpl.java:1652)'
+2025-05-18 22:49:29,922 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n\tat java.lang.reflect.Method.invoke(Native Method)'
+2025-05-18 22:49:29,923 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-18 22:49:29,924 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.invoke(JsonRpcBasicServer.java:467)\n'
+2025-05-18 22:49:29,925 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleObject(JsonRpcBasicServer.java:352)\n'
+2025-05-18 22:49:29,926 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleJsonNodeRequest(JsonRpcBasicServer.java:283)\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleRequest(JsonRpcBasicServer.java:251)\n'
+2025-05-18 22:49:29,926 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat com.wetest.uia2.stub.AutomatorHttpServer.serve(AutomatorHttpServer.java:101)\n'
+2025-05-18 22:49:29,927 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat fi.iki.elonen.NanoHTTPD.serve(NanoHTTPD.java:2244)\n'
+2025-05-18 22:49:29,928 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat fi.iki.elonen.NanoHTTPD$HTTPSession.execute(NanoHTTPD.java:945)\n'
+2025-05-18 22:49:29,928 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat fi.iki.elonen.NanoHTTPD$ClientHandler.run(NanoHTTPD.java:192)\n'
+2025-05-18 22:49:29,929 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat java.lang.Thread.run(Thread.java:923)\n'
+2025-05-18 22:49:29,930 - uiautomator2.core - DEBUG - MockAdbProcess: b'Caused by: android.os.RemoteException: Remote stack trace:\n\tat android.app.AppOpsManager.checkPackage(AppOpsManager.java:7757)\n\tat com.android.server.clipboard.ClipboardService.clipboardAccessAllowed(ClipboardService.java:752)\n\tat com.android.server.clipboard.ClipboardService.clipboardAccessAllowed(ClipboardService.java:743)\n\tat com.android.server.clipboard.ClipboardService.access$400(ClipboardService.java:157)\n\tat com.android.server.clipboard.ClipboardService$ClipboardImpl.setPrimaryClip(ClipboardService.java:359)\n'
+2025-05-18 22:49:29,931 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-18 22:49:29,933 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 1938
+2025-05-18 22:49:29,934 - uiautomator2.core - DEBUG - jsonrpc error: {'jsonrpc': '2.0', 'id': 1, 'error': {'code': -32001, 'message': 'java.lang.SecurityException', 'data': 'java.lang.SecurityException: Package android does not belong to 2000\n\tat android.os.Parcel.createExceptionOrNull(Parcel.java:2374)\n\tat android.os.Parcel.createException(Parcel.java:2358)\n\tat android.os.Parcel.readException(Parcel.java:2341)\n\tat android.os.Parcel.readException(Parcel.java:2283)\n\tat android.content.IClipboard$Stub$Proxy.setPrimaryClip(IClipboard.java:293)\n\tat android.content.ClipboardManager.setPrimaryClip(ClipboardManager.java:105)\n\tat com.wetest.uia2.stub.AutomatorServiceImpl.setClipboard(AutomatorServiceImpl.java:1652)\n\tat java.lang.reflect.Method.invoke(Native Method)\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.invoke(JsonRpcBasicServer.java:467)\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleObject(JsonRpcBasicServer.java:352)\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleJsonNodeRequest(JsonRpcBasicServer.java:283)\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleRequest(JsonRpcBasicServer.java:251)\n\tat com.wetest.uia2.stub.AutomatorHttpServer.serve(AutomatorHttpServer.java:101)\n\tat fi.iki.elonen.NanoHTTPD.serve(NanoHTTPD.java:2244)\n\tat fi.iki.elonen.NanoHTTPD$HTTPSession.execute(NanoHTTPD.java:945)\n\tat fi.iki.elonen.NanoHTTPD$ClientHandler.run(NanoHTTPD.java:192)\n\tat java.lang.Thread.run(Thread.java:923)\nCaused by: android.os.RemoteException: Remote stack trace:\n\tat android.app.AppOpsManager.checkPackage(AppOpsManager.java:7757)\n\tat com.android.server.clipboard.ClipboardService.clipboardAccessAllowed(ClipboardService.java:752)\n\tat com.android.server.clipboard.ClipboardService.clipboardAccessAllowed(ClipboardService.java:743)\n\tat com.android.server.clipboard.ClipboardService.access$400(ClipboardService.java:157)\n\tat com.android.server.clipboard.ClipboardService$ClipboardImpl.setPrimaryClip(ClipboardService.java:359)\n\n'}}
+2025-05-18 22:49:29,934 - uiautomator2 - DEBUG - shell: settings get secure default_input_method
+2025-05-18 22:49:30,013 - uiautomator2 - DEBUG - shell: am broadcast -a ADB_KEYBOARD_INPUT_TEXT --es text ZnBlbG11a3MtMQ==
+2025-05-18 22:49:30,406 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'exist', 'params': ({'mask': 1, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'OK'},)}
+2025-05-18 22:49:30,417 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:49:30,418 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:49:30,463 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:49:30,464 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 1, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'OK'}, 20000)}
+2025-05-18 22:49:30,465 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:49:30,466 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:49:30,523 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:49:30,524 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'objInfo', 'params': ({'mask': 1, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'OK'},)}
+2025-05-18 22:49:30,525 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:49:30,526 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:49:30,647 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 474
+2025-05-18 22:49:30,650 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'click', 'params': (384.0, 554.0)}
+2025-05-18 22:49:30,650 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:49:30,651 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:49:30,824 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:49:31,126 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'exist', 'params': ({'mask': 1, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'Password'},)}
+2025-05-18 22:49:31,137 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:49:31,138 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:49:31,186 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:49:31,187 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 1, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'Password'}, 5000)}
+2025-05-18 22:49:31,188 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:49:31,189 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:49:31,244 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:49:31,245 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 1, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'Password'}, 20000)}
+2025-05-18 22:49:31,255 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:49:31,257 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:49:31,312 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:49:31,313 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'objInfo', 'params': ({'mask': 1, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'Password'},)}
+2025-05-18 22:49:31,314 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:49:31,315 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:49:31,447 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 480
+2025-05-18 22:49:31,448 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'click', 'params': (70.5, 552.0)}
+2025-05-18 22:49:31,458 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:49:31,460 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:49:31,693 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:49:32,094 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'clearInputText', 'params': {}}
+2025-05-18 22:49:32,105 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:49:32,106 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:49:32,135 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:49:32,436 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'setClipboard', 'params': (None, '0lrxoh26it92')}
+2025-05-18 22:49:32,447 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:49:32,449 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:49:32,470 - uiautomator2.core - DEBUG - MockAdbProcess: b'java.lang.SecurityException: Package android does not belong to 2000'
+2025-05-18 22:49:32,470 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-18 22:49:32,471 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat android.os.Parcel.createExceptionOrNull(Parcel.java:2374)\n'
+2025-05-18 22:49:32,472 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat android.os.Parcel.createException(Parcel.java:2358)\n'
+2025-05-18 22:49:32,473 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat android.os.Parcel.readException(Parcel.java:2341)\n'
+2025-05-18 22:49:32,474 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat android.os.Parcel.readException(Parcel.java:2283)\n'
+2025-05-18 22:49:32,475 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat android.content.IClipboard$Stub$Proxy.setPrimaryClip(IClipboard.java:293)\n'
+2025-05-18 22:49:32,475 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat android.content.ClipboardManager.setPrimaryClip(ClipboardManager.java:105)\n'
+2025-05-18 22:49:32,476 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat com.wetest.uia2.stub.AutomatorServiceImpl.setClipboard(AutomatorServiceImpl.java:1652)\n'
+2025-05-18 22:49:32,477 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat java.lang.reflect.Method.invoke(Native Method)\n'
+2025-05-18 22:49:32,477 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.invoke(JsonRpcBasicServer.java:467)\n'
+2025-05-18 22:49:32,478 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleObject(JsonRpcBasicServer.java:352)'
+2025-05-18 22:49:32,479 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleJsonNodeRequest(JsonRpcBasicServer.java:283)'
+2025-05-18 22:49:32,479 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleRequest(JsonRpcBasicServer.java:251)'
+2025-05-18 22:49:32,480 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n\tat com.wetest.uia2.stub.AutomatorHttpServer.serve(AutomatorHttpServer.java:101)'
+2025-05-18 22:49:32,481 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n\tat fi.iki.elonen.NanoHTTPD.serve(NanoHTTPD.java:2244)\n'
+2025-05-18 22:49:32,483 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat fi.iki.elonen.NanoHTTPD$HTTPSession.execute(NanoHTTPD.java:945)\n\tat fi.iki.elonen.NanoHTTPD$ClientHandler.run(NanoHTTPD.java:192)\n'
+2025-05-18 22:49:32,483 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat java.lang.Thread.run(Thread.java:923)'
+2025-05-18 22:49:32,484 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-18 22:49:32,487 - uiautomator2.core - DEBUG - MockAdbProcess: b'Caused by: android.os.RemoteException: Remote stack trace:\n\tat android.app.AppOpsManager.checkPackage(AppOpsManager.java:7757)\n\tat com.android.server.clipboard.ClipboardService.clipboardAccessAllowed(ClipboardService.java:752)\n\tat com.android.server.clipboard.ClipboardService.clipboardAccessAllowed(ClipboardService.java:743)\n\tat com.android.server.clipboard.ClipboardService.access$400(ClipboardService.java:157)\n\tat com.android.server.clipboard.ClipboardService$ClipboardImpl.setPrimaryClip(ClipboardService.java:359)\n\n'
+2025-05-18 22:49:32,491 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 1938
+2025-05-18 22:49:32,492 - uiautomator2.core - DEBUG - jsonrpc error: {'jsonrpc': '2.0', 'id': 1, 'error': {'code': -32001, 'message': 'java.lang.SecurityException', 'data': 'java.lang.SecurityException: Package android does not belong to 2000\n\tat android.os.Parcel.createExceptionOrNull(Parcel.java:2374)\n\tat android.os.Parcel.createException(Parcel.java:2358)\n\tat android.os.Parcel.readException(Parcel.java:2341)\n\tat android.os.Parcel.readException(Parcel.java:2283)\n\tat android.content.IClipboard$Stub$Proxy.setPrimaryClip(IClipboard.java:293)\n\tat android.content.ClipboardManager.setPrimaryClip(ClipboardManager.java:105)\n\tat com.wetest.uia2.stub.AutomatorServiceImpl.setClipboard(AutomatorServiceImpl.java:1652)\n\tat java.lang.reflect.Method.invoke(Native Method)\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.invoke(JsonRpcBasicServer.java:467)\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleObject(JsonRpcBasicServer.java:352)\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleJsonNodeRequest(JsonRpcBasicServer.java:283)\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleRequest(JsonRpcBasicServer.java:251)\n\tat com.wetest.uia2.stub.AutomatorHttpServer.serve(AutomatorHttpServer.java:101)\n\tat fi.iki.elonen.NanoHTTPD.serve(NanoHTTPD.java:2244)\n\tat fi.iki.elonen.NanoHTTPD$HTTPSession.execute(NanoHTTPD.java:945)\n\tat fi.iki.elonen.NanoHTTPD$ClientHandler.run(NanoHTTPD.java:192)\n\tat java.lang.Thread.run(Thread.java:923)\nCaused by: android.os.RemoteException: Remote stack trace:\n\tat android.app.AppOpsManager.checkPackage(AppOpsManager.java:7757)\n\tat com.android.server.clipboard.ClipboardService.clipboardAccessAllowed(ClipboardService.java:752)\n\tat com.android.server.clipboard.ClipboardService.clipboardAccessAllowed(ClipboardService.java:743)\n\tat com.android.server.clipboard.ClipboardService.access$400(ClipboardService.java:157)\n\tat com.android.server.clipboard.ClipboardService$ClipboardImpl.setPrimaryClip(ClipboardService.java:359)\n\n'}}
+2025-05-18 22:49:32,492 - uiautomator2 - DEBUG - shell: settings get secure default_input_method
+2025-05-18 22:49:32,580 - uiautomator2 - DEBUG - shell: am broadcast -a ADB_KEYBOARD_INPUT_TEXT --es text MGxyeG9oMjZpdDky
+2025-05-18 22:49:32,981 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'exist', 'params': ({'mask': 1, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'OK'},)}
+2025-05-18 22:49:32,991 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:49:32,993 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:49:33,043 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:49:33,043 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 1, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'OK'}, 20000)}
+2025-05-18 22:49:33,054 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:49:33,055 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:49:33,102 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:49:33,104 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'objInfo', 'params': ({'mask': 1, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'OK'},)}
+2025-05-18 22:49:33,114 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:49:33,116 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:49:33,350 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 474
+2025-05-18 22:49:33,352 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'click', 'params': (384.0, 554.0)}
+2025-05-18 22:49:33,363 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:49:33,365 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:49:33,539 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:49:33,840 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'exist', 'params': ({'mask': 2097152, 'childOrSibling': [], 'childOrSiblingSelector': [], 'resourceId': 'net.typeblog.socks:id/switch_action_button'},)}
+2025-05-18 22:49:33,851 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:49:33,852 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:49:33,910 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:49:33,911 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 2097152, 'childOrSibling': [], 'childOrSiblingSelector': [], 'resourceId': 'net.typeblog.socks:id/switch_action_button'}, 20000)}
+2025-05-18 22:49:33,922 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:49:33,924 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:49:33,975 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:49:33,976 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'objInfo', 'params': ({'mask': 2097152, 'childOrSibling': [], 'childOrSiblingSelector': [], 'resourceId': 'net.typeblog.socks:id/switch_action_button'},)}
+2025-05-18 22:49:33,977 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:49:33,978 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:49:34,098 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 492
+2025-05-18 22:49:34,099 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'click', 'params': (392.0, 71.0)}
+2025-05-18 22:49:34,100 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:49:34,101 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:49:34,278 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 22:49:36,283 - uiautomator2 - DEBUG - shell: monkey -p com.android.chrome -c android.intent.category.LAUNCHER 1
+2025-05-18 22:49:42,345 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'setClipboard', 'params': (None, 'https://fast.com/es/')}
+2025-05-18 22:49:42,357 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:49:42,358 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:49:42,382 - uiautomator2.core - DEBUG - MockAdbProcess: b'java.lang.SecurityException: Package android does not belong to 2000'
+2025-05-18 22:49:42,396 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-18 22:49:42,398 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat android.os.Parcel.createExceptionOrNull(Parcel.java:2374)'
+2025-05-18 22:49:42,399 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-18 22:49:42,400 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat android.os.Parcel.createException(Parcel.java:2358)\n\tat android.os.Parcel.readException(Parcel.java:2341)'
+2025-05-18 22:49:42,401 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-18 22:49:42,413 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat android.os.Parcel.readException(Parcel.java:2283)'
+2025-05-18 22:49:42,415 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n\tat android.content.IClipboard$Stub$Proxy.setPrimaryClip(IClipboard.java:293)\n\tat android.content.ClipboardManager.setPrimaryClip(ClipboardManager.java:105)\n\tat com.wetest.uia2.stub.AutomatorServiceImpl.setClipboard(AutomatorServiceImpl.java:1652)'
+2025-05-18 22:49:42,419 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n\tat java.lang.reflect.Method.invoke(Native Method)\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.invoke(JsonRpcBasicServer.java:467)\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleObject(JsonRpcBasicServer.java:352)\n'
+2025-05-18 22:49:42,426 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleJsonNodeRequest(JsonRpcBasicServer.java:283)\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleRequest(JsonRpcBasicServer.java:251)\n'
+2025-05-18 22:49:42,430 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat com.wetest.uia2.stub.AutomatorHttpServer.serve(AutomatorHttpServer.java:101)\n'
+2025-05-18 22:49:42,430 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat fi.iki.elonen.NanoHTTPD.serve(NanoHTTPD.java:2244)\n\tat fi.iki.elonen.NanoHTTPD$HTTPSession.execute(NanoHTTPD.java:945)'
+2025-05-18 22:49:42,432 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n\tat fi.iki.elonen.NanoHTTPD$ClientHandler.run(NanoHTTPD.java:192)\n'
+2025-05-18 22:49:42,435 - uiautomator2.core - DEBUG - MockAdbProcess: b'\tat java.lang.Thread.run(Thread.java:923)\nCaused by: android.os.RemoteException: Remote stack trace:\n\tat android.app.AppOpsManager.checkPackage(AppOpsManager.java:7757)\n\tat com.android.server.clipboard.ClipboardService.clipboardAccessAllowed(ClipboardService.java:752)\n\tat com.android.server.clipboard.ClipboardService.clipboardAccessAllowed(ClipboardService.java:743)\n\tat com.android.server.clipboard.ClipboardService.access$400(ClipboardService.java:157)\n\tat com.android.server.clipboard.ClipboardService$ClipboardImpl.setPrimaryClip(ClipboardService.java:359)\n\n'
+2025-05-18 22:49:42,449 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 1938
+2025-05-18 22:49:42,451 - uiautomator2.core - DEBUG - jsonrpc error: {'jsonrpc': '2.0', 'id': 1, 'error': {'code': -32001, 'message': 'java.lang.SecurityException', 'data': 'java.lang.SecurityException: Package android does not belong to 2000\n\tat android.os.Parcel.createExceptionOrNull(Parcel.java:2374)\n\tat android.os.Parcel.createException(Parcel.java:2358)\n\tat android.os.Parcel.readException(Parcel.java:2341)\n\tat android.os.Parcel.readException(Parcel.java:2283)\n\tat android.content.IClipboard$Stub$Proxy.setPrimaryClip(IClipboard.java:293)\n\tat android.content.ClipboardManager.setPrimaryClip(ClipboardManager.java:105)\n\tat com.wetest.uia2.stub.AutomatorServiceImpl.setClipboard(AutomatorServiceImpl.java:1652)\n\tat java.lang.reflect.Method.invoke(Native Method)\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.invoke(JsonRpcBasicServer.java:467)\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleObject(JsonRpcBasicServer.java:352)\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleJsonNodeRequest(JsonRpcBasicServer.java:283)\n\tat com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleRequest(JsonRpcBasicServer.java:251)\n\tat com.wetest.uia2.stub.AutomatorHttpServer.serve(AutomatorHttpServer.java:101)\n\tat fi.iki.elonen.NanoHTTPD.serve(NanoHTTPD.java:2244)\n\tat fi.iki.elonen.NanoHTTPD$HTTPSession.execute(NanoHTTPD.java:945)\n\tat fi.iki.elonen.NanoHTTPD$ClientHandler.run(NanoHTTPD.java:192)\n\tat java.lang.Thread.run(Thread.java:923)\nCaused by: android.os.RemoteException: Remote stack trace:\n\tat android.app.AppOpsManager.checkPackage(AppOpsManager.java:7757)\n\tat com.android.server.clipboard.ClipboardService.clipboardAccessAllowed(ClipboardService.java:752)\n\tat com.android.server.clipboard.ClipboardService.clipboardAccessAllowed(ClipboardService.java:743)\n\tat com.android.server.clipboard.ClipboardService.access$400(ClipboardService.java:157)\n\tat com.android.server.clipboard.ClipboardService$ClipboardImpl.setPrimaryClip(ClipboardService.java:359)\n\n'}}
+2025-05-18 22:49:42,451 - uiautomator2 - DEBUG - shell: settings get secure default_input_method
+2025-05-18 22:49:42,800 - uiautomator2 - DEBUG - shell: am broadcast -a ADB_KEYBOARD_INPUT_TEXT --es text aHR0cHM6Ly9mYXN0LmNvbS9lcy8=
+2025-05-18 22:49:43,403 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'pressKey', 'params': ('enter',)}
+2025-05-18 22:49:43,413 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 22:49:43,414 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 22:49:43,635 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39

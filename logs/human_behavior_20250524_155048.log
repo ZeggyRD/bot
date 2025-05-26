@@ -1,0 +1,745 @@
+2025-05-24 15:50:48,564 - HumanBehavior - INFO - Perfiles de comportamiento cargados desde C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\config\behavior_profiles.json
+2025-05-24 15:50:48,622 - HumanBehavior - INFO - HumanBehaviorSimulator inicializado con 4 perfiles
+2025-05-24 15:50:54,125 - AccountManager - INFO - Cargadas 10 cuentas desde el archivo
+2025-05-24 15:50:54,162 - AccountManager - INFO - Cargados 250 proxies desde el archivo
+2025-05-24 15:50:54,332 - AccountManager - INFO - AccountManager inicializado con 10 cuentas y 500 proxies
+2025-05-24 15:50:54,340 - LoginManager - INFO - LoginManager inicializado
+2025-05-24 15:51:11,687 - AndroidDevice - INFO - Dispositivos detectados: ['1090339022029047', '2040306023079082', '2040306023079114', '2040306023079705', '2040306023080222', '2040306023080639', '2040306023081159', '2040306023081216', '2040306023081477', '2040306023082906', '2040306023082911', '2040306023082934', '2040306023083277', '2040306023095800', '2040306023095804', '2040306023096006', '2040306023097355', '2040306023098451', '24d13971', '4LJVPB6DUSIRMVUS', 'A00000V5902A1318870', 'DY49GQ7PFQCEKF6H', 'KF9HFUCE6XE6WSU8', 'O7SWFIH6AEGEY96H', 'P7NBHUMRBYRGY9KJ', 'PV6PCYR4EMLF8PRC']
+2025-05-24 15:51:25,293 - OTWMusicSystem - INFO - Configuración guardada en: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\config\config.json
+2025-05-24 15:51:25,390 - OTWMusicSystem - INFO - Archivo playlists copiado a C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\data\playlists.txt
+2025-05-24 15:51:28,172 - OTWMusicSystem - INFO - Configuración guardada en: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\config\config.json
+2025-05-24 15:51:28,248 - OTWMusicSystem - INFO - Archivo proxies copiado a C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\data\proxies.txt
+2025-05-24 15:51:40,874 - OTWMusicSystem - INFO - --- Iniciando Playlist Player (Enhanced) ---
+2025-05-24 15:51:41,033 - OTWMusicSystem - INFO - Backup de 'C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\data\playlists.txt' a 'C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\data\playlists.txt.bak' exitoso.
+2025-05-24 15:51:41,143 - OTWMusicSystem - INFO - Cargados 185 links desde 'C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\data\playlists.txt'. Filtrados 47 links fallidos.
+2025-05-24 15:51:41,240 - OTWMusicSystem - INFO - Clasificados: 0 playlists, 1 artistas, 137 tracks
+2025-05-24 15:51:48,555 - OTWMusicSystem - INFO - Dispositivos ADB conectados y listos: ['1090339022029047', '2040306023079082', '2040306023079114', '2040306023079705', '2040306023080222', '2040306023080639', '2040306023081159', '2040306023081216', '2040306023081477', '2040306023082906', '2040306023082911', '2040306023082934', '2040306023083277', '2040306023095800', '2040306023095804', '2040306023096006', '2040306023097355', '2040306023098451', '24d13971', '4LJVPB6DUSIRMVUS', 'A00000V5902A1318870', 'DY49GQ7PFQCEKF6H', 'KF9HFUCE6XE6WSU8', 'O7SWFIH6AEGEY96H', 'P7NBHUMRBYRGY9KJ', 'PV6PCYR4EMLF8PRC']
+2025-05-24 15:52:09,383 - OTWMusicSystem - INFO - Clones Spotify detectados en 1090339022029047: ['com.spotify.musid', 'com.spotify.musie', 'com.spotify.musif', 'com.spotify.musig', 'com.spotify.musih', 'com.spotify.musii', 'com.spotify.musij', 'com.spotify.musik', 'com.spotify.musil', 'com.spotify.musim']
+2025-05-24 15:52:39,418 - OTWMusicSystem - INFO - Clones Spotify detectados en 2040306023079082: ['com.spotify.musid', 'com.spotify.musie', 'com.spotify.musif', 'com.spotify.musig', 'com.spotify.musih', 'com.spotify.musii', 'com.spotify.musij', 'com.spotify.musik', 'com.spotify.musil', 'com.spotify.musim']
+2025-05-24 15:53:00,997 - OTWMusicSystem - INFO - Clones Spotify detectados en 2040306023079114: ['com.spotify.musid', 'com.spotify.musie', 'com.spotify.musif', 'com.spotify.musig', 'com.spotify.musih', 'com.spotify.musii', 'com.spotify.musij', 'com.spotify.musik', 'com.spotify.musil', 'com.spotify.musim']
+2025-05-24 15:53:10,784 - OTWMusicSystem - INFO - Clones Spotify detectados en 2040306023079705: ['com.spotify.musid', 'com.spotify.musie', 'com.spotify.musif', 'com.spotify.musig', 'com.spotify.musih', 'com.spotify.musii', 'com.spotify.musij', 'com.spotify.musik', 'com.spotify.musil', 'com.spotify.musim']
+2025-05-24 15:53:30,105 - OTWMusicSystem - INFO - Clones Spotify detectados en 2040306023080222: ['com.spotify.musid', 'com.spotify.musie', 'com.spotify.musif', 'com.spotify.musig', 'com.spotify.musih', 'com.spotify.musii', 'com.spotify.musij', 'com.spotify.musik', 'com.spotify.musil', 'com.spotify.musim']
+2025-05-24 15:53:49,092 - OTWMusicSystem - INFO - Clones Spotify detectados en 2040306023080639: ['com.spotify.musid', 'com.spotify.musie', 'com.spotify.musif', 'com.spotify.musig', 'com.spotify.musih', 'com.spotify.musii', 'com.spotify.musij', 'com.spotify.musik', 'com.spotify.musil', 'com.spotify.musim']
+2025-05-24 15:54:03,609 - OTWMusicSystem - INFO - Clones Spotify detectados en 2040306023081159: ['com.spotify.musid', 'com.spotify.musie', 'com.spotify.musif', 'com.spotify.musig', 'com.spotify.musih', 'com.spotify.musii', 'com.spotify.musij', 'com.spotify.musik', 'com.spotify.musil', 'com.spotify.musim']
+2025-05-24 15:54:24,081 - OTWMusicSystem - INFO - Clones Spotify detectados en 2040306023081216: ['com.spotify.musid', 'com.spotify.musie', 'com.spotify.musif', 'com.spotify.musig', 'com.spotify.musih', 'com.spotify.musii', 'com.spotify.musij', 'com.spotify.musik', 'com.spotify.musil', 'com.spotify.musim']
+2025-05-24 15:54:38,248 - OTWMusicSystem - INFO - Clones Spotify detectados en 2040306023081477: ['com.spotify.musid', 'com.spotify.musie', 'com.spotify.musif', 'com.spotify.musig', 'com.spotify.musih', 'com.spotify.musii', 'com.spotify.musij', 'com.spotify.musik', 'com.spotify.musil', 'com.spotify.musim']
+2025-05-24 15:54:52,020 - OTWMusicSystem - INFO - Clones Spotify detectados en 2040306023082906: ['com.spotify.musid', 'com.spotify.musie', 'com.spotify.musif', 'com.spotify.musim']
+2025-05-24 15:54:59,968 - OTWMusicSystem - INFO - Clones Spotify detectados en 2040306023082911: ['com.spotify.musid', 'com.spotify.musie', 'com.spotify.musif', 'com.spotify.musig', 'com.spotify.musih', 'com.spotify.musii', 'com.spotify.musij', 'com.spotify.musik', 'com.spotify.musil', 'com.spotify.musim']
+2025-05-24 15:55:09,222 - OTWMusicSystem - INFO - Clones Spotify detectados en 2040306023082934: ['com.spotify.musid', 'com.spotify.musie', 'com.spotify.musif', 'com.spotify.musig', 'com.spotify.musih', 'com.spotify.musii', 'com.spotify.musij', 'com.spotify.musik', 'com.spotify.musil', 'com.spotify.musim']
+2025-05-24 15:55:13,427 - OTWMusicSystem - INFO - Clones Spotify detectados en 2040306023083277: ['com.spotify.musid', 'com.spotify.musie', 'com.spotify.musif', 'com.spotify.musig', 'com.spotify.musih', 'com.spotify.musii', 'com.spotify.musij', 'com.spotify.musik', 'com.spotify.musil', 'com.spotify.musim']
+2025-05-24 15:55:19,574 - OTWMusicSystem - INFO - Clones Spotify detectados en 2040306023095800: ['com.spotify.musid', 'com.spotify.musie', 'com.spotify.musif', 'com.spotify.musig', 'com.spotify.musih', 'com.spotify.musii', 'com.spotify.musij', 'com.spotify.musik', 'com.spotify.musil', 'com.spotify.musim']
+2025-05-24 15:55:29,809 - OTWMusicSystem - INFO - Clones Spotify detectados en 2040306023095804: ['com.spotify.musid', 'com.spotify.musie', 'com.spotify.musif', 'com.spotify.musig', 'com.spotify.musih', 'com.spotify.musii', 'com.spotify.musij', 'com.spotify.musik', 'com.spotify.musil', 'com.spotify.musim']
+2025-05-24 15:55:36,544 - OTWMusicSystem - INFO - Clones Spotify detectados en 2040306023096006: ['com.spotify.musid', 'com.spotify.musie', 'com.spotify.musif', 'com.spotify.musig', 'com.spotify.musih', 'com.spotify.musii', 'com.spotify.musij', 'com.spotify.musik', 'com.spotify.musil', 'com.spotify.musim']
+2025-05-24 15:55:45,073 - OTWMusicSystem - INFO - Clones Spotify detectados en 2040306023097355: ['com.spotify.musid', 'com.spotify.musie', 'com.spotify.musif', 'com.spotify.musig', 'com.spotify.musih', 'com.spotify.musii', 'com.spotify.musij', 'com.spotify.musik', 'com.spotify.musil', 'com.spotify.musim']
+2025-05-24 15:55:57,187 - OTWMusicSystem - INFO - Clones Spotify detectados en 2040306023098451: ['com.spotify.musid', 'com.spotify.musie', 'com.spotify.musif', 'com.spotify.musig', 'com.spotify.musih', 'com.spotify.musii', 'com.spotify.musij', 'com.spotify.musik', 'com.spotify.musil', 'com.spotify.musim']
+2025-05-24 15:56:07,870 - OTWMusicSystem - INFO - Clones Spotify detectados en 24d13971: []
+2025-05-24 15:56:07,871 - OTWMusicSystem - WARNING - No Spotify packages found on 24d13971
+2025-05-24 15:56:23,588 - OTWMusicSystem - INFO - Clones Spotify detectados en 4LJVPB6DUSIRMVUS: ['com.spotify.musid', 'com.spotify.musie', 'com.spotify.musif', 'com.spotify.musig', 'com.spotify.musih', 'com.spotify.musii', 'com.spotify.musij', 'com.spotify.musik', 'com.spotify.musil', 'com.spotify.musim']
+2025-05-24 15:56:40,520 - OTWMusicSystem - INFO - Clones Spotify detectados en A00000V5902A1318870: ['com.spotify.musid', 'com.spotify.musie', 'com.spotify.musif', 'com.spotify.musig', 'com.spotify.musih', 'com.spotify.musii', 'com.spotify.musij', 'com.spotify.musik', 'com.spotify.musil', 'com.spotify.musim']
+2025-05-24 15:56:52,241 - OTWMusicSystem - INFO - Clones Spotify detectados en DY49GQ7PFQCEKF6H: ['com.spotify.musid', 'com.spotify.musie', 'com.spotify.musif', 'com.spotify.musig', 'com.spotify.musih', 'com.spotify.musii', 'com.spotify.musij', 'com.spotify.musik', 'com.spotify.musil', 'com.spotify.musim']
+2025-05-24 15:57:05,366 - OTWMusicSystem - INFO - Clones Spotify detectados en KF9HFUCE6XE6WSU8: ['com.spotify.musid', 'com.spotify.musie', 'com.spotify.musif', 'com.spotify.musig', 'com.spotify.musih', 'com.spotify.musii', 'com.spotify.musij', 'com.spotify.musik', 'com.spotify.musil', 'com.spotify.musim']
+2025-05-24 15:57:15,921 - OTWMusicSystem - INFO - Clones Spotify detectados en O7SWFIH6AEGEY96H: ['com.spotify.musid', 'com.spotify.musie', 'com.spotify.musif', 'com.spotify.musig', 'com.spotify.musih', 'com.spotify.musii', 'com.spotify.musij', 'com.spotify.musik', 'com.spotify.musil', 'com.spotify.musim']
+2025-05-24 15:57:30,692 - OTWMusicSystem - INFO - Clones Spotify detectados en P7NBHUMRBYRGY9KJ: ['com.spotify.musid', 'com.spotify.musie', 'com.spotify.musif', 'com.spotify.musig', 'com.spotify.musih', 'com.spotify.musii', 'com.spotify.musij', 'com.spotify.musik', 'com.spotify.musil', 'com.spotify.musim']
+2025-05-24 15:57:38,979 - OTWMusicSystem - INFO - Clones Spotify detectados en PV6PCYR4EMLF8PRC: ['com.spotify.musid', 'com.spotify.musie', 'com.spotify.musif', 'com.spotify.musig', 'com.spotify.musih', 'com.spotify.musii', 'com.spotify.musij', 'com.spotify.musik', 'com.spotify.musil', 'com.spotify.musim']
+2025-05-24 15:57:54,290 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 15:57:54,297 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 15:58:02,245 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 15:58:02,249 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 15:58:12,863 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 15:58:12,867 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 15:58:20,818 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 15:58:20,938 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 15:58:31,676 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 15:58:31,684 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 15:59:40,252 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 15:59:40,256 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 15:59:52,449 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 15:59:52,452 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:00:00,939 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:00:00,942 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:00:07,324 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:00:07,327 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:00:15,056 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:00:15,059 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:01:06,595 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:01:06,598 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:01:34,952 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:01:34,955 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:01:40,640 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:01:40,643 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:01:56,941 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:01:56,948 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:02:05,455 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:02:05,459 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:02:32,623 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:02:32,627 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:03:21,121 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:03:21,234 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:03:26,363 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:03:26,509 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:03:33,406 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:03:33,554 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:03:42,842 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:03:42,965 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:03:59,873 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:03:59,951 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:04:38,578 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:04:38,700 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:04:40,435 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:04:40,496 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:05:12,153 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:05:12,190 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:05:15,472 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:05:15,547 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:05:15,969 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:05:16,081 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:06:30,933 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:06:31,130 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:06:40,398 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:06:40,480 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:06:45,624 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:06:45,726 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:06:56,474 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:06:56,558 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:07:17,009 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:07:17,068 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:08:22,046 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:08:22,083 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:08:33,933 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:08:34,031 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:08:34,292 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:08:34,421 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:08:34,675 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:08:34,791 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:08:53,319 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:08:53,440 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:09:56,078 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:09:56,159 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:09:58,628 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:09:58,710 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:10:06,411 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:10:06,528 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:10:26,842 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:10:27,012 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:10:33,925 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:10:34,047 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:11:31,888 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:11:32,037 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:11:50,801 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:11:50,885 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:11:57,628 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:11:57,751 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:12:08,033 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:12:08,122 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:12:39,782 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:12:39,849 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:13:11,245 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:13:11,365 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:13:32,970 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:13:33,036 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:13:42,524 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:13:42,668 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:13:57,543 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:13:57,670 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:14:33,384 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:14:33,509 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:14:46,761 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:14:46,865 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:15:02,806 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:15:02,864 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:15:48,083 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:15:48,177 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:15:57,402 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:15:57,501 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:16:21,618 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:16:21,745 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:16:26,497 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:16:26,607 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:16:26,862 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:16:26,982 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:17:31,017 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:17:31,131 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:17:44,259 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:17:44,357 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:18:08,507 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:18:08,698 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:18:11,780 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:18:11,872 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:18:44,008 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:18:44,241 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:18:55,290 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:18:55,376 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:19:05,093 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:19:05,230 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:19:27,572 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:19:27,684 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:19:55,998 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:19:56,102 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:20:03,643 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:20:03,761 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:20:46,803 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:20:46,865 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:21:04,965 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:21:05,101 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:21:05,359 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:21:05,489 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:21:24,222 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:21:24,336 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:22:04,361 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:22:04,515 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:22:04,724 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:22:04,914 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:22:41,069 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:22:41,215 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:23:01,597 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:23:01,736 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:23:07,189 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:23:07,303 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:23:29,310 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:23:29,395 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:23:39,543 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:23:39,651 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:24:16,583 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:24:16,709 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:25:03,724 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:25:03,831 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:25:14,491 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:25:14,679 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:25:25,500 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:25:25,586 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:25:34,966 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:25:35,077 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:26:04,184 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:26:04,245 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:26:04,571 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:26:04,699 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:26:47,053 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:26:47,187 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:26:56,681 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: 'Device' object has no attribute 'set_proxy'
+2025-05-24 16:26:56,801 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:27:20,871 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:27:21,009 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:27:27,812 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:27:27,958 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:27:49,198 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:27:49,543 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:28:20,293 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:28:20,351 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:29:09,867 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:29:09,919 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:29:20,659 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:29:20,864 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:29:34,034 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:29:34,166 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:29:41,029 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:29:41,157 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:30:28,883 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:30:28,920 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:30:59,998 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:31:00,084 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:31:06,551 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:31:06,668 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:31:19,522 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:31:19,693 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:31:29,183 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:31:29,315 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:32:34,930 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:32:35,035 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:32:53,345 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:32:53,513 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:32:53,743 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:32:53,853 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:32:54,105 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:32:54,233 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:33:32,608 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:33:32,725 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:34:20,159 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:34:20,239 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:34:21,572 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:34:21,663 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:34:44,217 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:34:44,366 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:34:44,738 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:34:44,897 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:35:44,394 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:35:44,611 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:36:03,911 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:36:03,978 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:36:13,993 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:36:14,041 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:36:23,887 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:36:24,039 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:36:40,310 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:36:40,370 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:37:44,722 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:37:44,804 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:37:50,961 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:37:51,014 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:37:58,619 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:37:58,749 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:38:06,819 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:38:06,992 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:38:23,889 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:38:24,021 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:39:05,660 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:39:05,799 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:39:16,832 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:39:16,917 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:39:35,759 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:39:35,855 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:39:55,822 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:39:55,924 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:40:16,725 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:40:16,812 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:40:38,550 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:40:38,662 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:40:39,773 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:40:39,897 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:40:57,857 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:40:57,978 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:41:57,333 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:41:57,418 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:42:00,347 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:42:00,616 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:42:07,079 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:42:07,191 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:42:19,498 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:42:19,642 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:43:08,082 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:43:08,170 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:43:08,494 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:43:08,625 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:43:26,946 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:43:27,070 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:43:32,656 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:43:32,801 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:44:14,717 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:44:14,819 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:44:30,504 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:44:30,555 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:44:54,020 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:44:54,202 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:44:58,074 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:44:58,204 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:45:12,734 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:45:12,845 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:45:50,596 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:45:50,689 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:46:10,096 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:46:10,207 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:46:10,450 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:46:10,573 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:47:04,204 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:47:04,325 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:47:09,123 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:47:09,242 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:47:09,520 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:47:09,660 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:48:07,094 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:48:07,159 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:48:12,783 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:48:12,843 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:48:30,255 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:48:30,393 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:49:10,087 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:49:10,181 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:49:10,520 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:49:10,587 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:49:31,489 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:49:31,558 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:49:36,674 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:49:36,762 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:50:07,116 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:50:07,221 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:50:25,406 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:50:25,482 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:50:46,142 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:50:46,303 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:50:46,725 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:50:47,153 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:51:07,772 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:51:07,882 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:51:47,481 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:51:47,611 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:51:49,478 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:51:49,620 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:52:13,833 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:52:13,928 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:52:14,179 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:52:14,300 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:52:22,468 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:52:22,606 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:53:30,564 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:53:30,727 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:53:31,768 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:53:31,903 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:53:53,436 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: 'Device' object has no attribute 'set_proxy'
+2025-05-24 16:53:53,536 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:54:03,087 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:54:03,135 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:54:03,835 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:54:03,994 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:55:04,353 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:55:04,586 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:59:15,332 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:59:15,394 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:59:17,798 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: 'Device' object has no attribute 'set_proxy'
+2025-05-24 16:59:17,934 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:59:17,935 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:59:17,939 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:59:25,769 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 16:59:25,918 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 16:59:28,199 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: 'Device' object has no attribute 'set_proxy'
+2025-05-24 16:59:28,248 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:00:23,520 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: 'Device' object has no attribute 'set_proxy'
+2025-05-24 17:00:23,596 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:00:33,842 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:00:33,898 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:00:55,292 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:00:55,353 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:00:59,509 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:00:59,560 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:01:18,472 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:01:18,603 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:02:07,376 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:02:07,506 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:02:08,685 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:02:08,810 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:02:14,323 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:02:14,462 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:02:39,195 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:02:39,311 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:03:00,959 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: 'Device' object has no attribute 'set_proxy'
+2025-05-24 17:03:01,075 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:03:43,955 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:03:44,030 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:03:44,324 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:03:44,444 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:03:47,118 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:03:47,261 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:05:21,772 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:05:22,075 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:05:24,059 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: 'Device' object has no attribute 'set_proxy'
+2025-05-24 17:05:24,061 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:05:25,339 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:05:25,482 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:05:27,762 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:05:27,891 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:05:29,045 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:05:29,270 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:06:33,867 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:06:34,017 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:06:47,982 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:06:48,134 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:06:49,951 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: 'Device' object has no attribute 'set_proxy'
+2025-05-24 17:06:50,134 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:07:15,135 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:07:15,248 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:07:34,487 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:07:34,541 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:07:53,939 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:07:54,073 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:08:15,810 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:08:15,856 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:08:21,374 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:08:21,455 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:08:41,986 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:08:42,080 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:12:05,707 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:12:05,879 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:12:06,256 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:12:06,484 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:12:08,118 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:12:08,428 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:12:08,906 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:12:09,264 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:12:10,667 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:12:10,798 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:14:38,323 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:14:38,446 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:14:41,436 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: 'Device' object has no attribute 'set_proxy'
+2025-05-24 17:14:41,597 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:14:42,646 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: 'Device' object has no attribute 'set_proxy'
+2025-05-24 17:14:42,653 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:14:51,645 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: 'Device' object has no attribute 'set_proxy'
+2025-05-24 17:14:51,779 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:14:54,669 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:14:54,762 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:15:46,903 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: 'Device' object has no attribute 'set_proxy'
+2025-05-24 17:15:46,909 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:16:22,665 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:16:22,781 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:16:28,301 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: 'Device' object has no attribute 'set_proxy'
+2025-05-24 17:16:28,369 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:16:28,384 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:16:28,386 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:16:48,075 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:16:48,218 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:17:25,356 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: 'Device' object has no attribute 'set_proxy'
+2025-05-24 17:17:25,415 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:17:45,992 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:17:46,114 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:21:12,238 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:21:12,412 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:21:12,812 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:21:12,911 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:21:14,008 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:21:14,143 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:21:17,527 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: 'Device' object has no attribute 'set_proxy'
+2025-05-24 17:21:17,532 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:21:26,982 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: 'Device' object has no attribute 'set_proxy'
+2025-05-24 17:21:27,055 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:22:27,829 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:22:27,970 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:22:48,762 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:22:48,825 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:22:49,103 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:22:49,175 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:22:53,267 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:22:53,337 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:23:12,180 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:23:12,261 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:24:08,645 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:24:08,690 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:24:13,048 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:24:13,101 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:24:45,395 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:24:45,566 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:24:55,426 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:24:55,578 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:25:11,118 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:25:11,141 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:25:26,132 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:25:26,276 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:25:53,572 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:25:53,632 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:26:16,722 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:26:16,856 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:26:17,220 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:26:17,336 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:26:54,871 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:26:55,034 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:27:12,900 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:27:13,032 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:27:29,033 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: 'Device' object has no attribute 'set_proxy'
+2025-05-24 17:27:29,035 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:27:35,055 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:27:35,116 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:28:25,962 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:28:26,105 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:28:33,449 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:28:33,506 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:28:59,548 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:28:59,610 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:29:03,316 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:29:03,364 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:29:24,148 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:29:24,256 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:30:09,245 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:30:09,367 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:30:16,494 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:30:16,539 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:30:51,210 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:30:51,283 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:31:05,697 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:31:05,821 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:31:08,735 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:31:08,848 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:31:43,294 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:31:43,426 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:31:56,426 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:31:56,585 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:32:19,460 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: 'Device' object has no attribute 'set_proxy'
+2025-05-24 17:32:19,530 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:32:20,420 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:32:20,539 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:32:20,967 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:32:21,015 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:32:59,168 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:32:59,306 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:33:27,978 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:33:28,025 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:33:41,524 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: 'Device' object has no attribute 'set_proxy'
+2025-05-24 17:33:41,603 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:33:42,621 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:33:42,774 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:34:17,710 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:34:17,796 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:35:02,320 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:35:02,373 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:35:23,513 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:35:23,564 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:35:27,275 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:35:27,348 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:35:54,252 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:35:54,349 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:36:06,174 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:36:06,240 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:36:24,067 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:36:24,091 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:36:56,357 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:36:56,615 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:37:14,464 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:37:14,617 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:37:41,712 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:37:41,783 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:38:06,683 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:38:06,730 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:38:19,731 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:38:19,796 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:38:29,975 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:38:30,047 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:38:58,643 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:38:58,696 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:39:16,393 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:39:16,505 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:39:17,032 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:39:17,111 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:39:41,471 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:39:41,601 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:40:24,938 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:40:25,056 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:40:25,250 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:40:25,349 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:40:45,457 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:40:45,531 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:41:03,363 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:41:03,418 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:41:32,523 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:41:32,591 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:41:51,413 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:41:51,499 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:42:37,605 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:42:37,649 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:42:57,339 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:42:57,500 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:43:16,541 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:43:16,611 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:43:27,380 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:43:27,463 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:43:56,516 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:43:56,596 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:44:38,926 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:44:38,995 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:44:51,409 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:44:51,516 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:45:10,561 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:45:10,687 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:45:33,021 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:45:33,140 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:46:05,924 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:46:06,068 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:46:27,785 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:46:27,819 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:46:50,840 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:46:50,984 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:47:05,346 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:47:05,429 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:47:22,207 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:47:22,365 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:47:53,334 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:47:53,386 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:48:26,184 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:48:26,284 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:48:54,869 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:48:55,002 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:49:24,387 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:49:24,530 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:49:48,919 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:49:48,968 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:50:06,531 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:50:06,678 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:50:31,530 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:50:31,594 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:50:52,422 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:50:52,520 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:51:11,522 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:51:11,647 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:51:41,186 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:51:41,265 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:51:58,738 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:51:58,862 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:52:23,693 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:52:23,765 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:52:38,606 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:52:38,656 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:53:18,617 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:53:18,662 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:53:57,428 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:53:57,526 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:54:19,922 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:54:20,063 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:54:40,364 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:54:40,417 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:55:05,584 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:55:05,638 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:55:33,353 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:55:33,391 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:55:58,860 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:55:58,968 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:56:19,938 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:56:20,059 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:56:51,731 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:56:51,803 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:57:24,736 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:57:24,815 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:57:49,316 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:57:49,382 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:58:12,221 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:58:12,299 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:58:38,640 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:58:38,695 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:59:08,116 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:59:08,215 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 17:59:36,713 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 17:59:36,745 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 18:00:17,640 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 18:00:17,765 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 18:00:45,700 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 18:00:45,823 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 18:01:12,851 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 18:01:12,919 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 18:01:42,908 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 18:01:42,975 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 18:02:21,368 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 18:02:21,414 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 18:02:57,349 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 18:02:57,445 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 18:03:47,426 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 18:03:47,487 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 18:04:22,676 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 18:04:22,778 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 18:05:11,903 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 18:05:12,035 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 18:06:06,069 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 18:06:06,122 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 18:06:48,268 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 18:06:48,317 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 18:07:39,338 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 18:07:39,377 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 18:08:19,675 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 18:08:19,857 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 18:09:18,962 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 18:09:19,023 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 18:10:39,653 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 18:10:39,774 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 18:11:39,520 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 18:11:39,669 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 18:12:39,242 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 18:12:39,334 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 18:13:39,002 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 18:13:39,061 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 18:14:54,935 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 18:14:54,984 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 18:15:50,919 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 18:15:51,048 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 18:16:50,832 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 18:16:50,944 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 18:17:54,498 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 18:17:54,571 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 18:19:00,781 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 18:19:00,844 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 18:19:51,277 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 18:19:51,366 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'
+2025-05-24 18:20:56,554 - OTWMusicSystem - ERROR - Session for 1090339022029047 failed: cannot bind listener: Too many open files
+2025-05-24 18:20:56,557 - OTWMusicSystem - ERROR - Error al escribir en session_summary.log: Unknown format code 'f' for object of type 'str'

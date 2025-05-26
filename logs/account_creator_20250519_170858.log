@@ -1,0 +1,210 @@
+2025-05-19 17:08:58,417 - AccountManager - INFO - Cargadas 10 cuentas desde el archivo
+2025-05-19 17:08:58,418 - AccountManager - INFO - Cargados 250 proxies desde el archivo
+2025-05-19 17:08:58,433 - AccountManager - INFO - AccountManager inicializado con 10 cuentas y 500 proxies
+2025-05-19 17:08:58,436 - HumanBehavior - INFO - Perfiles de comportamiento cargados desde C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\config\behavior_profiles.json
+2025-05-19 17:08:58,437 - HumanBehavior - INFO - HumanBehaviorSimulator inicializado con 4 perfiles
+2025-05-19 17:08:58,783 - LoginManager - DEBUG - Sesiones cargadas: 1 entradas
+2025-05-19 17:08:58,783 - LoginManager - INFO - LoginManager inicializado
+2025-05-19 17:08:58,783 - LoginManager - DEBUG - Ruta de sesiones: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\data\sessions.json
+2025-05-19 17:08:58,784 - LoginManager - DEBUG - Ruta de plantillas: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\templates
+2025-05-19 17:08:58,784 - LoginManager - WARNING - Plantillas faltantes: login_submit.png, home_icon.png, library_icon.png
+2025-05-19 17:08:58,784 - LoginManager - WARNING - Algunas funciones de reconocimiento visual pueden fallar
+2025-05-19 17:08:59,189 - AndroidDevice - INFO - Dispositivos detectados: ['2040306023079114', '2040306023079705', '2040306023080222', '2040306023080639', '2040306023080885', '2040306023081159', '2040306023081202', '2040306023081216', '2040306023081477', '2040306023082911', '2040306023083277', '2040306023095800', '2040306023095804', '2040306023096006', '2040306023097355', '2040306023098451', '4LJVPB6DUSIRMVUS', 'DY49GQ7PFQCEKF6H', 'KF9HFUCE6XE6WSU8', 'P7NBHUMRBYRGY9KJ']
+2025-05-19 17:09:14,917 - OTWMusicSystem - INFO - Configuración guardada en: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\config\config.json
+2025-05-19 17:09:14,931 - OTWMusicSystem - INFO - Archivo playlists copiado a C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\data\playlists.txt
+2025-05-19 17:09:50,786 - PlaylistPlayer - INFO - Python version: 3.12.8
+2025-05-19 17:09:50,787 - PlaylistPlayer - WARNING - Error al obtener versiones de herramientas: module 'uiautomator2' has no attribute '__version__'
+2025-05-19 17:09:50,787 - PlaylistPlayer - INFO - --- Iniciando PlaylistPlayer en Modo Multi-Hilo ---
+2025-05-19 17:09:50,788 - PlaylistPlayer - INFO - Cargados 185 links desde 'C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\data\playlists.txt'
+2025-05-19 17:09:50,789 - PlaylistPlayer - DEBUG - Ejemplos de links: ['https://open.spotify.com/playlist/3h6pIE4rE6z8OyxNMOqW8t?si=H8FB0OalRKGjeMjEXVgSJw', 'https://open.spotify.com/playlist/5XrvAtxjUWcbTNgLHc9hz2?si=8J8GtCkARCaiIlIOWzgMnA']
+2025-05-19 17:09:50,789 - PlaylistPlayer - DEBUG - Obteniendo dispositivos conectados vía ADB...
+2025-05-19 17:09:50,821 - PlaylistPlayer - INFO - Dispositivos ADB conectados y listos: ['2040306023079114', '2040306023079705', '2040306023080222', '2040306023080639', '2040306023080885', '2040306023081159', '2040306023081202', '2040306023081216', '2040306023081477', '2040306023082911', '2040306023083277', '2040306023095800', '2040306023095804', '2040306023096006', '2040306023097355', '2040306023098451', '4LJVPB6DUSIRMVUS', 'DY49GQ7PFQCEKF6H', 'KF9HFUCE6XE6WSU8', 'P7NBHUMRBYRGY9KJ']
+2025-05-19 17:09:50,822 - PlaylistPlayer - INFO - Iniciando workers para 20 dispositivos: ['2040306023079114', '2040306023079705', '2040306023080222', '2040306023080639', '2040306023080885', '2040306023081159', '2040306023081202', '2040306023081216', '2040306023081477', '2040306023082911', '2040306023083277', '2040306023095800', '2040306023095804', '2040306023096006', '2040306023097355', '2040306023098451', '4LJVPB6DUSIRMVUS', 'DY49GQ7PFQCEKF6H', 'KF9HFUCE6XE6WSU8', 'P7NBHUMRBYRGY9KJ']
+2025-05-19 17:09:50,826 - PlaylistPlayer - INFO - [2040306023079114] Worker thread INICIADO.
+2025-05-19 17:09:50,827 - PlaylistPlayer - INFO - [2040306023079114] Personalidad generada: FollowP=0.48, SearchP=0.13, SkipTrackP=0.30
+2025-05-19 17:09:50,830 - PlaylistPlayer - INFO - [2040306023079114] Intentando conectar a uiautomator2 (intento 1/3)...
+2025-05-19 17:09:50,831 - PlaylistPlayer - ERROR - [2040306023079114] Error al conectar/healthcheck (intento 1): connect_usb() got an unexpected keyword argument 'timeout'
+2025-05-19 17:09:55,223 - PlaylistPlayer - INFO - [2040306023079705] Worker thread INICIADO.
+2025-05-19 17:09:55,223 - PlaylistPlayer - INFO - [2040306023079705] Personalidad generada: FollowP=0.44, SearchP=0.15, SkipTrackP=0.21
+2025-05-19 17:09:55,224 - PlaylistPlayer - INFO - [2040306023079705] Intentando conectar a uiautomator2 (intento 1/3)...
+2025-05-19 17:09:55,225 - PlaylistPlayer - ERROR - [2040306023079705] Error al conectar/healthcheck (intento 1): connect_usb() got an unexpected keyword argument 'timeout'
+2025-05-19 17:09:58,867 - PlaylistPlayer - INFO - [2040306023080222] Worker thread INICIADO.
+2025-05-19 17:09:58,868 - PlaylistPlayer - INFO - [2040306023080222] Personalidad generada: FollowP=0.60, SearchP=0.11, SkipTrackP=0.37
+2025-05-19 17:09:58,869 - PlaylistPlayer - INFO - [2040306023080222] Intentando conectar a uiautomator2 (intento 1/3)...
+2025-05-19 17:09:58,870 - PlaylistPlayer - ERROR - [2040306023080222] Error al conectar/healthcheck (intento 1): connect_usb() got an unexpected keyword argument 'timeout'
+2025-05-19 17:10:01,384 - PlaylistPlayer - INFO - [2040306023079114] Intentando conectar a uiautomator2 (intento 2/3)...
+2025-05-19 17:10:01,385 - PlaylistPlayer - ERROR - [2040306023079114] Error al conectar/healthcheck (intento 2): connect_usb() got an unexpected keyword argument 'timeout'
+2025-05-19 17:10:02,232 - PlaylistPlayer - INFO - [2040306023080639] Worker thread INICIADO.
+2025-05-19 17:10:02,232 - PlaylistPlayer - INFO - [2040306023080639] Personalidad generada: FollowP=0.70, SearchP=0.07, SkipTrackP=0.30
+2025-05-19 17:10:02,233 - PlaylistPlayer - INFO - [2040306023080639] Intentando conectar a uiautomator2 (intento 1/3)...
+2025-05-19 17:10:02,234 - PlaylistPlayer - ERROR - [2040306023080639] Error al conectar/healthcheck (intento 1): connect_usb() got an unexpected keyword argument 'timeout'
+2025-05-19 17:10:06,376 - PlaylistPlayer - INFO - [2040306023080885] Worker thread INICIADO.
+2025-05-19 17:10:06,376 - PlaylistPlayer - INFO - [2040306023080885] Personalidad generada: FollowP=0.42, SearchP=0.09, SkipTrackP=0.44
+2025-05-19 17:10:06,378 - PlaylistPlayer - INFO - [2040306023080885] Intentando conectar a uiautomator2 (intento 1/3)...
+2025-05-19 17:10:06,378 - PlaylistPlayer - ERROR - [2040306023080885] Error al conectar/healthcheck (intento 1): connect_usb() got an unexpected keyword argument 'timeout'
+2025-05-19 17:10:08,452 - PlaylistPlayer - INFO - [2040306023079705] Intentando conectar a uiautomator2 (intento 2/3)...
+2025-05-19 17:10:08,452 - PlaylistPlayer - ERROR - [2040306023079705] Error al conectar/healthcheck (intento 2): connect_usb() got an unexpected keyword argument 'timeout'
+2025-05-19 17:10:10,528 - PlaylistPlayer - INFO - [2040306023081159] Worker thread INICIADO.
+2025-05-19 17:10:10,528 - PlaylistPlayer - INFO - [2040306023081159] Personalidad generada: FollowP=0.72, SearchP=0.17, SkipTrackP=0.27
+2025-05-19 17:10:10,529 - PlaylistPlayer - INFO - [2040306023081159] Intentando conectar a uiautomator2 (intento 1/3)...
+2025-05-19 17:10:10,530 - PlaylistPlayer - ERROR - [2040306023081159] Error al conectar/healthcheck (intento 1): connect_usb() got an unexpected keyword argument 'timeout'
+2025-05-19 17:10:12,702 - PlaylistPlayer - INFO - [2040306023080222] Intentando conectar a uiautomator2 (intento 2/3)...
+2025-05-19 17:10:12,702 - PlaylistPlayer - ERROR - [2040306023080222] Error al conectar/healthcheck (intento 2): connect_usb() got an unexpected keyword argument 'timeout'
+2025-05-19 17:10:14,676 - PlaylistPlayer - INFO - [2040306023079114] Intentando conectar a uiautomator2 (intento 3/3)...
+2025-05-19 17:10:14,724 - PlaylistPlayer - INFO - [2040306023080885] Intentando conectar a uiautomator2 (intento 2/3)...
+2025-05-19 17:10:14,773 - PlaylistPlayer - INFO - [2040306023080639] Intentando conectar a uiautomator2 (intento 2/3)...
+2025-05-19 17:10:15,669 - PlaylistPlayer - INFO - [2040306023081202] Worker thread INICIADO.
+2025-05-19 17:10:17,497 - PlaylistPlayer - ERROR - [2040306023079114] Error al conectar/healthcheck (intento 3): connect_usb() got an unexpected keyword argument 'timeout'
+2025-05-19 17:10:17,504 - PlaylistPlayer - ERROR - [2040306023080885] Error al conectar/healthcheck (intento 2): connect_usb() got an unexpected keyword argument 'timeout'
+2025-05-19 17:10:17,506 - PlaylistPlayer - ERROR - [2040306023080639] Error al conectar/healthcheck (intento 2): connect_usb() got an unexpected keyword argument 'timeout'
+2025-05-19 17:10:17,507 - PlaylistPlayer - INFO - [2040306023081202] Personalidad generada: FollowP=0.61, SearchP=0.09, SkipTrackP=0.20
+2025-05-19 17:10:17,508 - PlaylistPlayer - CRITICAL - [2040306023079114] Fallaron todos los intentos de conexión. Terminando worker.
+2025-05-19 17:10:17,514 - PlaylistPlayer - INFO - [2040306023081202] Intentando conectar a uiautomator2 (intento 1/3)...
+2025-05-19 17:10:17,518 - PlaylistPlayer - ERROR - [2040306023081202] Error al conectar/healthcheck (intento 1): connect_usb() got an unexpected keyword argument 'timeout'
+2025-05-19 17:10:20,728 - PlaylistPlayer - INFO - [2040306023081216] Worker thread INICIADO.
+2025-05-19 17:10:20,729 - PlaylistPlayer - INFO - [2040306023081216] Personalidad generada: FollowP=0.44, SearchP=0.15, SkipTrackP=0.25
+2025-05-19 17:10:20,729 - PlaylistPlayer - INFO - [2040306023081216] Intentando conectar a uiautomator2 (intento 1/3)...
+2025-05-19 17:10:20,730 - PlaylistPlayer - ERROR - [2040306023081216] Error al conectar/healthcheck (intento 1): connect_usb() got an unexpected keyword argument 'timeout'
+2025-05-19 17:10:21,049 - PlaylistPlayer - INFO - [2040306023079705] Intentando conectar a uiautomator2 (intento 3/3)...
+2025-05-19 17:10:21,695 - PlaylistPlayer - INFO - [2040306023081159] Intentando conectar a uiautomator2 (intento 2/3)...
+2025-05-19 17:10:24,445 - PlaylistPlayer - INFO - [2040306023081477] Worker thread INICIADO.
+2025-05-19 17:10:24,953 - PlaylistPlayer - INFO - [2040306023080222] Intentando conectar a uiautomator2 (intento 3/3)...
+2025-05-19 17:10:25,589 - PlaylistPlayer - INFO - [2040306023080885] Intentando conectar a uiautomator2 (intento 3/3)...
+2025-05-19 17:10:27,901 - PlaylistPlayer - INFO - [2040306023080639] Intentando conectar a uiautomator2 (intento 3/3)...
+2025-05-19 17:10:30,151 - PlaylistPlayer - INFO - [2040306023082911] Worker thread INICIADO.
+2025-05-19 17:10:32,208 - PlaylistPlayer - INFO - [2040306023081202] Intentando conectar a uiautomator2 (intento 2/3)...
+2025-05-19 17:10:33,374 - PlaylistPlayer - INFO - [2040306023083277] Worker thread INICIADO.
+2025-05-19 17:10:35,189 - PlaylistPlayer - INFO - [2040306023081216] Intentando conectar a uiautomator2 (intento 2/3)...
+2025-05-19 17:10:37,173 - PlaylistPlayer - INFO - [2040306023095800] Worker thread INICIADO.
+2025-05-19 17:10:40,209 - PlaylistPlayer - INFO - [2040306023095804] Worker thread INICIADO.
+2025-05-19 17:10:45,647 - PlaylistPlayer - INFO - [2040306023096006] Worker thread INICIADO.
+2025-05-19 17:10:47,932 - PlaylistPlayer - ERROR - [2040306023079705] Error al conectar/healthcheck (intento 3): connect_usb() got an unexpected keyword argument 'timeout'
+2025-05-19 17:10:47,938 - PlaylistPlayer - ERROR - [2040306023081159] Error al conectar/healthcheck (intento 2): connect_usb() got an unexpected keyword argument 'timeout'
+2025-05-19 17:10:47,940 - PlaylistPlayer - INFO - [2040306023081477] Personalidad generada: FollowP=0.48, SearchP=0.08, SkipTrackP=0.36
+2025-05-19 17:10:47,940 - PlaylistPlayer - ERROR - [2040306023080222] Error al conectar/healthcheck (intento 3): connect_usb() got an unexpected keyword argument 'timeout'
+2025-05-19 17:10:47,941 - PlaylistPlayer - ERROR - [2040306023080885] Error al conectar/healthcheck (intento 3): connect_usb() got an unexpected keyword argument 'timeout'
+2025-05-19 17:10:47,942 - PlaylistPlayer - ERROR - [2040306023080639] Error al conectar/healthcheck (intento 3): connect_usb() got an unexpected keyword argument 'timeout'
+2025-05-19 17:10:47,943 - PlaylistPlayer - INFO - [2040306023082911] Personalidad generada: FollowP=0.60, SearchP=0.06, SkipTrackP=0.26
+2025-05-19 17:10:47,944 - PlaylistPlayer - ERROR - [2040306023081202] Error al conectar/healthcheck (intento 2): connect_usb() got an unexpected keyword argument 'timeout'
+2025-05-19 17:10:47,948 - PlaylistPlayer - INFO - [2040306023083277] Personalidad generada: FollowP=0.68, SearchP=0.14, SkipTrackP=0.37
+2025-05-19 17:10:47,959 - PlaylistPlayer - ERROR - [2040306023081216] Error al conectar/healthcheck (intento 2): connect_usb() got an unexpected keyword argument 'timeout'
+2025-05-19 17:10:47,960 - PlaylistPlayer - INFO - [2040306023095800] Personalidad generada: FollowP=0.37, SearchP=0.04, SkipTrackP=0.33
+2025-05-19 17:10:47,961 - PlaylistPlayer - INFO - [2040306023095800] Intentando conectar a uiautomator2 (intento 1/3)...
+2025-05-19 17:10:47,976 - PlaylistPlayer - INFO - [2040306023096006] Personalidad generada: FollowP=0.76, SearchP=0.15, SkipTrackP=0.33
+2025-05-19 17:10:47,978 - PlaylistPlayer - CRITICAL - [2040306023079705] Fallaron todos los intentos de conexión. Terminando worker.
+2025-05-19 17:10:47,996 - PlaylistPlayer - INFO - [2040306023081477] Intentando conectar a uiautomator2 (intento 1/3)...
+2025-05-19 17:10:48,009 - PlaylistPlayer - ERROR - [2040306023081477] Error al conectar/healthcheck (intento 1): connect_usb() got an unexpected keyword argument 'timeout'
+2025-05-19 17:10:48,010 - PlaylistPlayer - CRITICAL - [2040306023080885] Fallaron todos los intentos de conexión. Terminando worker.
+2025-05-19 17:10:48,019 - PlaylistPlayer - INFO - [2040306023082911] Intentando conectar a uiautomator2 (intento 1/3)...
+2025-05-19 17:10:48,037 - PlaylistPlayer - ERROR - [2040306023082911] Error al conectar/healthcheck (intento 1): connect_usb() got an unexpected keyword argument 'timeout'
+2025-05-19 17:10:48,043 - PlaylistPlayer - INFO - [2040306023083277] Intentando conectar a uiautomator2 (intento 1/3)...
+2025-05-19 17:10:48,055 - PlaylistPlayer - INFO - [2040306023095804] Personalidad generada: FollowP=0.60, SearchP=0.04, SkipTrackP=0.23
+2025-05-19 17:10:48,056 - PlaylistPlayer - ERROR - [2040306023095800] Error al conectar/healthcheck (intento 1): connect_usb() got an unexpected keyword argument 'timeout'
+2025-05-19 17:10:48,071 - PlaylistPlayer - CRITICAL - [2040306023080222] Fallaron todos los intentos de conexión. Terminando worker.
+2025-05-19 17:10:48,073 - PlaylistPlayer - CRITICAL - [2040306023080639] Fallaron todos los intentos de conexión. Terminando worker.
+2025-05-19 17:10:48,077 - PlaylistPlayer - ERROR - [2040306023083277] Error al conectar/healthcheck (intento 1): connect_usb() got an unexpected keyword argument 'timeout'
+2025-05-19 17:10:48,079 - PlaylistPlayer - INFO - [2040306023095804] Intentando conectar a uiautomator2 (intento 1/3)...
+2025-05-19 17:10:48,083 - PlaylistPlayer - INFO - [2040306023096006] Intentando conectar a uiautomator2 (intento 1/3)...
+2025-05-19 17:10:48,123 - PlaylistPlayer - ERROR - [2040306023096006] Error al conectar/healthcheck (intento 1): connect_usb() got an unexpected keyword argument 'timeout'
+2025-05-19 17:10:48,137 - PlaylistPlayer - ERROR - [2040306023095804] Error al conectar/healthcheck (intento 1): connect_usb() got an unexpected keyword argument 'timeout'
+2025-05-19 17:10:50,287 - PlaylistPlayer - INFO - [2040306023097355] Worker thread INICIADO.
+2025-05-19 17:10:50,288 - PlaylistPlayer - INFO - [2040306023097355] Personalidad generada: FollowP=0.71, SearchP=0.12, SkipTrackP=0.43
+2025-05-19 17:10:50,289 - PlaylistPlayer - INFO - [2040306023097355] Intentando conectar a uiautomator2 (intento 1/3)...
+2025-05-19 17:10:50,291 - PlaylistPlayer - ERROR - [2040306023097355] Error al conectar/healthcheck (intento 1): connect_usb() got an unexpected keyword argument 'timeout'
+2025-05-19 17:10:55,293 - PlaylistPlayer - INFO - [2040306023098451] Worker thread INICIADO.
+2025-05-19 17:10:55,294 - PlaylistPlayer - INFO - [2040306023098451] Personalidad generada: FollowP=0.50, SearchP=0.05, SkipTrackP=0.44
+2025-05-19 17:10:55,295 - PlaylistPlayer - INFO - [2040306023098451] Intentando conectar a uiautomator2 (intento 1/3)...
+2025-05-19 17:10:55,298 - PlaylistPlayer - ERROR - [2040306023098451] Error al conectar/healthcheck (intento 1): connect_usb() got an unexpected keyword argument 'timeout'
+2025-05-19 17:10:57,216 - PlaylistPlayer - INFO - [2040306023082911] Intentando conectar a uiautomator2 (intento 2/3)...
+2025-05-19 17:10:57,370 - PlaylistPlayer - INFO - [2040306023095800] Intentando conectar a uiautomator2 (intento 2/3)...
+2025-05-19 17:10:57,645 - PlaylistPlayer - INFO - [2040306023081159] Intentando conectar a uiautomator2 (intento 3/3)...
+2025-05-19 17:10:57,829 - PlaylistPlayer - INFO - [2040306023095804] Intentando conectar a uiautomator2 (intento 2/3)...
+2025-05-19 17:11:00,109 - PlaylistPlayer - INFO - [4LJVPB6DUSIRMVUS] Worker thread INICIADO.
+2025-05-19 17:11:00,561 - PlaylistPlayer - INFO - [2040306023081216] Intentando conectar a uiautomator2 (intento 3/3)...
+2025-05-19 17:11:00,603 - PlaylistPlayer - ERROR - [2040306023082911] Error al conectar/healthcheck (intento 2): connect_usb() got an unexpected keyword argument 'timeout'
+2025-05-19 17:11:00,607 - PlaylistPlayer - ERROR - [2040306023095800] Error al conectar/healthcheck (intento 2): connect_usb() got an unexpected keyword argument 'timeout'
+2025-05-19 17:11:00,609 - PlaylistPlayer - ERROR - [2040306023081159] Error al conectar/healthcheck (intento 3): connect_usb() got an unexpected keyword argument 'timeout'
+2025-05-19 17:11:00,609 - PlaylistPlayer - ERROR - [2040306023095804] Error al conectar/healthcheck (intento 2): connect_usb() got an unexpected keyword argument 'timeout'
+2025-05-19 17:11:00,610 - PlaylistPlayer - INFO - [4LJVPB6DUSIRMVUS] Personalidad generada: FollowP=0.65, SearchP=0.04, SkipTrackP=0.20
+2025-05-19 17:11:00,611 - PlaylistPlayer - ERROR - [2040306023081216] Error al conectar/healthcheck (intento 3): connect_usb() got an unexpected keyword argument 'timeout'
+2025-05-19 17:11:00,616 - PlaylistPlayer - CRITICAL - [2040306023081159] Fallaron todos los intentos de conexión. Terminando worker.
+2025-05-19 17:11:00,622 - PlaylistPlayer - INFO - [4LJVPB6DUSIRMVUS] Intentando conectar a uiautomator2 (intento 1/3)...
+2025-05-19 17:11:00,625 - PlaylistPlayer - CRITICAL - [2040306023081216] Fallaron todos los intentos de conexión. Terminando worker.
+2025-05-19 17:11:00,631 - PlaylistPlayer - ERROR - [4LJVPB6DUSIRMVUS] Error al conectar/healthcheck (intento 1): connect_usb() got an unexpected keyword argument 'timeout'
+2025-05-19 17:11:00,896 - PlaylistPlayer - INFO - [2040306023096006] Intentando conectar a uiautomator2 (intento 2/3)...
+2025-05-19 17:11:00,897 - PlaylistPlayer - ERROR - [2040306023096006] Error al conectar/healthcheck (intento 2): connect_usb() got an unexpected keyword argument 'timeout'
+2025-05-19 17:11:01,369 - PlaylistPlayer - INFO - [2040306023083277] Intentando conectar a uiautomator2 (intento 2/3)...
+2025-05-19 17:11:01,369 - PlaylistPlayer - ERROR - [2040306023083277] Error al conectar/healthcheck (intento 2): connect_usb() got an unexpected keyword argument 'timeout'
+2025-05-19 17:11:02,049 - PlaylistPlayer - INFO - [2040306023081202] Intentando conectar a uiautomator2 (intento 3/3)...
+2025-05-19 17:11:02,050 - PlaylistPlayer - ERROR - [2040306023081202] Error al conectar/healthcheck (intento 3): connect_usb() got an unexpected keyword argument 'timeout'
+2025-05-19 17:11:02,051 - PlaylistPlayer - CRITICAL - [2040306023081202] Fallaron todos los intentos de conexión. Terminando worker.
+2025-05-19 17:11:02,160 - PlaylistPlayer - INFO - [2040306023081477] Intentando conectar a uiautomator2 (intento 2/3)...
+2025-05-19 17:11:02,160 - PlaylistPlayer - ERROR - [2040306023081477] Error al conectar/healthcheck (intento 2): connect_usb() got an unexpected keyword argument 'timeout'
+2025-05-19 17:11:03,653 - PlaylistPlayer - INFO - [2040306023098451] Intentando conectar a uiautomator2 (intento 2/3)...
+2025-05-19 17:11:03,654 - PlaylistPlayer - ERROR - [2040306023098451] Error al conectar/healthcheck (intento 2): connect_usb() got an unexpected keyword argument 'timeout'
+2025-05-19 17:11:03,828 - PlaylistPlayer - INFO - [DY49GQ7PFQCEKF6H] Worker thread INICIADO.
+2025-05-19 17:11:03,829 - PlaylistPlayer - INFO - [DY49GQ7PFQCEKF6H] Personalidad generada: FollowP=0.43, SearchP=0.12, SkipTrackP=0.21
+2025-05-19 17:11:03,832 - PlaylistPlayer - INFO - [DY49GQ7PFQCEKF6H] Intentando conectar a uiautomator2 (intento 1/3)...
+2025-05-19 17:11:03,835 - PlaylistPlayer - ERROR - [DY49GQ7PFQCEKF6H] Error al conectar/healthcheck (intento 1): connect_usb() got an unexpected keyword argument 'timeout'
+2025-05-19 17:11:04,823 - PlaylistPlayer - INFO - [2040306023097355] Intentando conectar a uiautomator2 (intento 2/3)...
+2025-05-19 17:11:04,823 - PlaylistPlayer - ERROR - [2040306023097355] Error al conectar/healthcheck (intento 2): connect_usb() got an unexpected keyword argument 'timeout'
+2025-05-19 17:11:07,276 - PlaylistPlayer - INFO - [KF9HFUCE6XE6WSU8] Worker thread INICIADO.
+2025-05-19 17:11:07,277 - PlaylistPlayer - INFO - [KF9HFUCE6XE6WSU8] Personalidad generada: FollowP=0.66, SearchP=0.05, SkipTrackP=0.24
+2025-05-19 17:11:07,278 - PlaylistPlayer - INFO - [KF9HFUCE6XE6WSU8] Intentando conectar a uiautomator2 (intento 1/3)...
+2025-05-19 17:11:07,280 - PlaylistPlayer - ERROR - [KF9HFUCE6XE6WSU8] Error al conectar/healthcheck (intento 1): connect_usb() got an unexpected keyword argument 'timeout'
+2025-05-19 17:11:10,358 - PlaylistPlayer - INFO - [2040306023095800] Intentando conectar a uiautomator2 (intento 3/3)...
+2025-05-19 17:11:10,359 - PlaylistPlayer - ERROR - [2040306023095800] Error al conectar/healthcheck (intento 3): connect_usb() got an unexpected keyword argument 'timeout'
+2025-05-19 17:11:10,360 - PlaylistPlayer - CRITICAL - [2040306023095800] Fallaron todos los intentos de conexión. Terminando worker.
+2025-05-19 17:11:10,539 - PlaylistPlayer - INFO - [2040306023095804] Intentando conectar a uiautomator2 (intento 3/3)...
+2025-05-19 17:11:10,540 - PlaylistPlayer - ERROR - [2040306023095804] Error al conectar/healthcheck (intento 3): connect_usb() got an unexpected keyword argument 'timeout'
+2025-05-19 17:11:10,542 - PlaylistPlayer - CRITICAL - [2040306023095804] Fallaron todos los intentos de conexión. Terminando worker.
+2025-05-19 17:11:11,406 - PlaylistPlayer - INFO - [4LJVPB6DUSIRMVUS] Intentando conectar a uiautomator2 (intento 2/3)...
+2025-05-19 17:11:11,406 - PlaylistPlayer - ERROR - [4LJVPB6DUSIRMVUS] Error al conectar/healthcheck (intento 2): connect_usb() got an unexpected keyword argument 'timeout'
+2025-05-19 17:11:11,814 - PlaylistPlayer - INFO - [2040306023082911] Intentando conectar a uiautomator2 (intento 3/3)...
+2025-05-19 17:11:11,815 - PlaylistPlayer - ERROR - [2040306023082911] Error al conectar/healthcheck (intento 3): connect_usb() got an unexpected keyword argument 'timeout'
+2025-05-19 17:11:11,817 - PlaylistPlayer - CRITICAL - [2040306023082911] Fallaron todos los intentos de conexión. Terminando worker.
+2025-05-19 17:11:12,096 - PlaylistPlayer - INFO - [P7NBHUMRBYRGY9KJ] Worker thread INICIADO.
+2025-05-19 17:11:12,097 - PlaylistPlayer - INFO - [P7NBHUMRBYRGY9KJ] Personalidad generada: FollowP=0.51, SearchP=0.08, SkipTrackP=0.42
+2025-05-19 17:11:12,098 - PlaylistPlayer - INFO - [P7NBHUMRBYRGY9KJ] Intentando conectar a uiautomator2 (intento 1/3)...
+2025-05-19 17:11:12,101 - PlaylistPlayer - ERROR - [P7NBHUMRBYRGY9KJ] Error al conectar/healthcheck (intento 1): connect_usb() got an unexpected keyword argument 'timeout'
+2025-05-19 17:11:12,228 - PlaylistPlayer - INFO - [2040306023083277] Intentando conectar a uiautomator2 (intento 3/3)...
+2025-05-19 17:11:12,229 - PlaylistPlayer - ERROR - [2040306023083277] Error al conectar/healthcheck (intento 3): connect_usb() got an unexpected keyword argument 'timeout'
+2025-05-19 17:11:12,231 - PlaylistPlayer - CRITICAL - [2040306023083277] Fallaron todos los intentos de conexión. Terminando worker.
+2025-05-19 17:11:13,986 - PlaylistPlayer - INFO - [2040306023096006] Intentando conectar a uiautomator2 (intento 3/3)...
+2025-05-19 17:11:13,986 - PlaylistPlayer - ERROR - [2040306023096006] Error al conectar/healthcheck (intento 3): connect_usb() got an unexpected keyword argument 'timeout'
+2025-05-19 17:11:13,988 - PlaylistPlayer - CRITICAL - [2040306023096006] Fallaron todos los intentos de conexión. Terminando worker.
+2025-05-19 17:11:14,373 - PlaylistPlayer - INFO - [DY49GQ7PFQCEKF6H] Intentando conectar a uiautomator2 (intento 2/3)...
+2025-05-19 17:11:14,373 - PlaylistPlayer - ERROR - [DY49GQ7PFQCEKF6H] Error al conectar/healthcheck (intento 2): connect_usb() got an unexpected keyword argument 'timeout'
+2025-05-19 17:11:14,885 - PlaylistPlayer - INFO - [2040306023098451] Intentando conectar a uiautomator2 (intento 3/3)...
+2025-05-19 17:11:14,886 - PlaylistPlayer - ERROR - [2040306023098451] Error al conectar/healthcheck (intento 3): connect_usb() got an unexpected keyword argument 'timeout'
+2025-05-19 17:11:14,888 - PlaylistPlayer - CRITICAL - [2040306023098451] Fallaron todos los intentos de conexión. Terminando worker.
+2025-05-19 17:11:16,047 - PlaylistPlayer - INFO - [2040306023081477] Intentando conectar a uiautomator2 (intento 3/3)...
+2025-05-19 17:11:16,048 - PlaylistPlayer - ERROR - [2040306023081477] Error al conectar/healthcheck (intento 3): connect_usb() got an unexpected keyword argument 'timeout'
+2025-05-19 17:11:16,049 - PlaylistPlayer - CRITICAL - [2040306023081477] Fallaron todos los intentos de conexión. Terminando worker.
+2025-05-19 17:11:16,266 - PlaylistPlayer - INFO - Todos los 20 workers iniciados. El script principal esperará...
+2025-05-19 17:11:16,975 - PlaylistPlayer - INFO - [2040306023097355] Intentando conectar a uiautomator2 (intento 3/3)...
+2025-05-19 17:11:16,976 - PlaylistPlayer - ERROR - [2040306023097355] Error al conectar/healthcheck (intento 3): connect_usb() got an unexpected keyword argument 'timeout'
+2025-05-19 17:11:16,978 - PlaylistPlayer - CRITICAL - [2040306023097355] Fallaron todos los intentos de conexión. Terminando worker.
+2025-05-19 17:11:21,085 - PlaylistPlayer - INFO - [P7NBHUMRBYRGY9KJ] Intentando conectar a uiautomator2 (intento 2/3)...
+2025-05-19 17:11:21,086 - PlaylistPlayer - ERROR - [P7NBHUMRBYRGY9KJ] Error al conectar/healthcheck (intento 2): connect_usb() got an unexpected keyword argument 'timeout'
+2025-05-19 17:11:21,267 - PlaylistPlayer - DEBUG - Hilos activos: ['Worker-4LJVPB6D', 'Worker-DY49GQ7P', 'Worker-KF9HFUCE', 'Worker-P7NBHUMR']
+2025-05-19 17:11:21,804 - PlaylistPlayer - INFO - [KF9HFUCE6XE6WSU8] Intentando conectar a uiautomator2 (intento 2/3)...
+2025-05-19 17:11:21,804 - PlaylistPlayer - ERROR - [KF9HFUCE6XE6WSU8] Error al conectar/healthcheck (intento 2): connect_usb() got an unexpected keyword argument 'timeout'
+2025-05-19 17:11:24,431 - PlaylistPlayer - INFO - [4LJVPB6DUSIRMVUS] Intentando conectar a uiautomator2 (intento 3/3)...
+2025-05-19 17:11:24,431 - PlaylistPlayer - ERROR - [4LJVPB6DUSIRMVUS] Error al conectar/healthcheck (intento 3): connect_usb() got an unexpected keyword argument 'timeout'
+2025-05-19 17:11:24,433 - PlaylistPlayer - CRITICAL - [4LJVPB6DUSIRMVUS] Fallaron todos los intentos de conexión. Terminando worker.
+2025-05-19 17:11:25,859 - PlaylistPlayer - INFO - [DY49GQ7PFQCEKF6H] Intentando conectar a uiautomator2 (intento 3/3)...
+2025-05-19 17:11:25,859 - PlaylistPlayer - ERROR - [DY49GQ7PFQCEKF6H] Error al conectar/healthcheck (intento 3): connect_usb() got an unexpected keyword argument 'timeout'
+2025-05-19 17:11:25,864 - PlaylistPlayer - CRITICAL - [DY49GQ7PFQCEKF6H] Fallaron todos los intentos de conexión. Terminando worker.
+2025-05-19 17:11:26,267 - PlaylistPlayer - DEBUG - Hilos activos: ['Worker-KF9HFUCE', 'Worker-P7NBHUMR']
+2025-05-19 17:11:31,268 - PlaylistPlayer - DEBUG - Hilos activos: ['Worker-KF9HFUCE', 'Worker-P7NBHUMR']
+2025-05-19 17:11:32,997 - PlaylistPlayer - INFO - [KF9HFUCE6XE6WSU8] Intentando conectar a uiautomator2 (intento 3/3)...
+2025-05-19 17:11:32,998 - PlaylistPlayer - ERROR - [KF9HFUCE6XE6WSU8] Error al conectar/healthcheck (intento 3): connect_usb() got an unexpected keyword argument 'timeout'
+2025-05-19 17:11:33,000 - PlaylistPlayer - CRITICAL - [KF9HFUCE6XE6WSU8] Fallaron todos los intentos de conexión. Terminando worker.
+2025-05-19 17:11:35,243 - PlaylistPlayer - INFO - [P7NBHUMRBYRGY9KJ] Intentando conectar a uiautomator2 (intento 3/3)...
+2025-05-19 17:11:35,244 - PlaylistPlayer - ERROR - [P7NBHUMRBYRGY9KJ] Error al conectar/healthcheck (intento 3): connect_usb() got an unexpected keyword argument 'timeout'
+2025-05-19 17:11:35,245 - PlaylistPlayer - CRITICAL - [P7NBHUMRBYRGY9KJ] Fallaron todos los intentos de conexión. Terminando worker.
+2025-05-19 17:11:36,269 - PlaylistPlayer - DEBUG - Hilos activos: []
+2025-05-19 17:11:36,270 - PlaylistPlayer - INFO - Todos los hilos worker han terminado su ejecución.
+2025-05-19 17:11:36,271 - PlaylistPlayer - INFO - Esperando la finalización de los hilos (join)...
+2025-05-19 17:11:36,275 - PlaylistPlayer - INFO - --- PlaylistPlayer (Modo Multi-Hilo) Finalizado ---

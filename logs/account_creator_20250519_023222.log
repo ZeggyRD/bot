@@ -1,0 +1,861 @@
+2025-05-19 02:32:22,863 - AccountManager - INFO - Cargadas 10 cuentas desde el archivo
+2025-05-19 02:32:22,863 - AccountManager - INFO - Cargados 250 proxies desde el archivo
+2025-05-19 02:32:22,875 - AccountManager - INFO - AccountManager inicializado con 10 cuentas y 500 proxies
+2025-05-19 02:32:22,877 - HumanBehavior - INFO - Perfiles de comportamiento cargados desde C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\config\behavior_profiles.json
+2025-05-19 02:32:22,878 - HumanBehavior - INFO - HumanBehaviorSimulator inicializado con 4 perfiles
+2025-05-19 02:32:23,050 - LoginManager - DEBUG - Sesiones cargadas: 1 entradas
+2025-05-19 02:32:23,050 - LoginManager - INFO - LoginManager inicializado
+2025-05-19 02:32:23,051 - LoginManager - DEBUG - Ruta de sesiones: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\data\sessions.json
+2025-05-19 02:32:23,051 - LoginManager - DEBUG - Ruta de plantillas: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\templates
+2025-05-19 02:32:23,051 - LoginManager - WARNING - Plantillas faltantes: login_submit.png, home_icon.png, library_icon.png
+2025-05-19 02:32:23,051 - LoginManager - WARNING - Algunas funciones de reconocimiento visual pueden fallar
+2025-05-19 02:32:23,232 - AndroidDevice - INFO - Dispositivos detectados: ['2040306023079082']
+2025-05-19 02:32:33,893 - OTWMusicSystem - INFO - Configuración guardada en: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\config\config.json
+2025-05-19 02:32:33,894 - OTWMusicSystem - INFO - Archivo playlists copiado a C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\data\playlists.txt
+2025-05-19 02:32:38,451 - ArtistPlayer - INFO - Iniciando modo de reproducción de artistas
+2025-05-19 02:32:38,452 - ArtistPlayer - DEBUG - Intentando cargar artistas desde: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\scripts\..\data\artists.txt
+2025-05-19 02:32:38,452 - ArtistPlayer - DEBUG - Contenido de artists.txt antes de cargar: ['https://open.spotify.com/artist/4iYKhDCuNXSSrli6AOH6cw?si=U3AzuXkVQ1uFgEVUFy908w\n', 'https://open.spotify.com/artist/3o9yGahQLPpDLMI6dABpIr?si=f8sTAXSOSoOf-DHKLlKGUQ\n', 'https://open.spotify.com/artist/77slAN1w8sLCiCGwiZmNEF?si=qZJ3vMa6TKGYJM_VhpXSLA\n', 'https://open.spotify.com/artist/7A2DajzYPQX61nWxGqZx8J?si=QSu1LhWuRS6Dthp58-ggFA\n', 'https://open.spotify.com/artist/47wHz4LqcznFnKtMKzycK9?si=PUkRzJYUSQeOd-wguY7CgA\n']
+2025-05-19 02:32:38,452 - ArtistPlayer - INFO - Artistas cargados: 7
+2025-05-19 02:32:38,452 - ArtistPlayer - DEBUG - Ejemplos de artistas: ['https://open.spotify.com/artist/4iYKhDCuNXSSrli6AOH6cw?si=U3AzuXkVQ1uFgEVUFy908w', 'https://open.spotify.com/artist/3o9yGahQLPpDLMI6dABpIr?si=f8sTAXSOSoOf-DHKLlKGUQ', 'https://open.spotify.com/artist/77slAN1w8sLCiCGwiZmNEF?si=qZJ3vMa6TKGYJM_VhpXSLA']
+2025-05-19 02:32:38,453 - ArtistPlayer - DEBUG - Obteniendo dispositivos conectados
+2025-05-19 02:32:38,472 - ArtistPlayer - DEBUG - Resultado de 'adb devices':
+List of devices attached
+2040306023079082	device
+
+
+2025-05-19 02:32:38,472 - ArtistPlayer - INFO - Dispositivos conectados: ['2040306023079082']
+2025-05-19 02:32:38,473 - ArtistPlayer - INFO - Iniciando ciclo de reproducción de artistas
+2025-05-19 02:32:38,473 - ArtistPlayer - INFO - Procesando dispositivo: 2040306023079082
+2025-05-19 02:32:38,481 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 02:32:38,626 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 02:32:38,626 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 02:32:38,637 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:32:38,639 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:32:38,652 - uiautomator2.core - DEBUG - launch uiautomator with cmd: CLASSPATH=/data/local/tmp/u2.jar app_process / com.wetest.uia2.Main
+2025-05-19 02:32:38,672 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 02:32:38,683 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:32:38,684 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:32:39,196 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 02:32:39,207 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:32:39,208 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:32:39,725 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 02:32:39,735 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:32:39,737 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:32:40,248 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 02:32:40,259 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:32:40,261 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:32:40,261 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: [UiAutomator2Server] Starting Server'
+2025-05-19 02:32:40,262 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 02:32:40,773 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 02:32:40,773 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:32:40,775 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:32:40,907 - uiautomator2.core - DEBUG - MockAdbProcess: b'SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".\n'
+2025-05-19 02:32:40,908 - uiautomator2.core - DEBUG - MockAdbProcess: b'SLF4J: Defaulting to no-operation (NOP) logger implementation\n'
+2025-05-19 02:32:40,909 - uiautomator2.core - DEBUG - MockAdbProcess: b'SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.\n'
+2025-05-19 02:32:41,291 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 02:32:41,302 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:32:41,303 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:32:41,460 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: clipboardManager inited'
+2025-05-19 02:32:41,462 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 02:32:41,471 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: tmpdir is /data/local/tmp/u2\n'
+2025-05-19 02:32:41,498 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: http server listening on *:9008'
+2025-05-19 02:32:41,499 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 02:32:41,814 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 02:32:41,825 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:32:41,826 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:32:41,866 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "GET /ping HTTP/1.1" 200 4
+2025-05-19 02:32:41,867 - ArtistPlayer - INFO - Artista seleccionado para 2040306023079082: https://open.spotify.com/artist/3o9yGahQLPpDLMI6dABpIr?si=f8sTAXSOSoOf-DHKLlKGUQ
+2025-05-19 02:32:41,867 - ArtistPlayer - INFO - Abriendo artista en 2040306023079082: https://open.spotify.com/artist/3o9yGahQLPpDLMI6dABpIr?si=f8sTAXSOSoOf-DHKLlKGUQ
+2025-05-19 02:32:41,875 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 02:32:41,977 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 02:32:41,977 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 02:32:41,978 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:32:41,979 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:32:41,996 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "GET /ping HTTP/1.1" 200 4
+2025-05-19 02:32:41,997 - ArtistPlayer - DEBUG - Presionando botón Home
+2025-05-19 02:32:41,998 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'pressKey', 'params': ('home',)}
+2025-05-19 02:32:41,999 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:32:42,000 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:32:42,737 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:32:43,751 - ArtistPlayer - DEBUG - Ejecutando intent para abrir URL: https://open.spotify.com/artist/3o9yGahQLPpDLMI6dABpIr?si=f8sTAXSOSoOf-DHKLlKGUQ
+2025-05-19 02:32:43,950 - ArtistPlayer - DEBUG - Resultado del intent: Starting: Intent { act=android.intent.action.VIEW dat=https://open.spotify.com/... }
+
+2025-05-19 02:32:43,950 - ArtistPlayer - WARNING - Error en intent: Warning: Activity not started, its current task has been brought to the front
+
+2025-05-19 02:32:43,951 - ArtistPlayer - DEBUG - Esperando a que se abra la aplicación
+2025-05-19 02:32:49,951 - ArtistPlayer - DEBUG - Verificando si aparece diálogo 'Abrir con'
+2025-05-19 02:32:49,951 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 2, 'childOrSibling': [], 'childOrSiblingSelector': [], 'textContains': 'Spotify'}, 5000)}
+2025-05-19 02:32:49,952 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:32:49,954 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:32:55,602 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:32:55,603 - ArtistPlayer - INFO - Diálogo 'Abrir con' detectado (texto: Spotify)
+2025-05-19 02:32:55,603 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 2, 'childOrSibling': [], 'childOrSiblingSelector': [], 'textContains': 'Spotify'}, 20000)}
+2025-05-19 02:32:55,604 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:32:55,605 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:32:55,887 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:32:55,896 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'objInfo', 'params': ({'mask': 2, 'childOrSibling': [], 'childOrSiblingSelector': [], 'textContains': 'Spotify'},)}
+2025-05-19 02:32:55,897 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:32:55,898 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:32:56,796 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 548
+2025-05-19 02:32:56,798 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'click', 'params': (240.0, 475.0)}
+2025-05-19 02:32:56,798 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:32:56,800 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:32:57,070 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:32:57,078 - ArtistPlayer - DEBUG - Seleccionando Spotify como app predeterminada
+2025-05-19 02:32:59,079 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'exist', 'params': ({'mask': 2, 'childOrSibling': [], 'childOrSiblingSelector': [], 'textContains': 'Siempre'},)}
+2025-05-19 02:32:59,080 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:32:59,082 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:32:59,272 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-19 02:32:59,277 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'exist', 'params': ({'mask': 2, 'childOrSibling': [], 'childOrSiblingSelector': [], 'textContains': 'Always'},)}
+2025-05-19 02:32:59,288 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:32:59,289 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:32:59,455 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-19 02:32:59,456 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'exist', 'params': ({'mask': 2, 'childOrSibling': [], 'childOrSiblingSelector': [], 'textContains': 'Just once'},)}
+2025-05-19 02:32:59,467 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:32:59,468 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:32:59,638 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-19 02:32:59,639 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'exist', 'params': ({'mask': 2, 'childOrSibling': [], 'childOrSiblingSelector': [], 'textContains': 'Solo esta vez'},)}
+2025-05-19 02:32:59,651 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:32:59,652 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:32:59,884 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-19 02:32:59,885 - ArtistPlayer - DEBUG - Esperando a que cargue completamente
+2025-05-19 02:33:05,886 - ArtistPlayer - DEBUG - Capturando pantalla en C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\scripts\..\screenshots\artist_player_2040306023079082_20250519_023305.png
+2025-05-19 02:33:05,886 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'takeScreenshot', 'params': (1, 80)}
+2025-05-19 02:33:05,887 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:33:05,888 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:33:08,117 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 61227
+2025-05-19 02:33:08,202 - ArtistPlayer - DEBUG - Captura de pantalla guardada en C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\scripts\..\screenshots\artist_player_2040306023079082_20250519_023305.png
+2025-05-19 02:33:08,202 - ArtistPlayer - DEBUG - Verificando si Spotify está en primer plano en 2040306023079082
+2025-05-19 02:33:08,627 - ArtistPlayer - INFO - Spotify está en primer plano en 2040306023079082
+2025-05-19 02:33:08,627 - ArtistPlayer - INFO - Artista abierto correctamente en 2040306023079082
+2025-05-19 02:33:08,628 - ArtistPlayer - INFO - Buscando y presionando botón de seguir en 2040306023079082
+2025-05-19 02:33:08,628 - ArtistPlayer - DEBUG - Buscando botón por texto
+2025-05-19 02:33:08,628 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 4, 'childOrSibling': [], 'childOrSiblingSelector': [], 'textMatches': '(?i)Follow'}, 6000)}
+2025-05-19 02:33:08,629 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:33:08,630 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:33:14,864 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-19 02:33:14,870 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 4, 'childOrSibling': [], 'childOrSiblingSelector': [], 'textMatches': '(?i)Seguir'}, 6000)}
+2025-05-19 02:33:14,881 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:33:14,883 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:33:21,009 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-19 02:33:21,011 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 4, 'childOrSibling': [], 'childOrSiblingSelector': [], 'textMatches': '(?i)FOLLOW'}, 6000)}
+2025-05-19 02:33:21,012 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:33:21,014 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:33:27,222 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-19 02:33:27,229 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 4, 'childOrSibling': [], 'childOrSiblingSelector': [], 'textMatches': '(?i)SEGUIR'}, 6000)}
+2025-05-19 02:33:27,229 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:33:27,231 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:33:33,287 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-19 02:33:33,289 - ArtistPlayer - DEBUG - Buscando botón por resource-id
+2025-05-19 02:33:33,290 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 2097152, 'childOrSibling': [], 'childOrSiblingSelector': [], 'resourceId': 'com.spotify.music:id/follow_button'}, 5000)}
+2025-05-19 02:33:33,290 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:33:33,292 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:33:33,446 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:33:33,448 - ArtistPlayer - DEBUG - Botón encontrado por resource-id: com.spotify.music:id/follow_button
+2025-05-19 02:33:33,448 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 2097152, 'childOrSibling': [], 'childOrSiblingSelector': [], 'resourceId': 'com.spotify.music:id/follow_button'}, 20000)}
+2025-05-19 02:33:33,459 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:33:33,460 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:33:33,596 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:33:33,598 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'objInfo', 'params': ({'mask': 2097152, 'childOrSibling': [], 'childOrSiblingSelector': [], 'resourceId': 'com.spotify.music:id/follow_button'},)}
+2025-05-19 02:33:33,609 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:33:33,610 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:33:34,138 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 502
+2025-05-19 02:33:34,140 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'click', 'params': (158.5, 356.5)}
+2025-05-19 02:33:34,141 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:33:34,142 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:33:34,355 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:33:36,358 - ArtistPlayer - INFO - Botón de seguir presionado en 2040306023079082
+2025-05-19 02:33:36,358 - ArtistPlayer - INFO - Intentando activar modo aleatorio en 2040306023079082
+2025-05-19 02:33:36,358 - ArtistPlayer - DEBUG - Buscando botón shuffle por descripción
+2025-05-19 02:33:36,358 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 128, 'childOrSibling': [], 'childOrSiblingSelector': [], 'descriptionContains': 'Shuffle'}, 5000)}
+2025-05-19 02:33:36,359 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:33:36,361 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:33:41,569 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-19 02:33:41,572 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 128, 'childOrSibling': [], 'childOrSiblingSelector': [], 'descriptionContains': 'Aleatorio'}, 5000)}
+2025-05-19 02:33:41,573 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:33:41,574 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:33:46,753 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-19 02:33:46,756 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 128, 'childOrSibling': [], 'childOrSiblingSelector': [], 'descriptionContains': 'shuffle'}, 5000)}
+2025-05-19 02:33:46,766 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:33:46,768 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:33:46,901 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:33:46,904 - ArtistPlayer - DEBUG - Botón shuffle encontrado por descripción: shuffle
+2025-05-19 02:33:46,904 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 128, 'childOrSibling': [], 'childOrSiblingSelector': [], 'descriptionContains': 'shuffle'}, 20000)}
+2025-05-19 02:33:46,905 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:33:46,906 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:33:47,060 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:33:47,069 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'objInfo', 'params': ({'mask': 128, 'childOrSibling': [], 'childOrSiblingSelector': [], 'descriptionContains': 'shuffle'},)}
+2025-05-19 02:33:47,070 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:33:47,071 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:33:47,511 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 524
+2025-05-19 02:33:47,519 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'click', 'params': (359.0, 353.0)}
+2025-05-19 02:33:47,520 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:33:47,521 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:33:47,739 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:33:49,741 - ArtistPlayer - INFO - Modo aleatorio activado en 2040306023079082
+2025-05-19 02:33:49,741 - ArtistPlayer - INFO - Buscando y presionando botón de reproducción en 2040306023079082
+2025-05-19 02:33:49,741 - ArtistPlayer - DEBUG - Buscando botón por descripción
+2025-05-19 02:33:49,742 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 128, 'childOrSibling': [], 'childOrSiblingSelector': [], 'descriptionContains': 'Play'}, 8000)}
+2025-05-19 02:33:49,743 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:33:49,744 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:33:49,903 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:33:49,908 - ArtistPlayer - DEBUG - Botón encontrado por descripción: Play
+2025-05-19 02:33:49,908 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'objInfo', 'params': ({'mask': 128, 'childOrSibling': [], 'childOrSiblingSelector': [], 'descriptionContains': 'Play'},)}
+2025-05-19 02:33:49,919 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:33:49,920 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:33:50,206 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 536
+2025-05-19 02:33:50,211 - ArtistPlayer - DEBUG - Presionando botón en posición: {'bottom': 33, 'left': 154, 'right': 184, 'top': 0}
+2025-05-19 02:33:50,211 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 128, 'childOrSibling': [], 'childOrSiblingSelector': [], 'descriptionContains': 'Play'}, 20000)}
+2025-05-19 02:33:50,221 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:33:50,223 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:33:50,325 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:33:50,326 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'objInfo', 'params': ({'mask': 128, 'childOrSibling': [], 'childOrSiblingSelector': [], 'descriptionContains': 'Play'},)}
+2025-05-19 02:33:50,337 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:33:50,339 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:33:50,615 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 536
+2025-05-19 02:33:50,622 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'click', 'params': (169.0, 16.5)}
+2025-05-19 02:33:50,623 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:33:50,624 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:33:51,028 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:33:53,029 - ArtistPlayer - DEBUG - Capturando pantalla en C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\scripts\..\screenshots\artist_player_2040306023079082_20250519_023353.png
+2025-05-19 02:33:53,029 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'takeScreenshot', 'params': (1, 80)}
+2025-05-19 02:33:53,030 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:33:53,032 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:33:53,263 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 71009
+2025-05-19 02:33:53,325 - ArtistPlayer - DEBUG - Captura de pantalla guardada en C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\scripts\..\screenshots\artist_player_2040306023079082_20250519_023353.png
+2025-05-19 02:33:53,325 - ArtistPlayer - INFO - Botón de reproducción presionado en 2040306023079082
+2025-05-19 02:33:53,326 - ArtistPlayer - INFO - Reproduciendo artista durante 496 segundos
+2025-05-19 02:35:03,328 - ArtistPlayer - DEBUG - Simulando interacción humana en 2040306023079082
+2025-05-19 02:35:03,328 - ArtistPlayer - DEBUG - Obteniendo dimensiones de pantalla para 2040306023079082
+2025-05-19 02:35:03,496 - ArtistPlayer - DEBUG - Resultado de 'wm size': Physical size: 480x960
+2025-05-19 02:35:03,496 - ArtistPlayer - DEBUG - Dimensiones obtenidas: 480x960
+2025-05-19 02:35:03,496 - ArtistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-19 02:35:03,496 - uiautomator2 - DEBUG - swipe from (240.0, 288.0) to (240.0, 672.0), steps: 55
+2025-05-19 02:35:03,497 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'swipe', 'params': (240.0, 288.0, 240.0, 672.0, 55)}
+2025-05-19 02:35:03,497 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:35:03,499 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:35:05,227 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:35:06,456 - ArtistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-19 02:35:06,456 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'click', 'params': (352, 305)}
+2025-05-19 02:35:06,467 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:35:06,468 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:35:06,669 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:35:08,944 - ArtistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-19 02:35:08,944 - uiautomator2 - DEBUG - swipe from (240.0, 672.0) to (240.0, 288.0), steps: 55
+2025-05-19 02:35:08,944 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'swipe', 'params': (240.0, 672.0, 240.0, 288.0, 55)}
+2025-05-19 02:35:08,946 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:35:08,947 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:35:11,102 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:35:12,397 - ArtistPlayer - DEBUG - Interacción humana simulada en 2040306023079082
+2025-05-19 02:35:42,397 - ArtistPlayer - DEBUG - Simulando interacción humana en 2040306023079082
+2025-05-19 02:35:42,397 - ArtistPlayer - DEBUG - Obteniendo dimensiones de pantalla para 2040306023079082
+2025-05-19 02:35:42,658 - ArtistPlayer - DEBUG - Resultado de 'wm size': Physical size: 480x960
+2025-05-19 02:35:42,658 - ArtistPlayer - DEBUG - Dimensiones obtenidas: 480x960
+2025-05-19 02:35:42,658 - ArtistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-19 02:35:42,658 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'click', 'params': (235, 374)}
+2025-05-19 02:35:42,659 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:35:42,660 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:35:42,864 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:35:45,642 - ArtistPlayer - DEBUG - Interacción humana simulada en 2040306023079082
+2025-05-19 02:35:55,642 - ArtistPlayer - DEBUG - Simulando interacción humana en 2040306023079082
+2025-05-19 02:35:55,642 - ArtistPlayer - DEBUG - Obteniendo dimensiones de pantalla para 2040306023079082
+2025-05-19 02:35:55,895 - ArtistPlayer - DEBUG - Resultado de 'wm size': Physical size: 480x960
+2025-05-19 02:35:55,895 - ArtistPlayer - DEBUG - Dimensiones obtenidas: 480x960
+2025-05-19 02:35:55,896 - ArtistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-19 02:35:55,896 - uiautomator2 - DEBUG - swipe from (240.0, 288.0) to (240.0, 672.0), steps: 55
+2025-05-19 02:35:55,896 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'swipe', 'params': (240.0, 288.0, 240.0, 672.0, 55)}
+2025-05-19 02:35:55,907 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:35:55,908 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:35:57,850 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:35:58,988 - ArtistPlayer - DEBUG - Interacción humana simulada en 2040306023079082
+2025-05-19 02:36:38,989 - ArtistPlayer - DEBUG - Simulando interacción humana en 2040306023079082
+2025-05-19 02:36:38,989 - ArtistPlayer - DEBUG - Obteniendo dimensiones de pantalla para 2040306023079082
+2025-05-19 02:36:39,180 - ArtistPlayer - DEBUG - Resultado de 'wm size': Physical size: 480x960
+2025-05-19 02:36:39,181 - ArtistPlayer - DEBUG - Dimensiones obtenidas: 480x960
+2025-05-19 02:36:39,181 - ArtistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-19 02:36:39,181 - uiautomator2 - DEBUG - swipe from (240.0, 288.0) to (240.0, 672.0), steps: 55
+2025-05-19 02:36:39,181 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'swipe', 'params': (240.0, 288.0, 240.0, 672.0, 55)}
+2025-05-19 02:36:39,182 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:36:39,184 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:36:40,979 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:36:43,447 - ArtistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-19 02:36:43,447 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'click', 'params': (226, 462)}
+2025-05-19 02:36:43,448 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:36:43,455 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:36:43,680 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:36:44,990 - ArtistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-19 02:36:44,991 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'click', 'params': (241, 534)}
+2025-05-19 02:36:44,992 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:36:44,993 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:36:45,209 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:36:47,923 - ArtistPlayer - DEBUG - Interacción humana simulada en 2040306023079082
+2025-05-19 02:37:27,924 - ArtistPlayer - DEBUG - Simulando interacción humana en 2040306023079082
+2025-05-19 02:37:27,924 - ArtistPlayer - DEBUG - Obteniendo dimensiones de pantalla para 2040306023079082
+2025-05-19 02:37:28,189 - ArtistPlayer - DEBUG - Resultado de 'wm size': Physical size: 480x960
+2025-05-19 02:37:28,190 - ArtistPlayer - DEBUG - Dimensiones obtenidas: 480x960
+2025-05-19 02:37:28,190 - ArtistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-19 02:37:28,190 - uiautomator2 - DEBUG - swipe from (240.0, 288.0) to (240.0, 672.0), steps: 55
+2025-05-19 02:37:28,190 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'swipe', 'params': (240.0, 288.0, 240.0, 672.0, 55)}
+2025-05-19 02:37:28,201 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:37:28,203 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:37:29,981 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:37:32,689 - ArtistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-19 02:37:32,689 - uiautomator2 - DEBUG - swipe from (240.0, 672.0) to (240.0, 288.0), steps: 55
+2025-05-19 02:37:32,689 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'swipe', 'params': (240.0, 672.0, 240.0, 288.0, 55)}
+2025-05-19 02:37:32,690 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:37:32,691 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:37:34,732 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:37:36,086 - ArtistPlayer - DEBUG - Interacción humana simulada en 2040306023079082
+2025-05-19 02:39:36,089 - ArtistPlayer - DEBUG - Simulando interacción humana en 2040306023079082
+2025-05-19 02:39:36,089 - ArtistPlayer - DEBUG - Obteniendo dimensiones de pantalla para 2040306023079082
+2025-05-19 02:39:36,402 - ArtistPlayer - DEBUG - Resultado de 'wm size': Physical size: 480x960
+2025-05-19 02:39:36,402 - ArtistPlayer - DEBUG - Dimensiones obtenidas: 480x960
+2025-05-19 02:39:36,402 - ArtistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-19 02:39:37,504 - ArtistPlayer - DEBUG - Interacción humana simulada en 2040306023079082
+2025-05-19 02:40:17,506 - ArtistPlayer - DEBUG - Simulando interacción humana en 2040306023079082
+2025-05-19 02:40:17,506 - ArtistPlayer - DEBUG - Obteniendo dimensiones de pantalla para 2040306023079082
+2025-05-19 02:40:17,748 - ArtistPlayer - DEBUG - Resultado de 'wm size': Physical size: 480x960
+2025-05-19 02:40:17,748 - ArtistPlayer - DEBUG - Dimensiones obtenidas: 480x960
+2025-05-19 02:40:17,748 - ArtistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-19 02:40:17,748 - uiautomator2 - DEBUG - swipe from (240.0, 288.0) to (240.0, 672.0), steps: 55
+2025-05-19 02:40:17,748 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'swipe', 'params': (240.0, 288.0, 240.0, 672.0, 55)}
+2025-05-19 02:40:17,760 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:40:17,762 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:40:19,791 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:40:22,100 - ArtistPlayer - DEBUG - Interacción humana simulada en 2040306023079082
+2025-05-19 02:40:42,101 - ArtistPlayer - DEBUG - Simulando interacción humana en 2040306023079082
+2025-05-19 02:40:42,101 - ArtistPlayer - DEBUG - Obteniendo dimensiones de pantalla para 2040306023079082
+2025-05-19 02:40:42,330 - ArtistPlayer - DEBUG - Resultado de 'wm size': Physical size: 480x960
+2025-05-19 02:40:42,331 - ArtistPlayer - DEBUG - Dimensiones obtenidas: 480x960
+2025-05-19 02:40:42,331 - ArtistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-19 02:40:42,331 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'click', 'params': (159, 568)}
+2025-05-19 02:40:42,332 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:40:42,333 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:40:42,562 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:40:44,788 - ArtistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-19 02:40:44,788 - uiautomator2 - DEBUG - swipe from (240.0, 672.0) to (240.0, 288.0), steps: 55
+2025-05-19 02:40:44,789 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'swipe', 'params': (240.0, 672.0, 240.0, 288.0, 55)}
+2025-05-19 02:40:44,800 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:40:44,801 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:40:47,080 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:40:48,725 - ArtistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-19 02:40:48,725 - uiautomator2 - DEBUG - swipe from (240.0, 288.0) to (240.0, 672.0), steps: 55
+2025-05-19 02:40:48,725 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'swipe', 'params': (240.0, 288.0, 240.0, 672.0, 55)}
+2025-05-19 02:40:48,736 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:40:48,737 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:40:50,905 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:40:52,057 - ArtistPlayer - DEBUG - Interacción humana simulada en 2040306023079082
+2025-05-19 02:41:02,058 - ArtistPlayer - DEBUG - Simulando interacción humana en 2040306023079082
+2025-05-19 02:41:02,058 - ArtistPlayer - DEBUG - Obteniendo dimensiones de pantalla para 2040306023079082
+2025-05-19 02:41:02,249 - ArtistPlayer - DEBUG - Resultado de 'wm size': Physical size: 480x960
+2025-05-19 02:41:02,249 - ArtistPlayer - DEBUG - Dimensiones obtenidas: 480x960
+2025-05-19 02:41:02,249 - ArtistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-19 02:41:02,249 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'click', 'params': (191, 297)}
+2025-05-19 02:41:02,261 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:41:02,262 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:41:02,440 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:41:04,687 - ArtistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-19 02:41:04,687 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'click', 'params': (209, 407)}
+2025-05-19 02:41:04,688 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:41:04,689 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:41:04,908 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:41:06,378 - ArtistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-19 02:41:06,378 - uiautomator2 - DEBUG - swipe from (240.0, 672.0) to (240.0, 288.0), steps: 55
+2025-05-19 02:41:06,379 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'swipe', 'params': (240.0, 672.0, 240.0, 288.0, 55)}
+2025-05-19 02:41:06,379 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:41:06,381 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:41:08,368 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:41:10,443 - ArtistPlayer - DEBUG - Interacción humana simulada en 2040306023079082
+2025-05-19 02:41:30,444 - ArtistPlayer - DEBUG - Simulando interacción humana en 2040306023079082
+2025-05-19 02:41:30,444 - ArtistPlayer - DEBUG - Obteniendo dimensiones de pantalla para 2040306023079082
+2025-05-19 02:41:30,651 - ArtistPlayer - DEBUG - Resultado de 'wm size': Physical size: 480x960
+2025-05-19 02:41:30,652 - ArtistPlayer - DEBUG - Dimensiones obtenidas: 480x960
+2025-05-19 02:41:30,652 - ArtistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-19 02:41:32,810 - ArtistPlayer - DEBUG - Interacción humana simulada en 2040306023079082
+2025-05-19 02:42:12,812 - ArtistPlayer - INFO - Reproducción completada para 2040306023079082
+2025-05-19 02:42:12,812 - ArtistPlayer - INFO - Esperando 1 minutos antes del siguiente ciclo
+2025-05-19 02:43:12,813 - ArtistPlayer - INFO - Iniciando ciclo de reproducción de artistas
+2025-05-19 02:43:12,813 - ArtistPlayer - INFO - Procesando dispositivo: 2040306023079082
+2025-05-19 02:43:12,821 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 02:43:12,969 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 02:43:12,969 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 02:43:12,980 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:43:12,981 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:43:13,002 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "GET /ping HTTP/1.1" 200 4
+2025-05-19 02:43:13,004 - ArtistPlayer - INFO - Artista seleccionado para 2040306023079082: https://open.spotify.com/artist/0n41JlcxRaal6UxIXgOruw?si=vVaxZy3NQZiZVHzEZk0ytw
+2025-05-19 02:43:13,004 - ArtistPlayer - INFO - Abriendo artista en 2040306023079082: https://open.spotify.com/artist/0n41JlcxRaal6UxIXgOruw?si=vVaxZy3NQZiZVHzEZk0ytw
+2025-05-19 02:43:13,023 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 02:43:13,196 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 02:43:13,196 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 02:43:13,197 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:43:13,198 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:43:13,242 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "GET /ping HTTP/1.1" 200 4
+2025-05-19 02:43:13,244 - ArtistPlayer - DEBUG - Presionando botón Home
+2025-05-19 02:43:13,244 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'pressKey', 'params': ('home',)}
+2025-05-19 02:43:13,255 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:43:13,257 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:43:13,827 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:43:14,828 - ArtistPlayer - DEBUG - Ejecutando intent para abrir URL: https://open.spotify.com/artist/0n41JlcxRaal6UxIXgOruw?si=vVaxZy3NQZiZVHzEZk0ytw
+2025-05-19 02:43:15,293 - ArtistPlayer - DEBUG - Resultado del intent: Starting: Intent { act=android.intent.action.VIEW dat=https://open.spotify.com/... }
+
+2025-05-19 02:43:15,293 - ArtistPlayer - WARNING - Error en intent: Warning: Activity not started, its current task has been brought to the front
+
+2025-05-19 02:43:15,293 - ArtistPlayer - DEBUG - Esperando a que se abra la aplicación
+2025-05-19 02:43:21,294 - ArtistPlayer - DEBUG - Verificando si aparece diálogo 'Abrir con'
+2025-05-19 02:43:21,294 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 2, 'childOrSibling': [], 'childOrSiblingSelector': [], 'textContains': 'Spotify'}, 5000)}
+2025-05-19 02:43:21,305 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:43:21,306 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:43:21,545 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:43:21,546 - ArtistPlayer - INFO - Diálogo 'Abrir con' detectado (texto: Spotify)
+2025-05-19 02:43:21,547 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 2, 'childOrSibling': [], 'childOrSiblingSelector': [], 'textContains': 'Spotify'}, 20000)}
+2025-05-19 02:43:21,557 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:43:21,559 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:43:21,755 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:43:21,758 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'objInfo', 'params': ({'mask': 2, 'childOrSibling': [], 'childOrSiblingSelector': [], 'textContains': 'Spotify'},)}
+2025-05-19 02:43:21,769 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:43:21,770 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:43:22,255 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 548
+2025-05-19 02:43:22,255 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'click', 'params': (240.0, 475.0)}
+2025-05-19 02:43:22,256 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:43:22,257 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:43:22,511 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:43:22,512 - ArtistPlayer - DEBUG - Seleccionando Spotify como app predeterminada
+2025-05-19 02:43:24,512 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'exist', 'params': ({'mask': 2, 'childOrSibling': [], 'childOrSiblingSelector': [], 'textContains': 'Siempre'},)}
+2025-05-19 02:43:24,523 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:43:24,524 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:43:24,595 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-19 02:43:24,597 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'exist', 'params': ({'mask': 2, 'childOrSibling': [], 'childOrSiblingSelector': [], 'textContains': 'Always'},)}
+2025-05-19 02:43:24,607 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:43:24,609 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:43:24,767 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-19 02:43:24,770 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'exist', 'params': ({'mask': 2, 'childOrSibling': [], 'childOrSiblingSelector': [], 'textContains': 'Just once'},)}
+2025-05-19 02:43:24,781 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:43:24,783 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:43:24,909 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-19 02:43:24,913 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'exist', 'params': ({'mask': 2, 'childOrSibling': [], 'childOrSiblingSelector': [], 'textContains': 'Solo esta vez'},)}
+2025-05-19 02:43:24,914 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:43:24,915 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:43:25,085 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-19 02:43:25,086 - ArtistPlayer - DEBUG - Esperando a que cargue completamente
+2025-05-19 02:43:31,086 - ArtistPlayer - DEBUG - Capturando pantalla en C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\scripts\..\screenshots\artist_player_2040306023079082_20250519_024331.png
+2025-05-19 02:43:31,086 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'takeScreenshot', 'params': (1, 80)}
+2025-05-19 02:43:31,097 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:43:31,099 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:43:31,351 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 57171
+2025-05-19 02:43:31,423 - ArtistPlayer - DEBUG - Captura de pantalla guardada en C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\scripts\..\screenshots\artist_player_2040306023079082_20250519_024331.png
+2025-05-19 02:43:31,423 - ArtistPlayer - DEBUG - Verificando si Spotify está en primer plano en 2040306023079082
+2025-05-19 02:43:31,786 - ArtistPlayer - INFO - Spotify está en primer plano en 2040306023079082
+2025-05-19 02:43:31,786 - ArtistPlayer - INFO - Artista abierto correctamente en 2040306023079082
+2025-05-19 02:43:31,786 - ArtistPlayer - INFO - Buscando y presionando botón de seguir en 2040306023079082
+2025-05-19 02:43:31,787 - ArtistPlayer - DEBUG - Buscando botón por texto
+2025-05-19 02:43:31,787 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 4, 'childOrSibling': [], 'childOrSiblingSelector': [], 'textMatches': '(?i)Follow'}, 6000)}
+2025-05-19 02:43:31,788 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:43:31,789 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:43:37,878 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-19 02:43:37,882 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 4, 'childOrSibling': [], 'childOrSiblingSelector': [], 'textMatches': '(?i)Seguir'}, 6000)}
+2025-05-19 02:43:37,892 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:43:37,894 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:43:44,086 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-19 02:43:44,089 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 4, 'childOrSibling': [], 'childOrSiblingSelector': [], 'textMatches': '(?i)FOLLOW'}, 6000)}
+2025-05-19 02:43:44,101 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:43:44,102 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:43:50,236 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-19 02:43:50,237 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 4, 'childOrSibling': [], 'childOrSiblingSelector': [], 'textMatches': '(?i)SEGUIR'}, 6000)}
+2025-05-19 02:43:50,248 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:43:50,249 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:43:56,311 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-19 02:43:56,312 - ArtistPlayer - DEBUG - Buscando botón por resource-id
+2025-05-19 02:43:56,313 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 2097152, 'childOrSibling': [], 'childOrSiblingSelector': [], 'resourceId': 'com.spotify.music:id/follow_button'}, 5000)}
+2025-05-19 02:43:56,324 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:43:56,326 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:44:01,499 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-19 02:44:01,502 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 2097152, 'childOrSibling': [], 'childOrSiblingSelector': [], 'resourceId': 'com.spotify.music:id/follow_artist_button'}, 5000)}
+2025-05-19 02:44:01,513 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:44:01,515 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:44:06,705 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-19 02:44:06,707 - ArtistPlayer - DEBUG - Usando coordenadas aproximadas para botón de seguir
+2025-05-19 02:44:06,707 - ArtistPlayer - DEBUG - Obteniendo dimensiones de pantalla para 2040306023079082
+2025-05-19 02:44:06,980 - ArtistPlayer - DEBUG - Resultado de 'wm size': Physical size: 480x960
+2025-05-19 02:44:06,981 - ArtistPlayer - DEBUG - Dimensiones obtenidas: 480x960
+2025-05-19 02:44:06,981 - ArtistPlayer - DEBUG - Presionando en coordenadas aproximadas: (330, 150)
+2025-05-19 02:44:06,981 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'click', 'params': (330, 150)}
+2025-05-19 02:44:06,981 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:44:06,984 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:44:07,167 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:44:09,169 - ArtistPlayer - INFO - Botón de seguir presionado en 2040306023079082
+2025-05-19 02:44:09,169 - ArtistPlayer - INFO - Intentando activar modo aleatorio en 2040306023079082
+2025-05-19 02:44:09,169 - ArtistPlayer - DEBUG - Buscando botón shuffle por descripción
+2025-05-19 02:44:09,169 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 128, 'childOrSibling': [], 'childOrSiblingSelector': [], 'descriptionContains': 'Shuffle'}, 5000)}
+2025-05-19 02:44:09,170 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:44:09,171 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:44:14,267 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-19 02:44:14,275 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 128, 'childOrSibling': [], 'childOrSiblingSelector': [], 'descriptionContains': 'Aleatorio'}, 5000)}
+2025-05-19 02:44:14,286 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:44:14,288 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:44:19,367 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-19 02:44:19,369 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 128, 'childOrSibling': [], 'childOrSiblingSelector': [], 'descriptionContains': 'shuffle'}, 5000)}
+2025-05-19 02:44:19,370 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:44:19,371 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:44:24,466 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-19 02:44:24,473 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 128, 'childOrSibling': [], 'childOrSiblingSelector': [], 'descriptionContains': 'aleatorio'}, 5000)}
+2025-05-19 02:44:24,484 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:44:24,485 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:44:29,671 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-19 02:44:29,672 - ArtistPlayer - DEBUG - Buscando botón shuffle por texto
+2025-05-19 02:44:29,673 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 2, 'childOrSibling': [], 'childOrSiblingSelector': [], 'textContains': 'Shuffle'}, 5000)}
+2025-05-19 02:44:29,684 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:44:29,686 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:44:34,787 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-19 02:44:34,788 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 2, 'childOrSibling': [], 'childOrSiblingSelector': [], 'textContains': 'Aleatorio'}, 5000)}
+2025-05-19 02:44:34,800 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:44:34,801 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:44:39,908 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-19 02:44:39,911 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 2, 'childOrSibling': [], 'childOrSiblingSelector': [], 'textContains': 'SHUFFLE'}, 5000)}
+2025-05-19 02:44:39,911 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:44:39,913 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:44:45,087 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-19 02:44:45,091 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 2, 'childOrSibling': [], 'childOrSiblingSelector': [], 'textContains': 'ALEATORIO'}, 5000)}
+2025-05-19 02:44:45,103 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:44:45,104 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:44:50,146 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-19 02:44:50,149 - ArtistPlayer - DEBUG - Buscando botón shuffle por resource-id
+2025-05-19 02:44:50,149 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 2097152, 'childOrSibling': [], 'childOrSiblingSelector': [], 'resourceId': 'com.spotify.music:id/shuffle_button'}, 5000)}
+2025-05-19 02:44:50,160 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:44:50,162 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:44:53,626 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:44:53,627 - ArtistPlayer - DEBUG - Botón shuffle encontrado por resource-id: com.spotify.music:id/shuffle_button
+2025-05-19 02:44:53,627 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 2097152, 'childOrSibling': [], 'childOrSiblingSelector': [], 'resourceId': 'com.spotify.music:id/shuffle_button'}, 20000)}
+2025-05-19 02:44:53,628 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:44:53,629 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:44:53,719 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:44:53,722 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'objInfo', 'params': ({'mask': 2097152, 'childOrSibling': [], 'childOrSiblingSelector': [], 'resourceId': 'com.spotify.music:id/shuffle_button'},)}
+2025-05-19 02:44:53,732 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:44:53,734 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:44:53,923 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 523
+2025-05-19 02:44:53,924 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'click', 'params': (359.0, 353.0)}
+2025-05-19 02:44:53,925 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:44:53,927 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:44:54,108 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:44:56,112 - ArtistPlayer - INFO - Modo aleatorio activado en 2040306023079082
+2025-05-19 02:44:56,112 - ArtistPlayer - INFO - Buscando y presionando botón de reproducción en 2040306023079082
+2025-05-19 02:44:56,113 - ArtistPlayer - DEBUG - Buscando botón por descripción
+2025-05-19 02:44:56,113 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 128, 'childOrSibling': [], 'childOrSiblingSelector': [], 'descriptionContains': 'Play'}, 8000)}
+2025-05-19 02:44:56,114 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:44:56,115 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:44:56,192 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:44:56,194 - ArtistPlayer - DEBUG - Botón encontrado por descripción: Play
+2025-05-19 02:44:56,194 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'objInfo', 'params': ({'mask': 128, 'childOrSibling': [], 'childOrSiblingSelector': [], 'descriptionContains': 'Play'},)}
+2025-05-19 02:44:56,205 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:44:56,206 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:44:56,388 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 536
+2025-05-19 02:44:56,391 - ArtistPlayer - DEBUG - Presionando botón en posición: {'bottom': 33, 'left': 154, 'right': 184, 'top': 0}
+2025-05-19 02:44:56,391 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 128, 'childOrSibling': [], 'childOrSiblingSelector': [], 'descriptionContains': 'Play'}, 20000)}
+2025-05-19 02:44:56,402 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:44:56,403 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:44:56,479 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:44:56,481 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'objInfo', 'params': ({'mask': 128, 'childOrSibling': [], 'childOrSiblingSelector': [], 'descriptionContains': 'Play'},)}
+2025-05-19 02:44:56,491 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:44:56,493 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:44:56,668 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 536
+2025-05-19 02:44:56,670 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'click', 'params': (169.0, 16.5)}
+2025-05-19 02:44:56,671 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:44:56,672 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:44:56,967 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:44:58,973 - ArtistPlayer - DEBUG - Capturando pantalla en C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\scripts\..\screenshots\artist_player_2040306023079082_20250519_024458.png
+2025-05-19 02:44:58,973 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'takeScreenshot', 'params': (1, 80)}
+2025-05-19 02:44:58,974 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:44:58,976 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:44:59,117 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 68313
+2025-05-19 02:44:59,180 - ArtistPlayer - DEBUG - Captura de pantalla guardada en C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\scripts\..\screenshots\artist_player_2040306023079082_20250519_024458.png
+2025-05-19 02:44:59,180 - ArtistPlayer - INFO - Botón de reproducción presionado en 2040306023079082
+2025-05-19 02:44:59,181 - ArtistPlayer - INFO - Reproduciendo artista durante 393 segundos
+2025-05-19 02:45:09,181 - ArtistPlayer - DEBUG - Simulando interacción humana en 2040306023079082
+2025-05-19 02:45:09,181 - ArtistPlayer - DEBUG - Obteniendo dimensiones de pantalla para 2040306023079082
+2025-05-19 02:45:09,315 - ArtistPlayer - DEBUG - Resultado de 'wm size': Physical size: 480x960
+2025-05-19 02:45:09,315 - ArtistPlayer - DEBUG - Dimensiones obtenidas: 480x960
+2025-05-19 02:45:09,315 - ArtistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-19 02:45:09,316 - uiautomator2 - DEBUG - swipe from (240.0, 288.0) to (240.0, 672.0), steps: 55
+2025-05-19 02:45:09,316 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'swipe', 'params': (240.0, 288.0, 240.0, 672.0, 55)}
+2025-05-19 02:45:09,327 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:45:09,329 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:45:10,488 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:45:13,417 - ArtistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-19 02:45:16,257 - ArtistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-19 02:45:16,257 - uiautomator2 - DEBUG - swipe from (240.0, 672.0) to (240.0, 288.0), steps: 55
+2025-05-19 02:45:16,258 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'swipe', 'params': (240.0, 672.0, 240.0, 288.0, 55)}
+2025-05-19 02:45:16,258 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:45:16,261 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:45:17,634 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:45:19,397 - ArtistPlayer - DEBUG - Interacción humana simulada en 2040306023079082
+2025-05-19 02:45:39,398 - ArtistPlayer - DEBUG - Simulando interacción humana en 2040306023079082
+2025-05-19 02:45:39,398 - ArtistPlayer - DEBUG - Obteniendo dimensiones de pantalla para 2040306023079082
+2025-05-19 02:45:39,565 - ArtistPlayer - DEBUG - Resultado de 'wm size': Physical size: 480x960
+2025-05-19 02:45:39,565 - ArtistPlayer - DEBUG - Dimensiones obtenidas: 480x960
+2025-05-19 02:45:39,565 - ArtistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-19 02:45:42,431 - ArtistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-19 02:45:45,193 - ArtistPlayer - DEBUG - Interacción humana simulada en 2040306023079082
+2025-05-19 02:46:05,194 - ArtistPlayer - DEBUG - Simulando interacción humana en 2040306023079082
+2025-05-19 02:46:05,194 - ArtistPlayer - DEBUG - Obteniendo dimensiones de pantalla para 2040306023079082
+2025-05-19 02:46:05,416 - ArtistPlayer - DEBUG - Resultado de 'wm size': Physical size: 480x960
+2025-05-19 02:46:05,416 - ArtistPlayer - DEBUG - Dimensiones obtenidas: 480x960
+2025-05-19 02:46:05,417 - ArtistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-19 02:46:05,417 - uiautomator2 - DEBUG - swipe from (240.0, 288.0) to (240.0, 672.0), steps: 55
+2025-05-19 02:46:05,417 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'swipe', 'params': (240.0, 288.0, 240.0, 672.0, 55)}
+2025-05-19 02:46:05,418 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:46:05,419 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:46:06,834 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:46:08,208 - ArtistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-19 02:46:08,208 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'click', 'params': (163, 419)}
+2025-05-19 02:46:08,219 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:46:08,221 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:46:08,411 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:46:09,434 - ArtistPlayer - DEBUG - Interacción humana simulada en 2040306023079082
+2025-05-19 02:46:19,434 - ArtistPlayer - DEBUG - Simulando interacción humana en 2040306023079082
+2025-05-19 02:46:19,434 - ArtistPlayer - DEBUG - Obteniendo dimensiones de pantalla para 2040306023079082
+2025-05-19 02:46:19,555 - ArtistPlayer - DEBUG - Resultado de 'wm size': Physical size: 480x960
+2025-05-19 02:46:19,555 - ArtistPlayer - DEBUG - Dimensiones obtenidas: 480x960
+2025-05-19 02:46:19,555 - ArtistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-19 02:46:21,005 - ArtistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-19 02:46:21,005 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'click', 'params': (225, 409)}
+2025-05-19 02:46:21,016 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:46:21,018 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:46:21,175 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:46:22,909 - ArtistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-19 02:46:25,085 - ArtistPlayer - DEBUG - Interacción humana simulada en 2040306023079082
+2025-05-19 02:47:05,088 - ArtistPlayer - DEBUG - Simulando interacción humana en 2040306023079082
+2025-05-19 02:47:05,088 - ArtistPlayer - DEBUG - Obteniendo dimensiones de pantalla para 2040306023079082
+2025-05-19 02:47:05,251 - ArtistPlayer - DEBUG - Resultado de 'wm size': Physical size: 480x960
+2025-05-19 02:47:05,251 - ArtistPlayer - DEBUG - Dimensiones obtenidas: 480x960
+2025-05-19 02:47:05,251 - ArtistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-19 02:47:05,251 - uiautomator2 - DEBUG - swipe from (240.0, 288.0) to (240.0, 672.0), steps: 55
+2025-05-19 02:47:05,251 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'swipe', 'params': (240.0, 288.0, 240.0, 672.0, 55)}
+2025-05-19 02:47:05,252 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:47:05,254 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:47:06,436 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:47:08,418 - ArtistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-19 02:47:08,418 - uiautomator2 - DEBUG - swipe from (240.0, 672.0) to (240.0, 288.0), steps: 55
+2025-05-19 02:47:08,419 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'swipe', 'params': (240.0, 672.0, 240.0, 288.0, 55)}
+2025-05-19 02:47:08,420 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:47:08,422 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:47:10,629 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:47:12,618 - ArtistPlayer - DEBUG - Interacción humana simulada en 2040306023079082
+2025-05-19 02:48:22,620 - ArtistPlayer - DEBUG - Simulando interacción humana en 2040306023079082
+2025-05-19 02:48:22,620 - ArtistPlayer - DEBUG - Obteniendo dimensiones de pantalla para 2040306023079082
+2025-05-19 02:48:22,757 - ArtistPlayer - DEBUG - Resultado de 'wm size': Physical size: 480x960
+2025-05-19 02:48:22,757 - ArtistPlayer - DEBUG - Dimensiones obtenidas: 480x960
+2025-05-19 02:48:22,757 - ArtistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-19 02:48:22,758 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'click', 'params': (298, 597)}
+2025-05-19 02:48:22,758 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:48:22,759 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:48:22,943 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:48:24,190 - ArtistPlayer - DEBUG - Interacción humana simulada en 2040306023079082
+2025-05-19 02:49:14,192 - ArtistPlayer - DEBUG - Simulando interacción humana en 2040306023079082
+2025-05-19 02:49:14,192 - ArtistPlayer - DEBUG - Obteniendo dimensiones de pantalla para 2040306023079082
+2025-05-19 02:49:14,322 - ArtistPlayer - DEBUG - Resultado de 'wm size': Physical size: 480x960
+2025-05-19 02:49:14,322 - ArtistPlayer - DEBUG - Dimensiones obtenidas: 480x960
+2025-05-19 02:49:14,322 - ArtistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-19 02:49:14,323 - uiautomator2 - DEBUG - swipe from (240.0, 672.0) to (240.0, 288.0), steps: 55
+2025-05-19 02:49:14,323 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'swipe', 'params': (240.0, 672.0, 240.0, 288.0, 55)}
+2025-05-19 02:49:14,324 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:49:14,325 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:49:15,734 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:49:18,029 - ArtistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-19 02:49:18,029 - uiautomator2 - DEBUG - swipe from (240.0, 288.0) to (240.0, 672.0), steps: 55
+2025-05-19 02:49:18,029 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'swipe', 'params': (240.0, 288.0, 240.0, 672.0, 55)}
+2025-05-19 02:49:18,030 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:49:18,032 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:49:19,358 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:49:21,302 - ArtistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-19 02:49:21,302 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'click', 'params': (169, 627)}
+2025-05-19 02:49:21,303 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:49:21,304 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:49:21,489 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:49:24,149 - ArtistPlayer - DEBUG - Interacción humana simulada en 2040306023079082
+2025-05-19 02:51:04,152 - ArtistPlayer - DEBUG - Simulando interacción humana en 2040306023079082
+2025-05-19 02:51:04,152 - ArtistPlayer - DEBUG - Obteniendo dimensiones de pantalla para 2040306023079082
+2025-05-19 02:51:04,314 - ArtistPlayer - DEBUG - Resultado de 'wm size': Physical size: 480x960
+2025-05-19 02:51:04,315 - ArtistPlayer - DEBUG - Dimensiones obtenidas: 480x960
+2025-05-19 02:51:04,315 - ArtistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-19 02:51:04,315 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'click', 'params': (278, 271)}
+2025-05-19 02:51:04,326 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:51:04,328 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:51:04,503 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:51:06,969 - ArtistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-19 02:51:06,969 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'click', 'params': (229, 707)}
+2025-05-19 02:51:06,970 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:51:06,971 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:51:07,174 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:51:09,197 - ArtistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-19 02:51:09,197 - uiautomator2 - DEBUG - swipe from (240.0, 672.0) to (240.0, 288.0), steps: 55
+2025-05-19 02:51:09,198 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'swipe', 'params': (240.0, 672.0, 240.0, 288.0, 55)}
+2025-05-19 02:51:09,198 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:51:09,200 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:51:11,883 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:51:12,961 - ArtistPlayer - DEBUG - Interacción humana simulada en 2040306023079082
+2025-05-19 02:51:32,962 - ArtistPlayer - INFO - Reproducción completada para 2040306023079082
+2025-05-19 02:51:32,962 - ArtistPlayer - INFO - Esperando 3 minutos antes del siguiente ciclo
+2025-05-19 02:54:32,962 - ArtistPlayer - INFO - Iniciando ciclo de reproducción de artistas
+2025-05-19 02:54:32,962 - ArtistPlayer - INFO - Procesando dispositivo: 2040306023079082
+2025-05-19 02:54:32,980 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 02:54:33,083 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 02:54:33,084 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 02:54:33,094 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:54:33,096 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:54:33,115 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "GET /ping HTTP/1.1" 200 4
+2025-05-19 02:54:33,116 - ArtistPlayer - INFO - Artista seleccionado para 2040306023079082: https://open.spotify.com/artist/47wHz4LqcznFnKtMKzycK9?si=PUkRzJYUSQeOd-wguY7CgA
+2025-05-19 02:54:33,117 - ArtistPlayer - INFO - Abriendo artista en 2040306023079082: https://open.spotify.com/artist/47wHz4LqcznFnKtMKzycK9?si=PUkRzJYUSQeOd-wguY7CgA
+2025-05-19 02:54:33,134 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 02:54:33,246 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 02:54:33,246 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 02:54:33,256 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:54:33,258 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:54:33,288 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "GET /ping HTTP/1.1" 200 4
+2025-05-19 02:54:33,289 - ArtistPlayer - DEBUG - Presionando botón Home
+2025-05-19 02:54:33,289 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'pressKey', 'params': ('home',)}
+2025-05-19 02:54:33,300 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:54:33,302 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:54:33,811 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:54:34,822 - ArtistPlayer - DEBUG - Ejecutando intent para abrir URL: https://open.spotify.com/artist/47wHz4LqcznFnKtMKzycK9?si=PUkRzJYUSQeOd-wguY7CgA
+2025-05-19 02:54:35,010 - ArtistPlayer - DEBUG - Resultado del intent: Starting: Intent { act=android.intent.action.VIEW dat=https://open.spotify.com/... }
+
+2025-05-19 02:54:35,010 - ArtistPlayer - WARNING - Error en intent: Warning: Activity not started, its current task has been brought to the front
+
+2025-05-19 02:54:35,010 - ArtistPlayer - DEBUG - Esperando a que se abra la aplicación
+2025-05-19 02:54:41,011 - ArtistPlayer - DEBUG - Verificando si aparece diálogo 'Abrir con'
+2025-05-19 02:54:41,011 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 2, 'childOrSibling': [], 'childOrSiblingSelector': [], 'textContains': 'Spotify'}, 5000)}
+2025-05-19 02:54:41,022 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:54:41,024 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:54:46,072 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-19 02:54:46,075 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 2, 'childOrSibling': [], 'childOrSiblingSelector': [], 'textContains': 'Abrir con'}, 5000)}
+2025-05-19 02:54:46,076 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:54:46,077 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:54:51,158 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-19 02:54:51,163 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 2, 'childOrSibling': [], 'childOrSiblingSelector': [], 'textContains': 'Open with'}, 5000)}
+2025-05-19 02:54:51,174 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:54:51,176 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:54:56,339 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-19 02:54:56,340 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'exist', 'params': ({'mask': 2097152, 'childOrSibling': [], 'childOrSiblingSelector': [], 'resourceId': 'android:id/resolver_list'},)}
+2025-05-19 02:54:56,341 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:54:56,342 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:54:56,416 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-19 02:54:56,419 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'exist', 'params': ({'mask': 2097152, 'childOrSibling': [], 'childOrSiblingSelector': [], 'resourceId': 'android:id/chooser_list'},)}
+2025-05-19 02:54:56,420 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:54:56,422 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:54:56,511 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-19 02:54:56,512 - ArtistPlayer - DEBUG - No se detectó diálogo 'Abrir con'
+2025-05-19 02:54:56,512 - ArtistPlayer - DEBUG - Esperando a que cargue completamente
+2025-05-19 02:55:02,513 - ArtistPlayer - DEBUG - Capturando pantalla en C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\scripts\..\screenshots\artist_player_2040306023079082_20250519_025502.png
+2025-05-19 02:55:02,513 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'takeScreenshot', 'params': (1, 80)}
+2025-05-19 02:55:02,514 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:55:02,516 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:55:02,619 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 69093
+2025-05-19 02:55:02,678 - ArtistPlayer - DEBUG - Captura de pantalla guardada en C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\scripts\..\screenshots\artist_player_2040306023079082_20250519_025502.png
+2025-05-19 02:55:02,678 - ArtistPlayer - DEBUG - Verificando si Spotify está en primer plano en 2040306023079082
+2025-05-19 02:55:02,886 - ArtistPlayer - INFO - Spotify está en primer plano en 2040306023079082
+2025-05-19 02:55:02,886 - ArtistPlayer - INFO - Artista abierto correctamente en 2040306023079082
+2025-05-19 02:55:02,886 - ArtistPlayer - INFO - Buscando y presionando botón de seguir en 2040306023079082
+2025-05-19 02:55:02,886 - ArtistPlayer - DEBUG - Buscando botón por texto
+2025-05-19 02:55:02,886 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 4, 'childOrSibling': [], 'childOrSiblingSelector': [], 'textMatches': '(?i)Follow'}, 6000)}
+2025-05-19 02:55:02,887 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:55:02,889 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:55:02,954 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:55:02,958 - ArtistPlayer - DEBUG - Botón encontrado por texto: Follow
+2025-05-19 02:55:02,958 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 4, 'childOrSibling': [], 'childOrSiblingSelector': [], 'textMatches': '(?i)Follow'}, 20000)}
+2025-05-19 02:55:02,959 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:55:02,960 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:55:03,030 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:55:03,031 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'objInfo', 'params': ({'mask': 4, 'childOrSibling': [], 'childOrSiblingSelector': [], 'textMatches': '(?i)Follow'},)}
+2025-05-19 02:55:03,033 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:55:03,035 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:55:03,206 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 497
+2025-05-19 02:55:03,208 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'click', 'params': (145.5, 356.5)}
+2025-05-19 02:55:03,208 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:55:03,210 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:55:03,400 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:55:05,405 - ArtistPlayer - INFO - Botón de seguir presionado en 2040306023079082
+2025-05-19 02:55:05,406 - ArtistPlayer - INFO - Intentando activar modo aleatorio en 2040306023079082
+2025-05-19 02:55:05,406 - ArtistPlayer - DEBUG - Buscando botón shuffle por descripción
+2025-05-19 02:55:05,406 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 128, 'childOrSibling': [], 'childOrSiblingSelector': [], 'descriptionContains': 'Shuffle'}, 5000)}
+2025-05-19 02:55:05,418 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:55:05,419 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:55:10,463 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-19 02:55:10,464 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 128, 'childOrSibling': [], 'childOrSiblingSelector': [], 'descriptionContains': 'Aleatorio'}, 5000)}
+2025-05-19 02:55:10,474 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:55:10,476 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:55:15,606 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-19 02:55:15,608 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 128, 'childOrSibling': [], 'childOrSiblingSelector': [], 'descriptionContains': 'shuffle'}, 5000)}
+2025-05-19 02:55:15,619 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:55:15,621 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:55:15,707 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:55:15,709 - ArtistPlayer - DEBUG - Botón shuffle encontrado por descripción: shuffle
+2025-05-19 02:55:15,709 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 128, 'childOrSibling': [], 'childOrSiblingSelector': [], 'descriptionContains': 'shuffle'}, 20000)}
+2025-05-19 02:55:15,710 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:55:15,711 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:55:15,797 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:55:15,799 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'objInfo', 'params': ({'mask': 128, 'childOrSibling': [], 'childOrSiblingSelector': [], 'descriptionContains': 'shuffle'},)}
+2025-05-19 02:55:15,799 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:55:15,801 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:55:16,011 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 523
+2025-05-19 02:55:16,012 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'click', 'params': (359.0, 353.0)}
+2025-05-19 02:55:16,013 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:55:16,014 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:55:16,215 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:55:18,232 - ArtistPlayer - INFO - Modo aleatorio activado en 2040306023079082
+2025-05-19 02:55:18,232 - ArtistPlayer - INFO - Buscando y presionando botón de reproducción en 2040306023079082
+2025-05-19 02:55:18,232 - ArtistPlayer - DEBUG - Buscando botón por descripción
+2025-05-19 02:55:18,232 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 128, 'childOrSibling': [], 'childOrSiblingSelector': [], 'descriptionContains': 'Play'}, 8000)}
+2025-05-19 02:55:18,243 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:55:18,245 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:55:18,348 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:55:18,352 - ArtistPlayer - DEBUG - Botón encontrado por descripción: Play
+2025-05-19 02:55:18,352 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'objInfo', 'params': ({'mask': 128, 'childOrSibling': [], 'childOrSiblingSelector': [], 'descriptionContains': 'Play'},)}
+2025-05-19 02:55:18,352 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:55:18,354 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:55:18,573 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 536
+2025-05-19 02:55:18,574 - ArtistPlayer - DEBUG - Presionando botón en posición: {'bottom': 33, 'left': 154, 'right': 184, 'top': 0}
+2025-05-19 02:55:18,575 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 128, 'childOrSibling': [], 'childOrSiblingSelector': [], 'descriptionContains': 'Play'}, 20000)}
+2025-05-19 02:55:18,585 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:55:18,587 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:55:18,672 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:55:18,673 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'objInfo', 'params': ({'mask': 128, 'childOrSibling': [], 'childOrSiblingSelector': [], 'descriptionContains': 'Play'},)}
+2025-05-19 02:55:18,674 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:55:18,675 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:55:18,876 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 536
+2025-05-19 02:55:18,877 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'click', 'params': (169.0, 16.5)}
+2025-05-19 02:55:18,888 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:55:18,889 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:55:19,232 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:55:21,244 - ArtistPlayer - DEBUG - Capturando pantalla en C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\scripts\..\screenshots\artist_player_2040306023079082_20250519_025521.png
+2025-05-19 02:55:21,244 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'takeScreenshot', 'params': (1, 80)}
+2025-05-19 02:55:21,255 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:55:21,256 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:55:21,375 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 70095
+2025-05-19 02:55:21,450 - ArtistPlayer - DEBUG - Captura de pantalla guardada en C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\scripts\..\screenshots\artist_player_2040306023079082_20250519_025521.png
+2025-05-19 02:55:21,450 - ArtistPlayer - INFO - Botón de reproducción presionado en 2040306023079082
+2025-05-19 02:55:21,450 - ArtistPlayer - INFO - Reproduciendo artista durante 479 segundos
+2025-05-19 02:55:21,450 - ArtistPlayer - DEBUG - Simulando interacción humana en 2040306023079082
+2025-05-19 02:55:21,451 - ArtistPlayer - DEBUG - Obteniendo dimensiones de pantalla para 2040306023079082
+2025-05-19 02:55:21,576 - ArtistPlayer - DEBUG - Resultado de 'wm size': Physical size: 480x960
+2025-05-19 02:55:21,576 - ArtistPlayer - DEBUG - Dimensiones obtenidas: 480x960
+2025-05-19 02:55:21,577 - ArtistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-19 02:55:21,577 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'click', 'params': (152, 465)}
+2025-05-19 02:55:21,588 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:55:21,590 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:55:21,775 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 02:55:22,976 - ArtistPlayer - DEBUG - Interacción humana simulada en 2040306023079082
+2025-05-19 02:55:36,640 - OTWMusicSystem - INFO - Configuración guardada en: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\config\config.json
+2025-05-19 02:55:36,641 - OTWMusicSystem - INFO - Archivo artists copiado a C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\data\artists.txt
+2025-05-19 02:55:49,508 - AndroidDevice - INFO - Conectando al dispositivo 2040306023079082
+2025-05-19 02:55:49,525 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 02:55:49,648 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 02:55:49,649 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 02:55:49,660 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:55:49,661 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:55:49,673 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "GET /ping HTTP/1.1" 200 4
+2025-05-19 02:55:49,675 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'deviceInfo', 'params': {}}
+2025-05-19 02:55:49,685 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-19 02:55:49,687 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-19 02:55:49,768 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 262
+2025-05-19 02:55:50,080 - AndroidDevice - INFO - Información del dispositivo actualizada: BLU Studio X5 Max
+2025-05-19 02:55:50,080 - AndroidDevice - INFO - Conectado al dispositivo 2040306023079082
+2025-05-19 02:55:54,333 - OTWMusicSystem - INFO - Configuración guardada en: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\config\config.json

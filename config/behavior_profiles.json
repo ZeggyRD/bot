@@ -1,0 +1,50 @@
+{
+    "casual_listener": {
+        "listen_duration_min": 30,
+        "listen_duration_max": 120,
+        "skip_probability": 0.3,
+        "like_probability": 0.1,
+        "follow_probability": 0.05,
+        "playlist_save_probability": 0.02,
+        "interaction_delay_min": 10,
+        "interaction_delay_max": 60,
+        "session_duration_min": 30,
+        "session_duration_max": 120
+    },
+    "power_user": {
+        "listen_duration_min": 60,
+        "listen_duration_max": 180,
+        "skip_probability": 0.15,
+        "like_probability": 0.25,
+        "follow_probability": 0.15,
+        "playlist_save_probability": 0.1,
+        "interaction_delay_min": 5,
+        "interaction_delay_max": 30,
+        "session_duration_min": 60,
+        "session_duration_max": 240
+    },
+    "explorer": {
+        "listen_duration_min": 20,
+        "listen_duration_max": 90,
+        "skip_probability": 0.4,
+        "like_probability": 0.2,
+        "follow_probability": 0.1,
+        "playlist_save_probability": 0.15,
+        "interaction_delay_min": 5,
+        "interaction_delay_max": 20,
+        "session_duration_min": 45,
+        "session_duration_max": 150
+    },
+    "passive": {
+        "listen_duration_min": 60,
+        "listen_duration_max": 240,
+        "skip_probability": 0.1,
+        "like_probability": 0.05,
+        "follow_probability": 0.02,
+        "playlist_save_probability": 0.01,
+        "interaction_delay_min": 30,
+        "interaction_delay_max": 120,
+        "session_duration_min": 60,
+        "session_duration_max": 300
+    }
+}

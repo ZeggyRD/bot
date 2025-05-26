@@ -1,0 +1,32 @@
+2025-05-19 18:46:47,475 - Dummy-3 - PlaylistPlayerMain - INFO - Python version: 3.12.8
+2025-05-19 18:46:47,476 - Dummy-3 - PlaylistPlayerMain - WARNING - Error al obtener versiones de herramientas: module 'uiautomator2' has no attribute '__version__'
+2025-05-19 18:46:47,477 - Dummy-3 - PlaylistPlayerMain - INFO - --- Iniciando PlaylistPlayer en Modo Multi-Hilo (SLOW_MODE_FACTOR=1.75) ---
+2025-05-19 18:46:47,478 - Dummy-3 - PlaylistPlayerMain - INFO - Cargados 185 links desde 'C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\data\playlists.txt'
+2025-05-19 18:46:47,483 - Dummy-3 - PlaylistPlayerMain - DEBUG - Ejemplos de links: ['https://open.spotify.com/playlist/3h6pIE4rE6z8OyxNMOqW8t?si=H8FB0OalRKGjeMjEXVgSJw', 'https://open.spotify.com/playlist/5XrvAtxjUWcbTNgLHc9hz2?si=8J8GtCkARCaiIlIOWzgMnA']
+2025-05-19 18:46:47,485 - Dummy-3 - PlaylistPlayerMain - INFO - Considerando 3 Artistas Clave.
+2025-05-19 18:46:47,490 - Dummy-3 - PlaylistPlayerMain - INFO - Total de links únicos disponibles: 188
+2025-05-19 18:46:47,492 - Dummy-3 - PlaylistPlayerMain - DEBUG - Obteniendo dispositivos conectados vía ADB...
+2025-05-19 18:46:47,543 - Dummy-3 - PlaylistPlayerMain - INFO - Dispositivos ADB conectados y listos: ['2040306023079114', '2040306023079705', '2040306023080222', '2040306023080639', '2040306023080885', '2040306023081159', '2040306023081202', '2040306023081216', '2040306023081477', '2040306023082911', '2040306023083277', '2040306023095804', '2040306023096006', '2040306023097355', '2040306023098451', '4LJVPB6DUSIRMVUS', 'DY49GQ7PFQCEKF6H', 'KF9HFUCE6XE6WSU8', 'P7NBHUMRBYRGY9KJ']
+2025-05-19 18:46:47,546 - Dummy-3 - PlaylistPlayerMain - INFO - Iniciando workers para 19 dispositivos: ['2040306023079114', '2040306023079705', '2040306023080222', '2040306023080639', '2040306023080885', '2040306023081159', '2040306023081202', '2040306023081216', '2040306023081477', '2040306023082911', '2040306023083277', '2040306023095804', '2040306023096006', '2040306023097355', '2040306023098451', '4LJVPB6DUSIRMVUS', 'DY49GQ7PFQCEKF6H', 'KF9HFUCE6XE6WSU8', 'P7NBHUMRBYRGY9KJ']
+2025-05-19 18:46:47,551 - Dummy-3 - PlaylistPlayerMain - DEBUG - Esperando 7.6s antes de iniciar el siguiente worker.
+2025-05-19 18:46:55,175 - Dummy-3 - PlaylistPlayerMain - DEBUG - Esperando 7.3s antes de iniciar el siguiente worker.
+2025-05-19 18:47:02,435 - Dummy-3 - PlaylistPlayerMain - DEBUG - Esperando 6.8s antes de iniciar el siguiente worker.
+2025-05-19 18:47:09,273 - Dummy-3 - PlaylistPlayerMain - DEBUG - Esperando 6.7s antes de iniciar el siguiente worker.
+2025-05-19 18:47:16,016 - Dummy-3 - PlaylistPlayerMain - DEBUG - Esperando 8.8s antes de iniciar el siguiente worker.
+2025-05-19 18:47:24,856 - Dummy-3 - PlaylistPlayerMain - DEBUG - Esperando 5.4s antes de iniciar el siguiente worker.
+2025-05-19 18:47:30,281 - Dummy-3 - PlaylistPlayerMain - DEBUG - Esperando 7.9s antes de iniciar el siguiente worker.
+2025-05-19 18:47:38,136 - Dummy-3 - PlaylistPlayerMain - DEBUG - Esperando 8.0s antes de iniciar el siguiente worker.
+2025-05-19 18:47:46,188 - Dummy-3 - PlaylistPlayerMain - DEBUG - Esperando 7.8s antes de iniciar el siguiente worker.
+2025-05-19 18:47:53,962 - Dummy-3 - PlaylistPlayerMain - DEBUG - Esperando 7.5s antes de iniciar el siguiente worker.
+2025-05-19 18:48:01,465 - Dummy-3 - PlaylistPlayerMain - DEBUG - Esperando 10.7s antes de iniciar el siguiente worker.
+2025-05-19 18:48:12,125 - Dummy-3 - PlaylistPlayerMain - DEBUG - Esperando 11.1s antes de iniciar el siguiente worker.
+2025-05-19 18:48:23,252 - Dummy-3 - PlaylistPlayerMain - DEBUG - Esperando 12.2s antes de iniciar el siguiente worker.
+2025-05-19 18:48:35,510 - Dummy-3 - PlaylistPlayerMain - DEBUG - Esperando 6.6s antes de iniciar el siguiente worker.
+2025-05-19 18:48:42,103 - Dummy-3 - PlaylistPlayerMain - DEBUG - Esperando 8.8s antes de iniciar el siguiente worker.
+2025-05-19 18:48:50,949 - Dummy-3 - PlaylistPlayerMain - DEBUG - Esperando 8.4s antes de iniciar el siguiente worker.
+2025-05-19 18:48:59,347 - Dummy-3 - PlaylistPlayerMain - DEBUG - Esperando 11.7s antes de iniciar el siguiente worker.
+2025-05-19 18:49:11,032 - Dummy-3 - PlaylistPlayerMain - DEBUG - Esperando 9.2s antes de iniciar el siguiente worker.
+2025-05-19 18:49:20,277 - Dummy-3 - PlaylistPlayerMain - INFO - Todos los 19 workers iniciados. El script principal esperará...
+2025-05-19 18:49:20,279 - Dummy-3 - PlaylistPlayerMain - DEBUG - Hilos activos (19/19): ['Worker-20403060', 'Worker-20403060', 'Worker-20403060', 'Worker-20403060', 'Worker-20403060', 'Worker-20403060', 'Worker-20403060', 'Worker-20403060', 'Worker-20403060', 'Worker-20403060', 'Worker-20403060', 'Worker-20403060', 'Worker-20403060', 'Worker-20403060', 'Worker-20403060', 'Worker-4LJVPB6D', 'Worker-DY49GQ7P', 'Worker-KF9HFUCE', 'Worker-P7NBHUMR']
+2025-05-19 18:49:35,281 - Dummy-3 - PlaylistPlayerMain - DEBUG - Hilos activos (19/19): ['Worker-20403060', 'Worker-20403060', 'Worker-20403060', 'Worker-20403060', 'Worker-20403060', 'Worker-20403060', 'Worker-20403060', 'Worker-20403060', 'Worker-20403060', 'Worker-20403060', 'Worker-20403060', 'Worker-20403060', 'Worker-20403060', 'Worker-20403060', 'Worker-20403060', 'Worker-4LJVPB6D', 'Worker-DY49GQ7P', 'Worker-KF9HFUCE', 'Worker-P7NBHUMR']
+2025-05-19 18:49:50,286 - Dummy-3 - PlaylistPlayerMain - DEBUG - Hilos activos (19/19): ['Worker-20403060', 'Worker-20403060', 'Worker-20403060', 'Worker-20403060', 'Worker-20403060', 'Worker-20403060', 'Worker-20403060', 'Worker-20403060', 'Worker-20403060', 'Worker-20403060', 'Worker-20403060', 'Worker-20403060', 'Worker-20403060', 'Worker-20403060', 'Worker-20403060', 'Worker-4LJVPB6D', 'Worker-DY49GQ7P', 'Worker-KF9HFUCE', 'Worker-P7NBHUMR']

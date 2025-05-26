@@ -1,0 +1,23 @@
+{
+    "2040306023079082": {
+        "info": {
+            "id": "2040306023079082",
+            "brand": "BLU",
+            "model": "Studio X5 Max",
+            "android_version": "11",
+            "sdk_version": "30",
+            "display": "",
+            "battery": {}
+        },
+        "last_connected": "2025-05-19T02:55:50.079979",
+        "apps": [
+            {
+                "package": "com.spotify.music",
+                "name": "Spotify Original",
+                "registered_date": "2025-05-18T20:42:50.006961",
+                "last_used": "2025-05-18T21:37:45.989635",
+                "account": "youoat22@usako.net"
+            }
+        ]
+    }
+}

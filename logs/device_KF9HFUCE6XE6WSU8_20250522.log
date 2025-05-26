@@ -1,0 +1,569 @@
+2025-05-22 12:06:23,577 - Worker-KF9HFUCE6XE6WSU8 - INFO - Worker iniciado para dispositivo: KF9HFUCE6XE6WSU8
+2025-05-22 12:06:23,580 - Worker-KF9HFUCE6XE6WSU8 - INFO - ***** INICIANDO NUEVA SESIÓN PARA DISPOSITIVO: KF9HFUCE6XE6WSU8 *****
+2025-05-22 12:06:23,581 - Worker-KF9HFUCE6XE6WSU8 - INFO - Conectando a dispositivo: KF9HFUCE6XE6WSU8
+2025-05-22 12:17:33,909 - Worker-KF9HFUCE6XE6WSU8 - INFO - Worker iniciado para dispositivo: KF9HFUCE6XE6WSU8
+2025-05-22 12:17:33,928 - Worker-KF9HFUCE6XE6WSU8 - INFO - ***** INICIANDO NUEVA SESIÓN PARA DISPOSITIVO: KF9HFUCE6XE6WSU8 *****
+2025-05-22 12:17:33,943 - Worker-KF9HFUCE6XE6WSU8 - INFO - Conectando a dispositivo: KF9HFUCE6XE6WSU8
+2025-05-22 12:18:45,857 - Worker-KF9HFUCE6XE6WSU8 - INFO - Conectado exitosamente a KF9HFUCE6XE6WSU8.
+2025-05-22 12:18:45,889 - Worker-KF9HFUCE6XE6WSU8 - INFO - Personalidad dinámica actualizada para la sesión.
+2025-05-22 12:18:45,903 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Perfil actual: Patience=0.31, Curiosity=0.74, Engagement=0.86, Speed=1.61
+2025-05-22 12:18:45,904 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\session_start_screenshot_KF9HFUCE6XE6WSU8_20250522_121845903708.png
+2025-05-22 12:18:47,073 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\session_start_screenshot_KF9HFUCE6XE6WSU8_20250522_121845903708.png
+2025-05-22 12:18:47,076 - Worker-KF9HFUCE6XE6WSU8 - INFO - === INICIANDO FASE PLAYLIST: https://open.spotify.com/playlist/3h6pIE4rE6z8OyxNMOqW8t?si=H8FB0OalRKGjeMjEXVgSJw ===
+2025-05-22 12:18:47,084 - Worker-KF9HFUCE6XE6WSU8 - INFO - Abriendo URL: https://open.spotify.com/playlist/3h6pIE4rE6z8OyxNMOqW8t?si=H8FB0OalRKGjeMjEXVgSJw
+2025-05-22 12:18:47,086 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 1/3 para abrir URL: https://open.spotify.com/playlist/3h6pIE4rE6z8OyxNMOqW8t?si=H8FB0OalRKGjeMjEXVgSJw
+2025-05-22 12:18:47,089 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent directo: am start -n com.spotify.music/com.spotify.music.MainActivity -a android.intent.action.VIEW -d 'https://open.spotify.com/playlist/3h6pIE4rE6z8OyxNMOqW8t?si=H8FB0OalRKGjeMjEXVgSJw'
+2025-05-22 12:18:57,636 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 12:21:27,247 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/playlist/3h6pIE4rE6z8OyxNMOqW8t?si=H8FB0OalRKGjeMjEXVgSJw (Intento 1): HTTP request timeout: HTTPConnectionPool(host='127.0.0.1', port=64268): Read timed out. (read timeout=60)
+2025-05-22 12:21:27,250 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt1_screenshot_KF9HFUCE6XE6WSU8_20250522_122127250304.png
+2025-05-22 12:21:28,123 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt1_screenshot_KF9HFUCE6XE6WSU8_20250522_122127250304.png
+2025-05-22 12:22:08,030 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 2/3 para abrir URL: https://open.spotify.com/playlist/3h6pIE4rE6z8OyxNMOqW8t?si=H8FB0OalRKGjeMjEXVgSJw
+2025-05-22 12:22:08,031 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent genérico: am start -a android.intent.action.VIEW -d 'https://open.spotify.com/playlist/3h6pIE4rE6z8OyxNMOqW8t?si=H8FB0OalRKGjeMjEXVgSJw'
+2025-05-22 12:22:19,881 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 12:24:49,546 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/playlist/3h6pIE4rE6z8OyxNMOqW8t?si=H8FB0OalRKGjeMjEXVgSJw (Intento 2): HTTP request timeout: HTTPConnectionPool(host='127.0.0.1', port=64268): Read timed out. (read timeout=60)
+2025-05-22 12:24:49,550 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt2_screenshot_KF9HFUCE6XE6WSU8_20250522_122449549590.png
+2025-05-22 12:24:50,381 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt2_screenshot_KF9HFUCE6XE6WSU8_20250522_122449549590.png
+2025-05-22 12:25:28,847 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 3/3 para abrir URL: https://open.spotify.com/playlist/3h6pIE4rE6z8OyxNMOqW8t?si=H8FB0OalRKGjeMjEXVgSJw
+2025-05-22 12:25:28,849 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent genérico: am start -a android.intent.action.VIEW -d 'https://open.spotify.com/playlist/3h6pIE4rE6z8OyxNMOqW8t?si=H8FB0OalRKGjeMjEXVgSJw'
+2025-05-22 12:25:35,658 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 12:28:05,237 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/playlist/3h6pIE4rE6z8OyxNMOqW8t?si=H8FB0OalRKGjeMjEXVgSJw (Intento 3): HTTP request timeout: HTTPConnectionPool(host='127.0.0.1', port=64268): Read timed out. (read timeout=60)
+2025-05-22 12:28:05,238 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt3_screenshot_KF9HFUCE6XE6WSU8_20250522_122805238376.png
+2025-05-22 12:28:06,008 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt3_screenshot_KF9HFUCE6XE6WSU8_20250522_122805238376.png
+2025-05-22 12:28:32,933 - Worker-KF9HFUCE6XE6WSU8 - ERROR - No se pudo abrir URL o verificar Spotify en primer plano después de 3 intentos: https://open.spotify.com/playlist/3h6pIE4rE6z8OyxNMOqW8t?si=H8FB0OalRKGjeMjEXVgSJw
+2025-05-22 12:28:32,935 - Worker-KF9HFUCE6XE6WSU8 - INFO - URL marcada como fallida y añadida a failed_links.txt: https://open.spotify.com/playlist/3h6pIE4rE6z8OyxNMOqW8t?si=H8FB0OalRKGjeMjEXVgSJw
+2025-05-22 12:28:32,935 - Worker-KF9HFUCE6XE6WSU8 - ERROR - No se pudo abrir la playlist.
+2025-05-22 12:28:32,936 - Worker-KF9HFUCE6XE6WSU8 - WARNING - Fase de Playlist Inicial falló o tuvo errores.
+2025-05-22 12:28:32,936 - Worker-KF9HFUCE6XE6WSU8 - INFO - === INICIANDO FASE ARTISTA: https://open.spotify.com/artist/5FODJKisUiQHQuylUd8tOy?si=Tk2fNDVvQOSIolBdnUpZ7A ===
+2025-05-22 12:28:32,937 - Worker-KF9HFUCE6XE6WSU8 - INFO - Abriendo URL: https://open.spotify.com/artist/5FODJKisUiQHQuylUd8tOy?si=Tk2fNDVvQOSIolBdnUpZ7A
+2025-05-22 12:28:32,937 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 1/3 para abrir URL: https://open.spotify.com/artist/5FODJKisUiQHQuylUd8tOy?si=Tk2fNDVvQOSIolBdnUpZ7A
+2025-05-22 12:28:32,938 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent directo: am start -n com.spotify.music/com.spotify.music.MainActivity -a android.intent.action.VIEW -d 'https://open.spotify.com/artist/5FODJKisUiQHQuylUd8tOy?si=Tk2fNDVvQOSIolBdnUpZ7A'
+2025-05-22 12:28:45,087 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 12:31:14,521 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/artist/5FODJKisUiQHQuylUd8tOy?si=Tk2fNDVvQOSIolBdnUpZ7A (Intento 1): HTTP request timeout: HTTPConnectionPool(host='127.0.0.1', port=64268): Read timed out. (read timeout=60)
+2025-05-22 12:31:14,523 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt1_screenshot_KF9HFUCE6XE6WSU8_20250522_123114522801.png
+2025-05-22 12:31:15,357 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt1_screenshot_KF9HFUCE6XE6WSU8_20250522_123114522801.png
+2025-05-22 12:31:44,162 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 2/3 para abrir URL: https://open.spotify.com/artist/5FODJKisUiQHQuylUd8tOy?si=Tk2fNDVvQOSIolBdnUpZ7A
+2025-05-22 12:31:44,194 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent genérico: am start -a android.intent.action.VIEW -d 'https://open.spotify.com/artist/5FODJKisUiQHQuylUd8tOy?si=Tk2fNDVvQOSIolBdnUpZ7A'
+2025-05-22 12:31:55,328 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 12:34:24,777 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/artist/5FODJKisUiQHQuylUd8tOy?si=Tk2fNDVvQOSIolBdnUpZ7A (Intento 2): HTTP request timeout: HTTPConnectionPool(host='127.0.0.1', port=64268): Read timed out. (read timeout=60)
+2025-05-22 12:34:24,781 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt2_screenshot_KF9HFUCE6XE6WSU8_20250522_123424781279.png
+2025-05-22 12:34:25,489 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt2_screenshot_KF9HFUCE6XE6WSU8_20250522_123424781279.png
+2025-05-22 12:34:55,606 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 3/3 para abrir URL: https://open.spotify.com/artist/5FODJKisUiQHQuylUd8tOy?si=Tk2fNDVvQOSIolBdnUpZ7A
+2025-05-22 12:34:55,607 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent genérico: am start -a android.intent.action.VIEW -d 'https://open.spotify.com/artist/5FODJKisUiQHQuylUd8tOy?si=Tk2fNDVvQOSIolBdnUpZ7A'
+2025-05-22 12:35:07,607 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 12:37:37,112 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/artist/5FODJKisUiQHQuylUd8tOy?si=Tk2fNDVvQOSIolBdnUpZ7A (Intento 3): HTTP request timeout: HTTPConnectionPool(host='127.0.0.1', port=64268): Read timed out. (read timeout=60)
+2025-05-22 12:37:37,113 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt3_screenshot_KF9HFUCE6XE6WSU8_20250522_123737112657.png
+2025-05-22 12:37:37,876 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt3_screenshot_KF9HFUCE6XE6WSU8_20250522_123737112657.png
+2025-05-22 12:37:52,917 - Worker-KF9HFUCE6XE6WSU8 - ERROR - No se pudo abrir URL o verificar Spotify en primer plano después de 3 intentos: https://open.spotify.com/artist/5FODJKisUiQHQuylUd8tOy?si=Tk2fNDVvQOSIolBdnUpZ7A
+2025-05-22 12:37:52,919 - Worker-KF9HFUCE6XE6WSU8 - INFO - URL marcada como fallida y añadida a failed_links.txt: https://open.spotify.com/artist/5FODJKisUiQHQuylUd8tOy?si=Tk2fNDVvQOSIolBdnUpZ7A
+2025-05-22 12:37:52,919 - Worker-KF9HFUCE6XE6WSU8 - ERROR - No se pudo abrir el perfil del artista.
+2025-05-22 12:37:52,920 - Worker-KF9HFUCE6XE6WSU8 - WARNING - Fase de Artista falló o tuvo errores.
+2025-05-22 12:37:52,920 - Worker-KF9HFUCE6XE6WSU8 - INFO - === INICIANDO FASE TRACKS INDIVIDUALES ===
+2025-05-22 12:37:52,920 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intentando reproducir hasta 8 canciones individuales.
+2025-05-22 12:37:52,921 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intentando track 1/10: https://open.spotify.com/track/7kgci0jCra6NX4PPK4P9f6?si=bc4a340a0e4247f7
+2025-05-22 12:37:52,921 - Worker-KF9HFUCE6XE6WSU8 - INFO - Abriendo URL: https://open.spotify.com/track/7kgci0jCra6NX4PPK4P9f6?si=bc4a340a0e4247f7
+2025-05-22 12:37:52,921 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 1/3 para abrir URL: https://open.spotify.com/track/7kgci0jCra6NX4PPK4P9f6?si=bc4a340a0e4247f7
+2025-05-22 12:37:52,922 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent directo: am start -n com.spotify.music/com.spotify.music.MainActivity -a android.intent.action.VIEW -d 'https://open.spotify.com/track/7kgci0jCra6NX4PPK4P9f6?si=bc4a340a0e4247f7'
+2025-05-22 12:38:04,638 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 12:40:34,097 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/track/7kgci0jCra6NX4PPK4P9f6?si=bc4a340a0e4247f7 (Intento 1): HTTP request timeout: HTTPConnectionPool(host='127.0.0.1', port=64268): Read timed out. (read timeout=60)
+2025-05-22 12:40:34,098 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt1_screenshot_KF9HFUCE6XE6WSU8_20250522_124034098420.png
+2025-05-22 12:40:34,848 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt1_screenshot_KF9HFUCE6XE6WSU8_20250522_124034098420.png
+2025-05-22 12:41:15,792 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 2/3 para abrir URL: https://open.spotify.com/track/7kgci0jCra6NX4PPK4P9f6?si=bc4a340a0e4247f7
+2025-05-22 12:41:15,793 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent genérico: am start -a android.intent.action.VIEW -d 'https://open.spotify.com/track/7kgci0jCra6NX4PPK4P9f6?si=bc4a340a0e4247f7'
+2025-05-22 12:41:23,369 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 12:43:52,809 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/track/7kgci0jCra6NX4PPK4P9f6?si=bc4a340a0e4247f7 (Intento 2): HTTP request timeout: HTTPConnectionPool(host='127.0.0.1', port=64268): Read timed out. (read timeout=60)
+2025-05-22 12:43:52,811 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt2_screenshot_KF9HFUCE6XE6WSU8_20250522_124352810707.png
+2025-05-22 12:43:53,507 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt2_screenshot_KF9HFUCE6XE6WSU8_20250522_124352810707.png
+2025-05-22 12:44:23,021 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 3/3 para abrir URL: https://open.spotify.com/track/7kgci0jCra6NX4PPK4P9f6?si=bc4a340a0e4247f7
+2025-05-22 12:44:23,021 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent genérico: am start -a android.intent.action.VIEW -d 'https://open.spotify.com/track/7kgci0jCra6NX4PPK4P9f6?si=bc4a340a0e4247f7'
+2025-05-22 12:44:29,473 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 12:46:59,089 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/track/7kgci0jCra6NX4PPK4P9f6?si=bc4a340a0e4247f7 (Intento 3): HTTP request timeout: HTTPConnectionPool(host='127.0.0.1', port=64268): Read timed out. (read timeout=60)
+2025-05-22 12:46:59,091 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt3_screenshot_KF9HFUCE6XE6WSU8_20250522_124659090818.png
+2025-05-22 12:46:59,799 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt3_screenshot_KF9HFUCE6XE6WSU8_20250522_124659090818.png
+2025-05-22 12:47:25,956 - Worker-KF9HFUCE6XE6WSU8 - ERROR - No se pudo abrir URL o verificar Spotify en primer plano después de 3 intentos: https://open.spotify.com/track/7kgci0jCra6NX4PPK4P9f6?si=bc4a340a0e4247f7
+2025-05-22 12:47:25,960 - Worker-KF9HFUCE6XE6WSU8 - INFO - URL marcada como fallida y añadida a failed_links.txt: https://open.spotify.com/track/7kgci0jCra6NX4PPK4P9f6?si=bc4a340a0e4247f7
+2025-05-22 12:47:25,962 - Worker-KF9HFUCE6XE6WSU8 - WARNING - No se pudo abrir el track: https://open.spotify.com/track/7kgci0jCra6NX4PPK4P9f6?si=bc4a340a0e4247f7
+2025-05-22 12:47:25,962 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intentando track 2/10: https://open.spotify.com/track/2041toKd8XoU1dxjW1aBzb?si=63d794bbd5114ccb
+2025-05-22 12:47:25,963 - Worker-KF9HFUCE6XE6WSU8 - INFO - Abriendo URL: https://open.spotify.com/track/2041toKd8XoU1dxjW1aBzb?si=63d794bbd5114ccb
+2025-05-22 12:47:25,963 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 1/3 para abrir URL: https://open.spotify.com/track/2041toKd8XoU1dxjW1aBzb?si=63d794bbd5114ccb
+2025-05-22 12:47:25,964 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent directo: am start -n com.spotify.music/com.spotify.music.MainActivity -a android.intent.action.VIEW -d 'https://open.spotify.com/track/2041toKd8XoU1dxjW1aBzb?si=63d794bbd5114ccb'
+2025-05-22 12:47:31,708 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 12:50:01,262 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/track/2041toKd8XoU1dxjW1aBzb?si=63d794bbd5114ccb (Intento 1): HTTP request timeout: HTTPConnectionPool(host='127.0.0.1', port=64268): Read timed out. (read timeout=60)
+2025-05-22 12:50:01,301 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt1_screenshot_KF9HFUCE6XE6WSU8_20250522_125001301255.png
+2025-05-22 12:50:02,052 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt1_screenshot_KF9HFUCE6XE6WSU8_20250522_125001301255.png
+2025-05-22 12:50:37,496 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 2/3 para abrir URL: https://open.spotify.com/track/2041toKd8XoU1dxjW1aBzb?si=63d794bbd5114ccb
+2025-05-22 12:50:37,496 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent genérico: am start -a android.intent.action.VIEW -d 'https://open.spotify.com/track/2041toKd8XoU1dxjW1aBzb?si=63d794bbd5114ccb'
+2025-05-22 12:50:44,419 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 12:53:13,987 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/track/2041toKd8XoU1dxjW1aBzb?si=63d794bbd5114ccb (Intento 2): HTTP request timeout: HTTPConnectionPool(host='127.0.0.1', port=64268): Read timed out. (read timeout=60)
+2025-05-22 12:53:13,988 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt2_screenshot_KF9HFUCE6XE6WSU8_20250522_125313988434.png
+2025-05-22 12:53:14,733 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt2_screenshot_KF9HFUCE6XE6WSU8_20250522_125313988434.png
+2025-05-22 12:53:46,825 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 3/3 para abrir URL: https://open.spotify.com/track/2041toKd8XoU1dxjW1aBzb?si=63d794bbd5114ccb
+2025-05-22 12:53:46,825 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent genérico: am start -a android.intent.action.VIEW -d 'https://open.spotify.com/track/2041toKd8XoU1dxjW1aBzb?si=63d794bbd5114ccb'
+2025-05-22 12:53:55,215 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 12:56:24,702 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/track/2041toKd8XoU1dxjW1aBzb?si=63d794bbd5114ccb (Intento 3): HTTP request timeout: HTTPConnectionPool(host='127.0.0.1', port=64268): Read timed out. (read timeout=60)
+2025-05-22 12:56:24,706 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt3_screenshot_KF9HFUCE6XE6WSU8_20250522_125624705536.png
+2025-05-22 12:56:25,469 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt3_screenshot_KF9HFUCE6XE6WSU8_20250522_125624705536.png
+2025-05-22 12:56:42,636 - Worker-KF9HFUCE6XE6WSU8 - ERROR - No se pudo abrir URL o verificar Spotify en primer plano después de 3 intentos: https://open.spotify.com/track/2041toKd8XoU1dxjW1aBzb?si=63d794bbd5114ccb
+2025-05-22 12:56:42,638 - Worker-KF9HFUCE6XE6WSU8 - INFO - URL marcada como fallida y añadida a failed_links.txt: https://open.spotify.com/track/2041toKd8XoU1dxjW1aBzb?si=63d794bbd5114ccb
+2025-05-22 12:56:42,639 - Worker-KF9HFUCE6XE6WSU8 - WARNING - No se pudo abrir el track: https://open.spotify.com/track/2041toKd8XoU1dxjW1aBzb?si=63d794bbd5114ccb
+2025-05-22 12:56:42,639 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intentando track 3/10: https://open.spotify.com/track/3oCINS5vEBpRwRzoXfapY8?si=649a132eaf094f0b
+2025-05-22 12:56:42,640 - Worker-KF9HFUCE6XE6WSU8 - INFO - Abriendo URL: https://open.spotify.com/track/3oCINS5vEBpRwRzoXfapY8?si=649a132eaf094f0b
+2025-05-22 12:56:42,641 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 1/3 para abrir URL: https://open.spotify.com/track/3oCINS5vEBpRwRzoXfapY8?si=649a132eaf094f0b
+2025-05-22 12:56:42,641 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent directo: am start -n com.spotify.music/com.spotify.music.MainActivity -a android.intent.action.VIEW -d 'https://open.spotify.com/track/3oCINS5vEBpRwRzoXfapY8?si=649a132eaf094f0b'
+2025-05-22 12:56:48,597 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 12:59:17,755 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/track/3oCINS5vEBpRwRzoXfapY8?si=649a132eaf094f0b (Intento 1): HTTP request timeout: HTTPConnectionPool(host='127.0.0.1', port=64268): Read timed out. (read timeout=60)
+2025-05-22 12:59:17,757 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt1_screenshot_KF9HFUCE6XE6WSU8_20250522_125917756806.png
+2025-05-22 12:59:18,661 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt1_screenshot_KF9HFUCE6XE6WSU8_20250522_125917756806.png
+2025-05-22 13:00:02,457 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 2/3 para abrir URL: https://open.spotify.com/track/3oCINS5vEBpRwRzoXfapY8?si=649a132eaf094f0b
+2025-05-22 13:00:02,457 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent genérico: am start -a android.intent.action.VIEW -d 'https://open.spotify.com/track/3oCINS5vEBpRwRzoXfapY8?si=649a132eaf094f0b'
+2025-05-22 13:00:08,366 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 13:02:38,087 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/track/3oCINS5vEBpRwRzoXfapY8?si=649a132eaf094f0b (Intento 2): HTTP request timeout: HTTPConnectionPool(host='127.0.0.1', port=64268): Read timed out. (read timeout=60)
+2025-05-22 13:02:38,088 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt2_screenshot_KF9HFUCE6XE6WSU8_20250522_130238088445.png
+2025-05-22 13:02:38,818 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt2_screenshot_KF9HFUCE6XE6WSU8_20250522_130238088445.png
+2025-05-22 13:03:06,995 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 3/3 para abrir URL: https://open.spotify.com/track/3oCINS5vEBpRwRzoXfapY8?si=649a132eaf094f0b
+2025-05-22 13:03:06,995 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent genérico: am start -a android.intent.action.VIEW -d 'https://open.spotify.com/track/3oCINS5vEBpRwRzoXfapY8?si=649a132eaf094f0b'
+2025-05-22 13:03:16,472 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 13:05:45,995 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/track/3oCINS5vEBpRwRzoXfapY8?si=649a132eaf094f0b (Intento 3): HTTP request timeout: HTTPConnectionPool(host='127.0.0.1', port=64268): Read timed out. (read timeout=60)
+2025-05-22 13:05:45,997 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt3_screenshot_KF9HFUCE6XE6WSU8_20250522_130545997002.png
+2025-05-22 13:05:46,823 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt3_screenshot_KF9HFUCE6XE6WSU8_20250522_130545997002.png
+2025-05-22 13:06:11,362 - Worker-KF9HFUCE6XE6WSU8 - ERROR - No se pudo abrir URL o verificar Spotify en primer plano después de 3 intentos: https://open.spotify.com/track/3oCINS5vEBpRwRzoXfapY8?si=649a132eaf094f0b
+2025-05-22 13:06:11,364 - Worker-KF9HFUCE6XE6WSU8 - INFO - URL marcada como fallida y añadida a failed_links.txt: https://open.spotify.com/track/3oCINS5vEBpRwRzoXfapY8?si=649a132eaf094f0b
+2025-05-22 13:06:11,365 - Worker-KF9HFUCE6XE6WSU8 - WARNING - No se pudo abrir el track: https://open.spotify.com/track/3oCINS5vEBpRwRzoXfapY8?si=649a132eaf094f0b
+2025-05-22 13:06:11,366 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intentando track 4/10: https://open.spotify.com/track/4PQDRTRxgb68ao1QZYGIpU?si=5282d47e9fd548cc
+2025-05-22 13:06:11,366 - Worker-KF9HFUCE6XE6WSU8 - INFO - Abriendo URL: https://open.spotify.com/track/4PQDRTRxgb68ao1QZYGIpU?si=5282d47e9fd548cc
+2025-05-22 13:06:11,367 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 1/3 para abrir URL: https://open.spotify.com/track/4PQDRTRxgb68ao1QZYGIpU?si=5282d47e9fd548cc
+2025-05-22 13:06:11,367 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent directo: am start -n com.spotify.music/com.spotify.music.MainActivity -a android.intent.action.VIEW -d 'https://open.spotify.com/track/4PQDRTRxgb68ao1QZYGIpU?si=5282d47e9fd548cc'
+2025-05-22 13:06:21,012 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 13:08:50,599 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/track/4PQDRTRxgb68ao1QZYGIpU?si=5282d47e9fd548cc (Intento 1): HTTP request timeout: HTTPConnectionPool(host='127.0.0.1', port=64268): Read timed out. (read timeout=60)
+2025-05-22 13:08:50,600 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt1_screenshot_KF9HFUCE6XE6WSU8_20250522_130850600201.png
+2025-05-22 13:08:51,381 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt1_screenshot_KF9HFUCE6XE6WSU8_20250522_130850600201.png
+2025-05-22 13:09:25,949 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 2/3 para abrir URL: https://open.spotify.com/track/4PQDRTRxgb68ao1QZYGIpU?si=5282d47e9fd548cc
+2025-05-22 13:09:25,950 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent genérico: am start -a android.intent.action.VIEW -d 'https://open.spotify.com/track/4PQDRTRxgb68ao1QZYGIpU?si=5282d47e9fd548cc'
+2025-05-22 13:09:37,898 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 13:12:07,369 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/track/4PQDRTRxgb68ao1QZYGIpU?si=5282d47e9fd548cc (Intento 2): HTTP request timeout: HTTPConnectionPool(host='127.0.0.1', port=64268): Read timed out. (read timeout=60)
+2025-05-22 13:12:07,370 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt2_screenshot_KF9HFUCE6XE6WSU8_20250522_131207370187.png
+2025-05-22 13:12:08,082 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt2_screenshot_KF9HFUCE6XE6WSU8_20250522_131207370187.png
+2025-05-22 13:12:39,327 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 3/3 para abrir URL: https://open.spotify.com/track/4PQDRTRxgb68ao1QZYGIpU?si=5282d47e9fd548cc
+2025-05-22 13:12:39,328 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent genérico: am start -a android.intent.action.VIEW -d 'https://open.spotify.com/track/4PQDRTRxgb68ao1QZYGIpU?si=5282d47e9fd548cc'
+2025-05-22 13:12:50,186 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 13:15:19,646 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/track/4PQDRTRxgb68ao1QZYGIpU?si=5282d47e9fd548cc (Intento 3): HTTP request timeout: HTTPConnectionPool(host='127.0.0.1', port=64268): Read timed out. (read timeout=60)
+2025-05-22 13:15:19,648 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt3_screenshot_KF9HFUCE6XE6WSU8_20250522_131519647069.png
+2025-05-22 13:15:20,366 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt3_screenshot_KF9HFUCE6XE6WSU8_20250522_131519647069.png
+2025-05-22 13:15:38,377 - Worker-KF9HFUCE6XE6WSU8 - ERROR - No se pudo abrir URL o verificar Spotify en primer plano después de 3 intentos: https://open.spotify.com/track/4PQDRTRxgb68ao1QZYGIpU?si=5282d47e9fd548cc
+2025-05-22 13:15:38,380 - Worker-KF9HFUCE6XE6WSU8 - INFO - URL marcada como fallida y añadida a failed_links.txt: https://open.spotify.com/track/4PQDRTRxgb68ao1QZYGIpU?si=5282d47e9fd548cc
+2025-05-22 13:15:38,381 - Worker-KF9HFUCE6XE6WSU8 - WARNING - No se pudo abrir el track: https://open.spotify.com/track/4PQDRTRxgb68ao1QZYGIpU?si=5282d47e9fd548cc
+2025-05-22 13:15:38,382 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intentando track 5/10: https://open.spotify.com/track/1FCz670pJ73G2nWmydkLw2?si=0d85fb67339244dd
+2025-05-22 13:15:38,382 - Worker-KF9HFUCE6XE6WSU8 - INFO - Abriendo URL: https://open.spotify.com/track/1FCz670pJ73G2nWmydkLw2?si=0d85fb67339244dd
+2025-05-22 13:15:38,383 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 1/3 para abrir URL: https://open.spotify.com/track/1FCz670pJ73G2nWmydkLw2?si=0d85fb67339244dd
+2025-05-22 13:15:38,383 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent directo: am start -n com.spotify.music/com.spotify.music.MainActivity -a android.intent.action.VIEW -d 'https://open.spotify.com/track/1FCz670pJ73G2nWmydkLw2?si=0d85fb67339244dd'
+2025-05-22 13:15:45,056 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 13:18:14,526 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/track/1FCz670pJ73G2nWmydkLw2?si=0d85fb67339244dd (Intento 1): HTTP request timeout: HTTPConnectionPool(host='127.0.0.1', port=64268): Read timed out. (read timeout=60)
+2025-05-22 13:18:14,527 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt1_screenshot_KF9HFUCE6XE6WSU8_20250522_131814527033.png
+2025-05-22 13:18:15,251 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt1_screenshot_KF9HFUCE6XE6WSU8_20250522_131814527033.png
+2025-05-22 13:18:54,759 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 2/3 para abrir URL: https://open.spotify.com/track/1FCz670pJ73G2nWmydkLw2?si=0d85fb67339244dd
+2025-05-22 13:18:54,762 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent genérico: am start -a android.intent.action.VIEW -d 'https://open.spotify.com/track/1FCz670pJ73G2nWmydkLw2?si=0d85fb67339244dd'
+2025-05-22 13:19:05,449 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 13:21:34,940 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/track/1FCz670pJ73G2nWmydkLw2?si=0d85fb67339244dd (Intento 2): HTTP request timeout: HTTPConnectionPool(host='127.0.0.1', port=64268): Read timed out. (read timeout=60)
+2025-05-22 13:21:34,941 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt2_screenshot_KF9HFUCE6XE6WSU8_20250522_132134941722.png
+2025-05-22 13:21:35,655 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt2_screenshot_KF9HFUCE6XE6WSU8_20250522_132134941722.png
+2025-05-22 13:22:15,036 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 3/3 para abrir URL: https://open.spotify.com/track/1FCz670pJ73G2nWmydkLw2?si=0d85fb67339244dd
+2025-05-22 13:22:15,037 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent genérico: am start -a android.intent.action.VIEW -d 'https://open.spotify.com/track/1FCz670pJ73G2nWmydkLw2?si=0d85fb67339244dd'
+2025-05-22 13:22:26,330 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 13:24:55,782 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/track/1FCz670pJ73G2nWmydkLw2?si=0d85fb67339244dd (Intento 3): HTTP request timeout: HTTPConnectionPool(host='127.0.0.1', port=64268): Read timed out. (read timeout=60)
+2025-05-22 13:24:55,784 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt3_screenshot_KF9HFUCE6XE6WSU8_20250522_132455783583.png
+2025-05-22 13:24:56,650 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt3_screenshot_KF9HFUCE6XE6WSU8_20250522_132455783583.png
+2025-05-22 13:25:13,079 - Worker-KF9HFUCE6XE6WSU8 - ERROR - No se pudo abrir URL o verificar Spotify en primer plano después de 3 intentos: https://open.spotify.com/track/1FCz670pJ73G2nWmydkLw2?si=0d85fb67339244dd
+2025-05-22 13:25:13,080 - Worker-KF9HFUCE6XE6WSU8 - INFO - URL marcada como fallida y añadida a failed_links.txt: https://open.spotify.com/track/1FCz670pJ73G2nWmydkLw2?si=0d85fb67339244dd
+2025-05-22 13:25:13,081 - Worker-KF9HFUCE6XE6WSU8 - WARNING - No se pudo abrir el track: https://open.spotify.com/track/1FCz670pJ73G2nWmydkLw2?si=0d85fb67339244dd
+2025-05-22 13:25:13,082 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intentando track 6/10: https://open.spotify.com/track/2FAslAIJWS7FyRWSBfTAub?si=1c748d229a3b4d2c
+2025-05-22 13:25:13,082 - Worker-KF9HFUCE6XE6WSU8 - INFO - Abriendo URL: https://open.spotify.com/track/2FAslAIJWS7FyRWSBfTAub?si=1c748d229a3b4d2c
+2025-05-22 13:25:13,082 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 1/3 para abrir URL: https://open.spotify.com/track/2FAslAIJWS7FyRWSBfTAub?si=1c748d229a3b4d2c
+2025-05-22 13:25:13,083 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent directo: am start -n com.spotify.music/com.spotify.music.MainActivity -a android.intent.action.VIEW -d 'https://open.spotify.com/track/2FAslAIJWS7FyRWSBfTAub?si=1c748d229a3b4d2c'
+2025-05-22 13:25:24,783 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 13:27:54,256 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/track/2FAslAIJWS7FyRWSBfTAub?si=1c748d229a3b4d2c (Intento 1): HTTP request timeout: HTTPConnectionPool(host='127.0.0.1', port=64268): Read timed out. (read timeout=60)
+2025-05-22 13:27:54,257 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt1_screenshot_KF9HFUCE6XE6WSU8_20250522_132754257180.png
+2025-05-22 13:27:55,008 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt1_screenshot_KF9HFUCE6XE6WSU8_20250522_132754257180.png
+2025-05-22 13:28:37,204 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 2/3 para abrir URL: https://open.spotify.com/track/2FAslAIJWS7FyRWSBfTAub?si=1c748d229a3b4d2c
+2025-05-22 13:28:37,205 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent genérico: am start -a android.intent.action.VIEW -d 'https://open.spotify.com/track/2FAslAIJWS7FyRWSBfTAub?si=1c748d229a3b4d2c'
+2025-05-22 13:28:46,410 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 13:31:15,898 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/track/2FAslAIJWS7FyRWSBfTAub?si=1c748d229a3b4d2c (Intento 2): HTTP request timeout: HTTPConnectionPool(host='127.0.0.1', port=64268): Read timed out. (read timeout=60)
+2025-05-22 13:31:15,900 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt2_screenshot_KF9HFUCE6XE6WSU8_20250522_133115900446.png
+2025-05-22 13:31:16,642 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt2_screenshot_KF9HFUCE6XE6WSU8_20250522_133115900446.png
+2025-05-22 13:31:48,954 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 3/3 para abrir URL: https://open.spotify.com/track/2FAslAIJWS7FyRWSBfTAub?si=1c748d229a3b4d2c
+2025-05-22 13:31:48,954 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent genérico: am start -a android.intent.action.VIEW -d 'https://open.spotify.com/track/2FAslAIJWS7FyRWSBfTAub?si=1c748d229a3b4d2c'
+2025-05-22 13:31:58,004 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 13:34:27,562 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/track/2FAslAIJWS7FyRWSBfTAub?si=1c748d229a3b4d2c (Intento 3): HTTP request timeout: HTTPConnectionPool(host='127.0.0.1', port=64268): Read timed out. (read timeout=60)
+2025-05-22 13:34:27,566 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt3_screenshot_KF9HFUCE6XE6WSU8_20250522_133427566129.png
+2025-05-22 13:34:28,295 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt3_screenshot_KF9HFUCE6XE6WSU8_20250522_133427566129.png
+2025-05-22 13:34:52,740 - Worker-KF9HFUCE6XE6WSU8 - ERROR - No se pudo abrir URL o verificar Spotify en primer plano después de 3 intentos: https://open.spotify.com/track/2FAslAIJWS7FyRWSBfTAub?si=1c748d229a3b4d2c
+2025-05-22 13:34:52,744 - Worker-KF9HFUCE6XE6WSU8 - INFO - URL marcada como fallida y añadida a failed_links.txt: https://open.spotify.com/track/2FAslAIJWS7FyRWSBfTAub?si=1c748d229a3b4d2c
+2025-05-22 13:34:52,746 - Worker-KF9HFUCE6XE6WSU8 - WARNING - No se pudo abrir el track: https://open.spotify.com/track/2FAslAIJWS7FyRWSBfTAub?si=1c748d229a3b4d2c
+2025-05-22 13:34:52,750 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intentando track 7/10: https://open.spotify.com/track/3bfsoagksB1mvwxLI9TlOJ?si=6c5c12b5a5ad4bae
+2025-05-22 13:34:52,752 - Worker-KF9HFUCE6XE6WSU8 - INFO - Abriendo URL: https://open.spotify.com/track/3bfsoagksB1mvwxLI9TlOJ?si=6c5c12b5a5ad4bae
+2025-05-22 13:34:52,753 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 1/3 para abrir URL: https://open.spotify.com/track/3bfsoagksB1mvwxLI9TlOJ?si=6c5c12b5a5ad4bae
+2025-05-22 13:34:52,753 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent directo: am start -n com.spotify.music/com.spotify.music.MainActivity -a android.intent.action.VIEW -d 'https://open.spotify.com/track/3bfsoagksB1mvwxLI9TlOJ?si=6c5c12b5a5ad4bae'
+2025-05-22 13:35:00,108 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 13:37:29,537 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/track/3bfsoagksB1mvwxLI9TlOJ?si=6c5c12b5a5ad4bae (Intento 1): HTTP request timeout: HTTPConnectionPool(host='127.0.0.1', port=64268): Read timed out. (read timeout=60)
+2025-05-22 13:37:29,539 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt1_screenshot_KF9HFUCE6XE6WSU8_20250522_133729539199.png
+2025-05-22 13:37:30,336 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt1_screenshot_KF9HFUCE6XE6WSU8_20250522_133729539199.png
+2025-05-22 13:38:09,547 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 2/3 para abrir URL: https://open.spotify.com/track/3bfsoagksB1mvwxLI9TlOJ?si=6c5c12b5a5ad4bae
+2025-05-22 13:38:09,548 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent genérico: am start -a android.intent.action.VIEW -d 'https://open.spotify.com/track/3bfsoagksB1mvwxLI9TlOJ?si=6c5c12b5a5ad4bae'
+2025-05-22 13:38:16,113 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 13:40:45,653 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/track/3bfsoagksB1mvwxLI9TlOJ?si=6c5c12b5a5ad4bae (Intento 2): HTTP request timeout: HTTPConnectionPool(host='127.0.0.1', port=64268): Read timed out. (read timeout=60)
+2025-05-22 13:40:45,659 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt2_screenshot_KF9HFUCE6XE6WSU8_20250522_134045659150.png
+2025-05-22 13:40:46,527 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt2_screenshot_KF9HFUCE6XE6WSU8_20250522_134045659150.png
+2025-05-22 13:41:19,887 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 3/3 para abrir URL: https://open.spotify.com/track/3bfsoagksB1mvwxLI9TlOJ?si=6c5c12b5a5ad4bae
+2025-05-22 13:41:19,888 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent genérico: am start -a android.intent.action.VIEW -d 'https://open.spotify.com/track/3bfsoagksB1mvwxLI9TlOJ?si=6c5c12b5a5ad4bae'
+2025-05-22 13:41:30,818 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 13:44:00,265 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/track/3bfsoagksB1mvwxLI9TlOJ?si=6c5c12b5a5ad4bae (Intento 3): HTTP request timeout: HTTPConnectionPool(host='127.0.0.1', port=64268): Read timed out. (read timeout=60)
+2025-05-22 13:44:00,266 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt3_screenshot_KF9HFUCE6XE6WSU8_20250522_134400266196.png
+2025-05-22 13:44:01,079 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt3_screenshot_KF9HFUCE6XE6WSU8_20250522_134400266196.png
+2025-05-22 13:44:28,158 - Worker-KF9HFUCE6XE6WSU8 - ERROR - No se pudo abrir URL o verificar Spotify en primer plano después de 3 intentos: https://open.spotify.com/track/3bfsoagksB1mvwxLI9TlOJ?si=6c5c12b5a5ad4bae
+2025-05-22 13:44:28,163 - Worker-KF9HFUCE6XE6WSU8 - INFO - URL marcada como fallida y añadida a failed_links.txt: https://open.spotify.com/track/3bfsoagksB1mvwxLI9TlOJ?si=6c5c12b5a5ad4bae
+2025-05-22 13:44:28,164 - Worker-KF9HFUCE6XE6WSU8 - WARNING - No se pudo abrir el track: https://open.spotify.com/track/3bfsoagksB1mvwxLI9TlOJ?si=6c5c12b5a5ad4bae
+2025-05-22 13:44:28,164 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intentando track 8/10: https://open.spotify.com/track/47fvMRDX1t1ataekXxgB0w?si=d2f181da63ed436c
+2025-05-22 13:44:28,165 - Worker-KF9HFUCE6XE6WSU8 - INFO - Abriendo URL: https://open.spotify.com/track/47fvMRDX1t1ataekXxgB0w?si=d2f181da63ed436c
+2025-05-22 13:44:28,166 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 1/3 para abrir URL: https://open.spotify.com/track/47fvMRDX1t1ataekXxgB0w?si=d2f181da63ed436c
+2025-05-22 13:44:28,166 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent directo: am start -n com.spotify.music/com.spotify.music.MainActivity -a android.intent.action.VIEW -d 'https://open.spotify.com/track/47fvMRDX1t1ataekXxgB0w?si=d2f181da63ed436c'
+2025-05-22 13:44:40,886 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 13:47:10,341 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/track/47fvMRDX1t1ataekXxgB0w?si=d2f181da63ed436c (Intento 1): HTTP request timeout: HTTPConnectionPool(host='127.0.0.1', port=64268): Read timed out. (read timeout=60)
+2025-05-22 13:47:10,342 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt1_screenshot_KF9HFUCE6XE6WSU8_20250522_134710342265.png
+2025-05-22 13:47:11,273 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt1_screenshot_KF9HFUCE6XE6WSU8_20250522_134710342265.png
+2025-05-22 13:47:47,968 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 2/3 para abrir URL: https://open.spotify.com/track/47fvMRDX1t1ataekXxgB0w?si=d2f181da63ed436c
+2025-05-22 13:47:47,970 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent genérico: am start -a android.intent.action.VIEW -d 'https://open.spotify.com/track/47fvMRDX1t1ataekXxgB0w?si=d2f181da63ed436c'
+2025-05-22 13:47:58,515 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 13:50:27,968 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/track/47fvMRDX1t1ataekXxgB0w?si=d2f181da63ed436c (Intento 2): HTTP request timeout: HTTPConnectionPool(host='127.0.0.1', port=64268): Read timed out. (read timeout=60)
+2025-05-22 13:50:27,969 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt2_screenshot_KF9HFUCE6XE6WSU8_20250522_135027969491.png
+2025-05-22 13:50:28,810 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt2_screenshot_KF9HFUCE6XE6WSU8_20250522_135027969491.png
+2025-05-22 13:51:02,749 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 3/3 para abrir URL: https://open.spotify.com/track/47fvMRDX1t1ataekXxgB0w?si=d2f181da63ed436c
+2025-05-22 13:51:02,749 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent genérico: am start -a android.intent.action.VIEW -d 'https://open.spotify.com/track/47fvMRDX1t1ataekXxgB0w?si=d2f181da63ed436c'
+2025-05-22 13:51:09,568 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 13:53:39,307 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/track/47fvMRDX1t1ataekXxgB0w?si=d2f181da63ed436c (Intento 3): HTTP request timeout: HTTPConnectionPool(host='127.0.0.1', port=64268): Read timed out. (read timeout=60)
+2025-05-22 13:53:39,308 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt3_screenshot_KF9HFUCE6XE6WSU8_20250522_135339308502.png
+2025-05-22 13:53:40,067 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt3_screenshot_KF9HFUCE6XE6WSU8_20250522_135339308502.png
+2025-05-22 13:54:04,593 - Worker-KF9HFUCE6XE6WSU8 - ERROR - No se pudo abrir URL o verificar Spotify en primer plano después de 3 intentos: https://open.spotify.com/track/47fvMRDX1t1ataekXxgB0w?si=d2f181da63ed436c
+2025-05-22 13:54:04,595 - Worker-KF9HFUCE6XE6WSU8 - INFO - URL marcada como fallida y añadida a failed_links.txt: https://open.spotify.com/track/47fvMRDX1t1ataekXxgB0w?si=d2f181da63ed436c
+2025-05-22 13:54:04,596 - Worker-KF9HFUCE6XE6WSU8 - WARNING - No se pudo abrir el track: https://open.spotify.com/track/47fvMRDX1t1ataekXxgB0w?si=d2f181da63ed436c
+2025-05-22 13:54:04,596 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intentando track 9/10: https://open.spotify.com/track/74jLM7ARSVEOfiDBDMLvOz?si=dadf45a4b9f843da
+2025-05-22 13:54:04,597 - Worker-KF9HFUCE6XE6WSU8 - INFO - Abriendo URL: https://open.spotify.com/track/74jLM7ARSVEOfiDBDMLvOz?si=dadf45a4b9f843da
+2025-05-22 13:54:04,598 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 1/3 para abrir URL: https://open.spotify.com/track/74jLM7ARSVEOfiDBDMLvOz?si=dadf45a4b9f843da
+2025-05-22 13:54:04,598 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent directo: am start -n com.spotify.music/com.spotify.music.MainActivity -a android.intent.action.VIEW -d 'https://open.spotify.com/track/74jLM7ARSVEOfiDBDMLvOz?si=dadf45a4b9f843da'
+2025-05-22 13:54:11,177 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 13:56:40,710 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/track/74jLM7ARSVEOfiDBDMLvOz?si=dadf45a4b9f843da (Intento 1): HTTP request timeout: HTTPConnectionPool(host='127.0.0.1', port=64268): Read timed out. (read timeout=60)
+2025-05-22 13:56:40,712 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt1_screenshot_KF9HFUCE6XE6WSU8_20250522_135640711707.png
+2025-05-22 13:56:41,467 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt1_screenshot_KF9HFUCE6XE6WSU8_20250522_135640711707.png
+2025-05-22 13:57:12,832 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 2/3 para abrir URL: https://open.spotify.com/track/74jLM7ARSVEOfiDBDMLvOz?si=dadf45a4b9f843da
+2025-05-22 13:57:12,833 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent genérico: am start -a android.intent.action.VIEW -d 'https://open.spotify.com/track/74jLM7ARSVEOfiDBDMLvOz?si=dadf45a4b9f843da'
+2025-05-22 13:57:19,162 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 13:59:48,628 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/track/74jLM7ARSVEOfiDBDMLvOz?si=dadf45a4b9f843da (Intento 2): HTTP request timeout: HTTPConnectionPool(host='127.0.0.1', port=64268): Read timed out. (read timeout=60)
+2025-05-22 13:59:48,629 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt2_screenshot_KF9HFUCE6XE6WSU8_20250522_135948628768.png
+2025-05-22 13:59:49,363 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt2_screenshot_KF9HFUCE6XE6WSU8_20250522_135948628768.png
+2025-05-22 14:00:27,194 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 3/3 para abrir URL: https://open.spotify.com/track/74jLM7ARSVEOfiDBDMLvOz?si=dadf45a4b9f843da
+2025-05-22 14:00:27,195 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent genérico: am start -a android.intent.action.VIEW -d 'https://open.spotify.com/track/74jLM7ARSVEOfiDBDMLvOz?si=dadf45a4b9f843da'
+2025-05-22 14:00:34,567 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 14:03:04,041 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/track/74jLM7ARSVEOfiDBDMLvOz?si=dadf45a4b9f843da (Intento 3): HTTP request timeout: HTTPConnectionPool(host='127.0.0.1', port=64268): Read timed out. (read timeout=60)
+2025-05-22 14:03:04,042 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt3_screenshot_KF9HFUCE6XE6WSU8_20250522_140304041671.png
+2025-05-22 14:03:04,786 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt3_screenshot_KF9HFUCE6XE6WSU8_20250522_140304041671.png
+2025-05-22 14:03:25,251 - Worker-KF9HFUCE6XE6WSU8 - ERROR - No se pudo abrir URL o verificar Spotify en primer plano después de 3 intentos: https://open.spotify.com/track/74jLM7ARSVEOfiDBDMLvOz?si=dadf45a4b9f843da
+2025-05-22 14:03:25,252 - Worker-KF9HFUCE6XE6WSU8 - INFO - URL marcada como fallida y añadida a failed_links.txt: https://open.spotify.com/track/74jLM7ARSVEOfiDBDMLvOz?si=dadf45a4b9f843da
+2025-05-22 14:03:25,253 - Worker-KF9HFUCE6XE6WSU8 - WARNING - No se pudo abrir el track: https://open.spotify.com/track/74jLM7ARSVEOfiDBDMLvOz?si=dadf45a4b9f843da
+2025-05-22 14:03:25,253 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intentando track 10/10: https://open.spotify.com/track/71Urz9JmYoaedvlo76DHY7?si=12838fe90f0f44da
+2025-05-22 14:03:25,253 - Worker-KF9HFUCE6XE6WSU8 - INFO - Abriendo URL: https://open.spotify.com/track/71Urz9JmYoaedvlo76DHY7?si=12838fe90f0f44da
+2025-05-22 14:03:25,254 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 1/3 para abrir URL: https://open.spotify.com/track/71Urz9JmYoaedvlo76DHY7?si=12838fe90f0f44da
+2025-05-22 14:03:25,254 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent directo: am start -n com.spotify.music/com.spotify.music.MainActivity -a android.intent.action.VIEW -d 'https://open.spotify.com/track/71Urz9JmYoaedvlo76DHY7?si=12838fe90f0f44da'
+2025-05-22 14:03:33,659 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 14:06:03,108 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/track/71Urz9JmYoaedvlo76DHY7?si=12838fe90f0f44da (Intento 1): HTTP request timeout: HTTPConnectionPool(host='127.0.0.1', port=64268): Read timed out. (read timeout=60)
+2025-05-22 14:06:03,109 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt1_screenshot_KF9HFUCE6XE6WSU8_20250522_140603109275.png
+2025-05-22 14:06:03,891 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt1_screenshot_KF9HFUCE6XE6WSU8_20250522_140603109275.png
+2025-05-22 14:06:42,588 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 2/3 para abrir URL: https://open.spotify.com/track/71Urz9JmYoaedvlo76DHY7?si=12838fe90f0f44da
+2025-05-22 14:06:42,589 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent genérico: am start -a android.intent.action.VIEW -d 'https://open.spotify.com/track/71Urz9JmYoaedvlo76DHY7?si=12838fe90f0f44da'
+2025-05-22 14:06:54,009 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 14:09:23,576 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/track/71Urz9JmYoaedvlo76DHY7?si=12838fe90f0f44da (Intento 2): HTTP request timeout: HTTPConnectionPool(host='127.0.0.1', port=64268): Read timed out. (read timeout=60)
+2025-05-22 14:09:23,578 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt2_screenshot_KF9HFUCE6XE6WSU8_20250522_140923577938.png
+2025-05-22 14:09:24,340 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt2_screenshot_KF9HFUCE6XE6WSU8_20250522_140923577938.png
+2025-05-22 14:10:03,775 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 3/3 para abrir URL: https://open.spotify.com/track/71Urz9JmYoaedvlo76DHY7?si=12838fe90f0f44da
+2025-05-22 14:10:03,775 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent genérico: am start -a android.intent.action.VIEW -d 'https://open.spotify.com/track/71Urz9JmYoaedvlo76DHY7?si=12838fe90f0f44da'
+2025-05-22 14:10:15,190 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 14:12:44,654 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/track/71Urz9JmYoaedvlo76DHY7?si=12838fe90f0f44da (Intento 3): HTTP request timeout: HTTPConnectionPool(host='127.0.0.1', port=64268): Read timed out. (read timeout=60)
+2025-05-22 14:12:44,655 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt3_screenshot_KF9HFUCE6XE6WSU8_20250522_141244655378.png
+2025-05-22 14:12:45,380 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt3_screenshot_KF9HFUCE6XE6WSU8_20250522_141244655378.png
+2025-05-22 14:13:02,056 - Worker-KF9HFUCE6XE6WSU8 - ERROR - No se pudo abrir URL o verificar Spotify en primer plano después de 3 intentos: https://open.spotify.com/track/71Urz9JmYoaedvlo76DHY7?si=12838fe90f0f44da
+2025-05-22 14:13:02,057 - Worker-KF9HFUCE6XE6WSU8 - INFO - URL marcada como fallida y añadida a failed_links.txt: https://open.spotify.com/track/71Urz9JmYoaedvlo76DHY7?si=12838fe90f0f44da
+2025-05-22 14:13:02,058 - Worker-KF9HFUCE6XE6WSU8 - WARNING - No se pudo abrir el track: https://open.spotify.com/track/71Urz9JmYoaedvlo76DHY7?si=12838fe90f0f44da
+2025-05-22 14:13:02,058 - Worker-KF9HFUCE6XE6WSU8 - INFO - Fase de tracks individuales completada: 0 tracks reproducidos de 10 intentos.
+2025-05-22 14:13:02,059 - Worker-KF9HFUCE6XE6WSU8 - INFO - Duración real fase tracks: 95.2 min
+2025-05-22 14:13:02,059 - Worker-KF9HFUCE6XE6WSU8 - INFO - Saltando fase de Búsqueda (personalidad no lo indica)
+2025-05-22 14:13:02,060 - Worker-KF9HFUCE6XE6WSU8 - INFO - === INICIANDO FASE PLAYLIST: https://open.spotify.com/playlist/3h6pIE4rE6z8OyxNMOqW8t?si=H8FB0OalRKGjeMjEXVgSJw ===
+2025-05-22 14:13:02,060 - Worker-KF9HFUCE6XE6WSU8 - INFO - Abriendo URL: https://open.spotify.com/playlist/3h6pIE4rE6z8OyxNMOqW8t?si=H8FB0OalRKGjeMjEXVgSJw
+2025-05-22 14:13:02,061 - Worker-KF9HFUCE6XE6WSU8 - WARNING - Saltando URL marcada como fallida: https://open.spotify.com/playlist/3h6pIE4rE6z8OyxNMOqW8t?si=H8FB0OalRKGjeMjEXVgSJw
+2025-05-22 14:13:02,062 - Worker-KF9HFUCE6XE6WSU8 - ERROR - No se pudo abrir la playlist.
+2025-05-22 14:13:02,062 - Worker-KF9HFUCE6XE6WSU8 - WARNING - Fase de Playlist Final falló o tuvo errores.
+2025-05-22 14:13:02,063 - Worker-KF9HFUCE6XE6WSU8 - INFO - ***** SESIÓN COMPLETADA PARA DISPOSITIVO: KF9HFUCE6XE6WSU8 *****
+2025-05-22 14:13:02,064 - Worker-KF9HFUCE6XE6WSU8 - INFO - Duración total de la sesión: 115.5 minutos.
+2025-05-22 14:13:02,066 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\session_end_screenshot_KF9HFUCE6XE6WSU8_20250522_141302065670.png
+2025-05-22 14:13:02,467 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\session_end_screenshot_KF9HFUCE6XE6WSU8_20250522_141302065670.png
+2025-05-22 14:13:02,468 - Worker-KF9HFUCE6XE6WSU8 - INFO - Sesión completada para KF9HFUCE6XE6WSU8. Esperando para iniciar la siguiente.
+2025-05-22 14:13:02,469 - Worker-KF9HFUCE6XE6WSU8 - INFO - Esperando 1.8 minutos antes de iniciar nueva sesión.
+2025-05-22 14:14:51,317 - Worker-KF9HFUCE6XE6WSU8 - INFO - ***** INICIANDO NUEVA SESIÓN PARA DISPOSITIVO: KF9HFUCE6XE6WSU8 *****
+2025-05-22 14:14:51,318 - Worker-KF9HFUCE6XE6WSU8 - INFO - Conectando a dispositivo: KF9HFUCE6XE6WSU8
+2025-05-22 14:14:51,403 - Worker-KF9HFUCE6XE6WSU8 - INFO - Conectado exitosamente a KF9HFUCE6XE6WSU8.
+2025-05-22 14:14:51,405 - Worker-KF9HFUCE6XE6WSU8 - INFO - Personalidad dinámica actualizada para la sesión.
+2025-05-22 14:14:51,411 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Perfil actual: Patience=0.31, Curiosity=0.84, Engagement=0.72, Speed=1.68
+2025-05-22 14:14:51,411 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\session_start_screenshot_KF9HFUCE6XE6WSU8_20250522_141451411820.png
+2025-05-22 14:14:51,731 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\session_start_screenshot_KF9HFUCE6XE6WSU8_20250522_141451411820.png
+2025-05-22 14:14:51,731 - Worker-KF9HFUCE6XE6WSU8 - INFO - === INICIANDO FASE PLAYLIST: https://open.spotify.com/playlist/5XrvAtxjUWcbTNgLHc9hz2?si=8J8GtCkARCaiIlIOWzgMnA ===
+2025-05-22 14:14:51,732 - Worker-KF9HFUCE6XE6WSU8 - INFO - Abriendo URL: https://open.spotify.com/playlist/5XrvAtxjUWcbTNgLHc9hz2?si=8J8GtCkARCaiIlIOWzgMnA
+2025-05-22 14:14:51,733 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 1/3 para abrir URL: https://open.spotify.com/playlist/5XrvAtxjUWcbTNgLHc9hz2?si=8J8GtCkARCaiIlIOWzgMnA
+2025-05-22 14:14:51,733 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent directo: am start -n com.spotify.music/com.spotify.music.MainActivity -a android.intent.action.VIEW -d 'https://open.spotify.com/playlist/5XrvAtxjUWcbTNgLHc9hz2?si=8J8GtCkARCaiIlIOWzgMnA'
+2025-05-22 14:14:57,861 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 14:17:43,059 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/playlist/5XrvAtxjUWcbTNgLHc9hz2?si=8J8GtCkARCaiIlIOWzgMnA (Intento 1): HTTP request timeout: HTTPConnectionPool(host='127.0.0.1', port=64268): Read timed out. (read timeout=60)
+2025-05-22 14:17:43,059 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt1_screenshot_KF9HFUCE6XE6WSU8_20250522_141743059986.png
+2025-05-22 14:17:43,367 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt1_screenshot_KF9HFUCE6XE6WSU8_20250522_141743059986.png
+2025-05-22 14:18:23,225 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 2/3 para abrir URL: https://open.spotify.com/playlist/5XrvAtxjUWcbTNgLHc9hz2?si=8J8GtCkARCaiIlIOWzgMnA
+2025-05-22 14:18:23,226 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent genérico: am start -a android.intent.action.VIEW -d 'https://open.spotify.com/playlist/5XrvAtxjUWcbTNgLHc9hz2?si=8J8GtCkARCaiIlIOWzgMnA'
+2025-05-22 14:18:29,418 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 14:21:14,338 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/playlist/5XrvAtxjUWcbTNgLHc9hz2?si=8J8GtCkARCaiIlIOWzgMnA (Intento 2): HTTP request timeout: HTTPConnectionPool(host='127.0.0.1', port=64268): Read timed out. (read timeout=60)
+2025-05-22 14:21:14,339 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt2_screenshot_KF9HFUCE6XE6WSU8_20250522_142114338965.png
+2025-05-22 14:21:14,626 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt2_screenshot_KF9HFUCE6XE6WSU8_20250522_142114338965.png
+2025-05-22 14:21:45,322 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 3/3 para abrir URL: https://open.spotify.com/playlist/5XrvAtxjUWcbTNgLHc9hz2?si=8J8GtCkARCaiIlIOWzgMnA
+2025-05-22 14:21:45,322 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent genérico: am start -a android.intent.action.VIEW -d 'https://open.spotify.com/playlist/5XrvAtxjUWcbTNgLHc9hz2?si=8J8GtCkARCaiIlIOWzgMnA'
+2025-05-22 14:21:57,535 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 14:24:42,471 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/playlist/5XrvAtxjUWcbTNgLHc9hz2?si=8J8GtCkARCaiIlIOWzgMnA (Intento 3): HTTP request timeout: HTTPConnectionPool(host='127.0.0.1', port=64268): Read timed out. (read timeout=60)
+2025-05-22 14:24:42,473 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt3_screenshot_KF9HFUCE6XE6WSU8_20250522_142442472547.png
+2025-05-22 14:24:42,808 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt3_screenshot_KF9HFUCE6XE6WSU8_20250522_142442472547.png
+2025-05-22 14:24:59,521 - Worker-KF9HFUCE6XE6WSU8 - ERROR - No se pudo abrir URL o verificar Spotify en primer plano después de 3 intentos: https://open.spotify.com/playlist/5XrvAtxjUWcbTNgLHc9hz2?si=8J8GtCkARCaiIlIOWzgMnA
+2025-05-22 14:24:59,523 - Worker-KF9HFUCE6XE6WSU8 - INFO - URL marcada como fallida y añadida a failed_links.txt: https://open.spotify.com/playlist/5XrvAtxjUWcbTNgLHc9hz2?si=8J8GtCkARCaiIlIOWzgMnA
+2025-05-22 14:24:59,524 - Worker-KF9HFUCE6XE6WSU8 - ERROR - No se pudo abrir la playlist.
+2025-05-22 14:24:59,524 - Worker-KF9HFUCE6XE6WSU8 - WARNING - Fase de Playlist Inicial falló o tuvo errores.
+2025-05-22 14:24:59,525 - Worker-KF9HFUCE6XE6WSU8 - INFO - === INICIANDO FASE ARTISTA: https://open.spotify.com/artist/47wHz4LqcznFnKtMKzycK9?si=PUkRzJYUSQeOd-wguY7CgA ===
+2025-05-22 14:24:59,525 - Worker-KF9HFUCE6XE6WSU8 - INFO - Abriendo URL: https://open.spotify.com/artist/47wHz4LqcznFnKtMKzycK9?si=PUkRzJYUSQeOd-wguY7CgA
+2025-05-22 14:24:59,526 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 1/3 para abrir URL: https://open.spotify.com/artist/47wHz4LqcznFnKtMKzycK9?si=PUkRzJYUSQeOd-wguY7CgA
+2025-05-22 14:24:59,526 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent directo: am start -n com.spotify.music/com.spotify.music.MainActivity -a android.intent.action.VIEW -d 'https://open.spotify.com/artist/47wHz4LqcznFnKtMKzycK9?si=PUkRzJYUSQeOd-wguY7CgA'
+2025-05-22 14:25:11,610 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 14:27:56,472 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/artist/47wHz4LqcznFnKtMKzycK9?si=PUkRzJYUSQeOd-wguY7CgA (Intento 1): HTTP request timeout: HTTPConnectionPool(host='127.0.0.1', port=64268): Read timed out. (read timeout=60)
+2025-05-22 14:27:56,473 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt1_screenshot_KF9HFUCE6XE6WSU8_20250522_142756473243.png
+2025-05-22 14:27:56,771 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt1_screenshot_KF9HFUCE6XE6WSU8_20250522_142756473243.png
+2025-05-22 14:28:24,820 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 2/3 para abrir URL: https://open.spotify.com/artist/47wHz4LqcznFnKtMKzycK9?si=PUkRzJYUSQeOd-wguY7CgA
+2025-05-22 14:28:24,820 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent genérico: am start -a android.intent.action.VIEW -d 'https://open.spotify.com/artist/47wHz4LqcznFnKtMKzycK9?si=PUkRzJYUSQeOd-wguY7CgA'
+2025-05-22 14:28:33,125 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 14:31:18,245 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/artist/47wHz4LqcznFnKtMKzycK9?si=PUkRzJYUSQeOd-wguY7CgA (Intento 2): HTTP request timeout: HTTPConnectionPool(host='127.0.0.1', port=64268): Read timed out. (read timeout=60)
+2025-05-22 14:31:18,246 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt2_screenshot_KF9HFUCE6XE6WSU8_20250522_143118245523.png
+2025-05-22 14:31:18,543 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt2_screenshot_KF9HFUCE6XE6WSU8_20250522_143118245523.png
+2025-05-22 14:31:56,138 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 3/3 para abrir URL: https://open.spotify.com/artist/47wHz4LqcznFnKtMKzycK9?si=PUkRzJYUSQeOd-wguY7CgA
+2025-05-22 14:31:56,138 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent genérico: am start -a android.intent.action.VIEW -d 'https://open.spotify.com/artist/47wHz4LqcznFnKtMKzycK9?si=PUkRzJYUSQeOd-wguY7CgA'
+2025-05-22 14:32:06,806 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 14:34:51,926 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/artist/47wHz4LqcznFnKtMKzycK9?si=PUkRzJYUSQeOd-wguY7CgA (Intento 3): HTTP request timeout: HTTPConnectionPool(host='127.0.0.1', port=64268): Read timed out. (read timeout=60)
+2025-05-22 14:34:51,927 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt3_screenshot_KF9HFUCE6XE6WSU8_20250522_143451927114.png
+2025-05-22 14:34:52,376 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt3_screenshot_KF9HFUCE6XE6WSU8_20250522_143451927114.png
+2025-05-22 14:35:08,285 - Worker-KF9HFUCE6XE6WSU8 - ERROR - No se pudo abrir URL o verificar Spotify en primer plano después de 3 intentos: https://open.spotify.com/artist/47wHz4LqcznFnKtMKzycK9?si=PUkRzJYUSQeOd-wguY7CgA
+2025-05-22 14:35:08,286 - Worker-KF9HFUCE6XE6WSU8 - INFO - URL marcada como fallida y añadida a failed_links.txt: https://open.spotify.com/artist/47wHz4LqcznFnKtMKzycK9?si=PUkRzJYUSQeOd-wguY7CgA
+2025-05-22 14:35:08,286 - Worker-KF9HFUCE6XE6WSU8 - ERROR - No se pudo abrir el perfil del artista.
+2025-05-22 14:35:08,287 - Worker-KF9HFUCE6XE6WSU8 - WARNING - Fase de Artista falló o tuvo errores.
+2025-05-22 14:35:08,287 - Worker-KF9HFUCE6XE6WSU8 - INFO - === INICIANDO FASE TRACKS INDIVIDUALES ===
+2025-05-22 14:35:08,287 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intentando reproducir hasta 6 canciones individuales.
+2025-05-22 14:35:08,288 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intentando track 1/8: https://open.spotify.com/track/5dKxPpOOlXGpN5jKAWQsKj?si=f8fea69a37c74e42
+2025-05-22 14:35:08,288 - Worker-KF9HFUCE6XE6WSU8 - INFO - Abriendo URL: https://open.spotify.com/track/5dKxPpOOlXGpN5jKAWQsKj?si=f8fea69a37c74e42
+2025-05-22 14:35:08,289 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 1/3 para abrir URL: https://open.spotify.com/track/5dKxPpOOlXGpN5jKAWQsKj?si=f8fea69a37c74e42
+2025-05-22 14:35:08,289 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent directo: am start -n com.spotify.music/com.spotify.music.MainActivity -a android.intent.action.VIEW -d 'https://open.spotify.com/track/5dKxPpOOlXGpN5jKAWQsKj?si=f8fea69a37c74e42'
+2025-05-22 14:35:16,367 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 14:38:01,640 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/track/5dKxPpOOlXGpN5jKAWQsKj?si=f8fea69a37c74e42 (Intento 1): HTTP request timeout: HTTPConnectionPool(host='127.0.0.1', port=64268): Read timed out. (read timeout=60)
+2025-05-22 14:38:01,641 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt1_screenshot_KF9HFUCE6XE6WSU8_20250522_143801641137.png
+2025-05-22 14:38:02,086 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt1_screenshot_KF9HFUCE6XE6WSU8_20250522_143801641137.png
+2025-05-22 14:38:32,760 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 2/3 para abrir URL: https://open.spotify.com/track/5dKxPpOOlXGpN5jKAWQsKj?si=f8fea69a37c74e42
+2025-05-22 14:38:32,760 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent genérico: am start -a android.intent.action.VIEW -d 'https://open.spotify.com/track/5dKxPpOOlXGpN5jKAWQsKj?si=f8fea69a37c74e42'
+2025-05-22 14:38:46,078 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 14:41:30,557 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/track/5dKxPpOOlXGpN5jKAWQsKj?si=f8fea69a37c74e42 (Intento 2): HTTP request timeout: HTTPConnectionPool(host='127.0.0.1', port=64268): Read timed out. (read timeout=60)
+2025-05-22 14:41:30,558 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt2_screenshot_KF9HFUCE6XE6WSU8_20250522_144130558404.png
+2025-05-22 14:41:30,988 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt2_screenshot_KF9HFUCE6XE6WSU8_20250522_144130558404.png
+2025-05-22 14:42:13,140 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 3/3 para abrir URL: https://open.spotify.com/track/5dKxPpOOlXGpN5jKAWQsKj?si=f8fea69a37c74e42
+2025-05-22 14:42:13,141 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent genérico: am start -a android.intent.action.VIEW -d 'https://open.spotify.com/track/5dKxPpOOlXGpN5jKAWQsKj?si=f8fea69a37c74e42'
+2025-05-22 14:42:24,586 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 14:45:09,342 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/track/5dKxPpOOlXGpN5jKAWQsKj?si=f8fea69a37c74e42 (Intento 3): HTTP request timeout: HTTPConnectionPool(host='127.0.0.1', port=64268): Read timed out. (read timeout=60)
+2025-05-22 14:45:09,344 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt3_screenshot_KF9HFUCE6XE6WSU8_20250522_144509343534.png
+2025-05-22 14:45:09,668 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt3_screenshot_KF9HFUCE6XE6WSU8_20250522_144509343534.png
+2025-05-22 14:45:25,801 - Worker-KF9HFUCE6XE6WSU8 - ERROR - No se pudo abrir URL o verificar Spotify en primer plano después de 3 intentos: https://open.spotify.com/track/5dKxPpOOlXGpN5jKAWQsKj?si=f8fea69a37c74e42
+2025-05-22 14:45:25,805 - Worker-KF9HFUCE6XE6WSU8 - INFO - URL marcada como fallida y añadida a failed_links.txt: https://open.spotify.com/track/5dKxPpOOlXGpN5jKAWQsKj?si=f8fea69a37c74e42
+2025-05-22 14:45:25,816 - Worker-KF9HFUCE6XE6WSU8 - WARNING - No se pudo abrir el track: https://open.spotify.com/track/5dKxPpOOlXGpN5jKAWQsKj?si=f8fea69a37c74e42
+2025-05-22 14:45:25,818 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intentando track 2/8: https://open.spotify.com/track/38sgZYb8TS0xopIvYkTK5T?si=21fc3cea0f794edb
+2025-05-22 14:45:25,820 - Worker-KF9HFUCE6XE6WSU8 - INFO - Abriendo URL: https://open.spotify.com/track/38sgZYb8TS0xopIvYkTK5T?si=21fc3cea0f794edb
+2025-05-22 14:45:25,820 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 1/3 para abrir URL: https://open.spotify.com/track/38sgZYb8TS0xopIvYkTK5T?si=21fc3cea0f794edb
+2025-05-22 14:45:25,821 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent directo: am start -n com.spotify.music/com.spotify.music.MainActivity -a android.intent.action.VIEW -d 'https://open.spotify.com/track/38sgZYb8TS0xopIvYkTK5T?si=21fc3cea0f794edb'
+2025-05-22 14:45:34,007 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 14:48:18,897 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/track/38sgZYb8TS0xopIvYkTK5T?si=21fc3cea0f794edb (Intento 1): HTTP request timeout: HTTPConnectionPool(host='127.0.0.1', port=64268): Read timed out. (read timeout=60)
+2025-05-22 14:48:18,899 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt1_screenshot_KF9HFUCE6XE6WSU8_20250522_144818898576.png
+2025-05-22 14:48:19,201 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt1_screenshot_KF9HFUCE6XE6WSU8_20250522_144818898576.png
+2025-05-22 14:48:53,482 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 2/3 para abrir URL: https://open.spotify.com/track/38sgZYb8TS0xopIvYkTK5T?si=21fc3cea0f794edb
+2025-05-22 14:48:53,483 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent genérico: am start -a android.intent.action.VIEW -d 'https://open.spotify.com/track/38sgZYb8TS0xopIvYkTK5T?si=21fc3cea0f794edb'
+2025-05-22 14:49:05,093 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 14:51:50,117 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/track/38sgZYb8TS0xopIvYkTK5T?si=21fc3cea0f794edb (Intento 2): HTTP request timeout: HTTPConnectionPool(host='127.0.0.1', port=64268): Read timed out. (read timeout=60)
+2025-05-22 14:51:50,118 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt2_screenshot_KF9HFUCE6XE6WSU8_20250522_145150118402.png
+2025-05-22 14:51:50,408 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt2_screenshot_KF9HFUCE6XE6WSU8_20250522_145150118402.png
+2025-05-22 14:52:25,941 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 3/3 para abrir URL: https://open.spotify.com/track/38sgZYb8TS0xopIvYkTK5T?si=21fc3cea0f794edb
+2025-05-22 14:52:25,942 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent genérico: am start -a android.intent.action.VIEW -d 'https://open.spotify.com/track/38sgZYb8TS0xopIvYkTK5T?si=21fc3cea0f794edb'
+2025-05-22 14:52:32,113 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 14:55:17,117 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/track/38sgZYb8TS0xopIvYkTK5T?si=21fc3cea0f794edb (Intento 3): HTTP request timeout: HTTPConnectionPool(host='127.0.0.1', port=64268): Read timed out. (read timeout=60)
+2025-05-22 14:55:17,118 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt3_screenshot_KF9HFUCE6XE6WSU8_20250522_145517118113.png
+2025-05-22 14:55:17,437 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt3_screenshot_KF9HFUCE6XE6WSU8_20250522_145517118113.png
+2025-05-22 14:55:41,696 - Worker-KF9HFUCE6XE6WSU8 - ERROR - No se pudo abrir URL o verificar Spotify en primer plano después de 3 intentos: https://open.spotify.com/track/38sgZYb8TS0xopIvYkTK5T?si=21fc3cea0f794edb
+2025-05-22 14:55:41,697 - Worker-KF9HFUCE6XE6WSU8 - INFO - URL marcada como fallida y añadida a failed_links.txt: https://open.spotify.com/track/38sgZYb8TS0xopIvYkTK5T?si=21fc3cea0f794edb
+2025-05-22 14:55:41,697 - Worker-KF9HFUCE6XE6WSU8 - WARNING - No se pudo abrir el track: https://open.spotify.com/track/38sgZYb8TS0xopIvYkTK5T?si=21fc3cea0f794edb
+2025-05-22 14:55:41,698 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intentando track 3/8: https://open.spotify.com/track/77QnahFmpYVkEdl4wIOovy?si=7e2fe73d60b940c3
+2025-05-22 14:55:41,698 - Worker-KF9HFUCE6XE6WSU8 - INFO - Abriendo URL: https://open.spotify.com/track/77QnahFmpYVkEdl4wIOovy?si=7e2fe73d60b940c3
+2025-05-22 14:55:41,698 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 1/3 para abrir URL: https://open.spotify.com/track/77QnahFmpYVkEdl4wIOovy?si=7e2fe73d60b940c3
+2025-05-22 14:55:41,699 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent directo: am start -n com.spotify.music/com.spotify.music.MainActivity -a android.intent.action.VIEW -d 'https://open.spotify.com/track/77QnahFmpYVkEdl4wIOovy?si=7e2fe73d60b940c3'
+2025-05-22 14:55:51,471 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 14:58:36,316 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/track/77QnahFmpYVkEdl4wIOovy?si=7e2fe73d60b940c3 (Intento 1): HTTP request timeout: HTTPConnectionPool(host='127.0.0.1', port=64268): Read timed out. (read timeout=60)
+2025-05-22 14:58:36,317 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt1_screenshot_KF9HFUCE6XE6WSU8_20250522_145836317460.png
+2025-05-22 14:58:36,621 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt1_screenshot_KF9HFUCE6XE6WSU8_20250522_145836317460.png
+2025-05-22 14:59:17,761 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 2/3 para abrir URL: https://open.spotify.com/track/77QnahFmpYVkEdl4wIOovy?si=7e2fe73d60b940c3
+2025-05-22 14:59:17,761 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent genérico: am start -a android.intent.action.VIEW -d 'https://open.spotify.com/track/77QnahFmpYVkEdl4wIOovy?si=7e2fe73d60b940c3'
+2025-05-22 14:59:25,331 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 15:02:10,280 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/track/77QnahFmpYVkEdl4wIOovy?si=7e2fe73d60b940c3 (Intento 2): HTTP request timeout: HTTPConnectionPool(host='127.0.0.1', port=64268): Read timed out. (read timeout=60)
+2025-05-22 15:02:10,280 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt2_screenshot_KF9HFUCE6XE6WSU8_20250522_150210280502.png
+2025-05-22 15:02:10,607 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt2_screenshot_KF9HFUCE6XE6WSU8_20250522_150210280502.png
+2025-05-22 15:02:47,841 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 3/3 para abrir URL: https://open.spotify.com/track/77QnahFmpYVkEdl4wIOovy?si=7e2fe73d60b940c3
+2025-05-22 15:02:47,842 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent genérico: am start -a android.intent.action.VIEW -d 'https://open.spotify.com/track/77QnahFmpYVkEdl4wIOovy?si=7e2fe73d60b940c3'
+2025-05-22 15:03:00,892 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 15:05:45,835 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/track/77QnahFmpYVkEdl4wIOovy?si=7e2fe73d60b940c3 (Intento 3): HTTP request timeout: HTTPConnectionPool(host='127.0.0.1', port=64268): Read timed out. (read timeout=60)
+2025-05-22 15:05:45,836 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt3_screenshot_KF9HFUCE6XE6WSU8_20250522_150545835956.png
+2025-05-22 15:05:46,151 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt3_screenshot_KF9HFUCE6XE6WSU8_20250522_150545835956.png
+2025-05-22 15:06:06,933 - Worker-KF9HFUCE6XE6WSU8 - ERROR - No se pudo abrir URL o verificar Spotify en primer plano después de 3 intentos: https://open.spotify.com/track/77QnahFmpYVkEdl4wIOovy?si=7e2fe73d60b940c3
+2025-05-22 15:06:06,934 - Worker-KF9HFUCE6XE6WSU8 - INFO - URL marcada como fallida y añadida a failed_links.txt: https://open.spotify.com/track/77QnahFmpYVkEdl4wIOovy?si=7e2fe73d60b940c3
+2025-05-22 15:06:06,935 - Worker-KF9HFUCE6XE6WSU8 - WARNING - No se pudo abrir el track: https://open.spotify.com/track/77QnahFmpYVkEdl4wIOovy?si=7e2fe73d60b940c3
+2025-05-22 15:06:06,935 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intentando track 4/8: https://open.spotify.com/track/5QuGD4wmi7hCjv2JDM0v5f?si=bc54d26e32d54e04
+2025-05-22 15:06:06,936 - Worker-KF9HFUCE6XE6WSU8 - INFO - Abriendo URL: https://open.spotify.com/track/5QuGD4wmi7hCjv2JDM0v5f?si=bc54d26e32d54e04
+2025-05-22 15:06:06,936 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 1/3 para abrir URL: https://open.spotify.com/track/5QuGD4wmi7hCjv2JDM0v5f?si=bc54d26e32d54e04
+2025-05-22 15:06:06,937 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent directo: am start -n com.spotify.music/com.spotify.music.MainActivity -a android.intent.action.VIEW -d 'https://open.spotify.com/track/5QuGD4wmi7hCjv2JDM0v5f?si=bc54d26e32d54e04'
+2025-05-22 15:06:14,351 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 15:10:59,358 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/track/5QuGD4wmi7hCjv2JDM0v5f?si=bc54d26e32d54e04 (Intento 1): HTTP request timeout: HTTPConnectionPool(host='127.0.0.1', port=64268): Read timed out. (read timeout=60)
+2025-05-22 15:10:59,362 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt1_screenshot_KF9HFUCE6XE6WSU8_20250522_151059362101.png
+2025-05-22 15:10:59,670 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt1_screenshot_KF9HFUCE6XE6WSU8_20250522_151059362101.png
+2025-05-22 15:11:27,373 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 2/3 para abrir URL: https://open.spotify.com/track/5QuGD4wmi7hCjv2JDM0v5f?si=bc54d26e32d54e04
+2025-05-22 15:11:27,374 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent genérico: am start -a android.intent.action.VIEW -d 'https://open.spotify.com/track/5QuGD4wmi7hCjv2JDM0v5f?si=bc54d26e32d54e04'
+2025-05-22 15:11:33,756 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 15:15:12,627 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - No se detectó diálogo 'Abrir con'.
+2025-05-22 15:15:15,926 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando popups de Spotify ('Later', 'Not Now', etc.)...
+2025-05-22 15:19:40,018 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/track/5QuGD4wmi7hCjv2JDM0v5f?si=bc54d26e32d54e04 (Intento 2): HTTP request timeout: HTTPConnectionPool(host='127.0.0.1', port=64268): Read timed out. (read timeout=60)
+2025-05-22 15:19:40,020 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt2_screenshot_KF9HFUCE6XE6WSU8_20250522_151940020020.png
+2025-05-22 15:19:40,391 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt2_screenshot_KF9HFUCE6XE6WSU8_20250522_151940020020.png
+2025-05-22 15:20:09,898 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 3/3 para abrir URL: https://open.spotify.com/track/5QuGD4wmi7hCjv2JDM0v5f?si=bc54d26e32d54e04
+2025-05-22 15:20:09,898 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent genérico: am start -a android.intent.action.VIEW -d 'https://open.spotify.com/track/5QuGD4wmi7hCjv2JDM0v5f?si=bc54d26e32d54e04'
+2025-05-22 15:20:19,446 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 15:22:47,881 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - No se detectó diálogo 'Abrir con'.
+2025-05-22 15:22:50,803 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando popups de Spotify ('Later', 'Not Now', etc.)...
+2025-05-22 15:27:14,943 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/track/5QuGD4wmi7hCjv2JDM0v5f?si=bc54d26e32d54e04 (Intento 3): HTTP request timeout: HTTPConnectionPool(host='127.0.0.1', port=64268): Read timed out. (read timeout=60)
+2025-05-22 15:27:14,947 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt3_screenshot_KF9HFUCE6XE6WSU8_20250522_152714946727.png
+2025-05-22 15:27:15,265 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt3_screenshot_KF9HFUCE6XE6WSU8_20250522_152714946727.png
+2025-05-22 15:27:38,647 - Worker-KF9HFUCE6XE6WSU8 - ERROR - No se pudo abrir URL o verificar Spotify en primer plano después de 3 intentos: https://open.spotify.com/track/5QuGD4wmi7hCjv2JDM0v5f?si=bc54d26e32d54e04
+2025-05-22 15:27:38,648 - Worker-KF9HFUCE6XE6WSU8 - INFO - URL marcada como fallida y añadida a failed_links.txt: https://open.spotify.com/track/5QuGD4wmi7hCjv2JDM0v5f?si=bc54d26e32d54e04
+2025-05-22 15:27:38,649 - Worker-KF9HFUCE6XE6WSU8 - WARNING - No se pudo abrir el track: https://open.spotify.com/track/5QuGD4wmi7hCjv2JDM0v5f?si=bc54d26e32d54e04
+2025-05-22 15:27:38,649 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intentando track 5/8: https://open.spotify.com/track/1x02KP7RaVqE1ayeCabkMd?si=63f642e286e34f1c
+2025-05-22 15:27:38,650 - Worker-KF9HFUCE6XE6WSU8 - INFO - Abriendo URL: https://open.spotify.com/track/1x02KP7RaVqE1ayeCabkMd?si=63f642e286e34f1c
+2025-05-22 15:27:38,650 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 1/3 para abrir URL: https://open.spotify.com/track/1x02KP7RaVqE1ayeCabkMd?si=63f642e286e34f1c
+2025-05-22 15:27:38,651 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent directo: am start -n com.spotify.music/com.spotify.music.MainActivity -a android.intent.action.VIEW -d 'https://open.spotify.com/track/1x02KP7RaVqE1ayeCabkMd?si=63f642e286e34f1c'
+2025-05-22 15:27:45,473 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 15:32:19,374 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/track/1x02KP7RaVqE1ayeCabkMd?si=63f642e286e34f1c (Intento 1): HTTP request timeout: HTTPConnectionPool(host='127.0.0.1', port=64268): Read timed out. (read timeout=60)
+2025-05-22 15:32:19,375 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt1_screenshot_KF9HFUCE6XE6WSU8_20250522_153219375483.png
+2025-05-22 15:32:19,672 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt1_screenshot_KF9HFUCE6XE6WSU8_20250522_153219375483.png
+2025-05-22 15:32:49,826 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 2/3 para abrir URL: https://open.spotify.com/track/1x02KP7RaVqE1ayeCabkMd?si=63f642e286e34f1c
+2025-05-22 15:32:49,827 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent genérico: am start -a android.intent.action.VIEW -d 'https://open.spotify.com/track/1x02KP7RaVqE1ayeCabkMd?si=63f642e286e34f1c'
+2025-05-22 15:32:59,993 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 15:35:45,178 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/track/1x02KP7RaVqE1ayeCabkMd?si=63f642e286e34f1c (Intento 2): HTTP request timeout: HTTPConnectionPool(host='127.0.0.1', port=64268): Read timed out. (read timeout=60)
+2025-05-22 15:35:45,179 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt2_screenshot_KF9HFUCE6XE6WSU8_20250522_153545179691.png
+2025-05-22 15:35:45,470 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt2_screenshot_KF9HFUCE6XE6WSU8_20250522_153545179691.png
+2025-05-22 15:36:24,829 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 3/3 para abrir URL: https://open.spotify.com/track/1x02KP7RaVqE1ayeCabkMd?si=63f642e286e34f1c
+2025-05-22 15:36:24,830 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent genérico: am start -a android.intent.action.VIEW -d 'https://open.spotify.com/track/1x02KP7RaVqE1ayeCabkMd?si=63f642e286e34f1c'
+2025-05-22 15:36:37,537 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 15:39:22,573 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/track/1x02KP7RaVqE1ayeCabkMd?si=63f642e286e34f1c (Intento 3): HTTP request timeout: HTTPConnectionPool(host='127.0.0.1', port=64268): Read timed out. (read timeout=60)
+2025-05-22 15:39:22,575 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt3_screenshot_KF9HFUCE6XE6WSU8_20250522_153922574606.png
+2025-05-22 15:39:22,859 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt3_screenshot_KF9HFUCE6XE6WSU8_20250522_153922574606.png
+2025-05-22 15:39:46,908 - Worker-KF9HFUCE6XE6WSU8 - ERROR - No se pudo abrir URL o verificar Spotify en primer plano después de 3 intentos: https://open.spotify.com/track/1x02KP7RaVqE1ayeCabkMd?si=63f642e286e34f1c
+2025-05-22 15:39:46,909 - Worker-KF9HFUCE6XE6WSU8 - INFO - URL marcada como fallida y añadida a failed_links.txt: https://open.spotify.com/track/1x02KP7RaVqE1ayeCabkMd?si=63f642e286e34f1c
+2025-05-22 15:39:46,910 - Worker-KF9HFUCE6XE6WSU8 - WARNING - No se pudo abrir el track: https://open.spotify.com/track/1x02KP7RaVqE1ayeCabkMd?si=63f642e286e34f1c
+2025-05-22 15:39:46,910 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intentando track 6/8: https://open.spotify.com/track/0o5uW9nUettRcW0JOjyCwu?si=90c33e8e5fce40c2
+2025-05-22 15:39:46,910 - Worker-KF9HFUCE6XE6WSU8 - INFO - Abriendo URL: https://open.spotify.com/track/0o5uW9nUettRcW0JOjyCwu?si=90c33e8e5fce40c2
+2025-05-22 15:39:46,911 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 1/3 para abrir URL: https://open.spotify.com/track/0o5uW9nUettRcW0JOjyCwu?si=90c33e8e5fce40c2
+2025-05-22 15:39:46,911 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent directo: am start -n com.spotify.music/com.spotify.music.MainActivity -a android.intent.action.VIEW -d 'https://open.spotify.com/track/0o5uW9nUettRcW0JOjyCwu?si=90c33e8e5fce40c2'
+2025-05-22 15:39:57,820 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 15:42:42,865 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/track/0o5uW9nUettRcW0JOjyCwu?si=90c33e8e5fce40c2 (Intento 1): HTTP request timeout: HTTPConnectionPool(host='127.0.0.1', port=64268): Read timed out. (read timeout=60)
+2025-05-22 15:42:42,866 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt1_screenshot_KF9HFUCE6XE6WSU8_20250522_154242866019.png
+2025-05-22 15:42:43,196 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt1_screenshot_KF9HFUCE6XE6WSU8_20250522_154242866019.png
+2025-05-22 15:43:12,564 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 2/3 para abrir URL: https://open.spotify.com/track/0o5uW9nUettRcW0JOjyCwu?si=90c33e8e5fce40c2
+2025-05-22 15:43:12,565 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent genérico: am start -a android.intent.action.VIEW -d 'https://open.spotify.com/track/0o5uW9nUettRcW0JOjyCwu?si=90c33e8e5fce40c2'
+2025-05-22 15:43:25,273 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 15:46:10,328 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/track/0o5uW9nUettRcW0JOjyCwu?si=90c33e8e5fce40c2 (Intento 2): HTTP request timeout: HTTPConnectionPool(host='127.0.0.1', port=64268): Read timed out. (read timeout=60)
+2025-05-22 15:46:10,329 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt2_screenshot_KF9HFUCE6XE6WSU8_20250522_154610329727.png
+2025-05-22 15:46:10,766 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt2_screenshot_KF9HFUCE6XE6WSU8_20250522_154610329727.png
+2025-05-22 15:46:47,961 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 3/3 para abrir URL: https://open.spotify.com/track/0o5uW9nUettRcW0JOjyCwu?si=90c33e8e5fce40c2
+2025-05-22 15:46:47,961 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent genérico: am start -a android.intent.action.VIEW -d 'https://open.spotify.com/track/0o5uW9nUettRcW0JOjyCwu?si=90c33e8e5fce40c2'
+2025-05-22 15:46:56,388 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 15:50:01,108 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - No se detectó diálogo 'Abrir con'.
+2025-05-22 15:50:02,848 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando popups de Spotify ('Later', 'Not Now', etc.)...
+2025-05-22 15:52:31,551 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - No se detectaron popups conocidos de Spotify.
+2025-05-22 15:52:36,949 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando si Spotify está en primer plano (ADB)...
+2025-05-22 15:52:37,340 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Spotify no parece estar en primer plano según dumpsys.
+2025-05-22 15:52:37,341 - Worker-KF9HFUCE6XE6WSU8 - WARNING - Spotify no detectado en primer plano después del intento 3.
+2025-05-22 15:52:37,342 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_not_foreground_attempt3_screenshot_KF9HFUCE6XE6WSU8_20250522_155237341865.png
+2025-05-22 15:52:37,748 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_not_foreground_attempt3_screenshot_KF9HFUCE6XE6WSU8_20250522_155237341865.png
+2025-05-22 15:52:37,748 - Worker-KF9HFUCE6XE6WSU8 - ERROR - No se pudo abrir URL o verificar Spotify en primer plano después de 3 intentos: https://open.spotify.com/track/0o5uW9nUettRcW0JOjyCwu?si=90c33e8e5fce40c2
+2025-05-22 15:52:37,750 - Worker-KF9HFUCE6XE6WSU8 - INFO - URL marcada como fallida y añadida a failed_links.txt: https://open.spotify.com/track/0o5uW9nUettRcW0JOjyCwu?si=90c33e8e5fce40c2
+2025-05-22 15:52:37,751 - Worker-KF9HFUCE6XE6WSU8 - WARNING - No se pudo abrir el track: https://open.spotify.com/track/0o5uW9nUettRcW0JOjyCwu?si=90c33e8e5fce40c2
+2025-05-22 15:52:37,751 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intentando track 7/8: https://open.spotify.com/track/7kgci0jCra6NX4PPK4P9f6?si=bc4a340a0e4247f7
+2025-05-22 15:52:37,752 - Worker-KF9HFUCE6XE6WSU8 - INFO - Abriendo URL: https://open.spotify.com/track/7kgci0jCra6NX4PPK4P9f6?si=bc4a340a0e4247f7
+2025-05-22 15:52:37,752 - Worker-KF9HFUCE6XE6WSU8 - WARNING - Saltando URL marcada como fallida: https://open.spotify.com/track/7kgci0jCra6NX4PPK4P9f6?si=bc4a340a0e4247f7
+2025-05-22 15:52:37,753 - Worker-KF9HFUCE6XE6WSU8 - WARNING - No se pudo abrir el track: https://open.spotify.com/track/7kgci0jCra6NX4PPK4P9f6?si=bc4a340a0e4247f7
+2025-05-22 15:52:37,753 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intentando track 8/8: https://open.spotify.com/track/6KmUHNl4PHNuCxYAu1yijA?si=a087ac66ecd74289
+2025-05-22 15:52:37,753 - Worker-KF9HFUCE6XE6WSU8 - INFO - Abriendo URL: https://open.spotify.com/track/6KmUHNl4PHNuCxYAu1yijA?si=a087ac66ecd74289
+2025-05-22 15:52:37,754 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 1/3 para abrir URL: https://open.spotify.com/track/6KmUHNl4PHNuCxYAu1yijA?si=a087ac66ecd74289
+2025-05-22 15:52:37,754 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent directo: am start -n com.spotify.music/com.spotify.music.MainActivity -a android.intent.action.VIEW -d 'https://open.spotify.com/track/6KmUHNl4PHNuCxYAu1yijA?si=a087ac66ecd74289'
+2025-05-22 15:52:45,620 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 15:55:14,334 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - No se detectó diálogo 'Abrir con'.
+2025-05-22 15:55:16,938 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando popups de Spotify ('Later', 'Not Now', etc.)...
+2025-05-22 15:59:41,215 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/track/6KmUHNl4PHNuCxYAu1yijA?si=a087ac66ecd74289 (Intento 1): HTTP request timeout: HTTPConnectionPool(host='127.0.0.1', port=64268): Read timed out. (read timeout=60)
+2025-05-22 15:59:41,216 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt1_screenshot_KF9HFUCE6XE6WSU8_20250522_155941216962.png
+2025-05-22 15:59:41,587 - Worker-KF9HFUCE6XE6WSU8 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt1_screenshot_KF9HFUCE6XE6WSU8_20250522_155941216962.png
+2025-05-22 16:00:22,019 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 2/3 para abrir URL: https://open.spotify.com/track/6KmUHNl4PHNuCxYAu1yijA?si=a087ac66ecd74289
+2025-05-22 16:00:22,020 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent genérico: am start -a android.intent.action.VIEW -d 'https://open.spotify.com/track/6KmUHNl4PHNuCxYAu1yijA?si=a087ac66ecd74289'
+2025-05-22 16:00:29,449 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-22 16:02:26,368 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/track/6KmUHNl4PHNuCxYAu1yijA?si=a087ac66ecd74289 (Intento 2): HTTP request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-05-22 16:02:26,458 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt2_screenshot_KF9HFUCE6XE6WSU8_20250522_160226457715.png
+2025-05-22 16:02:30,697 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Error al capturar pantalla: 
+2025-05-22 16:03:04,432 - Worker-KF9HFUCE6XE6WSU8 - INFO - Intento 3/3 para abrir URL: https://open.spotify.com/track/6KmUHNl4PHNuCxYAu1yijA?si=a087ac66ecd74289
+2025-05-22 16:03:04,434 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Ejecutando intent genérico: am start -a android.intent.action.VIEW -d 'https://open.spotify.com/track/6KmUHNl4PHNuCxYAu1yijA?si=a087ac66ecd74289'
+2025-05-22 16:03:04,450 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Excepción al abrir URL https://open.spotify.com/track/6KmUHNl4PHNuCxYAu1yijA?si=a087ac66ecd74289 (Intento 3): device 'KF9HFUCE6XE6WSU8' not found
+2025-05-22 16:03:04,452 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\url_open_exception_attempt3_screenshot_KF9HFUCE6XE6WSU8_20250522_160304451948.png
+2025-05-22 16:03:04,460 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Error al capturar pantalla: 
+2025-05-22 16:03:32,254 - Worker-KF9HFUCE6XE6WSU8 - ERROR - No se pudo abrir URL o verificar Spotify en primer plano después de 3 intentos: https://open.spotify.com/track/6KmUHNl4PHNuCxYAu1yijA?si=a087ac66ecd74289
+2025-05-22 16:03:32,257 - Worker-KF9HFUCE6XE6WSU8 - INFO - URL marcada como fallida y añadida a failed_links.txt: https://open.spotify.com/track/6KmUHNl4PHNuCxYAu1yijA?si=a087ac66ecd74289
+2025-05-22 16:03:32,258 - Worker-KF9HFUCE6XE6WSU8 - WARNING - No se pudo abrir el track: https://open.spotify.com/track/6KmUHNl4PHNuCxYAu1yijA?si=a087ac66ecd74289
+2025-05-22 16:03:32,260 - Worker-KF9HFUCE6XE6WSU8 - INFO - Fase de tracks individuales completada: 0 tracks reproducidos de 8 intentos.
+2025-05-22 16:03:32,261 - Worker-KF9HFUCE6XE6WSU8 - INFO - Duración real fase tracks: 88.4 min
+2025-05-22 16:03:32,262 - Worker-KF9HFUCE6XE6WSU8 - INFO - Saltando fase de Búsqueda (personalidad no lo indica)
+2025-05-22 16:03:32,263 - Worker-KF9HFUCE6XE6WSU8 - INFO - === INICIANDO FASE PLAYLIST: https://open.spotify.com/playlist/5XrvAtxjUWcbTNgLHc9hz2?si=8J8GtCkARCaiIlIOWzgMnA ===
+2025-05-22 16:03:32,264 - Worker-KF9HFUCE6XE6WSU8 - INFO - Abriendo URL: https://open.spotify.com/playlist/5XrvAtxjUWcbTNgLHc9hz2?si=8J8GtCkARCaiIlIOWzgMnA
+2025-05-22 16:03:32,265 - Worker-KF9HFUCE6XE6WSU8 - WARNING - Saltando URL marcada como fallida: https://open.spotify.com/playlist/5XrvAtxjUWcbTNgLHc9hz2?si=8J8GtCkARCaiIlIOWzgMnA
+2025-05-22 16:03:32,271 - Worker-KF9HFUCE6XE6WSU8 - ERROR - No se pudo abrir la playlist.
+2025-05-22 16:03:32,272 - Worker-KF9HFUCE6XE6WSU8 - WARNING - Fase de Playlist Final falló o tuvo errores.
+2025-05-22 16:03:32,274 - Worker-KF9HFUCE6XE6WSU8 - INFO - ***** SESIÓN COMPLETADA PARA DISPOSITIVO: KF9HFUCE6XE6WSU8 *****
+2025-05-22 16:03:32,275 - Worker-KF9HFUCE6XE6WSU8 - INFO - Duración total de la sesión: 108.7 minutos.
+2025-05-22 16:03:32,279 - Worker-KF9HFUCE6XE6WSU8 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\KF9HFUCE6XE6WSU8\session_end_screenshot_KF9HFUCE6XE6WSU8_20250522_160332278200.png
+2025-05-22 16:03:32,289 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Error al capturar pantalla: 
+2025-05-22 16:03:32,291 - Worker-KF9HFUCE6XE6WSU8 - INFO - Sesión completada para KF9HFUCE6XE6WSU8. Esperando para iniciar la siguiente.
+2025-05-22 16:03:32,295 - Worker-KF9HFUCE6XE6WSU8 - INFO - Esperando 5.4 minutos antes de iniciar nueva sesión.
+2025-05-22 16:08:55,696 - Worker-KF9HFUCE6XE6WSU8 - INFO - ***** INICIANDO NUEVA SESIÓN PARA DISPOSITIVO: KF9HFUCE6XE6WSU8 *****
+2025-05-22 16:08:55,697 - Worker-KF9HFUCE6XE6WSU8 - INFO - Conectando a dispositivo: KF9HFUCE6XE6WSU8
+2025-05-22 16:09:05,743 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Error fatal durante la sesión del dispositivo KF9HFUCE6XE6WSU8: device KF9HFUCE6XE6WSU8 not online
+2025-05-22 16:09:05,745 - Worker-KF9HFUCE6XE6WSU8 - ERROR - Traceback (most recent call last):
+  File "C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\scripts\playlist_mode.py", line 1142, in run_device_session
+    device = u2.connect_usb(device_id)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\def\AppData\Local\Programs\Python\Python312\Lib\site-packages\uiautomator2\__init__.py", line 1119, in connect_usb
+    return Device(serial)
+           ^^^^^^^^^^^^^^
+  File "C:\Users\def\AppData\Local\Programs\Python\Python312\Lib\site-packages\uiautomator2\__init__.py", line 67, in __init__
+    self._dev = self._wait_for_device()
+                ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\def\AppData\Local\Programs\Python\Python312\Lib\site-packages\uiautomator2\__init__.py", line 106, in _wait_for_device
+    raise ConnectError(f"device {self._serial} not online")
+uiautomator2.exceptions.ConnectError: device KF9HFUCE6XE6WSU8 not online
+
+2025-05-22 16:09:05,747 - Worker-KF9HFUCE6XE6WSU8 - INFO - Duración total de la sesión: 0.2 minutos.

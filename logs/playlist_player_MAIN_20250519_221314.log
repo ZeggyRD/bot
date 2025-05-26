@@ -1,0 +1,19 @@
+2025-05-19 22:13:14,911 - Dummy-3 - PlaylistPlayerMain - INFO - Python version: 3.12.8
+2025-05-19 22:13:14,912 - Dummy-3 - PlaylistPlayerMain - WARNING - Error al obtener versiones de herramientas: module 'uiautomator2' has no attribute '__version__'
+2025-05-19 22:13:14,912 - Dummy-3 - PlaylistPlayerMain - INFO - --- Iniciando PlaylistPlayer en Modo Multi-Hilo (SLOW_MODE_FACTOR=1.75) ---
+2025-05-19 22:13:14,914 - Dummy-3 - PlaylistPlayerMain - INFO - Cargados 185 links desde 'C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\data\playlists.txt' (Playlists)
+2025-05-19 22:13:14,916 - Dummy-3 - PlaylistPlayerMain - DEBUG - Ejemplos de Playlists: ['https://open.spotify.com/playlist/3h6pIE4rE6z8OyxNMOqW8t?si=H8FB0OalRKGjeMjEXVgSJw', 'https://open.spotify.com/playlist/5XrvAtxjUWcbTNgLHc9hz2?si=8J8GtCkARCaiIlIOWzgMnA']
+2025-05-19 22:13:14,918 - Dummy-3 - PlaylistPlayerMain - INFO - Archivo 'C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\data\key_artists.txt' (Artistas Clave) no existe o está vacío.
+2025-05-19 22:13:14,920 - Dummy-3 - PlaylistPlayerMain - INFO - Creando 'C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\data\key_artists.txt' con lista por defecto para Artistas Clave.
+2025-05-19 22:13:14,926 - Dummy-3 - PlaylistPlayerMain - INFO - Creado 'C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\data\key_artists.txt' con 7 items por defecto.
+2025-05-19 22:13:14,961 - Dummy-3 - PlaylistPlayerMain - INFO - Cargados 175 links desde 'C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\data\tracks.txt' (Tracks Individuales)
+2025-05-19 22:13:14,963 - Dummy-3 - PlaylistPlayerMain - DEBUG - Ejemplos de Tracks Individuales: ['https://open.spotify.com/track/56n5POxGEe6mw3MZrHwx9Q?si=b5a4661dae674cc8', 'https://open.spotify.com/track/0H6uEz7M1iJAV1tOoWFIuv?si=7a8bc2e25d37488c']
+2025-05-19 22:13:14,966 - Dummy-3 - PlaylistPlayerMain - INFO - Links cargados: Playlists=185, ArtistasClave=7, Tracks=175
+2025-05-19 22:13:14,968 - Dummy-3 - PlaylistPlayerMain - DEBUG - Obteniendo dispositivos conectados vía ADB...
+2025-05-19 22:13:15,022 - Dummy-3 - PlaylistPlayerMain - INFO - Dispositivos ADB conectados y listos: ['2040306023079114', '2040306023079705', '2040306023080222', '2040306023080639', '2040306023080885', '2040306023081159', '2040306023081202', '2040306023081216', '2040306023081477', '2040306023082911', '2040306023083277', '2040306023095804', '2040306023096006', '2040306023097355', '2040306023098451', '4LJVPB6DUSIRMVUS', 'DY49GQ7PFQCEKF6H', 'KF9HFUCE6XE6WSU8', 'P7NBHUMRBYRGY9KJ']
+2025-05-19 22:13:15,025 - Dummy-3 - PlaylistPlayerMain - INFO - Iniciando workers para 19 dispositivos: ['2040306023079114', '2040306023079705', '2040306023080222', '2040306023080639', '2040306023080885', '2040306023081159', '2040306023081202', '2040306023081216', '2040306023081477', '2040306023082911', '2040306023083277', '2040306023095804', '2040306023096006', '2040306023097355', '2040306023098451', '4LJVPB6DUSIRMVUS', 'DY49GQ7PFQCEKF6H', 'KF9HFUCE6XE6WSU8', 'P7NBHUMRBYRGY9KJ']
+2025-05-19 22:13:15,029 - Dummy-3 - PlaylistPlayerMain - DEBUG - Esperando 16.4s antes de iniciar el siguiente worker.
+2025-05-19 22:13:31,475 - Dummy-3 - PlaylistPlayerMain - DEBUG - Esperando 18.4s antes de iniciar el siguiente worker.
+2025-05-19 22:13:49,891 - Dummy-3 - PlaylistPlayerMain - DEBUG - Esperando 13.6s antes de iniciar el siguiente worker.
+2025-05-19 22:14:03,536 - Dummy-3 - PlaylistPlayerMain - DEBUG - Esperando 24.2s antes de iniciar el siguiente worker.
+2025-05-19 22:14:27,723 - Dummy-3 - PlaylistPlayerMain - DEBUG - Esperando 21.8s antes de iniciar el siguiente worker.

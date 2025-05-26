@@ -1,0 +1,184 @@
+2025-05-18 22:05:42,992 - AccountManager - INFO - Cargadas 10 cuentas desde el archivo
+2025-05-18 22:05:42,992 - AccountManager - INFO - Cargados 250 proxies desde el archivo
+2025-05-18 22:05:43,005 - AccountManager - INFO - AccountManager inicializado con 10 cuentas y 500 proxies
+2025-05-18 22:05:43,007 - HumanBehavior - INFO - Perfiles de comportamiento cargados desde C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\config\behavior_profiles.json
+2025-05-18 22:05:43,007 - HumanBehavior - INFO - HumanBehaviorSimulator inicializado con 4 perfiles
+2025-05-18 22:05:43,274 - LoginManager - DEBUG - Sesiones cargadas: 1 entradas
+2025-05-18 22:05:43,274 - LoginManager - INFO - LoginManager inicializado
+2025-05-18 22:05:43,275 - LoginManager - DEBUG - Ruta de sesiones: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\data\sessions.json
+2025-05-18 22:05:43,275 - LoginManager - DEBUG - Ruta de plantillas: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\templates
+2025-05-18 22:05:43,275 - LoginManager - WARNING - Plantillas faltantes: login_submit.png, home_icon.png, library_icon.png
+2025-05-18 22:05:43,276 - LoginManager - WARNING - Algunas funciones de reconocimiento visual pueden fallar
+2025-05-18 22:05:43,463 - AndroidDevice - INFO - Dispositivos detectados: ['2040306023079082']
+2025-05-18 22:05:51,135 - OTWMusicSystem - INFO - Configuración guardada en: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\config\config.json
+2025-05-18 22:05:51,136 - OTWMusicSystem - INFO - Archivo tracks copiado a C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\data\tracks.txt
+2025-05-18 22:05:56,587 - OTWMusicSystem - INFO - Configuración guardada en: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\config\config.json
+2025-05-18 22:05:56,588 - OTWMusicSystem - INFO - Archivo playlists copiado a C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\data\playlists.txt
+2025-05-18 22:06:00,547 - OTWMusicSystem - INFO - Configuración guardada en: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\config\config.json
+2025-05-18 22:06:00,548 - OTWMusicSystem - INFO - Archivo artists copiado a C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\data\artists.txt
+2025-05-18 22:06:04,647 - OTWMusicSystem - INFO - Configuración guardada en: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\config\config.json
+2025-05-18 22:06:04,649 - OTWMusicSystem - INFO - Archivo accounts copiado a C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\data\accounts.txt
+2025-05-18 22:06:09,938 - OTWMusicSystem - INFO - Configuración guardada en: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\config\config.json
+2025-05-18 22:06:09,939 - OTWMusicSystem - INFO - Archivo proxies copiado a C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\data\proxies.txt
+2025-05-18 22:06:11,821 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:62449
+2025-05-18 22:06:11,841 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /wlan/ip HTTP/11" 200 12
+2025-05-18 22:06:12,126 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /packages/net.typeblog.socks/info HTTP/11" 200 183
+2025-05-18 22:06:12,376 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 247
+2025-05-18 22:06:15,495 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 22:06:15,597 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 22:06:15,716 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 22:06:15,957 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 296
+2025-05-18 22:06:16,286 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 22:06:16,796 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23323
+2025-05-18 22:06:17,112 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23323
+2025-05-18 22:06:17,440 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23323
+2025-05-18 22:06:17,756 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23323
+2025-05-18 22:06:18,074 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23323
+2025-05-18 22:06:18,428 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23323
+2025-05-18 22:06:18,753 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23323
+2025-05-18 22:06:19,062 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23323
+2025-05-18 22:06:19,429 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23323
+2025-05-18 22:06:19,775 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23323
+2025-05-18 22:06:20,101 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23323
+2025-05-18 22:06:20,411 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23323
+2025-05-18 22:06:20,758 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23323
+2025-05-18 22:06:21,083 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23323
+2025-05-18 22:06:21,427 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23323
+2025-05-18 22:06:21,783 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23323
+2025-05-18 22:06:42,865 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 90
+2025-05-18 22:10:01,072 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:62449
+2025-05-18 22:10:01,095 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /wlan/ip HTTP/11" 200 12
+2025-05-18 22:10:01,233 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /packages/net.typeblog.socks/info HTTP/11" 200 183
+2025-05-18 22:10:01,342 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 266
+2025-05-18 22:10:04,410 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 22:10:04,507 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 22:10:04,604 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 22:10:04,798 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 297
+2025-05-18 22:10:05,033 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 22:10:05,506 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23323
+2025-05-18 22:10:05,851 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23323
+2025-05-18 22:10:06,176 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23323
+2025-05-18 22:10:06,499 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23323
+2025-05-18 22:10:06,808 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23323
+2025-05-18 22:10:07,169 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23323
+2025-05-18 22:10:07,500 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23323
+2025-05-18 22:10:07,869 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23323
+2025-05-18 22:10:08,188 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23323
+2025-05-18 22:10:08,521 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23323
+2025-05-18 22:10:08,852 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23323
+2025-05-18 22:10:09,186 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23323
+2025-05-18 22:10:09,535 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23323
+2025-05-18 22:10:09,828 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23323
+2025-05-18 22:10:10,160 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23323
+2025-05-18 22:10:10,482 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23323
+2025-05-18 22:10:11,808 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 22:10:11,897 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 22:10:11,994 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 88
+2025-05-18 22:10:12,379 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23429
+2025-05-18 22:10:12,755 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23429
+2025-05-18 22:10:13,091 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23429
+2025-05-18 22:10:13,413 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23429
+2025-05-18 22:10:13,730 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23429
+2025-05-18 22:10:14,055 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23429
+2025-05-18 22:10:14,358 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23429
+2025-05-18 22:10:14,699 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23429
+2025-05-18 22:10:15,039 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23429
+2025-05-18 22:10:15,372 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23429
+2025-05-18 22:10:15,732 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23429
+2025-05-18 22:10:16,114 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23429
+2025-05-18 22:10:16,450 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23429
+2025-05-18 22:10:16,822 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23429
+2025-05-18 22:10:17,194 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23429
+2025-05-18 22:10:17,522 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 22:10:17,736 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 22:10:18,181 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 90
+2025-05-18 22:10:18,303 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 22:10:18,413 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 22:10:18,530 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 22:10:18,737 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 295
+2025-05-18 22:10:19,039 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 22:10:19,545 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23301
+2025-05-18 22:10:19,845 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23301
+2025-05-18 22:10:20,145 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23301
+2025-05-18 22:10:20,451 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23301
+2025-05-18 22:10:20,780 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23301
+2025-05-18 22:10:21,116 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23301
+2025-05-18 22:10:21,486 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23301
+2025-05-18 22:10:21,900 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23301
+2025-05-18 22:10:22,296 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23301
+2025-05-18 22:10:22,657 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23301
+2025-05-18 22:10:23,045 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23301
+2025-05-18 22:10:23,407 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23301
+2025-05-18 22:10:23,734 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23301
+2025-05-18 22:10:24,105 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23301
+2025-05-18 22:10:24,449 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 23301
+2025-05-18 22:10:45,456 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 90
+2025-05-18 22:17:37,734 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:62449
+2025-05-18 22:17:37,758 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /wlan/ip HTTP/11" 200 12
+2025-05-18 22:17:37,986 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /packages/net.typeblog.socks/info HTTP/11" 200 183
+2025-05-18 22:17:38,173 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 266
+2025-05-18 22:17:41,282 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 90
+2025-05-18 22:17:41,292 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /info HTTP/11" 200 645
+2025-05-18 22:17:41,408 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 11656
+2025-05-18 22:17:41,540 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 11656
+2025-05-18 22:17:41,616 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 232
+2025-05-18 22:17:42,866 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 88
+2025-05-18 22:17:43,505 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 22:17:43,610 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 22:17:43,723 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 22:17:43,941 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 295
+2025-05-18 22:17:44,287 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 87
+2025-05-18 22:17:44,828 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 22887
+2025-05-18 22:17:45,120 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 22887
+2025-05-18 22:17:45,469 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 22887
+2025-05-18 22:17:45,779 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 22887
+2025-05-18 22:17:46,085 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 22887
+2025-05-18 22:17:46,382 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 22887
+2025-05-18 22:17:46,700 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 22887
+2025-05-18 22:17:47,020 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 22887
+2025-05-18 22:17:47,387 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 22887
+2025-05-18 22:17:47,756 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 22887
+2025-05-18 22:17:48,065 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 22887
+2025-05-18 22:17:48,426 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 22887
+2025-05-18 22:17:48,783 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 22887
+2025-05-18 22:17:49,083 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 22887
+2025-05-18 22:17:49,429 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 22887
+2025-05-18 22:17:49,796 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 22887
+2025-05-18 22:18:10,752 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 90
+2025-05-18 22:18:14,934 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:62449
+2025-05-18 22:18:14,944 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /wlan/ip HTTP/11" 200 12
+2025-05-18 22:18:15,070 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /packages/net.typeblog.socks/info HTTP/11" 200 183
+2025-05-18 22:18:15,178 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 266
+2025-05-18 22:18:18,263 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 22:18:18,369 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 22:18:18,475 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 22:18:18,670 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 299
+2025-05-18 22:18:18,900 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 22:18:19,457 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 22887
+2025-05-18 22:18:19,816 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 22887
+2025-05-18 22:18:20,112 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 22887
+2025-05-18 22:18:20,410 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 22887
+2025-05-18 22:18:20,774 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 22887
+2025-05-18 22:18:21,077 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 22887
+2025-05-18 22:18:21,393 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 22887
+2025-05-18 22:18:21,751 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 22887
+2025-05-18 22:18:22,070 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 22887
+2025-05-18 22:18:22,370 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 22887
+2025-05-18 22:18:22,665 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 22887
+2025-05-18 22:18:23,049 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 22887
+2025-05-18 22:18:23,385 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 22887
+2025-05-18 22:18:23,765 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 22887
+2025-05-18 22:18:24,113 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 22887
+2025-05-18 22:18:45,163 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 90
+2025-05-18 22:20:19,842 - ArtistPlayer - INFO - Iniciando modo de reproducción de artistas
+2025-05-18 22:20:19,842 - ArtistPlayer - INFO - Artistas cargados: 0
+2025-05-18 22:20:19,842 - ArtistPlayer - ERROR - No hay artistas disponibles para reproducir
+2025-05-18 22:20:25,334 - TrackPlayer - INFO - Iniciando modo de reproducción de tracks
+2025-05-18 22:20:25,334 - TrackPlayer - INFO - Tracks cargados: 0
+2025-05-18 22:20:25,335 - TrackPlayer - ERROR - No hay tracks disponibles para reproducir
+2025-05-18 22:20:30,350 - PlaylistPlayer - INFO - Iniciando modo de reproducción de playlists
+2025-05-18 22:20:30,351 - PlaylistPlayer - INFO - Playlists cargadas: 0
+2025-05-18 22:20:30,351 - PlaylistPlayer - ERROR - No hay playlists disponibles para reproducir
+2025-05-18 22:20:43,693 - ArtistPlayer - INFO - Iniciando modo de reproducción de artistas
+2025-05-18 22:20:43,694 - ArtistPlayer - INFO - Artistas cargados: 0
+2025-05-18 22:20:43,695 - ArtistPlayer - ERROR - No hay artistas disponibles para reproducir

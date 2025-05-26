@@ -1,0 +1,931 @@
+2025-05-18 21:35:36,568 - AccountManager - INFO - Cargadas 10 cuentas desde el archivo
+2025-05-18 21:35:36,568 - AccountManager - INFO - Cargados 250 proxies desde el archivo
+2025-05-18 21:35:36,575 - AccountManager - INFO - AccountManager inicializado con 10 cuentas y 250 proxies
+2025-05-18 21:35:36,577 - HumanBehavior - INFO - Perfiles de comportamiento cargados desde C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\config\behavior_profiles.json
+2025-05-18 21:35:36,577 - HumanBehavior - INFO - HumanBehaviorSimulator inicializado con 4 perfiles
+2025-05-18 21:35:36,847 - LoginManager - WARNING - Archivo de sesiones no encontrado: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\data\sessions.json
+2025-05-18 21:35:36,847 - LoginManager - INFO - LoginManager inicializado
+2025-05-18 21:35:36,848 - LoginManager - DEBUG - Ruta de sesiones: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\data\sessions.json
+2025-05-18 21:35:36,848 - LoginManager - DEBUG - Ruta de plantillas: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\templates
+2025-05-18 21:35:36,848 - LoginManager - WARNING - Plantillas faltantes: login_submit.png, home_icon.png, library_icon.png
+2025-05-18 21:35:36,848 - LoginManager - WARNING - Algunas funciones de reconocimiento visual pueden fallar
+2025-05-18 21:35:36,905 - AndroidDevice - INFO - Dispositivos detectados: ['2040306023079082']
+2025-05-18 21:35:48,116 - OTWMusicSystem - INFO - Configuración guardada en: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\config\config.json
+2025-05-18 21:35:48,117 - OTWMusicSystem - INFO - Archivo tracks copiado a C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\data\tracks.txt
+2025-05-18 21:35:50,822 - OTWMusicSystem - INFO - Configuración guardada en: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\config\config.json
+2025-05-18 21:35:50,822 - OTWMusicSystem - INFO - Archivo playlists copiado a C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\data\playlists.txt
+2025-05-18 21:35:54,038 - OTWMusicSystem - INFO - Configuración guardada en: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\config\config.json
+2025-05-18 21:35:54,039 - OTWMusicSystem - INFO - Archivo artists copiado a C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\data\artists.txt
+2025-05-18 21:35:58,453 - OTWMusicSystem - INFO - Configuración guardada en: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\config\config.json
+2025-05-18 21:35:58,453 - OTWMusicSystem - INFO - Archivo accounts copiado a C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\data\accounts.txt
+2025-05-18 21:36:01,532 - OTWMusicSystem - INFO - Configuración guardada en: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\config\config.json
+2025-05-18 21:36:01,533 - OTWMusicSystem - INFO - Archivo proxies copiado a C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\data\proxies.txt
+2025-05-18 21:36:04,053 - AndroidDevice - INFO - Dispositivos detectados: ['2040306023079082']
+2025-05-18 21:36:04,053 - LoginManager - INFO - Procesando login para 1 dispositivos: ['2040306023079082']
+2025-05-18 21:36:04,053 - LoginManager - INFO - Procesando dispositivo 2040306023079082
+2025-05-18 21:36:04,054 - LoginManager - INFO - Procesando login para dispositivo 2040306023079082
+2025-05-18 21:36:04,055 - AccountManager - INFO - Cuenta youoat22@usako.net asignada al dispositivo 2040306023079082
+2025-05-18 21:36:04,055 - LoginManager - INFO - Cuenta obtenida para dispositivo 2040306023079082: youoat22@usako.net
+2025-05-18 21:36:04,063 - AccountManager - INFO - Proxy 149.6.162.10:80:fpelmuks-12:0lrxoh26it92 asignado a la cuenta youoat22@usako.net en dispositivo 2040306023079082
+2025-05-18 21:36:04,063 - LoginManager - INFO - Proxy obtenido para cuenta youoat22@usako.net: 149.6.162.10:80:fpelmuks-12:0lrxoh26it92
+2025-05-18 21:36:04,063 - LoginManager - DEBUG - Creando nuevo objeto AndroidDevice para 2040306023079082
+2025-05-18 21:36:04,064 - AndroidDevice - INFO - Conectando al dispositivo 2040306023079082
+2025-05-18 21:36:04,067 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:62449
+2025-05-18 21:36:04,080 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:62449
+2025-05-18 21:36:04,093 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:62449
+2025-05-18 21:36:05,570 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): tool.appetizer.io:443
+2025-05-18 21:36:07,974 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): github.com:443
+2025-05-18 21:36:08,277 - urllib3.connectionpool - DEBUG - https://github.com:443 "GET /openatx/stf-binaries/raw/0.3.0/node_modules/@devicefarmer/minitouch-prebuilt/prebuilt/armeabi-v7a/bin/minitouch HTTP/11" 302 0
+2025-05-18 21:36:08,279 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2025-05-18 21:36:08,512 - urllib3.connectionpool - DEBUG - https://raw.githubusercontent.com:443 "GET /openatx/stf-binaries/0.3.0/node_modules/%40devicefarmer/minitouch-prebuilt/prebuilt/armeabi-v7a/bin/minitouch HTTP/11" 200 26248
+2025-05-18 21:36:08,536 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): tool.appetizer.io:443
+2025-05-18 21:36:10,540 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): github.com:443
+2025-05-18 21:36:10,826 - urllib3.connectionpool - DEBUG - https://github.com:443 "GET /openatx/stf-binaries/raw/0.3.0/node_modules/@devicefarmer/minicap-prebuilt/prebuilt/armeabi-v7a/lib/android-30/minicap.so HTTP/11" 302 0
+2025-05-18 21:36:10,828 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2025-05-18 21:36:11,054 - urllib3.connectionpool - DEBUG - https://raw.githubusercontent.com:443 "GET /openatx/stf-binaries/0.3.0/node_modules/%40devicefarmer/minicap-prebuilt/prebuilt/armeabi-v7a/lib/android-30/minicap.so HTTP/11" 200 21360
+2025-05-18 21:36:11,074 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): tool.appetizer.io:443
+2025-05-18 21:36:13,077 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): github.com:443
+2025-05-18 21:36:13,372 - urllib3.connectionpool - DEBUG - https://github.com:443 "GET /openatx/stf-binaries/raw/0.3.0/node_modules/@devicefarmer/minicap-prebuilt/prebuilt/armeabi-v7a/bin/minicap HTTP/11" 302 0
+2025-05-18 21:36:13,374 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2025-05-18 21:36:13,709 - urllib3.connectionpool - DEBUG - https://raw.githubusercontent.com:443 "GET /openatx/stf-binaries/0.3.0/node_modules/%40devicefarmer/minicap-prebuilt/prebuilt/armeabi-v7a/bin/minicap HTTP/11" 200 296908
+2025-05-18 21:36:15,681 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): tool.appetizer.io:443
+2025-05-18 21:36:17,687 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): github.com:443
+2025-05-18 21:36:17,959 - urllib3.connectionpool - DEBUG - https://github.com:443 "GET /openatx/android-uiautomator-server/releases/download/2.3.3/app-uiautomator.apk HTTP/11" 302 0
+2025-05-18 21:36:17,961 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): objects.githubusercontent.com:443
+2025-05-18 21:36:18,258 - urllib3.connectionpool - DEBUG - https://objects.githubusercontent.com:443 "GET /github-production-release-asset-2e65be/53296967/70c6de00-8bfd-11eb-94c6-1558c7d8f423?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250519%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250519T013617Z&X-Amz-Expires=300&X-Amz-Signature=6a20999393f564af02e010757e433d9d39e9e1457f5aa7ef1a16bc66c90a36a5&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dapp-uiautomator.apk&response-content-type=application%2Fvnd.android.package-archive HTTP/11" 200 2191186
+2025-05-18 21:36:21,896 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): tool.appetizer.io:443
+2025-05-18 21:36:23,898 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): github.com:443
+2025-05-18 21:36:24,152 - urllib3.connectionpool - DEBUG - https://github.com:443 "GET /openatx/android-uiautomator-server/releases/download/2.3.3/app-uiautomator-test.apk HTTP/11" 302 0
+2025-05-18 21:36:24,154 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): objects.githubusercontent.com:443
+2025-05-18 21:36:24,431 - urllib3.connectionpool - DEBUG - https://objects.githubusercontent.com:443 "GET /github-production-release-asset-2e65be/53296967/715f7480-8bfd-11eb-970b-80191d30998a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250519%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250519T013624Z&X-Amz-Expires=300&X-Amz-Signature=e1e2f49d46d7f669a6b6a543c153cb2591cbfc7ce2c3aeea0ae64d4af4fe48bd&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dapp-uiautomator-test.apk&response-content-type=application%2Fvnd.android.package-archive HTTP/11" 200 1061950
+2025-05-18 21:36:26,687 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:62449
+2025-05-18 21:36:26,695 - retry.api - WARNING - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), retrying in 0.5 seconds...
+2025-05-18 21:36:27,197 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:62449
+2025-05-18 21:36:27,207 - retry.api - WARNING - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), retrying in 0.5 seconds...
+2025-05-18 21:36:27,709 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:62449
+2025-05-18 21:36:27,938 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /version HTTP/11" 200 6
+2025-05-18 21:36:27,940 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:62449
+2025-05-18 21:36:27,960 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /wlan/ip HTTP/11" 200 12
+2025-05-18 21:36:27,962 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:62449
+2025-05-18 21:36:27,973 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /version HTTP/11" 200 6
+2025-05-18 21:36:27,975 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:62449
+2025-05-18 21:36:28,010 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /wlan/ip HTTP/11" 200 12
+2025-05-18 21:36:28,012 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (2): 127.0.0.1:62449
+2025-05-18 21:36:28,040 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /wlan/ip HTTP/11" 200 12
+2025-05-18 21:36:28,050 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 502 0
+2025-05-18 21:36:28,066 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 502 0
+2025-05-18 21:36:28,068 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:62449
+2025-05-18 21:36:28,092 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /version HTTP/11" 200 6
+2025-05-18 21:36:28,263 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 44
+2025-05-18 21:36:28,273 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "DELETE /services/uiautomator HTTP/11" 200 48
+2025-05-18 21:36:28,879 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 77241
+2025-05-18 21:36:28,990 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 142
+2025-05-18 21:36:29,064 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 7113
+2025-05-18 21:36:29,169 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 147
+2025-05-18 21:36:29,262 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 2812
+2025-05-18 21:36:29,272 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /services/uiautomator HTTP/11" 200 53
+2025-05-18 21:36:29,778 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /services/uiautomator HTTP/11" 200 31
+2025-05-18 21:36:29,785 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 502 0
+2025-05-18 21:36:30,791 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /services/uiautomator HTTP/11" 200 31
+2025-05-18 21:36:30,798 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 502 0
+2025-05-18 21:36:31,805 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /services/uiautomator HTTP/11" 200 31
+2025-05-18 21:36:31,814 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 502 0
+2025-05-18 21:36:32,821 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /services/uiautomator HTTP/11" 200 31
+2025-05-18 21:36:32,831 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 502 0
+2025-05-18 21:36:33,838 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /services/uiautomator HTTP/11" 200 31
+2025-05-18 21:36:33,848 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 502 0
+2025-05-18 21:36:34,855 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /services/uiautomator HTTP/11" 200 31
+2025-05-18 21:36:34,865 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 502 0
+2025-05-18 21:36:35,872 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /services/uiautomator HTTP/11" 200 31
+2025-05-18 21:36:35,881 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 502 0
+2025-05-18 21:36:36,887 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /services/uiautomator HTTP/11" 200 31
+2025-05-18 21:36:36,898 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 502 0
+2025-05-18 21:36:37,905 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /services/uiautomator HTTP/11" 200 31
+2025-05-18 21:36:38,142 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 207
+2025-05-18 21:36:38,236 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 233
+2025-05-18 21:36:38,531 - AndroidDevice - INFO - Información del dispositivo actualizada: BLU Studio X5 Max
+2025-05-18 21:36:38,531 - AndroidDevice - INFO - Conectado al dispositivo 2040306023079082
+2025-05-18 21:36:38,532 - LoginManager - DEBUG - Aplicaciones Spotify registradas: [{'package': 'com.spotify.music', 'name': 'Spotify Original', 'registered_date': '2025-05-18T20:42:50.006961', 'last_used': None, 'account': None}]
+2025-05-18 21:36:38,532 - LoginManager - INFO - Seleccionada aplicación aleatoria para cuenta youoat22@usako.net: com.spotify.music
+2025-05-18 21:36:38,534 - LoginManager - ERROR - Error al configurar proxy: cannot import name 'configure_proxy_for_device' from 'scripts.set_proxy' (C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\scripts\set_proxy.py)
+2025-05-18 21:36:38,535 - LoginManager - DEBUG - Traceback (most recent call last):
+  File "C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\login_manager.py", line 996, in process_login_for_device
+    from scripts.set_proxy import configure_proxy_for_device
+ImportError: cannot import name 'configure_proxy_for_device' from 'scripts.set_proxy' (C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\scripts\set_proxy.py)
+
+2025-05-18 21:36:38,535 - LoginManager - INFO - Iniciando proceso de login en dispositivo 2040306023079082 con cuenta youoat22@usako.net
+2025-05-18 21:36:38,535 - LoginManager - DEBUG - Cerrando com.spotify.music si está abierto
+2025-05-18 21:36:38,535 - AndroidDevice - INFO - Deteniendo aplicación: com.spotify.music
+2025-05-18 21:36:38,724 - AndroidDevice - INFO - Aplicación detenida: com.spotify.music
+2025-05-18 21:36:39,732 - LoginManager - INFO - Abriendo Spotify (com.spotify.music) en dispositivo 2040306023079082
+2025-05-18 21:36:39,732 - AndroidDevice - INFO - Iniciando aplicación: com.spotify.music
+2025-05-18 21:36:43,755 - AndroidDevice - INFO - Aplicación iniciada: com.spotify.music
+2025-05-18 21:36:43,755 - LoginManager - INFO - Spotify (com.spotify.music) abierto en dispositivo 2040306023079082
+2025-05-18 21:36:43,755 - LoginManager - DEBUG - Esperando 5 segundos para que la aplicación se inicie completamente
+2025-05-18 21:36:48,947 - LoginManager - DEBUG - Aplicación com.spotify.music está en primer plano
+2025-05-18 21:36:48,947 - LoginManager - DEBUG - Capturando pantalla en C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_start_2040306023079082_20250518_213648.png
+2025-05-18 21:36:49,289 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /screenshot/0 HTTP/11" 200 32217
+2025-05-18 21:36:49,298 - LoginManager - DEBUG - Captura de pantalla exitosa: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_start_2040306023079082_20250518_213648.png
+2025-05-18 21:36:49,298 - LoginManager - DEBUG - Buscando botón 'Log In' por plantilla
+2025-05-18 21:36:49,298 - LoginManager - DEBUG - Esperando elemento: login_button.png
+2025-05-18 21:36:49,299 - LoginManager - DEBUG - Intento 1/5
+2025-05-18 21:36:49,299 - LoginManager - DEBUG - Capturando pantalla en C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_screenshot_2040306023079082_20250518_213649.png
+2025-05-18 21:36:49,660 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /screenshot/0 HTTP/11" 200 32217
+2025-05-18 21:36:49,668 - LoginManager - DEBUG - Captura de pantalla exitosa: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_screenshot_2040306023079082_20250518_213649.png
+2025-05-18 21:36:49,669 - LoginManager - DEBUG - Buscando coincidencia con plantilla: login_button.png
+2025-05-18 21:36:49,692 - LoginManager - DEBUG - Mejor coincidencia: 0.8239 (umbral: 0.7000)
+2025-05-18 21:36:49,692 - LoginManager - DEBUG - Elemento encontrado en (239, 819) con confianza 0.8239
+2025-05-18 21:36:49,692 - LoginManager - DEBUG - Elemento encontrado en intento 1
+2025-05-18 21:36:49,692 - LoginManager - DEBUG - Botón 'Log In' encontrado por plantilla en (239, 819)
+2025-05-18 21:36:49,693 - AndroidDevice - DEBUG - Tocando en (246, 817)
+2025-05-18 21:36:49,933 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 88
+2025-05-18 21:36:50,888 - LoginManager - DEBUG - Buscando botón 'Continue with Email' por plantilla
+2025-05-18 21:36:50,888 - LoginManager - DEBUG - Esperando elemento: continue_with_email.png
+2025-05-18 21:36:50,888 - LoginManager - DEBUG - Intento 1/5
+2025-05-18 21:36:50,888 - LoginManager - DEBUG - Capturando pantalla en C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_screenshot_2040306023079082_20250518_213650.png
+2025-05-18 21:36:51,324 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /screenshot/0 HTTP/11" 200 29297
+2025-05-18 21:36:51,332 - LoginManager - DEBUG - Captura de pantalla exitosa: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_screenshot_2040306023079082_20250518_213650.png
+2025-05-18 21:36:51,333 - LoginManager - DEBUG - Buscando coincidencia con plantilla: continue_with_email.png
+2025-05-18 21:36:51,354 - LoginManager - DEBUG - Mejor coincidencia: 0.7866 (umbral: 0.7000)
+2025-05-18 21:36:51,355 - LoginManager - DEBUG - Elemento encontrado en (243, 441) con confianza 0.7866
+2025-05-18 21:36:51,355 - LoginManager - DEBUG - Elemento encontrado en intento 1
+2025-05-18 21:36:51,355 - LoginManager - DEBUG - Botón 'Continue with Email' encontrado por plantilla en (243, 441)
+2025-05-18 21:36:51,355 - AndroidDevice - DEBUG - Tocando en (246, 445)
+2025-05-18 21:36:51,574 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 21:36:53,070 - LoginManager - DEBUG - Buscando campo de email por plantilla
+2025-05-18 21:36:53,070 - LoginManager - DEBUG - Esperando elemento: email_field.png
+2025-05-18 21:36:53,070 - LoginManager - DEBUG - Intento 1/5
+2025-05-18 21:36:53,070 - LoginManager - DEBUG - Capturando pantalla en C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_screenshot_2040306023079082_20250518_213653.png
+2025-05-18 21:36:53,540 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /screenshot/0 HTTP/11" 200 26935
+2025-05-18 21:36:53,559 - LoginManager - DEBUG - Captura de pantalla exitosa: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_screenshot_2040306023079082_20250518_213653.png
+2025-05-18 21:36:53,560 - LoginManager - DEBUG - Buscando coincidencia con plantilla: email_field.png
+2025-05-18 21:36:53,560 - LoginManager - ERROR - Error en la búsqueda de elementos: OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\templmatch.cpp:1175: error: (-215:Assertion failed) _img.size().height <= _templ.size().height && _img.size().width <= _templ.size().width in function 'cv::matchTemplate'
+
+2025-05-18 21:36:53,561 - LoginManager - DEBUG - Traceback (most recent call last):
+  File "C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\login_manager.py", line 223, in find_element
+    result = cv2.matchTemplate(image, template, cv2.TM_CCOEFF_NORMED)
+cv2.error: OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\templmatch.cpp:1175: error: (-215:Assertion failed) _img.size().height <= _templ.size().height && _img.size().width <= _templ.size().width in function 'cv::matchTemplate'
+
+
+2025-05-18 21:36:53,561 - LoginManager - DEBUG - Elemento no encontrado, esperando 1s antes del siguiente intento
+2025-05-18 21:36:54,561 - LoginManager - DEBUG - Intento 2/5
+2025-05-18 21:36:54,561 - LoginManager - DEBUG - Capturando pantalla en C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_screenshot_2040306023079082_20250518_213654.png
+2025-05-18 21:36:55,295 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /screenshot/0 HTTP/11" 200 26935
+2025-05-18 21:36:55,304 - LoginManager - DEBUG - Captura de pantalla exitosa: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_screenshot_2040306023079082_20250518_213654.png
+2025-05-18 21:36:55,305 - LoginManager - DEBUG - Buscando coincidencia con plantilla: email_field.png
+2025-05-18 21:36:55,305 - LoginManager - ERROR - Error en la búsqueda de elementos: OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\templmatch.cpp:1175: error: (-215:Assertion failed) _img.size().height <= _templ.size().height && _img.size().width <= _templ.size().width in function 'cv::matchTemplate'
+
+2025-05-18 21:36:55,306 - LoginManager - DEBUG - Traceback (most recent call last):
+  File "C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\login_manager.py", line 223, in find_element
+    result = cv2.matchTemplate(image, template, cv2.TM_CCOEFF_NORMED)
+cv2.error: OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\templmatch.cpp:1175: error: (-215:Assertion failed) _img.size().height <= _templ.size().height && _img.size().width <= _templ.size().width in function 'cv::matchTemplate'
+
+
+2025-05-18 21:36:55,306 - LoginManager - DEBUG - Elemento no encontrado, esperando 1s antes del siguiente intento
+2025-05-18 21:36:56,306 - LoginManager - DEBUG - Intento 3/5
+2025-05-18 21:36:56,306 - LoginManager - DEBUG - Capturando pantalla en C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_screenshot_2040306023079082_20250518_213656.png
+2025-05-18 21:36:56,686 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /screenshot/0 HTTP/11" 200 26935
+2025-05-18 21:36:56,698 - LoginManager - DEBUG - Captura de pantalla exitosa: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_screenshot_2040306023079082_20250518_213656.png
+2025-05-18 21:36:56,700 - LoginManager - DEBUG - Buscando coincidencia con plantilla: email_field.png
+2025-05-18 21:36:56,700 - LoginManager - ERROR - Error en la búsqueda de elementos: OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\templmatch.cpp:1175: error: (-215:Assertion failed) _img.size().height <= _templ.size().height && _img.size().width <= _templ.size().width in function 'cv::matchTemplate'
+
+2025-05-18 21:36:56,700 - LoginManager - DEBUG - Traceback (most recent call last):
+  File "C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\login_manager.py", line 223, in find_element
+    result = cv2.matchTemplate(image, template, cv2.TM_CCOEFF_NORMED)
+cv2.error: OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\templmatch.cpp:1175: error: (-215:Assertion failed) _img.size().height <= _templ.size().height && _img.size().width <= _templ.size().width in function 'cv::matchTemplate'
+
+
+2025-05-18 21:36:56,700 - LoginManager - DEBUG - Elemento no encontrado, esperando 1s antes del siguiente intento
+2025-05-18 21:36:57,701 - LoginManager - DEBUG - Intento 4/5
+2025-05-18 21:36:57,701 - LoginManager - DEBUG - Capturando pantalla en C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_screenshot_2040306023079082_20250518_213657.png
+2025-05-18 21:36:58,077 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /screenshot/0 HTTP/11" 200 26935
+2025-05-18 21:36:58,084 - LoginManager - DEBUG - Captura de pantalla exitosa: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_screenshot_2040306023079082_20250518_213657.png
+2025-05-18 21:36:58,085 - LoginManager - DEBUG - Buscando coincidencia con plantilla: email_field.png
+2025-05-18 21:36:58,085 - LoginManager - ERROR - Error en la búsqueda de elementos: OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\templmatch.cpp:1175: error: (-215:Assertion failed) _img.size().height <= _templ.size().height && _img.size().width <= _templ.size().width in function 'cv::matchTemplate'
+
+2025-05-18 21:36:58,086 - LoginManager - DEBUG - Traceback (most recent call last):
+  File "C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\login_manager.py", line 223, in find_element
+    result = cv2.matchTemplate(image, template, cv2.TM_CCOEFF_NORMED)
+cv2.error: OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\templmatch.cpp:1175: error: (-215:Assertion failed) _img.size().height <= _templ.size().height && _img.size().width <= _templ.size().width in function 'cv::matchTemplate'
+
+
+2025-05-18 21:36:58,086 - LoginManager - DEBUG - Elemento no encontrado, esperando 1s antes del siguiente intento
+2025-05-18 21:36:59,087 - LoginManager - DEBUG - Intento 5/5
+2025-05-18 21:36:59,087 - LoginManager - DEBUG - Capturando pantalla en C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_screenshot_2040306023079082_20250518_213659.png
+2025-05-18 21:36:59,457 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /screenshot/0 HTTP/11" 200 26935
+2025-05-18 21:36:59,464 - LoginManager - DEBUG - Captura de pantalla exitosa: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_screenshot_2040306023079082_20250518_213659.png
+2025-05-18 21:36:59,465 - LoginManager - DEBUG - Buscando coincidencia con plantilla: email_field.png
+2025-05-18 21:36:59,466 - LoginManager - ERROR - Error en la búsqueda de elementos: OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\templmatch.cpp:1175: error: (-215:Assertion failed) _img.size().height <= _templ.size().height && _img.size().width <= _templ.size().width in function 'cv::matchTemplate'
+
+2025-05-18 21:36:59,466 - LoginManager - DEBUG - Traceback (most recent call last):
+  File "C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\login_manager.py", line 223, in find_element
+    result = cv2.matchTemplate(image, template, cv2.TM_CCOEFF_NORMED)
+cv2.error: OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\templmatch.cpp:1175: error: (-215:Assertion failed) _img.size().height <= _templ.size().height && _img.size().width <= _templ.size().width in function 'cv::matchTemplate'
+
+
+2025-05-18 21:36:59,466 - LoginManager - DEBUG - Elemento no encontrado, esperando 1s antes del siguiente intento
+2025-05-18 21:37:00,467 - LoginManager - WARNING - Elemento no encontrado después de 5 intentos
+2025-05-18 21:37:00,467 - LoginManager - DEBUG - Buscando campo de email por texto
+2025-05-18 21:37:00,467 - LoginManager - DEBUG - Buscando elemento con texto: 'Email'
+2025-05-18 21:37:00,676 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 21:37:00,937 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 301
+2025-05-18 21:37:00,937 - LoginManager - DEBUG - Elemento con texto 'Email' encontrado en (240, 151)
+2025-05-18 21:37:00,938 - LoginManager - DEBUG - Campo 'Email' encontrado por texto en (240, 151)
+2025-05-18 21:37:00,938 - AndroidDevice - DEBUG - Tocando en (236, 205)
+2025-05-18 21:37:01,182 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 21:37:02,166 - LoginManager - DEBUG - Limpiando campo de email
+2025-05-18 21:37:02,166 - AndroidDevice - DEBUG - Presionando tecla: ctrl a
+2025-05-18 21:37:02,205 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 90
+2025-05-18 21:37:02,797 - AndroidDevice - DEBUG - Presionando tecla: del
+2025-05-18 21:37:02,976 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 21:37:03,559 - LoginManager - DEBUG - Ingresando email: youoat22@usako.net
+2025-05-18 21:37:03,559 - AndroidDevice - DEBUG - Introduciendo texto: youoat22@usako.net
+2025-05-18 21:37:05,087 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 651249
+2025-05-18 21:37:05,230 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 115
+2025-05-18 21:37:05,333 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 111
+2025-05-18 21:37:06,272 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 21099
+2025-05-18 21:37:06,382 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 141
+2025-05-18 21:37:07,077 - LoginManager - DEBUG - Buscando campo de contraseña por plantilla
+2025-05-18 21:37:07,078 - LoginManager - DEBUG - Esperando elemento: password_field.png
+2025-05-18 21:37:07,078 - LoginManager - DEBUG - Intento 1/5
+2025-05-18 21:37:07,078 - LoginManager - DEBUG - Capturando pantalla en C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_screenshot_2040306023079082_20250518_213707.png
+2025-05-18 21:37:07,489 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /screenshot/0 HTTP/11" 200 34265
+2025-05-18 21:37:07,497 - LoginManager - DEBUG - Captura de pantalla exitosa: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_screenshot_2040306023079082_20250518_213707.png
+2025-05-18 21:37:07,498 - LoginManager - DEBUG - Buscando coincidencia con plantilla: password_field.png
+2025-05-18 21:37:07,498 - LoginManager - ERROR - Error en la búsqueda de elementos: OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\templmatch.cpp:1175: error: (-215:Assertion failed) _img.size().height <= _templ.size().height && _img.size().width <= _templ.size().width in function 'cv::matchTemplate'
+
+2025-05-18 21:37:07,498 - LoginManager - DEBUG - Traceback (most recent call last):
+  File "C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\login_manager.py", line 223, in find_element
+    result = cv2.matchTemplate(image, template, cv2.TM_CCOEFF_NORMED)
+cv2.error: OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\templmatch.cpp:1175: error: (-215:Assertion failed) _img.size().height <= _templ.size().height && _img.size().width <= _templ.size().width in function 'cv::matchTemplate'
+
+
+2025-05-18 21:37:07,499 - LoginManager - DEBUG - Elemento no encontrado, esperando 1s antes del siguiente intento
+2025-05-18 21:37:08,499 - LoginManager - DEBUG - Intento 2/5
+2025-05-18 21:37:08,500 - LoginManager - DEBUG - Capturando pantalla en C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_screenshot_2040306023079082_20250518_213708.png
+2025-05-18 21:37:09,249 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /screenshot/0 HTTP/11" 200 34265
+2025-05-18 21:37:09,253 - LoginManager - DEBUG - Captura de pantalla exitosa: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_screenshot_2040306023079082_20250518_213708.png
+2025-05-18 21:37:09,254 - LoginManager - DEBUG - Buscando coincidencia con plantilla: password_field.png
+2025-05-18 21:37:09,255 - LoginManager - ERROR - Error en la búsqueda de elementos: OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\templmatch.cpp:1175: error: (-215:Assertion failed) _img.size().height <= _templ.size().height && _img.size().width <= _templ.size().width in function 'cv::matchTemplate'
+
+2025-05-18 21:37:09,255 - LoginManager - DEBUG - Traceback (most recent call last):
+  File "C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\login_manager.py", line 223, in find_element
+    result = cv2.matchTemplate(image, template, cv2.TM_CCOEFF_NORMED)
+cv2.error: OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\templmatch.cpp:1175: error: (-215:Assertion failed) _img.size().height <= _templ.size().height && _img.size().width <= _templ.size().width in function 'cv::matchTemplate'
+
+
+2025-05-18 21:37:09,255 - LoginManager - DEBUG - Elemento no encontrado, esperando 1s antes del siguiente intento
+2025-05-18 21:37:10,255 - LoginManager - DEBUG - Intento 3/5
+2025-05-18 21:37:10,255 - LoginManager - DEBUG - Capturando pantalla en C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_screenshot_2040306023079082_20250518_213710.png
+2025-05-18 21:37:11,021 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /screenshot/0 HTTP/11" 200 34389
+2025-05-18 21:37:11,025 - LoginManager - DEBUG - Captura de pantalla exitosa: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_screenshot_2040306023079082_20250518_213710.png
+2025-05-18 21:37:11,026 - LoginManager - DEBUG - Buscando coincidencia con plantilla: password_field.png
+2025-05-18 21:37:11,027 - LoginManager - ERROR - Error en la búsqueda de elementos: OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\templmatch.cpp:1175: error: (-215:Assertion failed) _img.size().height <= _templ.size().height && _img.size().width <= _templ.size().width in function 'cv::matchTemplate'
+
+2025-05-18 21:37:11,027 - LoginManager - DEBUG - Traceback (most recent call last):
+  File "C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\login_manager.py", line 223, in find_element
+    result = cv2.matchTemplate(image, template, cv2.TM_CCOEFF_NORMED)
+cv2.error: OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\templmatch.cpp:1175: error: (-215:Assertion failed) _img.size().height <= _templ.size().height && _img.size().width <= _templ.size().width in function 'cv::matchTemplate'
+
+
+2025-05-18 21:37:11,027 - LoginManager - DEBUG - Elemento no encontrado, esperando 1s antes del siguiente intento
+2025-05-18 21:37:12,028 - LoginManager - DEBUG - Intento 4/5
+2025-05-18 21:37:12,028 - LoginManager - DEBUG - Capturando pantalla en C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_screenshot_2040306023079082_20250518_213712.png
+2025-05-18 21:37:12,769 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /screenshot/0 HTTP/11" 200 34389
+2025-05-18 21:37:12,777 - LoginManager - DEBUG - Captura de pantalla exitosa: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_screenshot_2040306023079082_20250518_213712.png
+2025-05-18 21:37:12,779 - LoginManager - DEBUG - Buscando coincidencia con plantilla: password_field.png
+2025-05-18 21:37:12,779 - LoginManager - ERROR - Error en la búsqueda de elementos: OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\templmatch.cpp:1175: error: (-215:Assertion failed) _img.size().height <= _templ.size().height && _img.size().width <= _templ.size().width in function 'cv::matchTemplate'
+
+2025-05-18 21:37:12,779 - LoginManager - DEBUG - Traceback (most recent call last):
+  File "C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\login_manager.py", line 223, in find_element
+    result = cv2.matchTemplate(image, template, cv2.TM_CCOEFF_NORMED)
+cv2.error: OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\templmatch.cpp:1175: error: (-215:Assertion failed) _img.size().height <= _templ.size().height && _img.size().width <= _templ.size().width in function 'cv::matchTemplate'
+
+
+2025-05-18 21:37:12,780 - LoginManager - DEBUG - Elemento no encontrado, esperando 1s antes del siguiente intento
+2025-05-18 21:37:13,780 - LoginManager - DEBUG - Intento 5/5
+2025-05-18 21:37:13,780 - LoginManager - DEBUG - Capturando pantalla en C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_screenshot_2040306023079082_20250518_213713.png
+2025-05-18 21:37:14,356 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /screenshot/0 HTTP/11" 200 34265
+2025-05-18 21:37:14,364 - LoginManager - DEBUG - Captura de pantalla exitosa: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_screenshot_2040306023079082_20250518_213713.png
+2025-05-18 21:37:14,365 - LoginManager - DEBUG - Buscando coincidencia con plantilla: password_field.png
+2025-05-18 21:37:14,365 - LoginManager - ERROR - Error en la búsqueda de elementos: OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\templmatch.cpp:1175: error: (-215:Assertion failed) _img.size().height <= _templ.size().height && _img.size().width <= _templ.size().width in function 'cv::matchTemplate'
+
+2025-05-18 21:37:14,365 - LoginManager - DEBUG - Traceback (most recent call last):
+  File "C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\login_manager.py", line 223, in find_element
+    result = cv2.matchTemplate(image, template, cv2.TM_CCOEFF_NORMED)
+cv2.error: OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\templmatch.cpp:1175: error: (-215:Assertion failed) _img.size().height <= _templ.size().height && _img.size().width <= _templ.size().width in function 'cv::matchTemplate'
+
+
+2025-05-18 21:37:14,366 - LoginManager - DEBUG - Elemento no encontrado, esperando 1s antes del siguiente intento
+2025-05-18 21:37:15,366 - LoginManager - WARNING - Elemento no encontrado después de 5 intentos
+2025-05-18 21:37:15,366 - LoginManager - DEBUG - Buscando campo de contraseña por texto
+2025-05-18 21:37:15,367 - LoginManager - DEBUG - Buscando elemento con texto: 'Password'
+2025-05-18 21:37:15,511 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 21:37:15,704 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 295
+2025-05-18 21:37:15,704 - LoginManager - DEBUG - Elemento con texto 'Password' encontrado en (240, 333)
+2025-05-18 21:37:15,704 - LoginManager - DEBUG - Campo 'Password' encontrado por texto en (240, 333)
+2025-05-18 21:37:15,705 - AndroidDevice - DEBUG - Tocando en (241, 376)
+2025-05-18 21:37:15,936 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 21:37:16,511 - LoginManager - DEBUG - Limpiando campo de contraseña
+2025-05-18 21:37:16,511 - AndroidDevice - DEBUG - Presionando tecla: ctrl a
+2025-05-18 21:37:16,536 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 90
+2025-05-18 21:37:17,063 - AndroidDevice - DEBUG - Presionando tecla: del
+2025-05-18 21:37:17,138 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 21:37:17,544 - LoginManager - DEBUG - Ingresando contraseña
+2025-05-18 21:37:17,544 - AndroidDevice - DEBUG - Introduciendo texto: ChristIsKing2025k!
+2025-05-18 21:37:17,711 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 22585
+2025-05-18 21:37:17,955 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /shell HTTP/11" 200 141
+2025-05-18 21:37:19,343 - LoginManager - DEBUG - Buscando botón 'Log In' (submit) por plantilla
+2025-05-18 21:37:19,343 - LoginManager - DEBUG - Esperando elemento: login_submit.png
+2025-05-18 21:37:19,343 - LoginManager - DEBUG - Intento 1/5
+2025-05-18 21:37:19,343 - LoginManager - DEBUG - Capturando pantalla en C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_screenshot_2040306023079082_20250518_213719.png
+2025-05-18 21:37:20,007 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /screenshot/0 HTTP/11" 200 36477
+2025-05-18 21:37:20,014 - LoginManager - DEBUG - Captura de pantalla exitosa: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_screenshot_2040306023079082_20250518_213719.png
+2025-05-18 21:37:20,022 - LoginManager - ERROR - No se pudo cargar la plantilla: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\templates\login_submit.png
+2025-05-18 21:37:20,023 - LoginManager - DEBUG - Elemento no encontrado, esperando 1s antes del siguiente intento
+2025-05-18 21:37:21,023 - LoginManager - DEBUG - Intento 2/5
+2025-05-18 21:37:21,023 - LoginManager - DEBUG - Capturando pantalla en C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_screenshot_2040306023079082_20250518_213721.png
+2025-05-18 21:37:21,753 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /screenshot/0 HTTP/11" 200 36477
+2025-05-18 21:37:21,761 - LoginManager - DEBUG - Captura de pantalla exitosa: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_screenshot_2040306023079082_20250518_213721.png
+2025-05-18 21:37:21,770 - LoginManager - ERROR - No se pudo cargar la plantilla: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\templates\login_submit.png
+2025-05-18 21:37:21,770 - LoginManager - DEBUG - Elemento no encontrado, esperando 1s antes del siguiente intento
+2025-05-18 21:37:22,771 - LoginManager - DEBUG - Intento 3/5
+2025-05-18 21:37:22,771 - LoginManager - DEBUG - Capturando pantalla en C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_screenshot_2040306023079082_20250518_213722.png
+2025-05-18 21:37:23,506 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /screenshot/0 HTTP/11" 200 36599
+2025-05-18 21:37:23,513 - LoginManager - DEBUG - Captura de pantalla exitosa: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_screenshot_2040306023079082_20250518_213722.png
+2025-05-18 21:37:23,522 - LoginManager - ERROR - No se pudo cargar la plantilla: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\templates\login_submit.png
+2025-05-18 21:37:23,522 - LoginManager - DEBUG - Elemento no encontrado, esperando 1s antes del siguiente intento
+2025-05-18 21:37:24,523 - LoginManager - DEBUG - Intento 4/5
+2025-05-18 21:37:24,523 - LoginManager - DEBUG - Capturando pantalla en C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_screenshot_2040306023079082_20250518_213724.png
+2025-05-18 21:37:25,237 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /screenshot/0 HTTP/11" 200 36599
+2025-05-18 21:37:25,245 - LoginManager - DEBUG - Captura de pantalla exitosa: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_screenshot_2040306023079082_20250518_213724.png
+2025-05-18 21:37:25,253 - LoginManager - ERROR - No se pudo cargar la plantilla: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\templates\login_submit.png
+2025-05-18 21:37:25,254 - LoginManager - DEBUG - Elemento no encontrado, esperando 1s antes del siguiente intento
+2025-05-18 21:37:26,254 - LoginManager - DEBUG - Intento 5/5
+2025-05-18 21:37:26,254 - LoginManager - DEBUG - Capturando pantalla en C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_screenshot_2040306023079082_20250518_213726.png
+2025-05-18 21:37:26,986 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /screenshot/0 HTTP/11" 200 36414
+2025-05-18 21:37:26,995 - LoginManager - DEBUG - Captura de pantalla exitosa: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_screenshot_2040306023079082_20250518_213726.png
+2025-05-18 21:37:27,004 - LoginManager - ERROR - No se pudo cargar la plantilla: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\templates\login_submit.png
+2025-05-18 21:37:27,004 - LoginManager - DEBUG - Elemento no encontrado, esperando 1s antes del siguiente intento
+2025-05-18 21:37:28,005 - LoginManager - WARNING - Elemento no encontrado después de 5 intentos
+2025-05-18 21:37:28,005 - LoginManager - DEBUG - Buscando botón 'Log In' (submit) por texto
+2025-05-18 21:37:28,005 - LoginManager - DEBUG - Buscando elemento con texto: 'Log In'
+2025-05-18 21:37:28,340 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 90
+2025-05-18 21:37:28,340 - LoginManager - DEBUG - Elemento con texto 'Log In' no encontrado
+2025-05-18 21:37:28,340 - LoginManager - DEBUG - Buscando elemento con texto: 'Iniciar sesión'
+2025-05-18 21:37:28,587 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 90
+2025-05-18 21:37:28,587 - LoginManager - DEBUG - Elemento con texto 'Iniciar sesión' no encontrado
+2025-05-18 21:37:28,588 - LoginManager - DEBUG - Buscando elemento con texto: 'Login'
+2025-05-18 21:37:28,822 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 88
+2025-05-18 21:37:28,823 - LoginManager - DEBUG - Elemento con texto 'Login' no encontrado
+2025-05-18 21:37:28,823 - LoginManager - DEBUG - Buscando elemento con texto: 'Sign In'
+2025-05-18 21:37:29,077 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 21:37:29,078 - LoginManager - DEBUG - Elemento con texto 'Sign In' no encontrado
+2025-05-18 21:37:29,078 - LoginManager - DEBUG - Buscando botón 'Log In' (submit) por resource-id
+2025-05-18 21:37:29,079 - LoginManager - DEBUG - Buscando elemento con resource-id: 'com.spotify.music:id/login_button'
+2025-05-18 21:37:29,272 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 88
+2025-05-18 21:37:29,578 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 294
+2025-05-18 21:37:29,578 - LoginManager - DEBUG - Elemento con resource-id 'com.spotify.music:id/login_button' encontrado en (240, 526)
+2025-05-18 21:37:29,578 - LoginManager - DEBUG - Botón 'Log In' (submit) encontrado por resource-id en (240, 526)
+2025-05-18 21:37:29,578 - AndroidDevice - DEBUG - Tocando en (240, 532)
+2025-05-18 21:37:29,836 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 21:37:29,837 - LoginManager - DEBUG - Esperando a que se procese el login (5-10 segundos)
+2025-05-18 21:37:37,951 - LoginManager - DEBUG - Capturando pantalla en C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_result_2040306023079082_20250518_213737.png
+2025-05-18 21:37:38,890 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /screenshot/0 HTTP/11" 200 42722
+2025-05-18 21:37:38,898 - LoginManager - DEBUG - Captura de pantalla exitosa: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_result_2040306023079082_20250518_213737.png
+2025-05-18 21:37:38,899 - LoginManager - DEBUG - Verificando si el login fue exitoso
+2025-05-18 21:37:43,900 - LoginManager - DEBUG - Buscando elementos de la interfaz principal
+2025-05-18 21:37:43,900 - LoginManager - DEBUG - Buscando elemento con texto: 'Home'
+2025-05-18 21:37:44,118 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 88
+2025-05-18 21:37:44,314 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 302
+2025-05-18 21:37:44,315 - LoginManager - DEBUG - Elemento con texto 'Home' encontrado en (109, 878)
+2025-05-18 21:37:44,315 - LoginManager - DEBUG - Texto 'Home' encontrado
+2025-05-18 21:37:44,315 - LoginManager - DEBUG - Buscando elemento con texto: 'Search'
+2025-05-18 21:37:44,430 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 21:37:44,634 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 304
+2025-05-18 21:37:44,634 - LoginManager - DEBUG - Elemento con texto 'Search' encontrado en (239, 878)
+2025-05-18 21:37:44,634 - LoginManager - DEBUG - Texto 'Search' encontrado
+2025-05-18 21:37:44,635 - LoginManager - DEBUG - Buscando elemento con texto: 'Your Library'
+2025-05-18 21:37:44,771 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 21:37:44,980 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 314
+2025-05-18 21:37:44,981 - LoginManager - DEBUG - Elemento con texto 'Your Library' encontrado en (370, 878)
+2025-05-18 21:37:44,981 - LoginManager - DEBUG - Texto 'Your Library' encontrado
+2025-05-18 21:37:44,981 - LoginManager - DEBUG - Buscando elemento con texto: 'Inicio'
+2025-05-18 21:37:45,114 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 90
+2025-05-18 21:37:45,115 - LoginManager - DEBUG - Elemento con texto 'Inicio' no encontrado
+2025-05-18 21:37:45,115 - LoginManager - DEBUG - Buscando elemento con texto: 'Buscar'
+2025-05-18 21:37:45,277 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 90
+2025-05-18 21:37:45,278 - LoginManager - DEBUG - Elemento con texto 'Buscar' no encontrado
+2025-05-18 21:37:45,278 - LoginManager - DEBUG - Buscando elemento con texto: 'Tu biblioteca'
+2025-05-18 21:37:45,451 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 90
+2025-05-18 21:37:45,452 - LoginManager - DEBUG - Elemento con texto 'Tu biblioteca' no encontrado
+2025-05-18 21:37:45,452 - LoginManager - DEBUG - Buscando elemento con texto: 'Log In'
+2025-05-18 21:37:45,638 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 90
+2025-05-18 21:37:45,639 - LoginManager - DEBUG - Elemento con texto 'Log In' no encontrado
+2025-05-18 21:37:45,639 - LoginManager - DEBUG - Buscando elemento con texto: 'Iniciar sesión'
+2025-05-18 21:37:45,824 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 90
+2025-05-18 21:37:45,825 - LoginManager - DEBUG - Elemento con texto 'Iniciar sesión' no encontrado
+2025-05-18 21:37:45,825 - LoginManager - DEBUG - No se encontró botón de login (positivo)
+2025-05-18 21:37:45,986 - LoginManager - DEBUG - Actividad principal encontrada: com.spotify.music.MainActivity
+2025-05-18 21:37:45,987 - LoginManager - DEBUG - No se encontraron actividades de login (positivo)
+2025-05-18 21:37:45,987 - LoginManager - DEBUG - Indicadores de éxito: 7
+2025-05-18 21:37:45,987 - LoginManager - INFO - Login exitoso para youoat22@usako.net en dispositivo 2040306023079082
+2025-05-18 21:37:45,988 - LoginManager - DEBUG - Sesiones guardadas: 1 entradas
+2025-05-18 21:37:45,989 - AccountManager - INFO - Inicio de sesión exitoso registrado para youoat22@usako.net en dispositivo 2040306023079082
+2025-05-18 21:37:45,990 - AndroidDevice - INFO - Cuenta youoat22@usako.net asignada a la aplicación com.spotify.music
+2025-05-18 21:37:45,990 - LoginManager - INFO - Login exitoso para youoat22@usako.net en dispositivo 2040306023079082
+2025-05-18 21:37:45,990 - LoginManager - INFO - Proceso completado. 1/1 dispositivos con login exitoso
+2025-05-18 21:37:50,717 - ArtistPlayer - INFO - Iniciando modo de reproducción de artistas
+2025-05-18 21:37:50,717 - ArtistPlayer - INFO - Artistas cargados: 0
+2025-05-18 21:37:50,717 - ArtistPlayer - ERROR - No hay artistas disponibles para reproducir
+2025-05-18 21:41:13,029 - PlaylistPlayer - INFO - Iniciando modo de reproducción de playlists
+2025-05-18 21:41:13,029 - PlaylistPlayer - INFO - Playlists cargadas: 3
+2025-05-18 21:41:13,029 - PlaylistPlayer - DEBUG - Ejemplos de playlists: ['https://open.spotify.com/playlist/3h6pIE4rE6z8OyxNMOqW8t?si=H8FB0OalRKGjeMjEXVgSJw', 'https://open.spotify.com/playlist/5XrvAtxjUWcbTNgLHc9hz2?si=8J8GtCkARCaiIlIOWzgMnA', 'https://open.spotify.com/playlist/1jNkvpdVy0DtpabdXexqLg?si=Jnx5VeI4RtSq-M6_Fy4OMg']
+2025-05-18 21:41:13,029 - PlaylistPlayer - DEBUG - Obteniendo dispositivos conectados
+2025-05-18 21:41:13,050 - PlaylistPlayer - DEBUG - Resultado de 'adb devices':
+List of devices attached
+2040306023079082	device
+
+
+2025-05-18 21:41:13,050 - PlaylistPlayer - INFO - Dispositivos conectados: ['2040306023079082']
+2025-05-18 21:41:13,050 - PlaylistPlayer - INFO - Iniciando ciclo de reproducción de playlists
+2025-05-18 21:41:13,050 - PlaylistPlayer - INFO - Procesando dispositivo: 2040306023079082
+2025-05-18 21:41:13,052 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:62449
+2025-05-18 21:41:13,078 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /wlan/ip HTTP/11" 200 12
+2025-05-18 21:41:13,079 - PlaylistPlayer - INFO - Playlist seleccionada para 2040306023079082: https://open.spotify.com/playlist/3h6pIE4rE6z8OyxNMOqW8t?si=H8FB0OalRKGjeMjEXVgSJw
+2025-05-18 21:41:13,079 - PlaylistPlayer - INFO - Abriendo playlist en 2040306023079082: https://open.spotify.com/playlist/3h6pIE4rE6z8OyxNMOqW8t?si=H8FB0OalRKGjeMjEXVgSJw
+2025-05-18 21:41:13,081 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:62449
+2025-05-18 21:41:13,104 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /wlan/ip HTTP/11" 200 12
+2025-05-18 21:41:13,104 - PlaylistPlayer - DEBUG - Presionando botón Home
+2025-05-18 21:41:13,368 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 21:41:14,369 - PlaylistPlayer - DEBUG - Ejecutando intent para abrir URL: https://open.spotify.com/playlist/3h6pIE4rE6z8OyxNMOqW8t?si=H8FB0OalRKGjeMjEXVgSJw
+2025-05-18 21:41:14,542 - PlaylistPlayer - DEBUG - Resultado del intent: Starting: Intent { act=android.intent.action.VIEW dat=https://open.spotify.com/... }
+
+2025-05-18 21:41:14,542 - PlaylistPlayer - DEBUG - Esperando a que se abra la aplicación
+2025-05-18 21:41:20,543 - PlaylistPlayer - DEBUG - Verificando si aparece diálogo 'Abrir con'
+2025-05-18 21:41:20,704 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 21:41:20,705 - PlaylistPlayer - INFO - Diálogo 'Abrir con' detectado (texto: Spotify)
+2025-05-18 21:41:21,780 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 88
+2025-05-18 21:41:24,486 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 187
+2025-05-18 21:41:24,487 - root - WARNING - -32001 Jsonrpc error: <androidx.test.uiautomator.UiObjectNotFoundException> data: UiSelector[CONTAINS_TEXT=Spotify], method: objInfo, retrying in 0.5 seconds...
+2025-05-18 21:41:26,896 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 185
+2025-05-18 21:41:26,897 - root - WARNING - -32001 Jsonrpc error: <androidx.test.uiautomator.UiObjectNotFoundException> data: UiSelector[CONTAINS_TEXT=Spotify], method: objInfo, retrying in 0.6 seconds...
+2025-05-18 21:41:27,672 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 186
+2025-05-18 21:41:27,672 - PlaylistPlayer - ERROR - Error al manejar diálogo 'Abrir con': -32001 Jsonrpc error: <androidx.test.uiautomator.UiObjectNotFoundException> data: UiSelector[CONTAINS_TEXT=Spotify], method: objInfo
+2025-05-18 21:41:27,674 - PlaylistPlayer - DEBUG - Traceback (most recent call last):
+  File "C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\scripts\playlist_player.py", line 207, in handle_open_with_dialog
+    device(textContains="Spotify").click()
+  File "C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\venv\lib\site-packages\uiautomator2\_selector.py", line 151, in click
+    x, y = self.center(offset=offset)
+  File "C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\venv\lib\site-packages\uiautomator2\_selector.py", line 178, in center
+    lx, ly, rx, ry = self.bounds()
+  File "C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\venv\lib\site-packages\uiautomator2\_selector.py", line 165, in bounds
+    info = self.info
+  File "C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\venv\lib\site-packages\decorator.py", line 235, in fun
+    return caller(func, *(extras + args), **kw)
+  File "C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\venv\lib\site-packages\retry\api.py", line 73, in retry_decorator
+    return __retry_internal(partial(f, *args, **kwargs), exceptions, tries, delay, max_delay, backoff, jitter,
+  File "C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\venv\lib\site-packages\retry\api.py", line 33, in __retry_internal
+    return f()
+  File "C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\venv\lib\site-packages\uiautomator2\_selector.py", line 130, in info
+    return self.jsonrpc.objInfo(self.selector)
+  File "C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\venv\lib\site-packages\uiautomator2\__init__.py", line 453, in __call__
+    return self.server._jsonrpc_retry_call(self.method, params,
+  File "C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\venv\lib\site-packages\uiautomator2\__init__.py", line 460, in _jsonrpc_retry_call
+    return self._jsonrpc_call(*args, **kwargs)
+  File "C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\venv\lib\site-packages\uiautomator2\__init__.py", line 532, in _jsonrpc_call
+    raise err
+uiautomator2.exceptions.UiObjectNotFoundError: -32001 Jsonrpc error: <androidx.test.uiautomator.UiObjectNotFoundException> data: UiSelector[CONTAINS_TEXT=Spotify], method: objInfo
+
+2025-05-18 21:41:27,674 - PlaylistPlayer - DEBUG - Esperando a que cargue completamente
+2025-05-18 21:41:33,675 - PlaylistPlayer - DEBUG - Capturando pantalla en C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\scripts\..\screenshots\playlist_player_2040306023079082_20250518_214133.png
+2025-05-18 21:41:34,586 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /screenshot/0 HTTP/11" 200 53524
+2025-05-18 21:41:34,597 - PlaylistPlayer - DEBUG - Captura de pantalla guardada en C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\scripts\..\screenshots\playlist_player_2040306023079082_20250518_214133.png
+2025-05-18 21:41:34,597 - PlaylistPlayer - DEBUG - Verificando si Spotify está en primer plano en 2040306023079082
+2025-05-18 21:41:34,810 - PlaylistPlayer - INFO - Spotify está en primer plano en 2040306023079082
+2025-05-18 21:41:34,810 - PlaylistPlayer - INFO - Playlist abierta correctamente en 2040306023079082
+2025-05-18 21:41:34,811 - PlaylistPlayer - INFO - Buscando y presionando botón de reproducción en 2040306023079082
+2025-05-18 21:41:34,811 - PlaylistPlayer - DEBUG - Buscando botón por descripción
+2025-05-18 21:41:34,925 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 21:41:34,926 - PlaylistPlayer - DEBUG - Botón encontrado por descripción: Play
+2025-05-18 21:41:35,150 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 338
+2025-05-18 21:41:35,151 - PlaylistPlayer - DEBUG - Presionando botón en posición: {'bottom': 33, 'left': 123, 'right': 153, 'top': 0}
+2025-05-18 21:41:35,268 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 21:41:35,490 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 337
+2025-05-18 21:41:35,770 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 88
+2025-05-18 21:41:37,771 - PlaylistPlayer - DEBUG - Capturando pantalla en C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\scripts\..\screenshots\playlist_player_2040306023079082_20250518_214137.png
+2025-05-18 21:41:38,156 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /screenshot/0 HTTP/11" 200 53490
+2025-05-18 21:41:38,161 - PlaylistPlayer - DEBUG - Captura de pantalla guardada en C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\scripts\..\screenshots\playlist_player_2040306023079082_20250518_214137.png
+2025-05-18 21:41:38,161 - PlaylistPlayer - INFO - Botón de reproducción presionado en 2040306023079082
+2025-05-18 21:41:38,161 - PlaylistPlayer - INFO - Buscando y presionando botón de seguir en 2040306023079082
+2025-05-18 21:41:38,161 - PlaylistPlayer - DEBUG - Buscando botón por texto
+2025-05-18 21:41:44,274 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 90
+2025-05-18 21:41:49,867 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 90
+2025-05-18 21:41:55,514 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 90
+2025-05-18 21:42:01,208 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 90
+2025-05-18 21:42:01,208 - PlaylistPlayer - DEBUG - Buscando botón por resource-id
+2025-05-18 21:42:06,841 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 90
+2025-05-18 21:42:12,477 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 21:42:12,478 - PlaylistPlayer - DEBUG - Usando coordenadas aproximadas para botón de seguir
+2025-05-18 21:42:12,478 - PlaylistPlayer - DEBUG - Obteniendo dimensiones de pantalla para 2040306023079082
+2025-05-18 21:42:12,480 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:62449
+2025-05-18 21:42:12,494 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /wlan/ip HTTP/11" 200 12
+2025-05-18 21:42:12,614 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 233
+2025-05-18 21:42:12,615 - PlaylistPlayer - DEBUG - Dimensiones obtenidas con uiautomator2: 480x894
+2025-05-18 21:42:12,615 - PlaylistPlayer - DEBUG - Presionando en coordenadas aproximadas: (430, 150)
+2025-05-18 21:42:12,850 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 21:42:13,851 - PlaylistPlayer - INFO - Botón de seguir presionado en 2040306023079082
+2025-05-18 21:42:13,851 - PlaylistPlayer - INFO - Reproduciendo playlist durante 892 segundos (14 minutos)
+2025-05-18 21:42:13,851 - PlaylistPlayer - DEBUG - Simulando interacción humana en 2040306023079082
+2025-05-18 21:42:13,852 - PlaylistPlayer - DEBUG - Obteniendo dimensiones de pantalla para 2040306023079082
+2025-05-18 21:42:13,853 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:62449
+2025-05-18 21:42:13,875 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /wlan/ip HTTP/11" 200 12
+2025-05-18 21:42:13,952 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 232
+2025-05-18 21:42:13,952 - PlaylistPlayer - DEBUG - Dimensiones obtenidas con uiautomator2: 480x894
+2025-05-18 21:42:13,953 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 21:42:16,813 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 21:42:19,699 - PlaylistPlayer - DEBUG - Interacción humana simulada en 2040306023079082
+2025-05-18 21:42:29,700 - PlaylistPlayer - DEBUG - Simulando interacción humana en 2040306023079082
+2025-05-18 21:42:29,700 - PlaylistPlayer - DEBUG - Obteniendo dimensiones de pantalla para 2040306023079082
+2025-05-18 21:42:29,702 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:62449
+2025-05-18 21:42:29,732 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /wlan/ip HTTP/11" 200 12
+2025-05-18 21:42:29,863 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 230
+2025-05-18 21:42:29,864 - PlaylistPlayer - DEBUG - Dimensiones obtenidas con uiautomator2: 480x894
+2025-05-18 21:42:29,864 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 21:42:31,221 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 21:42:32,481 - PlaylistPlayer - DEBUG - Interacción humana simulada en 2040306023079082
+2025-05-18 21:42:52,482 - PlaylistPlayer - DEBUG - Simulando interacción humana en 2040306023079082
+2025-05-18 21:42:52,482 - PlaylistPlayer - DEBUG - Obteniendo dimensiones de pantalla para 2040306023079082
+2025-05-18 21:42:52,483 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:62449
+2025-05-18 21:42:52,502 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /wlan/ip HTTP/11" 200 12
+2025-05-18 21:42:52,577 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 233
+2025-05-18 21:42:52,578 - PlaylistPlayer - DEBUG - Dimensiones obtenidas con uiautomator2: 480x894
+2025-05-18 21:42:52,578 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 21:42:53,708 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 21:42:56,344 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 21:42:56,555 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 21:42:59,241 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 21:43:01,458 - PlaylistPlayer - DEBUG - Interacción humana simulada en 2040306023079082
+2025-05-18 21:43:11,459 - PlaylistPlayer - DEBUG - Simulando interacción humana en 2040306023079082
+2025-05-18 21:43:11,459 - PlaylistPlayer - DEBUG - Obteniendo dimensiones de pantalla para 2040306023079082
+2025-05-18 21:43:11,461 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:62449
+2025-05-18 21:43:11,485 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /wlan/ip HTTP/11" 200 12
+2025-05-18 21:43:11,570 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 233
+2025-05-18 21:43:11,571 - PlaylistPlayer - DEBUG - Dimensiones obtenidas con uiautomator2: 480x894
+2025-05-18 21:43:11,571 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 21:43:11,795 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 21:43:13,459 - PlaylistPlayer - DEBUG - Interacción humana simulada en 2040306023079082
+2025-05-18 21:43:23,459 - PlaylistPlayer - DEBUG - Simulando interacción humana en 2040306023079082
+2025-05-18 21:43:23,459 - PlaylistPlayer - DEBUG - Obteniendo dimensiones de pantalla para 2040306023079082
+2025-05-18 21:43:23,462 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:62449
+2025-05-18 21:43:23,483 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /wlan/ip HTTP/11" 200 12
+2025-05-18 21:43:23,601 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 232
+2025-05-18 21:43:23,602 - PlaylistPlayer - DEBUG - Dimensiones obtenidas con uiautomator2: 480x894
+2025-05-18 21:43:23,602 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 21:43:23,829 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 21:43:24,936 - PlaylistPlayer - DEBUG - Interacción humana simulada en 2040306023079082
+2025-05-18 21:43:34,936 - PlaylistPlayer - DEBUG - Simulando interacción humana en 2040306023079082
+2025-05-18 21:43:34,936 - PlaylistPlayer - DEBUG - Obteniendo dimensiones de pantalla para 2040306023079082
+2025-05-18 21:43:34,938 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:62449
+2025-05-18 21:43:34,961 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /wlan/ip HTTP/11" 200 12
+2025-05-18 21:43:35,070 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 232
+2025-05-18 21:43:35,070 - PlaylistPlayer - DEBUG - Dimensiones obtenidas con uiautomator2: 480x894
+2025-05-18 21:43:35,071 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 21:43:35,349 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 21:43:36,914 - PlaylistPlayer - DEBUG - Interacción humana simulada en 2040306023079082
+2025-05-18 21:44:56,916 - PlaylistPlayer - DEBUG - Simulando interacción humana en 2040306023079082
+2025-05-18 21:44:56,916 - PlaylistPlayer - DEBUG - Obteniendo dimensiones de pantalla para 2040306023079082
+2025-05-18 21:44:56,918 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:62449
+2025-05-18 21:44:56,937 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /wlan/ip HTTP/11" 200 12
+2025-05-18 21:44:57,036 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 232
+2025-05-18 21:44:57,037 - PlaylistPlayer - DEBUG - Dimensiones obtenidas con uiautomator2: 480x894
+2025-05-18 21:44:57,037 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 21:44:59,311 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 21:45:00,604 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 21:45:02,041 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 21:45:03,432 - PlaylistPlayer - DEBUG - Interacción humana simulada en 2040306023079082
+2025-05-18 21:45:13,433 - PlaylistPlayer - DEBUG - Simulando interacción humana en 2040306023079082
+2025-05-18 21:45:13,433 - PlaylistPlayer - DEBUG - Obteniendo dimensiones de pantalla para 2040306023079082
+2025-05-18 21:45:13,435 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:62449
+2025-05-18 21:45:13,455 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /wlan/ip HTTP/11" 200 12
+2025-05-18 21:45:13,564 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 231
+2025-05-18 21:45:13,564 - PlaylistPlayer - DEBUG - Dimensiones obtenidas con uiautomator2: 480x894
+2025-05-18 21:45:13,565 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 21:45:14,670 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 21:45:14,903 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 21:45:16,544 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 21:45:19,795 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 21:45:21,907 - PlaylistPlayer - DEBUG - Interacción humana simulada en 2040306023079082
+2025-05-18 21:46:01,909 - PlaylistPlayer - DEBUG - Simulando interacción humana en 2040306023079082
+2025-05-18 21:46:01,909 - PlaylistPlayer - DEBUG - Obteniendo dimensiones de pantalla para 2040306023079082
+2025-05-18 21:46:01,912 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:62449
+2025-05-18 21:46:01,958 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /wlan/ip HTTP/11" 200 12
+2025-05-18 21:46:02,065 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 232
+2025-05-18 21:46:02,066 - PlaylistPlayer - DEBUG - Dimensiones obtenidas con uiautomator2: 480x894
+2025-05-18 21:46:02,066 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 21:46:03,897 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 21:46:05,315 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 21:46:07,460 - PlaylistPlayer - DEBUG - Interacción humana simulada en 2040306023079082
+2025-05-18 21:46:37,461 - PlaylistPlayer - DEBUG - Simulando interacción humana en 2040306023079082
+2025-05-18 21:46:37,462 - PlaylistPlayer - DEBUG - Obteniendo dimensiones de pantalla para 2040306023079082
+2025-05-18 21:46:37,463 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:62449
+2025-05-18 21:46:37,483 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /wlan/ip HTTP/11" 200 12
+2025-05-18 21:46:37,594 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 232
+2025-05-18 21:46:37,594 - PlaylistPlayer - DEBUG - Dimensiones obtenidas con uiautomator2: 480x894
+2025-05-18 21:46:37,594 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 21:46:39,698 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 21:46:39,924 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 88
+2025-05-18 21:46:41,490 - PlaylistPlayer - DEBUG - Interacción humana simulada en 2040306023079082
+2025-05-18 21:47:01,491 - PlaylistPlayer - DEBUG - Simulando interacción humana en 2040306023079082
+2025-05-18 21:47:01,491 - PlaylistPlayer - DEBUG - Obteniendo dimensiones de pantalla para 2040306023079082
+2025-05-18 21:47:01,493 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:62449
+2025-05-18 21:47:01,517 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /wlan/ip HTTP/11" 200 12
+2025-05-18 21:47:01,639 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 233
+2025-05-18 21:47:01,640 - PlaylistPlayer - DEBUG - Dimensiones obtenidas con uiautomator2: 480x894
+2025-05-18 21:47:01,640 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 21:47:03,850 - PlaylistPlayer - DEBUG - Interacción humana simulada en 2040306023079082
+2025-05-18 21:47:23,851 - PlaylistPlayer - DEBUG - Simulando interacción humana en 2040306023079082
+2025-05-18 21:47:23,851 - PlaylistPlayer - DEBUG - Obteniendo dimensiones de pantalla para 2040306023079082
+2025-05-18 21:47:23,853 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:62449
+2025-05-18 21:47:23,867 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /wlan/ip HTTP/11" 200 12
+2025-05-18 21:47:23,985 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 232
+2025-05-18 21:47:23,985 - PlaylistPlayer - DEBUG - Dimensiones obtenidas con uiautomator2: 480x894
+2025-05-18 21:47:23,985 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 21:47:25,731 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 21:47:28,167 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 21:47:29,871 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 88
+2025-05-18 21:47:32,852 - PlaylistPlayer - DEBUG - Interacción humana simulada en 2040306023079082
+2025-05-18 21:47:42,853 - PlaylistPlayer - DEBUG - Simulando interacción humana en 2040306023079082
+2025-05-18 21:47:42,853 - PlaylistPlayer - DEBUG - Obteniendo dimensiones de pantalla para 2040306023079082
+2025-05-18 21:47:42,855 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:62449
+2025-05-18 21:47:42,874 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /wlan/ip HTTP/11" 200 12
+2025-05-18 21:47:42,985 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 232
+2025-05-18 21:47:42,986 - PlaylistPlayer - DEBUG - Dimensiones obtenidas con uiautomator2: 480x894
+2025-05-18 21:47:42,986 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 21:47:43,203 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 21:47:45,646 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 21:47:48,075 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 21:47:50,360 - PlaylistPlayer - DEBUG - Interacción humana simulada en 2040306023079082
+2025-05-18 21:48:27,494 - OTWMusicSystem - INFO - Configuración guardada en: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\config\config.json
+2025-05-18 21:48:30,362 - PlaylistPlayer - DEBUG - Simulando interacción humana en 2040306023079082
+2025-05-18 21:48:30,362 - PlaylistPlayer - DEBUG - Obteniendo dimensiones de pantalla para 2040306023079082
+2025-05-18 21:48:30,364 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:62449
+2025-05-18 21:48:30,381 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /wlan/ip HTTP/11" 200 12
+2025-05-18 21:48:30,485 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 231
+2025-05-18 21:48:30,486 - PlaylistPlayer - DEBUG - Dimensiones obtenidas con uiautomator2: 480x894
+2025-05-18 21:48:30,486 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 21:48:30,746 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 21:48:32,590 - PlaylistPlayer - DEBUG - Interacción humana simulada en 2040306023079082
+2025-05-18 21:48:42,591 - PlaylistPlayer - DEBUG - Simulando interacción humana en 2040306023079082
+2025-05-18 21:48:42,591 - PlaylistPlayer - DEBUG - Obteniendo dimensiones de pantalla para 2040306023079082
+2025-05-18 21:48:42,592 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:62449
+2025-05-18 21:48:42,611 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /wlan/ip HTTP/11" 200 12
+2025-05-18 21:48:42,694 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 232
+2025-05-18 21:48:42,695 - PlaylistPlayer - DEBUG - Dimensiones obtenidas con uiautomator2: 480x894
+2025-05-18 21:48:42,695 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 21:48:43,831 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 21:48:46,441 - PlaylistPlayer - DEBUG - Interacción humana simulada en 2040306023079082
+2025-05-18 21:50:16,444 - PlaylistPlayer - DEBUG - Simulando interacción humana en 2040306023079082
+2025-05-18 21:50:16,444 - PlaylistPlayer - DEBUG - Obteniendo dimensiones de pantalla para 2040306023079082
+2025-05-18 21:50:16,446 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:62449
+2025-05-18 21:50:16,475 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /wlan/ip HTTP/11" 200 12
+2025-05-18 21:50:16,566 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 233
+2025-05-18 21:50:16,566 - PlaylistPlayer - DEBUG - Dimensiones obtenidas con uiautomator2: 480x894
+2025-05-18 21:50:16,566 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 21:50:16,821 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 88
+2025-05-18 21:50:18,745 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 21:50:22,148 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 88
+2025-05-18 21:50:24,229 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 21:50:25,920 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 21:50:27,976 - PlaylistPlayer - DEBUG - Interacción humana simulada en 2040306023079082
+2025-05-18 21:50:57,977 - PlaylistPlayer - DEBUG - Simulando interacción humana en 2040306023079082
+2025-05-18 21:50:57,977 - PlaylistPlayer - DEBUG - Obteniendo dimensiones de pantalla para 2040306023079082
+2025-05-18 21:50:57,979 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:62449
+2025-05-18 21:50:57,996 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /wlan/ip HTTP/11" 200 12
+2025-05-18 21:50:58,085 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 232
+2025-05-18 21:50:58,086 - PlaylistPlayer - DEBUG - Dimensiones obtenidas con uiautomator2: 480x894
+2025-05-18 21:50:58,086 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 21:50:59,673 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 21:51:02,445 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 21:51:04,158 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 88
+2025-05-18 21:51:06,423 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 21:51:07,901 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 21:51:09,128 - PlaylistPlayer - DEBUG - Interacción humana simulada en 2040306023079082
+2025-05-18 21:51:29,129 - PlaylistPlayer - DEBUG - Simulando interacción humana en 2040306023079082
+2025-05-18 21:51:29,129 - PlaylistPlayer - DEBUG - Obteniendo dimensiones de pantalla para 2040306023079082
+2025-05-18 21:51:29,131 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:62449
+2025-05-18 21:51:29,157 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /wlan/ip HTTP/11" 200 12
+2025-05-18 21:51:29,291 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 232
+2025-05-18 21:51:29,291 - PlaylistPlayer - DEBUG - Dimensiones obtenidas con uiautomator2: 480x894
+2025-05-18 21:51:29,291 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 21:51:32,173 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 21:51:32,400 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 21:51:34,464 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 21:51:37,054 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 21:51:38,269 - PlaylistPlayer - DEBUG - Interacción humana simulada en 2040306023079082
+2025-05-18 21:52:08,270 - PlaylistPlayer - DEBUG - Simulando interacción humana en 2040306023079082
+2025-05-18 21:52:08,270 - PlaylistPlayer - DEBUG - Obteniendo dimensiones de pantalla para 2040306023079082
+2025-05-18 21:52:08,272 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:62449
+2025-05-18 21:52:08,290 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /wlan/ip HTTP/11" 200 12
+2025-05-18 21:52:08,377 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 232
+2025-05-18 21:52:08,378 - PlaylistPlayer - DEBUG - Dimensiones obtenidas con uiautomator2: 480x894
+2025-05-18 21:52:08,378 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 21:52:10,103 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 88
+2025-05-18 21:52:12,404 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 21:52:12,618 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 88
+2025-05-18 21:52:14,444 - PlaylistPlayer - DEBUG - Interacción humana simulada en 2040306023079082
+2025-05-18 21:52:34,445 - PlaylistPlayer - DEBUG - Simulando interacción humana en 2040306023079082
+2025-05-18 21:52:34,445 - PlaylistPlayer - DEBUG - Obteniendo dimensiones de pantalla para 2040306023079082
+2025-05-18 21:52:34,447 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:62449
+2025-05-18 21:52:34,469 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /wlan/ip HTTP/11" 200 12
+2025-05-18 21:52:34,576 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 231
+2025-05-18 21:52:34,576 - PlaylistPlayer - DEBUG - Dimensiones obtenidas con uiautomator2: 480x894
+2025-05-18 21:52:34,577 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 21:52:36,237 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 21:52:38,493 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 21:52:38,697 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 88
+2025-05-18 21:52:40,187 - PlaylistPlayer - DEBUG - Interacción humana simulada en 2040306023079082
+2025-05-18 21:53:40,190 - PlaylistPlayer - DEBUG - Simulando interacción humana en 2040306023079082
+2025-05-18 21:53:40,190 - PlaylistPlayer - DEBUG - Obteniendo dimensiones de pantalla para 2040306023079082
+2025-05-18 21:53:40,192 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:62449
+2025-05-18 21:53:40,216 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /wlan/ip HTTP/11" 200 12
+2025-05-18 21:53:40,331 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 231
+2025-05-18 21:53:40,332 - PlaylistPlayer - DEBUG - Dimensiones obtenidas con uiautomator2: 480x894
+2025-05-18 21:53:40,332 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 21:53:41,755 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 21:53:43,783 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 21:53:45,639 - PlaylistPlayer - DEBUG - Interacción humana simulada en 2040306023079082
+2025-05-18 21:53:55,640 - PlaylistPlayer - DEBUG - Simulando interacción humana en 2040306023079082
+2025-05-18 21:53:55,640 - PlaylistPlayer - DEBUG - Obteniendo dimensiones de pantalla para 2040306023079082
+2025-05-18 21:53:55,641 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:62449
+2025-05-18 21:53:55,660 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /wlan/ip HTTP/11" 200 12
+2025-05-18 21:53:55,803 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 232
+2025-05-18 21:53:55,804 - PlaylistPlayer - DEBUG - Dimensiones obtenidas con uiautomator2: 480x894
+2025-05-18 21:53:55,804 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 21:53:57,471 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 88
+2025-05-18 21:53:59,025 - PlaylistPlayer - DEBUG - Interacción humana simulada en 2040306023079082
+2025-05-18 21:54:49,027 - PlaylistPlayer - DEBUG - Simulando interacción humana en 2040306023079082
+2025-05-18 21:54:49,027 - PlaylistPlayer - DEBUG - Obteniendo dimensiones de pantalla para 2040306023079082
+2025-05-18 21:54:49,029 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:62449
+2025-05-18 21:54:49,048 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /wlan/ip HTTP/11" 200 12
+2025-05-18 21:54:49,142 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 232
+2025-05-18 21:54:49,142 - PlaylistPlayer - DEBUG - Dimensiones obtenidas con uiautomator2: 480x894
+2025-05-18 21:54:49,142 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 21:54:50,837 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 21:54:53,113 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 21:54:55,510 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 21:54:58,417 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 21:55:00,173 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 21:55:02,136 - PlaylistPlayer - DEBUG - Interacción humana simulada en 2040306023079082
+2025-05-18 21:56:02,138 - PlaylistPlayer - DEBUG - Simulando interacción humana en 2040306023079082
+2025-05-18 21:56:02,138 - PlaylistPlayer - DEBUG - Obteniendo dimensiones de pantalla para 2040306023079082
+2025-05-18 21:56:02,141 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:62449
+2025-05-18 21:56:02,165 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /wlan/ip HTTP/11" 200 12
+2025-05-18 21:56:02,266 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 233
+2025-05-18 21:56:02,266 - PlaylistPlayer - DEBUG - Dimensiones obtenidas con uiautomator2: 480x894
+2025-05-18 21:56:02,266 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 21:56:02,523 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 21:56:05,043 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 21:56:06,786 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 21:56:08,036 - PlaylistPlayer - DEBUG - Interacción humana simulada en 2040306023079082
+2025-05-18 21:57:08,039 - PlaylistPlayer - INFO - Reproducción completada para 2040306023079082
+2025-05-18 21:57:08,039 - PlaylistPlayer - INFO - Esperando 1 minutos antes del siguiente ciclo
+2025-05-18 21:58:08,040 - PlaylistPlayer - INFO - Iniciando ciclo de reproducción de playlists
+2025-05-18 21:58:08,040 - PlaylistPlayer - INFO - Procesando dispositivo: 2040306023079082
+2025-05-18 21:58:08,041 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:62449
+2025-05-18 21:58:08,061 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /wlan/ip HTTP/11" 200 12
+2025-05-18 21:58:08,061 - PlaylistPlayer - INFO - Playlist seleccionada para 2040306023079082: https://open.spotify.com/playlist/1jNkvpdVy0DtpabdXexqLg?si=Jnx5VeI4RtSq-M6_Fy4OMg
+2025-05-18 21:58:08,061 - PlaylistPlayer - INFO - Abriendo playlist en 2040306023079082: https://open.spotify.com/playlist/1jNkvpdVy0DtpabdXexqLg?si=Jnx5VeI4RtSq-M6_Fy4OMg
+2025-05-18 21:58:08,063 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:62449
+2025-05-18 21:58:08,083 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /wlan/ip HTTP/11" 200 12
+2025-05-18 21:58:08,083 - PlaylistPlayer - DEBUG - Presionando botón Home
+2025-05-18 21:58:08,567 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 21:58:09,568 - PlaylistPlayer - DEBUG - Ejecutando intent para abrir URL: https://open.spotify.com/playlist/1jNkvpdVy0DtpabdXexqLg?si=Jnx5VeI4RtSq-M6_Fy4OMg
+2025-05-18 21:58:09,824 - PlaylistPlayer - DEBUG - Resultado del intent: Starting: Intent { act=android.intent.action.VIEW dat=https://open.spotify.com/... }
+
+2025-05-18 21:58:09,824 - PlaylistPlayer - WARNING - Error en intent: Warning: Activity not started, its current task has been brought to the front
+
+2025-05-18 21:58:09,825 - PlaylistPlayer - DEBUG - Esperando a que se abra la aplicación
+2025-05-18 21:58:15,826 - PlaylistPlayer - DEBUG - Verificando si aparece diálogo 'Abrir con'
+2025-05-18 21:58:21,514 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 90
+2025-05-18 21:58:27,056 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 90
+2025-05-18 21:58:32,640 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 90
+2025-05-18 21:58:32,806 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 90
+2025-05-18 21:58:33,008 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 90
+2025-05-18 21:58:33,008 - PlaylistPlayer - DEBUG - No se detectó diálogo 'Abrir con'
+2025-05-18 21:58:33,008 - PlaylistPlayer - DEBUG - Esperando a que cargue completamente
+2025-05-18 21:58:39,009 - PlaylistPlayer - DEBUG - Capturando pantalla en C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\scripts\..\screenshots\playlist_player_2040306023079082_20250518_215839.png
+2025-05-18 21:58:39,515 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /screenshot/0 HTTP/11" 200 49736
+2025-05-18 21:58:39,520 - PlaylistPlayer - DEBUG - Captura de pantalla guardada en C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\scripts\..\screenshots\playlist_player_2040306023079082_20250518_215839.png
+2025-05-18 21:58:39,520 - PlaylistPlayer - DEBUG - Verificando si Spotify está en primer plano en 2040306023079082
+2025-05-18 21:58:39,724 - PlaylistPlayer - INFO - Spotify está en primer plano en 2040306023079082
+2025-05-18 21:58:39,724 - PlaylistPlayer - INFO - Playlist abierta correctamente en 2040306023079082
+2025-05-18 21:58:39,725 - PlaylistPlayer - INFO - Buscando y presionando botón de reproducción en 2040306023079082
+2025-05-18 21:58:39,725 - PlaylistPlayer - DEBUG - Buscando botón por descripción
+2025-05-18 21:58:39,785 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 21:58:39,785 - PlaylistPlayer - DEBUG - Botón encontrado por descripción: Play
+2025-05-18 21:58:39,976 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 338
+2025-05-18 21:58:39,977 - PlaylistPlayer - DEBUG - Presionando botón en posición: {'bottom': 33, 'left': 153, 'right': 183, 'top': 0}
+2025-05-18 21:58:40,079 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 21:58:40,272 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 338
+2025-05-18 21:58:40,556 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 21:58:42,557 - PlaylistPlayer - DEBUG - Capturando pantalla en C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\scripts\..\screenshots\playlist_player_2040306023079082_20250518_215842.png
+2025-05-18 21:58:43,241 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /screenshot/0 HTTP/11" 200 49750
+2025-05-18 21:58:43,253 - PlaylistPlayer - DEBUG - Captura de pantalla guardada en C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\scripts\..\screenshots\playlist_player_2040306023079082_20250518_215842.png
+2025-05-18 21:58:43,253 - PlaylistPlayer - INFO - Botón de reproducción presionado en 2040306023079082
+2025-05-18 21:58:43,253 - PlaylistPlayer - INFO - Buscando y presionando botón de seguir en 2040306023079082
+2025-05-18 21:58:43,253 - PlaylistPlayer - DEBUG - Buscando botón por texto
+2025-05-18 21:58:49,022 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 88
+2025-05-18 21:58:54,470 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 21:59:00,060 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 90
+2025-05-18 21:59:05,640 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 90
+2025-05-18 21:59:05,641 - PlaylistPlayer - DEBUG - Buscando botón por resource-id
+2025-05-18 21:59:11,266 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 90
+2025-05-18 21:59:16,844 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 90
+2025-05-18 21:59:16,844 - PlaylistPlayer - DEBUG - Usando coordenadas aproximadas para botón de seguir
+2025-05-18 21:59:16,844 - PlaylistPlayer - DEBUG - Obteniendo dimensiones de pantalla para 2040306023079082
+2025-05-18 21:59:16,846 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:62449
+2025-05-18 21:59:16,867 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /wlan/ip HTTP/11" 200 12
+2025-05-18 21:59:16,973 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 233
+2025-05-18 21:59:16,973 - PlaylistPlayer - DEBUG - Dimensiones obtenidas con uiautomator2: 480x894
+2025-05-18 21:59:16,973 - PlaylistPlayer - DEBUG - Presionando en coordenadas aproximadas: (430, 150)
+2025-05-18 21:59:17,203 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 21:59:18,204 - PlaylistPlayer - INFO - Botón de seguir presionado en 2040306023079082
+2025-05-18 21:59:18,204 - PlaylistPlayer - INFO - Reproduciendo playlist durante 430 segundos (7 minutos)
+2025-05-18 22:01:08,208 - PlaylistPlayer - DEBUG - Simulando interacción humana en 2040306023079082
+2025-05-18 22:01:08,208 - PlaylistPlayer - DEBUG - Obteniendo dimensiones de pantalla para 2040306023079082
+2025-05-18 22:01:08,210 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:62449
+2025-05-18 22:01:08,229 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /wlan/ip HTTP/11" 200 12
+2025-05-18 22:01:08,311 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 232
+2025-05-18 22:01:08,311 - PlaylistPlayer - DEBUG - Dimensiones obtenidas con uiautomator2: 480x894
+2025-05-18 22:01:08,311 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 22:01:09,415 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 22:01:11,658 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 22:01:12,800 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 88
+2025-05-18 22:01:14,569 - PlaylistPlayer - DEBUG - Interacción humana simulada en 2040306023079082
+2025-05-18 22:01:44,570 - PlaylistPlayer - DEBUG - Simulando interacción humana en 2040306023079082
+2025-05-18 22:01:44,571 - PlaylistPlayer - DEBUG - Obteniendo dimensiones de pantalla para 2040306023079082
+2025-05-18 22:01:44,572 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:62449
+2025-05-18 22:01:44,601 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /wlan/ip HTTP/11" 200 12
+2025-05-18 22:01:44,717 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 233
+2025-05-18 22:01:44,718 - PlaylistPlayer - DEBUG - Dimensiones obtenidas con uiautomator2: 480x894
+2025-05-18 22:01:44,718 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 22:01:45,869 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 87
+2025-05-18 22:01:46,905 - PlaylistPlayer - DEBUG - Interacción humana simulada en 2040306023079082
+2025-05-18 22:01:56,906 - PlaylistPlayer - DEBUG - Simulando interacción humana en 2040306023079082
+2025-05-18 22:01:56,906 - PlaylistPlayer - DEBUG - Obteniendo dimensiones de pantalla para 2040306023079082
+2025-05-18 22:01:56,908 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:62449
+2025-05-18 22:01:56,925 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /wlan/ip HTTP/11" 200 12
+2025-05-18 22:01:57,115 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 232
+2025-05-18 22:01:57,116 - PlaylistPlayer - DEBUG - Dimensiones obtenidas con uiautomator2: 480x894
+2025-05-18 22:01:57,116 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 22:01:57,376 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 22:01:59,702 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 22:01:59,936 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 22:02:02,116 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 22:02:02,383 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 22:02:03,414 - PlaylistPlayer - DEBUG - Interacción humana simulada en 2040306023079082
+2025-05-18 22:02:33,415 - PlaylistPlayer - DEBUG - Simulando interacción humana en 2040306023079082
+2025-05-18 22:02:33,415 - PlaylistPlayer - DEBUG - Obteniendo dimensiones de pantalla para 2040306023079082
+2025-05-18 22:02:33,417 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:62449
+2025-05-18 22:02:33,443 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /wlan/ip HTTP/11" 200 12
+2025-05-18 22:02:33,531 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 232
+2025-05-18 22:02:33,532 - PlaylistPlayer - DEBUG - Dimensiones obtenidas con uiautomator2: 480x894
+2025-05-18 22:02:33,532 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 22:02:34,682 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 22:02:35,850 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 22:02:36,910 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 88
+2025-05-18 22:02:38,298 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 22:02:40,123 - PlaylistPlayer - DEBUG - Interacción humana simulada en 2040306023079082
+2025-05-18 22:03:20,125 - PlaylistPlayer - DEBUG - Simulando interacción humana en 2040306023079082
+2025-05-18 22:03:20,125 - PlaylistPlayer - DEBUG - Obteniendo dimensiones de pantalla para 2040306023079082
+2025-05-18 22:03:20,127 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:62449
+2025-05-18 22:03:20,168 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /wlan/ip HTTP/11" 200 12
+2025-05-18 22:03:20,263 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 233
+2025-05-18 22:03:20,264 - PlaylistPlayer - DEBUG - Dimensiones obtenidas con uiautomator2: 480x894
+2025-05-18 22:03:20,264 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 22:03:21,391 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 88
+2025-05-18 22:03:23,945 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 22:03:24,160 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 22:03:26,310 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 22:03:27,513 - PlaylistPlayer - DEBUG - Interacción humana simulada en 2040306023079082
+2025-05-18 22:05:17,518 - PlaylistPlayer - DEBUG - Simulando interacción humana en 2040306023079082
+2025-05-18 22:05:17,518 - PlaylistPlayer - DEBUG - Obteniendo dimensiones de pantalla para 2040306023079082
+2025-05-18 22:05:17,520 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:62449
+2025-05-18 22:05:17,551 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /wlan/ip HTTP/11" 200 12
+2025-05-18 22:05:17,665 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 232
+2025-05-18 22:05:17,666 - PlaylistPlayer - DEBUG - Dimensiones obtenidas con uiautomator2: 480x894
+2025-05-18 22:05:17,666 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 22:05:17,914 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 22:05:19,491 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 22:05:21,246 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 22:05:22,323 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89
+2025-05-18 22:05:24,077 - PlaylistPlayer - DEBUG - Interacción humana simulada en 2040306023079082
+2025-05-18 22:05:34,078 - PlaylistPlayer - DEBUG - Simulando interacción humana en 2040306023079082
+2025-05-18 22:05:34,078 - PlaylistPlayer - DEBUG - Obteniendo dimensiones de pantalla para 2040306023079082
+2025-05-18 22:05:34,082 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:62449
+2025-05-18 22:05:34,110 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "GET /wlan/ip HTTP/11" 200 12
+2025-05-18 22:05:34,205 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 231
+2025-05-18 22:05:34,205 - PlaylistPlayer - DEBUG - Dimensiones obtenidas con uiautomator2: 480x894
+2025-05-18 22:05:34,205 - PlaylistPlayer - DEBUG - Ejecutando acción aleatoria
+2025-05-18 22:05:35,318 - urllib3.connectionpool - DEBUG - http://127.0.0.1:62449 "POST /jsonrpc/0 HTTP/11" 200 89

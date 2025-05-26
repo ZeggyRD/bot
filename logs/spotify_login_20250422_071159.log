@@ -1,0 +1,21 @@
+2025-04-22 07:11:59,225 - SpotifyLogin - INFO - Iniciando proceso de login en múltiples dispositivos
+2025-04-22 07:11:59,259 - SpotifyLogin - INFO - Dispositivos detectados: ['2040306023080885']
+2025-04-22 07:11:59,259 - SpotifyLogin - INFO - Dispositivos conectados: 1
+2025-04-22 07:11:59,259 - SpotifyLogin - INFO - Se leyeron 10 cuentas válidas
+2025-04-22 07:11:59,260 - SpotifyLogin - WARNING - Faltan algunas plantillas para el reconocimiento visual.
+2025-04-22 07:11:59,260 - SpotifyLogin - WARNING - Asegúrese de que las imágenes de plantilla estén en la carpeta 'templates'.
+2025-04-22 07:11:59,261 - SpotifyLogin - INFO - Iniciando proceso de login en dispositivo 2040306023080885 con cuenta betoddhot@mofu.be
+2025-04-22 07:11:59,448 - SpotifyLogin - INFO - Cerrando Spotify en dispositivo 2040306023080885 (si estaba abierto)
+2025-04-22 07:12:00,700 - SpotifyLogin - INFO - Spotify abierto en dispositivo 2040306023080885
+2025-04-22 07:12:06,120 - SpotifyLogin - ERROR - Error capturando pantalla del dispositivo 2040306023080885: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:993: error: (-215:Assertion failed) !buf.empty() in function 'cv::imdecode_'
+
+2025-04-22 07:12:08,473 - SpotifyLogin - ERROR - Error capturando pantalla del dispositivo 2040306023080885: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:993: error: (-215:Assertion failed) !buf.empty() in function 'cv::imdecode_'
+
+2025-04-22 07:12:10,919 - SpotifyLogin - ERROR - Error capturando pantalla del dispositivo 2040306023080885: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:993: error: (-215:Assertion failed) !buf.empty() in function 'cv::imdecode_'
+
+2025-04-22 07:12:13,395 - SpotifyLogin - ERROR - Error capturando pantalla del dispositivo 2040306023080885: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:993: error: (-215:Assertion failed) !buf.empty() in function 'cv::imdecode_'
+
+2025-04-22 07:12:15,855 - SpotifyLogin - ERROR - Error capturando pantalla del dispositivo 2040306023080885: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:993: error: (-215:Assertion failed) !buf.empty() in function 'cv::imdecode_'
+
+2025-04-22 07:12:17,855 - SpotifyLogin - ERROR - No se pudo encontrar el botón 'Log In' en dispositivo 2040306023080885
+2025-04-22 07:12:17,856 - SpotifyLogin - INFO - Proceso completado: 0 dispositivos con login exitoso, 1 fallos

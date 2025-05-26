@@ -1,0 +1,34 @@
+2025-05-19 19:40:46,329 - Worker-P7NBHUMR - PlaylistPlayer.P7NBHUMRBYRGY9KJ - INFO - Worker thread INICIADO. Logs en: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\logs\P7NBHUMRBYRGY9KJ\playlist_player_20250519_194046.log
+2025-05-19 19:40:46,329 - Worker-P7NBHUMR - PlaylistPlayer.P7NBHUMRBYRGY9KJ - INFO - Personalidad Creada (SLOW_MODE_FACTOR=1.75): InitPlaylistDur=[30-35]m, ArtistDur=[30-60]m, IndivTrackSessDur=[60-90]m, SingleTrackDur=[60-120]s, VisitArtistProb=0.68, PlayIndivTracksProb=0.57
+2025-05-19 19:40:46,330 - Worker-P7NBHUMR - PlaylistPlayer.P7NBHUMRBYRGY9KJ - INFO - Conectando uiautomator2 (intento 1/3)...
+2025-05-19 19:40:50,470 - Worker-P7NBHUMR - PlaylistPlayer.P7NBHUMRBYRGY9KJ - INFO - Conectado (Device: U318AA, Android: N/A).
+2025-05-19 19:40:50,800 - Worker-P7NBHUMR - PlaylistPlayer.P7NBHUMRBYRGY9KJ - INFO - Spotify (com.spotify.music v9.0.36.484) instalado.
+2025-05-19 19:40:50,800 - Worker-P7NBHUMR - PlaylistPlayer.P7NBHUMRBYRGY9KJ - INFO - Setup inicial (kill Spotify, home).
+2025-05-19 19:40:50,800 - Worker-P7NBHUMR - PlaylistPlayer.P7NBHUMRBYRGY9KJ - WARNING - Advertencia setup inicial: 'Device' object has no attribute 'app_kill'
+2025-05-19 19:40:50,801 - Worker-P7NBHUMR - PlaylistPlayer.P7NBHUMRBYRGY9KJ - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\P7NBHUMRBYRGY9KJ\init_setup_warn_screenshot_P7NBHUMRBYRGY9KJ_20250519_194050800637.png
+2025-05-19 19:40:51,556 - Worker-P7NBHUMR - PlaylistPlayer.P7NBHUMRBYRGY9KJ - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\P7NBHUMRBYRGY9KJ\init_setup_warn_screenshot_P7NBHUMRBYRGY9KJ_20250519_194050800637.png
+2025-05-19 19:40:51,556 - Worker-P7NBHUMR - PlaylistPlayer.P7NBHUMRBYRGY9KJ - INFO - --- Iniciando CICLO DE VIDA DE INTERACCIÓN #1 ---
+2025-05-19 19:40:51,556 - Worker-P7NBHUMR - PlaylistPlayer.P7NBHUMRBYRGY9KJ - INFO - Fase 1: Playlist Inicial.
+2025-05-19 19:40:51,556 - Worker-P7NBHUMR - PlaylistPlayer.P7NBHUMRBYRGY9KJ - INFO - Iniciando PLAYLIST: https://open.spotify.com/playlist/3h6pIE4rE6z8OyxNMOqW8t?si=H8FB0OalRKGjeMjEXVgSJw por ~30 min.
+2025-05-19 19:40:51,556 - Worker-P7NBHUMR - PlaylistPlayer.P7NBHUMRBYRGY9KJ - INFO - Intentando abrir URL: https://open.spotify.com/playlist/3h6pIE4rE6z8OyxNMOqW8t?si=H8FB0OalRKGjeMjEXVgSJw (Intento 1/3)
+2025-05-19 19:40:51,556 - Worker-P7NBHUMR - PlaylistPlayer.P7NBHUMRBYRGY9KJ - DEBUG - Forzando detención de Spotify (com.spotify.music).
+2025-05-19 19:40:53,464 - Worker-P7NBHUMR - PlaylistPlayer.P7NBHUMRBYRGY9KJ - DEBUG - Presionando HOME.
+2025-05-19 19:40:56,452 - Worker-P7NBHUMR - PlaylistPlayer.P7NBHUMRBYRGY9KJ - DEBUG - Ejecutando ADB intent para URL: https://open.spotify.com/playlist/3h6pIE4rE6z8OyxNMOqW8t?si=H8FB0OalRKGjeMjEXVgSJw
+2025-05-19 19:40:59,016 - Worker-P7NBHUMR - PlaylistPlayer.P7NBHUMRBYRGY9KJ - DEBUG - Resultado ADB: stdout='Starting: Intent { act=android.intent.action.VIEW dat=https://open.spotify.com/... flg=0x10008000 }', stderr=''
+2025-05-19 19:41:03,218 - Worker-P7NBHUMR - PlaylistPlayer.P7NBHUMRBYRGY9KJ - DEBUG - Esperando app estabilice...
+2025-05-19 19:41:13,956 - Worker-P7NBHUMR - PlaylistPlayer.P7NBHUMRBYRGY9KJ - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-19 19:41:17,262 - Worker-P7NBHUMR - PlaylistPlayer.P7NBHUMRBYRGY9KJ - INFO - Diálogo 'Abrir con' o similar detectado.
+2025-05-19 19:41:17,263 - Worker-P7NBHUMR - PlaylistPlayer.P7NBHUMRBYRGY9KJ - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\P7NBHUMRBYRGY9KJ\open_with_dialog_screenshot_P7NBHUMRBYRGY9KJ_20250519_194117262714.png
+2025-05-19 19:41:17,466 - Worker-P7NBHUMR - PlaylistPlayer.P7NBHUMRBYRGY9KJ - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\P7NBHUMRBYRGY9KJ\open_with_dialog_screenshot_P7NBHUMRBYRGY9KJ_20250519_194117262714.png
+2025-05-19 19:41:21,568 - Worker-P7NBHUMR - PlaylistPlayer.P7NBHUMRBYRGY9KJ - INFO - Clickeado 'Spotify (text1)'.
+2025-05-19 19:41:33,502 - Worker-P7NBHUMR - PlaylistPlayer.P7NBHUMRBYRGY9KJ - INFO - Confirmación '(?i)Just once' encontrada.
+2025-05-19 19:41:37,952 - Worker-P7NBHUMR - PlaylistPlayer.P7NBHUMRBYRGY9KJ - INFO - Clickeado 'Confirmación '(?i)Just once''.
+2025-05-19 19:41:40,569 - Worker-P7NBHUMR - PlaylistPlayer.P7NBHUMRBYRGY9KJ - INFO - Diálogo 'Abrir con' manejado.
+2025-05-19 19:41:46,500 - Worker-P7NBHUMR - PlaylistPlayer.P7NBHUMRBYRGY9KJ - DEBUG - Verificando si Spotify está en primer plano...
+2025-05-19 19:41:46,500 - Worker-P7NBHUMR - PlaylistPlayer.P7NBHUMRBYRGY9KJ - DEBUG - Intentando con comando dumpsys (1): adb -s P7NBHUMRBYRGY9KJ shell dumpsys activity top
+2025-05-19 19:41:52,449 - Worker-P7NBHUMR - PlaylistPlayer.P7NBHUMRBYRGY9KJ - WARNING - Spotify NO parece estar en primer plano.
+2025-05-19 19:41:52,449 - Worker-P7NBHUMR - PlaylistPlayer.P7NBHUMRBYRGY9KJ - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\P7NBHUMRBYRGY9KJ\spotify_not_foreground_screenshot_P7NBHUMRBYRGY9KJ_20250519_194152449728.png
+2025-05-19 19:42:02,137 - Worker-P7NBHUMR - PlaylistPlayer.P7NBHUMRBYRGY9KJ - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\P7NBHUMRBYRGY9KJ\spotify_not_foreground_screenshot_P7NBHUMRBYRGY9KJ_20250519_194152449728.png
+2025-05-19 19:42:02,137 - Worker-P7NBHUMR - PlaylistPlayer.P7NBHUMRBYRGY9KJ - WARNING - Spotify no en primer plano tras abrir https://open.spotify.com/playlist/3h6pIE4rE6z8OyxNMOqW8t?si=H8FB0OalRKGjeMjEXVgSJw.
+2025-05-19 19:42:02,139 - Worker-P7NBHUMR - PlaylistPlayer.P7NBHUMRBYRGY9KJ - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\P7NBHUMRBYRGY9KJ\spotify_not_fg_screenshot_P7NBHUMRBYRGY9KJ_20250519_194202137674.png
+2025-05-19 19:42:02,877 - Worker-P7NBHUMR - PlaylistPlayer.P7NBHUMRBYRGY9KJ - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\P7NBHUMRBYRGY9KJ\spotify_not_fg_screenshot_P7NBHUMRBYRGY9KJ_20250519_194202137674.png

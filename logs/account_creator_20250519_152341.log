@@ -1,0 +1,15 @@
+2025-05-19 15:23:41,287 - AccountManager - INFO - Cargadas 10 cuentas desde el archivo
+2025-05-19 15:23:41,288 - AccountManager - INFO - Cargados 250 proxies desde el archivo
+2025-05-19 15:23:41,310 - AccountManager - INFO - AccountManager inicializado con 10 cuentas y 500 proxies
+2025-05-19 15:23:41,313 - HumanBehavior - INFO - Perfiles de comportamiento cargados desde C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\config\behavior_profiles.json
+2025-05-19 15:23:41,314 - HumanBehavior - INFO - HumanBehaviorSimulator inicializado con 4 perfiles
+2025-05-19 15:23:41,634 - LoginManager - DEBUG - Sesiones cargadas: 1 entradas
+2025-05-19 15:23:41,634 - LoginManager - INFO - LoginManager inicializado
+2025-05-19 15:23:41,635 - LoginManager - DEBUG - Ruta de sesiones: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\data\sessions.json
+2025-05-19 15:23:41,635 - LoginManager - DEBUG - Ruta de plantillas: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\templates
+2025-05-19 15:23:41,636 - LoginManager - WARNING - Plantillas faltantes: login_submit.png, home_icon.png, library_icon.png
+2025-05-19 15:23:41,636 - LoginManager - WARNING - Algunas funciones de reconocimiento visual pueden fallar
+2025-05-19 15:23:42,014 - AndroidDevice - INFO - Dispositivos detectados: ['2040306023079114', '2040306023079705', '2040306023080222', '2040306023080639', '2040306023080885', '2040306023081159', '2040306023081202', '2040306023081216', '2040306023081477', '2040306023082911', '2040306023083277', '2040306023095800', '2040306023095804', '2040306023096006', '2040306023097355', '2040306023098451', '4LJVPB6DUSIRMVUS', 'DY49GQ7PFQCEKF6H', 'KF9HFUCE6XE6WSU8', 'P7NBHUMRBYRGY9KJ']
+2025-05-19 15:24:14,906 - OTWMusicSystem - INFO - Configuración guardada en: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\config\config.json
+2025-05-19 15:24:14,915 - OTWMusicSystem - INFO - Archivo playlists copiado a C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\data\playlists.txt
+2025-05-19 15:28:01,874 - OTWMusicSystem - ERROR - Error en worker thread: cannot import name 'playlist_mode' from 'scripts.playlist_player' (C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\scripts\playlist_player.py)

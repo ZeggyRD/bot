@@ -1,0 +1,9 @@
+2025-05-19 22:14:27,725 - Worker-20403060 - PlaylistPlayer.2040306023080885 - INFO - Worker thread INICIADO. Logs en: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\logs\2040306023080885\playlist_player_20250519_221427.log
+2025-05-19 22:14:27,725 - Worker-20403060 - PlaylistPlayer.2040306023080885 - INFO - Personalidad Creada (SLOW_MODE_FACTOR=1.75):
+  TotalSessionDur: [45-150]m
+  InitPlaylistDur: [30-120]m
+  ArtistPlayDur: [10-30]m, Songs: [3-6]
+  TrackSessionDur: [25-70]m, SingleTrack: [65-135]s
+  Probs: LikePlaylist=0.69, Shuffle=0.84, SwitchPlaylist=0.32
+  VisitArtist=0.50, FollowArtist=0.85, ExploreTracks=0.52, Search=0.14
+2025-05-19 22:14:27,728 - Worker-20403060 - PlaylistPlayer.2040306023080885 - INFO - Conectando uiautomator2 (intento 1/3)...

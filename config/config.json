@@ -1,0 +1,29 @@
+{
+    "WEBSHARE_API_KEY": "m9je2zfmnjbvgo6ye5zvmho0o7nxqizo8wk94sel",
+    "INSTADDR_API_KEY": "",
+    "LOG_LEVEL": "INFO",
+    "SCREENSHOT_ENABLED": true,
+    "RETRY_COUNT": 3,
+    "HUMAN_BEHAVIOR": {
+        "MIN_DELAY": 1.0,
+        "MAX_DELAY": 3.5,
+        "RANDOMNESS_FACTOR": 0.3
+    },
+    "TRACK_PLAYER": {
+        "MIN_PLAY_TIME": 60,
+        "MAX_PLAY_TIME": 180
+    },
+    "PLAYLIST_PLAYER": {
+        "MIN_PLAY_TIME": 420,
+        "MAX_PLAY_TIME": 900
+    },
+    "ARTIST_PLAYER": {
+        "MIN_PLAY_TIME": 180,
+        "MAX_PLAY_TIME": 600
+    },
+    "TRACKS": "C:/Users/ceram/Downloads/OTWMusicSystem_Final/otw_project/OTW_MUSIC_SYSTEM/data/tracks.txt",
+    "PLAYLISTS": "C:/Users/def/Documents/OTWMusicSystem_Final/OTWMusicSystem_Final/otw_project/OTW_MUSIC_SYSTEM/data/playlists.txt",
+    "ARTISTS": "C:/Users/def/Documents/OTWMusicSystem_Final/OTWMusicSystem_Final/otw_project/OTW_MUSIC_SYSTEM/data/artists.txt",
+    "ACCOUNTS": "C:/Users/ceram/Downloads/OTWMusicSystem_Final/otw_project/OTW_MUSIC_SYSTEM/data/spotify_accounts.txt",
+    "PROXIES": "C:/Users/def/Documents/OTWMusicSystem_Final/OTWMusicSystem_Final/otw_project/OTW_MUSIC_SYSTEM/data/proxy_pool.txt"
+}

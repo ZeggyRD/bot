@@ -1,0 +1,43 @@
+2025-05-24 01:43:41,208 - HumanBehavior - INFO - Perfiles de comportamiento cargados desde C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\config\behavior_profiles.json
+2025-05-24 01:43:41,230 - HumanBehavior - INFO - HumanBehaviorSimulator inicializado con 4 perfiles
+2025-05-24 01:43:42,527 - AccountManager - INFO - Cargadas 10 cuentas desde el archivo
+2025-05-24 01:43:42,545 - AccountManager - INFO - Cargados 250 proxies desde el archivo
+2025-05-24 01:43:42,614 - AccountManager - INFO - AccountManager inicializado con 10 cuentas y 500 proxies
+2025-05-24 01:43:42,619 - LoginManager - INFO - LoginManager inicializado
+2025-05-24 01:43:42,620 - LoginManager - WARNING - Plantillas faltantes: login_submit.png, home_icon.png, library_icon.png
+2025-05-24 01:43:42,621 - LoginManager - WARNING - Algunas funciones de reconocimiento visual pueden fallar
+2025-05-24 01:43:44,674 - HumanBehavior - INFO - Perfiles de comportamiento cargados desde C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\config\behavior_profiles.json
+2025-05-24 01:43:44,692 - HumanBehavior - INFO - HumanBehaviorSimulator inicializado con 4 perfiles
+2025-05-24 01:43:45,443 - AndroidDevice - INFO - Dispositivos detectados: ['2040306023079082', '2040306023079114', '2040306023080639', '2040306023081159', '2040306023081216', '2040306023081477', '2040306023082906', '2040306023082911', '2040306023082934', '2040306023083277', '2040306023095804', '2040306023096006', '2040306023097355', '2040306023098451', '24d13971', '4LJVPB6DUSIRMVUS', 'A00000V5902A1318870', 'DY49GQ7PFQCEKF6H', 'KF9HFUCE6XE6WSU8', 'O7SWFIH6AEGEY96H', 'P7NBHUMRBYRGY9KJ', 'PV6PCYR4EMLF8PRC']
+2025-05-24 01:43:54,802 - OTWMusicSystem - INFO - Configuración guardada en: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\config\config.json
+2025-05-24 01:43:54,837 - OTWMusicSystem - INFO - Archivo playlists copiado a C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\data\playlists.txt
+2025-05-24 01:43:58,811 - OTWMusicSystem - INFO - Configuración guardada en: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\config\config.json
+2025-05-24 01:43:58,848 - OTWMusicSystem - INFO - Archivo proxies copiado a C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\data\proxies.txt
+2025-05-24 01:44:17,990 - OTWMusicSystem - INFO - --- Iniciando Playlist Player (Enhanced) ---
+2025-05-24 01:44:18,015 - OTWMusicSystem - INFO - Backup de 'C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\data\playlists.txt' a 'C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\data\playlists.txt.bak' exitoso.
+2025-05-24 01:44:18,016 - OTWMusicSystem - INFO - Cargados 185 links desde 'C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\data\playlists.txt'. Filtrados 47 links fallidos.
+2025-05-24 01:44:18,017 - OTWMusicSystem - INFO - Clasificados: 0 playlists, 1 artistas, 137 tracks
+2025-05-24 01:44:18,159 - OTWMusicSystem - INFO - Dispositivos ADB conectados y listos: ['2040306023079082', '2040306023079114', '2040306023080639', '2040306023081159', '2040306023081216', '2040306023081477', '2040306023082906', '2040306023082911', '2040306023082934', '2040306023083277', '2040306023095804', '2040306023096006', '2040306023097355', '2040306023098451', '24d13971', '4LJVPB6DUSIRMVUS', 'A00000V5902A1318870', 'DY49GQ7PFQCEKF6H', 'KF9HFUCE6XE6WSU8', 'O7SWFIH6AEGEY96H', 'P7NBHUMRBYRGY9KJ', 'PV6PCYR4EMLF8PRC']
+2025-05-24 01:44:18,509 - OTWMusicSystem - WARNING - No Spotify packages found on 2040306023079082
+2025-05-24 01:44:18,857 - OTWMusicSystem - WARNING - No Spotify packages found on 2040306023079114
+2025-05-24 01:44:19,552 - OTWMusicSystem - WARNING - No Spotify packages found on 2040306023080639
+2025-05-24 01:44:19,866 - OTWMusicSystem - WARNING - No Spotify packages found on 2040306023081159
+2025-05-24 01:44:20,264 - OTWMusicSystem - WARNING - No Spotify packages found on 2040306023081216
+2025-05-24 01:44:20,628 - OTWMusicSystem - WARNING - No Spotify packages found on 2040306023081477
+2025-05-24 01:44:21,076 - OTWMusicSystem - WARNING - No Spotify packages found on 2040306023082906
+2025-05-24 01:44:21,447 - OTWMusicSystem - WARNING - No Spotify packages found on 2040306023082911
+2025-05-24 01:44:21,734 - OTWMusicSystem - WARNING - No Spotify packages found on 2040306023082934
+2025-05-24 01:44:22,354 - OTWMusicSystem - WARNING - No Spotify packages found on 2040306023083277
+2025-05-24 01:44:22,818 - OTWMusicSystem - WARNING - No Spotify packages found on 2040306023095804
+2025-05-24 01:44:23,309 - OTWMusicSystem - WARNING - No Spotify packages found on 2040306023096006
+2025-05-24 01:44:23,635 - OTWMusicSystem - WARNING - No Spotify packages found on 2040306023097355
+2025-05-24 01:44:23,962 - OTWMusicSystem - WARNING - No Spotify packages found on 2040306023098451
+2025-05-24 01:44:24,998 - OTWMusicSystem - WARNING - No Spotify packages found on 24d13971
+2025-05-24 01:44:25,373 - OTWMusicSystem - WARNING - No Spotify packages found on 4LJVPB6DUSIRMVUS
+2025-05-24 01:44:25,746 - OTWMusicSystem - WARNING - No Spotify packages found on A00000V5902A1318870
+2025-05-24 01:44:26,124 - OTWMusicSystem - WARNING - No Spotify packages found on DY49GQ7PFQCEKF6H
+2025-05-24 01:44:26,371 - OTWMusicSystem - WARNING - No Spotify packages found on KF9HFUCE6XE6WSU8
+2025-05-24 01:44:26,680 - OTWMusicSystem - WARNING - No Spotify packages found on O7SWFIH6AEGEY96H
+2025-05-24 01:44:27,044 - OTWMusicSystem - WARNING - No Spotify packages found on P7NBHUMRBYRGY9KJ
+2025-05-24 01:44:27,369 - OTWMusicSystem - WARNING - No Spotify packages found on PV6PCYR4EMLF8PRC
+2025-05-24 01:44:27,385 - OTWMusicSystem - INFO - --- Finalizado ---

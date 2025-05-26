@@ -1,0 +1,434 @@
+2025-05-19 22:05:59,280 - AccountManager - INFO - Cargadas 10 cuentas desde el archivo
+2025-05-19 22:05:59,281 - AccountManager - INFO - Cargados 250 proxies desde el archivo
+2025-05-19 22:05:59,295 - AccountManager - INFO - AccountManager inicializado con 10 cuentas y 500 proxies
+2025-05-19 22:05:59,298 - HumanBehavior - INFO - Perfiles de comportamiento cargados desde C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\config\behavior_profiles.json
+2025-05-19 22:05:59,299 - HumanBehavior - INFO - HumanBehaviorSimulator inicializado con 4 perfiles
+2025-05-19 22:05:59,580 - LoginManager - DEBUG - Sesiones cargadas: 1 entradas
+2025-05-19 22:05:59,581 - LoginManager - INFO - LoginManager inicializado
+2025-05-19 22:05:59,581 - LoginManager - DEBUG - Ruta de sesiones: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\data\sessions.json
+2025-05-19 22:05:59,581 - LoginManager - DEBUG - Ruta de plantillas: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\templates
+2025-05-19 22:05:59,582 - LoginManager - WARNING - Plantillas faltantes: login_submit.png, home_icon.png, library_icon.png
+2025-05-19 22:05:59,582 - LoginManager - WARNING - Algunas funciones de reconocimiento visual pueden fallar
+2025-05-19 22:05:59,934 - AndroidDevice - INFO - Dispositivos detectados: ['2040306023079114', '2040306023079705', '2040306023080222', '2040306023080639', '2040306023080885', '2040306023081159', '2040306023081202', '2040306023081216', '2040306023081477', '2040306023082911', '2040306023083277', '2040306023095804', '2040306023096006', '2040306023097355', '2040306023098451', '4LJVPB6DUSIRMVUS', 'DY49GQ7PFQCEKF6H', 'KF9HFUCE6XE6WSU8', 'P7NBHUMRBYRGY9KJ']
+2025-05-19 22:11:49,598 - OTWMusicSystem - INFO - Configuración guardada en: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\config\config.json
+2025-05-19 22:11:49,600 - OTWMusicSystem - INFO - Archivo playlists copiado a C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\data\playlists.txt
+2025-05-19 22:12:31,720 - OTWMusicSystem - INFO - Configuración guardada en: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\config\config.json
+2025-05-19 22:12:31,722 - OTWMusicSystem - INFO - Archivo playlists copiado a C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\data\playlists.txt
+2025-05-19 22:13:14,911 - PlaylistPlayerMain - INFO - Python version: 3.12.8
+2025-05-19 22:13:14,912 - PlaylistPlayerMain - WARNING - Error al obtener versiones de herramientas: module 'uiautomator2' has no attribute '__version__'
+2025-05-19 22:13:14,912 - PlaylistPlayerMain - INFO - --- Iniciando PlaylistPlayer en Modo Multi-Hilo (SLOW_MODE_FACTOR=1.75) ---
+2025-05-19 22:13:14,914 - PlaylistPlayerMain - INFO - Cargados 185 links desde 'C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\data\playlists.txt' (Playlists)
+2025-05-19 22:13:14,916 - PlaylistPlayerMain - DEBUG - Ejemplos de Playlists: ['https://open.spotify.com/playlist/3h6pIE4rE6z8OyxNMOqW8t?si=H8FB0OalRKGjeMjEXVgSJw', 'https://open.spotify.com/playlist/5XrvAtxjUWcbTNgLHc9hz2?si=8J8GtCkARCaiIlIOWzgMnA']
+2025-05-19 22:13:14,918 - PlaylistPlayerMain - INFO - Archivo 'C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\data\key_artists.txt' (Artistas Clave) no existe o está vacío.
+2025-05-19 22:13:14,920 - PlaylistPlayerMain - INFO - Creando 'C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\data\key_artists.txt' con lista por defecto para Artistas Clave.
+2025-05-19 22:13:14,926 - PlaylistPlayerMain - INFO - Creado 'C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\data\key_artists.txt' con 7 items por defecto.
+2025-05-19 22:13:14,961 - PlaylistPlayerMain - INFO - Cargados 175 links desde 'C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\data\tracks.txt' (Tracks Individuales)
+2025-05-19 22:13:14,963 - PlaylistPlayerMain - DEBUG - Ejemplos de Tracks Individuales: ['https://open.spotify.com/track/56n5POxGEe6mw3MZrHwx9Q?si=b5a4661dae674cc8', 'https://open.spotify.com/track/0H6uEz7M1iJAV1tOoWFIuv?si=7a8bc2e25d37488c']
+2025-05-19 22:13:14,966 - PlaylistPlayerMain - INFO - Links cargados: Playlists=185, ArtistasClave=7, Tracks=175
+2025-05-19 22:13:14,968 - PlaylistPlayerMain - DEBUG - Obteniendo dispositivos conectados vía ADB...
+2025-05-19 22:13:15,022 - PlaylistPlayerMain - INFO - Dispositivos ADB conectados y listos: ['2040306023079114', '2040306023079705', '2040306023080222', '2040306023080639', '2040306023080885', '2040306023081159', '2040306023081202', '2040306023081216', '2040306023081477', '2040306023082911', '2040306023083277', '2040306023095804', '2040306023096006', '2040306023097355', '2040306023098451', '4LJVPB6DUSIRMVUS', 'DY49GQ7PFQCEKF6H', 'KF9HFUCE6XE6WSU8', 'P7NBHUMRBYRGY9KJ']
+2025-05-19 22:13:15,025 - PlaylistPlayerMain - INFO - Iniciando workers para 19 dispositivos: ['2040306023079114', '2040306023079705', '2040306023080222', '2040306023080639', '2040306023080885', '2040306023081159', '2040306023081202', '2040306023081216', '2040306023081477', '2040306023082911', '2040306023083277', '2040306023095804', '2040306023096006', '2040306023097355', '2040306023098451', '4LJVPB6DUSIRMVUS', 'DY49GQ7PFQCEKF6H', 'KF9HFUCE6XE6WSU8', 'P7NBHUMRBYRGY9KJ']
+2025-05-19 22:13:15,029 - PlaylistPlayerMain - DEBUG - Esperando 16.4s antes de iniciar el siguiente worker.
+2025-05-19 22:13:15,062 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 22:13:15,154 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 22:13:15,154 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 22:13:15,167 - uiautomator2.core - DEBUG - forward tcp:58152 -> tcp:9008
+2025-05-19 22:13:15,172 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58152
+2025-05-19 22:13:15,181 - uiautomator2.core - DEBUG - launch uiautomator with cmd: CLASSPATH=/data/local/tmp/u2.jar app_process / com.wetest.uia2.Main
+2025-05-19 22:13:15,189 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 22:13:15,200 - uiautomator2.core - DEBUG - forward tcp:58152 -> tcp:9008
+2025-05-19 22:13:15,202 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58152
+2025-05-19 22:13:15,713 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 22:13:15,715 - uiautomator2.core - DEBUG - forward tcp:58152 -> tcp:9008
+2025-05-19 22:13:15,717 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58152
+2025-05-19 22:13:16,227 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 22:13:16,237 - uiautomator2.core - DEBUG - forward tcp:58152 -> tcp:9008
+2025-05-19 22:13:16,240 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58152
+2025-05-19 22:13:16,471 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: [UiAutomator2Server] Starting Server'
+2025-05-19 22:13:16,472 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 22:13:16,750 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 22:13:16,751 - uiautomator2.core - DEBUG - forward tcp:58152 -> tcp:9008
+2025-05-19 22:13:16,754 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58152
+2025-05-19 22:13:16,902 - uiautomator2.core - DEBUG - MockAdbProcess: b'SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".'
+2025-05-19 22:13:16,904 - uiautomator2.core - DEBUG - MockAdbProcess: b'\nSLF4J: Defaulting to no-operation (NOP) logger implementation\nSLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.'
+2025-05-19 22:13:16,905 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 22:13:17,276 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 22:13:17,278 - uiautomator2.core - DEBUG - forward tcp:58152 -> tcp:9008
+2025-05-19 22:13:17,279 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58152
+2025-05-19 22:13:17,362 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: clipboardManager inited\n'
+2025-05-19 22:13:17,369 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: tmpdir is /data/local/tmp/u2'
+2025-05-19 22:13:17,370 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 22:13:17,396 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: http server listening on *:9008'
+2025-05-19 22:13:17,397 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 22:13:17,791 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 22:13:17,793 - uiautomator2.core - DEBUG - forward tcp:58152 -> tcp:9008
+2025-05-19 22:13:17,794 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58152
+2025-05-19 22:13:17,830 - urllib3.connectionpool - DEBUG - http://127.0.0.1:58152 "GET /ping HTTP/1.1" 200 4
+2025-05-19 22:13:17,831 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'deviceInfo', 'params': {}}
+2025-05-19 22:13:17,833 - uiautomator2.core - DEBUG - forward tcp:58152 -> tcp:9008
+2025-05-19 22:13:17,836 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58152
+2025-05-19 22:13:18,051 - urllib3.connectionpool - DEBUG - http://127.0.0.1:58152 "POST /jsonrpc/0 HTTP/1.1" 200 262
+2025-05-19 22:13:18,254 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'takeScreenshot', 'params': (1, 80)}
+2025-05-19 22:13:18,256 - uiautomator2.core - DEBUG - forward tcp:58152 -> tcp:9008
+2025-05-19 22:13:18,258 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58152
+2025-05-19 22:13:18,300 - urllib3.connectionpool - DEBUG - http://127.0.0.1:58152 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 22:13:18,805 - PIL.Image - DEBUG - Importing BlpImagePlugin
+2025-05-19 22:13:18,809 - PIL.Image - DEBUG - Importing BmpImagePlugin
+2025-05-19 22:13:18,809 - PIL.Image - DEBUG - Importing BufrStubImagePlugin
+2025-05-19 22:13:18,813 - PIL.Image - DEBUG - Importing CurImagePlugin
+2025-05-19 22:13:18,814 - PIL.Image - DEBUG - Importing DcxImagePlugin
+2025-05-19 22:13:18,818 - PIL.Image - DEBUG - Importing DdsImagePlugin
+2025-05-19 22:13:18,827 - PIL.Image - DEBUG - Importing EpsImagePlugin
+2025-05-19 22:13:18,829 - PIL.Image - DEBUG - Importing FitsImagePlugin
+2025-05-19 22:13:18,832 - PIL.Image - DEBUG - Importing FliImagePlugin
+2025-05-19 22:13:18,834 - PIL.Image - DEBUG - Importing FpxImagePlugin
+2025-05-19 22:13:18,838 - PIL.Image - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2025-05-19 22:13:18,839 - PIL.Image - DEBUG - Importing FtexImagePlugin
+2025-05-19 22:13:18,842 - PIL.Image - DEBUG - Importing GbrImagePlugin
+2025-05-19 22:13:18,845 - PIL.Image - DEBUG - Importing GifImagePlugin
+2025-05-19 22:13:18,846 - PIL.Image - DEBUG - Importing GribStubImagePlugin
+2025-05-19 22:13:18,851 - PIL.Image - DEBUG - Importing Hdf5StubImagePlugin
+2025-05-19 22:13:18,854 - PIL.Image - DEBUG - Importing IcnsImagePlugin
+2025-05-19 22:13:18,861 - PIL.Image - DEBUG - Importing IcoImagePlugin
+2025-05-19 22:13:18,864 - PIL.Image - DEBUG - Importing ImImagePlugin
+2025-05-19 22:13:18,867 - PIL.Image - DEBUG - Importing ImtImagePlugin
+2025-05-19 22:13:18,870 - PIL.Image - DEBUG - Importing IptcImagePlugin
+2025-05-19 22:13:18,874 - PIL.Image - DEBUG - Importing JpegImagePlugin
+2025-05-19 22:13:18,875 - PIL.Image - DEBUG - Importing Jpeg2KImagePlugin
+2025-05-19 22:13:18,876 - PIL.Image - DEBUG - Importing McIdasImagePlugin
+2025-05-19 22:13:18,881 - PIL.Image - DEBUG - Importing MicImagePlugin
+2025-05-19 22:13:18,884 - PIL.Image - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2025-05-19 22:13:18,884 - PIL.Image - DEBUG - Importing MpegImagePlugin
+2025-05-19 22:13:18,887 - PIL.Image - DEBUG - Importing MpoImagePlugin
+2025-05-19 22:13:18,963 - PIL.Image - DEBUG - Importing MspImagePlugin
+2025-05-19 22:13:18,965 - PIL.Image - DEBUG - Importing PalmImagePlugin
+2025-05-19 22:13:18,968 - PIL.Image - DEBUG - Importing PcdImagePlugin
+2025-05-19 22:13:18,971 - PIL.Image - DEBUG - Importing PcxImagePlugin
+2025-05-19 22:13:18,971 - PIL.Image - DEBUG - Importing PdfImagePlugin
+2025-05-19 22:13:18,989 - PIL.Image - DEBUG - Importing PixarImagePlugin
+2025-05-19 22:13:18,996 - PIL.Image - DEBUG - Importing PngImagePlugin
+2025-05-19 22:13:18,996 - PIL.Image - DEBUG - Importing PpmImagePlugin
+2025-05-19 22:13:18,997 - PIL.Image - DEBUG - Importing PsdImagePlugin
+2025-05-19 22:13:19,004 - PIL.Image - DEBUG - Importing QoiImagePlugin
+2025-05-19 22:13:19,007 - PIL.Image - DEBUG - Importing SgiImagePlugin
+2025-05-19 22:13:19,009 - PIL.Image - DEBUG - Importing SpiderImagePlugin
+2025-05-19 22:13:19,013 - PIL.Image - DEBUG - Importing SunImagePlugin
+2025-05-19 22:13:19,016 - PIL.Image - DEBUG - Importing TgaImagePlugin
+2025-05-19 22:13:19,018 - PIL.Image - DEBUG - Importing TiffImagePlugin
+2025-05-19 22:13:19,021 - PIL.Image - DEBUG - Importing WebPImagePlugin
+2025-05-19 22:13:19,087 - PIL.Image - DEBUG - Importing WmfImagePlugin
+2025-05-19 22:13:19,089 - PIL.Image - DEBUG - Importing XbmImagePlugin
+2025-05-19 22:13:19,092 - PIL.Image - DEBUG - Importing XpmImagePlugin
+2025-05-19 22:13:19,094 - PIL.Image - DEBUG - Importing XVThumbImagePlugin
+2025-05-19 22:13:19,097 - adbutils.screenshot - WARNING - screencap error: cannot identify image file <_io.BytesIO object at 0x0000021F0E97DF80>
+2025-05-19 22:13:19,279 - adbutils.shell - DEBUG - get window size from 'wm size': WindowSize(width=480, height=960) False
+2025-05-19 22:13:20,664 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'pressKey', 'params': ('home',)}
+2025-05-19 22:13:20,666 - uiautomator2.core - DEBUG - forward tcp:58152 -> tcp:9008
+2025-05-19 22:13:20,668 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58152
+2025-05-19 22:13:21,767 - urllib3.connectionpool - DEBUG - http://127.0.0.1:58152 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-19 22:13:31,475 - PlaylistPlayerMain - DEBUG - Esperando 18.4s antes de iniciar el siguiente worker.
+2025-05-19 22:13:31,492 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 22:13:31,579 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 22:13:31,579 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 22:13:31,582 - uiautomator2.core - DEBUG - forward tcp:58389 -> tcp:9008
+2025-05-19 22:13:31,585 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58389
+2025-05-19 22:13:31,595 - uiautomator2.core - DEBUG - launch uiautomator with cmd: CLASSPATH=/data/local/tmp/u2.jar app_process / com.wetest.uia2.Main
+2025-05-19 22:13:31,606 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 22:13:31,608 - uiautomator2.core - DEBUG - forward tcp:58389 -> tcp:9008
+2025-05-19 22:13:31,609 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58389
+2025-05-19 22:13:32,122 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 22:13:32,124 - uiautomator2.core - DEBUG - forward tcp:58389 -> tcp:9008
+2025-05-19 22:13:32,126 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58389
+2025-05-19 22:13:32,636 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 22:13:32,638 - uiautomator2.core - DEBUG - forward tcp:58389 -> tcp:9008
+2025-05-19 22:13:32,640 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58389
+2025-05-19 22:13:32,864 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: [UiAutomator2Server] Starting Server'
+2025-05-19 22:13:32,865 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 22:13:33,152 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 22:13:33,153 - uiautomator2.core - DEBUG - forward tcp:58389 -> tcp:9008
+2025-05-19 22:13:33,156 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58389
+2025-05-19 22:13:33,326 - uiautomator2.core - DEBUG - MockAdbProcess: b'SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".'
+2025-05-19 22:13:33,327 - uiautomator2.core - DEBUG - MockAdbProcess: b'\nSLF4J: Defaulting to no-operation (NOP) logger implementation\nSLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.'
+2025-05-19 22:13:33,328 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 22:13:33,668 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 22:13:33,669 - uiautomator2.core - DEBUG - forward tcp:58389 -> tcp:9008
+2025-05-19 22:13:33,673 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58389
+2025-05-19 22:13:33,862 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: clipboardManager inited\n'
+2025-05-19 22:13:33,870 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: tmpdir is /data/local/tmp/u2\n'
+2025-05-19 22:13:33,898 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: http server listening on *:9008'
+2025-05-19 22:13:33,899 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 22:13:34,186 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 22:13:34,194 - uiautomator2.core - DEBUG - forward tcp:58389 -> tcp:9008
+2025-05-19 22:13:34,197 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58389
+2025-05-19 22:13:34,240 - urllib3.connectionpool - DEBUG - http://127.0.0.1:58389 "GET /ping HTTP/1.1" 200 4
+2025-05-19 22:13:34,244 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'deviceInfo', 'params': {}}
+2025-05-19 22:13:34,245 - uiautomator2.core - DEBUG - forward tcp:58389 -> tcp:9008
+2025-05-19 22:13:34,249 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58389
+2025-05-19 22:13:34,512 - urllib3.connectionpool - DEBUG - http://127.0.0.1:58389 "POST /jsonrpc/0 HTTP/1.1" 200 262
+2025-05-19 22:13:34,739 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'takeScreenshot', 'params': (1, 80)}
+2025-05-19 22:13:34,742 - uiautomator2.core - DEBUG - forward tcp:58389 -> tcp:9008
+2025-05-19 22:13:34,747 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58389
+2025-05-19 22:13:35,800 - urllib3.connectionpool - DEBUG - http://127.0.0.1:58389 "POST /jsonrpc/0 HTTP/1.1" 200 93839
+2025-05-19 22:13:37,849 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'pressKey', 'params': ('home',)}
+2025-05-19 22:13:37,851 - uiautomator2.core - DEBUG - forward tcp:58389 -> tcp:9008
+2025-05-19 22:13:37,853 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58389
+2025-05-19 22:13:38,975 - urllib3.connectionpool - DEBUG - http://127.0.0.1:58389 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-19 22:13:40,461 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 2097152, 'childOrSibling': [], 'childOrSiblingSelector': [], 'resourceId': 'android:id/alertTitle'}, 3000)}
+2025-05-19 22:13:40,463 - uiautomator2.core - DEBUG - forward tcp:58152 -> tcp:9008
+2025-05-19 22:13:40,465 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58152
+2025-05-19 22:13:43,580 - urllib3.connectionpool - DEBUG - http://127.0.0.1:58152 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-19 22:13:43,581 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 2097153, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'Spotify', 'resourceId': 'android:id/text1'}, 500)}
+2025-05-19 22:13:43,587 - uiautomator2.core - DEBUG - forward tcp:58152 -> tcp:9008
+2025-05-19 22:13:43,589 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58152
+2025-05-19 22:13:44,141 - urllib3.connectionpool - DEBUG - http://127.0.0.1:58152 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-19 22:13:44,142 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 2097216, 'childOrSibling': [], 'childOrSiblingSelector': [], 'description': 'Spotify', 'resourceId': 'android:id/text1'}, 500)}
+2025-05-19 22:13:44,144 - uiautomator2.core - DEBUG - forward tcp:58152 -> tcp:9008
+2025-05-19 22:13:44,146 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58152
+2025-05-19 22:13:44,698 - urllib3.connectionpool - DEBUG - http://127.0.0.1:58152 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-19 22:13:44,700 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 4, 'childOrSibling': [], 'childOrSiblingSelector': [], 'textMatches': '(?i)Spotify'}, 500)}
+2025-05-19 22:13:44,707 - uiautomator2.core - DEBUG - forward tcp:58152 -> tcp:9008
+2025-05-19 22:13:44,709 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58152
+2025-05-19 22:13:45,258 - urllib3.connectionpool - DEBUG - http://127.0.0.1:58152 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-19 22:13:45,260 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 256, 'childOrSibling': [], 'childOrSiblingSelector': [], 'descriptionMatches': '(?i)Spotify'}, 500)}
+2025-05-19 22:13:45,262 - uiautomator2.core - DEBUG - forward tcp:58152 -> tcp:9008
+2025-05-19 22:13:45,264 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58152
+2025-05-19 22:13:45,316 - urllib3.connectionpool - DEBUG - http://127.0.0.1:58152 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 22:13:45,321 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'takeScreenshot', 'params': (1, 80)}
+2025-05-19 22:13:45,323 - uiautomator2.core - DEBUG - forward tcp:58152 -> tcp:9008
+2025-05-19 22:13:45,324 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58152
+2025-05-19 22:13:45,354 - urllib3.connectionpool - DEBUG - http://127.0.0.1:58152 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 22:13:45,819 - adbutils.screenshot - WARNING - screencap error: cannot identify image file <_io.BytesIO object at 0x0000021F0E9DF6A0>
+2025-05-19 22:13:46,000 - adbutils.shell - DEBUG - get window size from 'wm size': WindowSize(width=480, height=960) False
+2025-05-19 22:13:46,013 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 2097153, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'Spotify', 'resourceId': 'android:id/text1'}, 500)}
+2025-05-19 22:13:46,014 - uiautomator2.core - DEBUG - forward tcp:58152 -> tcp:9008
+2025-05-19 22:13:46,017 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58152
+2025-05-19 22:13:46,552 - urllib3.connectionpool - DEBUG - http://127.0.0.1:58152 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-19 22:13:46,555 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 2097216, 'childOrSibling': [], 'childOrSiblingSelector': [], 'description': 'Spotify', 'resourceId': 'android:id/text1'}, 500)}
+2025-05-19 22:13:46,557 - uiautomator2.core - DEBUG - forward tcp:58152 -> tcp:9008
+2025-05-19 22:13:46,559 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58152
+2025-05-19 22:13:47,086 - urllib3.connectionpool - DEBUG - http://127.0.0.1:58152 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-19 22:13:47,088 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 4, 'childOrSibling': [], 'childOrSiblingSelector': [], 'textMatches': '(?i)Spotify'}, 500)}
+2025-05-19 22:13:47,090 - uiautomator2.core - DEBUG - forward tcp:58152 -> tcp:9008
+2025-05-19 22:13:47,091 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58152
+2025-05-19 22:13:47,621 - urllib3.connectionpool - DEBUG - http://127.0.0.1:58152 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-19 22:13:47,622 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 256, 'childOrSibling': [], 'childOrSiblingSelector': [], 'descriptionMatches': '(?i)Spotify'}, 500)}
+2025-05-19 22:13:47,624 - uiautomator2.core - DEBUG - forward tcp:58152 -> tcp:9008
+2025-05-19 22:13:47,626 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58152
+2025-05-19 22:13:47,665 - urllib3.connectionpool - DEBUG - http://127.0.0.1:58152 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 22:13:49,891 - PlaylistPlayerMain - DEBUG - Esperando 13.6s antes de iniciar el siguiente worker.
+2025-05-19 22:13:49,911 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 22:13:50,096 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 22:13:50,097 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 22:13:50,102 - uiautomator2.core - DEBUG - forward tcp:58649 -> tcp:9008
+2025-05-19 22:13:50,105 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58649
+2025-05-19 22:13:50,109 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 256, 'childOrSibling': [], 'childOrSiblingSelector': [], 'descriptionMatches': '(?i)Spotify'}, 6562)}
+2025-05-19 22:13:50,111 - uiautomator2.core - DEBUG - forward tcp:58152 -> tcp:9008
+2025-05-19 22:13:50,112 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58152
+2025-05-19 22:13:50,129 - uiautomator2.core - DEBUG - launch uiautomator with cmd: CLASSPATH=/data/local/tmp/u2.jar app_process / com.wetest.uia2.Main
+2025-05-19 22:13:50,141 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 22:13:50,152 - uiautomator2.core - DEBUG - forward tcp:58649 -> tcp:9008
+2025-05-19 22:13:50,154 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58649
+2025-05-19 22:13:50,157 - urllib3.connectionpool - DEBUG - http://127.0.0.1:58152 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 22:13:50,159 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'objInfo', 'params': ({'mask': 256, 'childOrSibling': [], 'childOrSiblingSelector': [], 'descriptionMatches': '(?i)Spotify'},)}
+2025-05-19 22:13:50,161 - uiautomator2.core - DEBUG - forward tcp:58152 -> tcp:9008
+2025-05-19 22:13:50,163 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58152
+2025-05-19 22:13:50,340 - urllib3.connectionpool - DEBUG - http://127.0.0.1:58152 "POST /jsonrpc/0 HTTP/1.1" 200 505
+2025-05-19 22:13:50,341 - uiautomator2 - DEBUG - operation [click] pre-delay 0.42s
+2025-05-19 22:13:50,669 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 22:13:50,670 - uiautomator2.core - DEBUG - forward tcp:58649 -> tcp:9008
+2025-05-19 22:13:50,673 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58649
+2025-05-19 22:13:50,762 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'click', 'params': (239.5, 295.5)}
+2025-05-19 22:13:50,764 - uiautomator2.core - DEBUG - forward tcp:58152 -> tcp:9008
+2025-05-19 22:13:50,768 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58152
+2025-05-19 22:13:50,958 - urllib3.connectionpool - DEBUG - http://127.0.0.1:58152 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 22:13:50,959 - uiautomator2 - DEBUG - operation [click] post-delay 0.94s
+2025-05-19 22:13:51,206 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 22:13:51,218 - uiautomator2.core - DEBUG - forward tcp:58649 -> tcp:9008
+2025-05-19 22:13:51,220 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58649
+2025-05-19 22:13:51,738 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 22:13:51,739 - uiautomator2.core - DEBUG - forward tcp:58649 -> tcp:9008
+2025-05-19 22:13:51,741 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58649
+2025-05-19 22:13:52,256 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 22:13:52,258 - uiautomator2.core - DEBUG - forward tcp:58649 -> tcp:9008
+2025-05-19 22:13:52,260 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58649
+2025-05-19 22:13:52,794 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 22:13:52,796 - uiautomator2.core - DEBUG - forward tcp:58649 -> tcp:9008
+2025-05-19 22:13:52,797 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58649
+2025-05-19 22:13:53,117 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: [UiAutomator2Server] Starting Server'
+2025-05-19 22:13:53,123 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 22:13:53,320 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 22:13:53,321 - uiautomator2.core - DEBUG - forward tcp:58649 -> tcp:9008
+2025-05-19 22:13:53,322 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58649
+2025-05-19 22:13:53,841 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 22:13:53,842 - uiautomator2.core - DEBUG - forward tcp:58649 -> tcp:9008
+2025-05-19 22:13:53,844 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58649
+2025-05-19 22:13:54,027 - uiautomator2.core - DEBUG - MockAdbProcess: b'SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".'
+2025-05-19 22:13:54,029 - uiautomator2.core - DEBUG - MockAdbProcess: b'\nSLF4J: Defaulting to no-operation (NOP) logger implementation\n'
+2025-05-19 22:13:54,031 - uiautomator2.core - DEBUG - MockAdbProcess: b'SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.\n'
+2025-05-19 22:13:54,256 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 20, 'childOrSibling': [], 'childOrSiblingSelector': [], 'textMatches': '(?i)Always', 'className': 'android.widget.Button'}, 2000)}
+2025-05-19 22:13:54,268 - uiautomator2.core - DEBUG - forward tcp:58152 -> tcp:9008
+2025-05-19 22:13:54,270 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58152
+2025-05-19 22:13:54,375 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 22:13:54,376 - uiautomator2.core - DEBUG - forward tcp:58649 -> tcp:9008
+2025-05-19 22:13:54,379 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58649
+2025-05-19 22:13:54,908 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 22:13:54,909 - uiautomator2.core - DEBUG - forward tcp:58649 -> tcp:9008
+2025-05-19 22:13:54,911 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58649
+2025-05-19 22:13:54,942 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: clipboardManager inited'
+2025-05-19 22:13:54,951 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 22:13:54,979 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: tmpdir is /data/local/tmp/u2\n'
+2025-05-19 22:13:54,992 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: http server listening on *:9008\n'
+2025-05-19 22:13:55,427 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 22:13:55,438 - uiautomator2.core - DEBUG - forward tcp:58649 -> tcp:9008
+2025-05-19 22:13:55,440 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58649
+2025-05-19 22:13:55,554 - urllib3.connectionpool - DEBUG - http://127.0.0.1:58649 "GET /ping HTTP/1.1" 200 4
+2025-05-19 22:13:55,555 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'deviceInfo', 'params': {}}
+2025-05-19 22:13:55,558 - uiautomator2.core - DEBUG - forward tcp:58649 -> tcp:9008
+2025-05-19 22:13:55,559 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58649
+2025-05-19 22:13:56,344 - urllib3.connectionpool - DEBUG - http://127.0.0.1:58152 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-19 22:13:56,345 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 4, 'childOrSibling': [], 'childOrSiblingSelector': [], 'textMatches': '(?i)Always'}, 2000)}
+2025-05-19 22:13:56,348 - uiautomator2.core - DEBUG - forward tcp:58152 -> tcp:9008
+2025-05-19 22:13:56,352 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58152
+2025-05-19 22:13:56,396 - urllib3.connectionpool - DEBUG - http://127.0.0.1:58649 "POST /jsonrpc/0 HTTP/1.1" 200 266
+2025-05-19 22:13:57,004 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'takeScreenshot', 'params': (1, 80)}
+2025-05-19 22:13:57,005 - uiautomator2.core - DEBUG - forward tcp:58649 -> tcp:9008
+2025-05-19 22:13:57,008 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58649
+2025-05-19 22:13:57,152 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 2097152, 'childOrSibling': [], 'childOrSiblingSelector': [], 'resourceId': 'android:id/alertTitle'}, 3000)}
+2025-05-19 22:13:57,154 - uiautomator2.core - DEBUG - forward tcp:58389 -> tcp:9008
+2025-05-19 22:13:57,158 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58389
+2025-05-19 22:13:58,395 - urllib3.connectionpool - DEBUG - http://127.0.0.1:58152 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-19 22:13:58,397 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 20, 'childOrSibling': [], 'childOrSiblingSelector': [], 'textMatches': '(?i)Siempre', 'className': 'android.widget.Button'}, 2000)}
+2025-05-19 22:13:58,402 - uiautomator2.core - DEBUG - forward tcp:58152 -> tcp:9008
+2025-05-19 22:13:58,406 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58152
+2025-05-19 22:14:00,406 - urllib3.connectionpool - DEBUG - http://127.0.0.1:58649 "POST /jsonrpc/0 HTTP/1.1" 200 77275
+2025-05-19 22:14:00,471 - urllib3.connectionpool - DEBUG - http://127.0.0.1:58152 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-19 22:14:00,473 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 4, 'childOrSibling': [], 'childOrSiblingSelector': [], 'textMatches': '(?i)Siempre'}, 2000)}
+2025-05-19 22:14:00,476 - uiautomator2.core - DEBUG - forward tcp:58152 -> tcp:9008
+2025-05-19 22:14:00,478 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58152
+2025-05-19 22:14:02,200 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'pressKey', 'params': ('home',)}
+2025-05-19 22:14:02,202 - uiautomator2.core - DEBUG - forward tcp:58649 -> tcp:9008
+2025-05-19 22:14:02,204 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58649
+2025-05-19 22:14:02,627 - urllib3.connectionpool - DEBUG - http://127.0.0.1:58152 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-19 22:14:02,629 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 20, 'childOrSibling': [], 'childOrSiblingSelector': [], 'textMatches': '(?i)Just once', 'className': 'android.widget.Button'}, 2000)}
+2025-05-19 22:14:02,634 - uiautomator2.core - DEBUG - forward tcp:58152 -> tcp:9008
+2025-05-19 22:14:02,641 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58152
+2025-05-19 22:14:03,416 - urllib3.connectionpool - DEBUG - http://127.0.0.1:58649 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-19 22:14:03,536 - PlaylistPlayerMain - DEBUG - Esperando 24.2s antes de iniciar el siguiente worker.
+2025-05-19 22:14:03,561 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 22:14:03,646 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 22:14:03,647 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 22:14:03,652 - uiautomator2.core - DEBUG - forward tcp:58957 -> tcp:9008
+2025-05-19 22:14:03,654 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58957
+2025-05-19 22:14:03,661 - uiautomator2.core - DEBUG - launch uiautomator with cmd: CLASSPATH=/data/local/tmp/u2.jar app_process / com.wetest.uia2.Main
+2025-05-19 22:14:03,671 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 22:14:03,673 - uiautomator2.core - DEBUG - forward tcp:58957 -> tcp:9008
+2025-05-19 22:14:03,674 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58957
+2025-05-19 22:14:03,941 - urllib3.connectionpool - DEBUG - http://127.0.0.1:58389 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-19 22:14:03,943 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 2097153, 'childOrSibling': [], 'childOrSiblingSelector': [], 'text': 'Spotify', 'resourceId': 'android:id/text1'}, 500)}
+2025-05-19 22:14:03,944 - uiautomator2.core - DEBUG - forward tcp:58389 -> tcp:9008
+2025-05-19 22:14:03,946 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58389
+2025-05-19 22:14:04,185 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 22:14:04,196 - uiautomator2.core - DEBUG - forward tcp:58957 -> tcp:9008
+2025-05-19 22:14:04,199 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58957
+2025-05-19 22:14:04,617 - urllib3.connectionpool - DEBUG - http://127.0.0.1:58389 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-19 22:14:04,619 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 2097216, 'childOrSibling': [], 'childOrSiblingSelector': [], 'description': 'Spotify', 'resourceId': 'android:id/text1'}, 500)}
+2025-05-19 22:14:04,622 - uiautomator2.core - DEBUG - forward tcp:58389 -> tcp:9008
+2025-05-19 22:14:04,624 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58389
+2025-05-19 22:14:04,679 - urllib3.connectionpool - DEBUG - http://127.0.0.1:58152 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-19 22:14:04,681 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 4, 'childOrSibling': [], 'childOrSiblingSelector': [], 'textMatches': '(?i)Just once'}, 2000)}
+2025-05-19 22:14:04,688 - uiautomator2.core - DEBUG - forward tcp:58152 -> tcp:9008
+2025-05-19 22:14:04,689 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58152
+2025-05-19 22:14:04,712 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 22:14:04,714 - uiautomator2.core - DEBUG - forward tcp:58957 -> tcp:9008
+2025-05-19 22:14:04,720 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58957
+2025-05-19 22:14:04,945 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: [UiAutomator2Server] Starting Server'
+2025-05-19 22:14:04,946 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 22:14:05,234 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 22:14:05,235 - uiautomator2.core - DEBUG - forward tcp:58957 -> tcp:9008
+2025-05-19 22:14:05,237 - urllib3.connectionpool - DEBUG - http://127.0.0.1:58389 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-19 22:14:05,260 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58957
+2025-05-19 22:14:05,261 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 4, 'childOrSibling': [], 'childOrSiblingSelector': [], 'textMatches': '(?i)Spotify'}, 500)}
+2025-05-19 22:14:05,268 - uiautomator2.core - DEBUG - forward tcp:58389 -> tcp:9008
+2025-05-19 22:14:05,270 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58389
+2025-05-19 22:14:05,459 - uiautomator2.core - DEBUG - MockAdbProcess: b'SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".'
+2025-05-19 22:14:05,460 - uiautomator2.core - DEBUG - MockAdbProcess: b'\nSLF4J: Defaulting to no-operation (NOP) logger implementation\n'
+2025-05-19 22:14:05,461 - uiautomator2.core - DEBUG - MockAdbProcess: b'SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.\n'
+2025-05-19 22:14:05,786 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 22:14:05,788 - uiautomator2.core - DEBUG - forward tcp:58957 -> tcp:9008
+2025-05-19 22:14:05,790 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58957
+2025-05-19 22:14:05,865 - urllib3.connectionpool - DEBUG - http://127.0.0.1:58389 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-19 22:14:05,868 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 256, 'childOrSibling': [], 'childOrSiblingSelector': [], 'descriptionMatches': '(?i)Spotify'}, 500)}
+2025-05-19 22:14:05,870 - uiautomator2.core - DEBUG - forward tcp:58389 -> tcp:9008
+2025-05-19 22:14:05,872 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58389
+2025-05-19 22:14:05,933 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: clipboardManager inited\n'
+2025-05-19 22:14:05,942 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: tmpdir is /data/local/tmp/u2\n'
+2025-05-19 22:14:05,967 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: http server listening on *:9008'
+2025-05-19 22:14:05,969 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 22:14:06,303 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 22:14:06,316 - uiautomator2.core - DEBUG - forward tcp:58957 -> tcp:9008
+2025-05-19 22:14:06,318 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58957
+2025-05-19 22:14:06,351 - urllib3.connectionpool - DEBUG - http://127.0.0.1:58957 "GET /ping HTTP/1.1" 200 4
+2025-05-19 22:14:06,353 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'deviceInfo', 'params': {}}
+2025-05-19 22:14:06,356 - uiautomator2.core - DEBUG - forward tcp:58957 -> tcp:9008
+2025-05-19 22:14:06,357 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58957
+2025-05-19 22:14:06,472 - urllib3.connectionpool - DEBUG - http://127.0.0.1:58389 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-19 22:14:06,600 - urllib3.connectionpool - DEBUG - http://127.0.0.1:58957 "POST /jsonrpc/0 HTTP/1.1" 200 262
+2025-05-19 22:14:06,721 - urllib3.connectionpool - DEBUG - http://127.0.0.1:58152 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-19 22:14:06,723 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 20, 'childOrSibling': [], 'childOrSiblingSelector': [], 'textMatches': '(?i)Solo una vez', 'className': 'android.widget.Button'}, 2000)}
+2025-05-19 22:14:06,725 - uiautomator2.core - DEBUG - forward tcp:58152 -> tcp:9008
+2025-05-19 22:14:06,728 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58152
+2025-05-19 22:14:06,818 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'takeScreenshot', 'params': (1, 80)}
+2025-05-19 22:14:06,830 - uiautomator2.core - DEBUG - forward tcp:58957 -> tcp:9008
+2025-05-19 22:14:06,833 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58957
+2025-05-19 22:14:06,887 - urllib3.connectionpool - DEBUG - http://127.0.0.1:58957 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 22:14:07,300 - adbutils.screenshot - WARNING - screencap error: cannot identify image file <_io.BytesIO object at 0x0000021F0E9F9710>
+2025-05-19 22:14:07,473 - adbutils.shell - DEBUG - get window size from 'wm size': WindowSize(width=480, height=960) False
+2025-05-19 22:14:08,840 - urllib3.connectionpool - DEBUG - http://127.0.0.1:58152 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-19 22:14:08,842 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 4, 'childOrSibling': [], 'childOrSiblingSelector': [], 'textMatches': '(?i)Solo una vez'}, 2000)}
+2025-05-19 22:14:08,845 - uiautomator2.core - DEBUG - forward tcp:58152 -> tcp:9008
+2025-05-19 22:14:08,850 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58152
+2025-05-19 22:14:09,544 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'pressKey', 'params': ('home',)}
+2025-05-19 22:14:09,556 - uiautomator2.core - DEBUG - forward tcp:58957 -> tcp:9008
+2025-05-19 22:14:09,557 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58957
+2025-05-19 22:14:10,673 - urllib3.connectionpool - DEBUG - http://127.0.0.1:58957 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-19 22:14:10,957 - urllib3.connectionpool - DEBUG - http://127.0.0.1:58152 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-19 22:14:11,703 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'takeScreenshot', 'params': (1, 80)}
+2025-05-19 22:14:11,710 - uiautomator2.core - DEBUG - forward tcp:58389 -> tcp:9008
+2025-05-19 22:14:11,713 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58389
+2025-05-19 22:14:11,811 - urllib3.connectionpool - DEBUG - http://127.0.0.1:58389 "POST /jsonrpc/0 HTTP/1.1" 200 39071
+2025-05-19 22:14:11,852 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'takeScreenshot', 'params': (1, 80)}
+2025-05-19 22:14:11,854 - uiautomator2.core - DEBUG - forward tcp:58389 -> tcp:9008
+2025-05-19 22:14:11,857 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58389
+2025-05-19 22:14:11,947 - urllib3.connectionpool - DEBUG - http://127.0.0.1:58389 "POST /jsonrpc/0 HTTP/1.1" 200 39071
+2025-05-19 22:14:20,087 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'takeScreenshot', 'params': (1, 80)}
+2025-05-19 22:14:20,090 - uiautomator2.core - DEBUG - forward tcp:58152 -> tcp:9008
+2025-05-19 22:14:20,091 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58152
+2025-05-19 22:14:20,117 - urllib3.connectionpool - DEBUG - http://127.0.0.1:58152 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 22:14:20,518 - adbutils.screenshot - WARNING - screencap error: cannot identify image file <_io.BytesIO object at 0x0000021F0E9DF7E0>
+2025-05-19 22:14:20,662 - adbutils.shell - DEBUG - get window size from 'wm size': WindowSize(width=480, height=960) False
+2025-05-19 22:14:20,674 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'takeScreenshot', 'params': (1, 80)}
+2025-05-19 22:14:20,675 - uiautomator2.core - DEBUG - forward tcp:58152 -> tcp:9008
+2025-05-19 22:14:20,677 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58152
+2025-05-19 22:14:20,705 - urllib3.connectionpool - DEBUG - http://127.0.0.1:58152 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-19 22:14:21,099 - adbutils.screenshot - WARNING - screencap error: cannot identify image file <_io.BytesIO object at 0x0000021F0E9DD940>
+2025-05-19 22:14:21,257 - adbutils.shell - DEBUG - get window size from 'wm size': WindowSize(width=480, height=960) False
+2025-05-19 22:14:24,610 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'pressKey', 'params': ('home',)}
+2025-05-19 22:14:24,611 - uiautomator2.core - DEBUG - forward tcp:58389 -> tcp:9008
+2025-05-19 22:14:24,614 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58389
+2025-05-19 22:14:25,642 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'waitForExists', 'params': ({'mask': 2097152, 'childOrSibling': [], 'childOrSiblingSelector': [], 'resourceId': 'android:id/alertTitle'}, 3000)}
+2025-05-19 22:14:25,644 - uiautomator2.core - DEBUG - forward tcp:58649 -> tcp:9008
+2025-05-19 22:14:25,646 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58649
+2025-05-19 22:14:25,710 - urllib3.connectionpool - DEBUG - http://127.0.0.1:58389 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-19 22:14:27,723 - PlaylistPlayerMain - DEBUG - Esperando 21.8s antes de iniciar el siguiente worker.
+2025-05-19 22:14:27,744 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 22:14:27,904 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 22:14:27,904 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 22:14:27,908 - uiautomator2.core - DEBUG - forward tcp:59282 -> tcp:9008
+2025-05-19 22:14:27,911 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:59282
+2025-05-19 22:14:27,922 - uiautomator2.core - DEBUG - launch uiautomator with cmd: CLASSPATH=/data/local/tmp/u2.jar app_process / com.wetest.uia2.Main
+2025-05-19 22:14:27,941 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 22:14:27,943 - uiautomator2.core - DEBUG - forward tcp:59282 -> tcp:9008
+2025-05-19 22:14:27,946 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:59282
+2025-05-19 22:14:28,460 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 22:14:28,471 - uiautomator2.core - DEBUG - forward tcp:59282 -> tcp:9008
+2025-05-19 22:14:28,472 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:59282

@@ -1,0 +1,1177 @@
+2025-05-19 17:16:10,590 - AccountManager - INFO - Cargadas 10 cuentas desde el archivo
+2025-05-19 17:16:10,591 - AccountManager - INFO - Cargados 250 proxies desde el archivo
+2025-05-19 17:16:10,610 - AccountManager - INFO - AccountManager inicializado con 10 cuentas y 500 proxies
+2025-05-19 17:16:10,613 - HumanBehavior - INFO - Perfiles de comportamiento cargados desde C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\config\behavior_profiles.json
+2025-05-19 17:16:10,613 - HumanBehavior - INFO - HumanBehaviorSimulator inicializado con 4 perfiles
+2025-05-19 17:16:10,915 - LoginManager - DEBUG - Sesiones cargadas: 1 entradas
+2025-05-19 17:16:10,916 - LoginManager - INFO - LoginManager inicializado
+2025-05-19 17:16:10,916 - LoginManager - DEBUG - Ruta de sesiones: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\data\sessions.json
+2025-05-19 17:16:10,917 - LoginManager - DEBUG - Ruta de plantillas: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\templates
+2025-05-19 17:16:10,917 - LoginManager - WARNING - Plantillas faltantes: login_submit.png, home_icon.png, library_icon.png
+2025-05-19 17:16:10,917 - LoginManager - WARNING - Algunas funciones de reconocimiento visual pueden fallar
+2025-05-19 17:16:11,278 - AndroidDevice - INFO - Dispositivos detectados: ['2040306023079114', '2040306023079705', '2040306023080222', '2040306023080639', '2040306023080885', '2040306023081159', '2040306023081202', '2040306023081216', '2040306023081477', '2040306023082911', '2040306023083277', '2040306023095800', '2040306023095804', '2040306023096006', '2040306023097355', '2040306023098451', '4LJVPB6DUSIRMVUS', 'DY49GQ7PFQCEKF6H', 'KF9HFUCE6XE6WSU8', 'P7NBHUMRBYRGY9KJ']
+2025-05-19 17:16:21,344 - OTWMusicSystem - INFO - Configuración guardada en: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\config\config.json
+2025-05-19 17:16:21,349 - OTWMusicSystem - INFO - Archivo playlists copiado a C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\data\playlists.txt
+2025-05-19 17:16:45,473 - PlaylistPlayer - INFO - Python version: 3.12.8
+2025-05-19 17:16:45,473 - PlaylistPlayer - WARNING - Error al obtener versiones de herramientas: module 'uiautomator2' has no attribute '__version__'
+2025-05-19 17:16:45,475 - PlaylistPlayer - INFO - --- Iniciando PlaylistPlayer en Modo Multi-Hilo ---
+2025-05-19 17:16:45,478 - PlaylistPlayer - INFO - Cargados 185 links desde 'C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\data\playlists.txt'
+2025-05-19 17:16:45,479 - PlaylistPlayer - DEBUG - Ejemplos de links: ['https://open.spotify.com/playlist/3h6pIE4rE6z8OyxNMOqW8t?si=H8FB0OalRKGjeMjEXVgSJw', 'https://open.spotify.com/playlist/5XrvAtxjUWcbTNgLHc9hz2?si=8J8GtCkARCaiIlIOWzgMnA']
+2025-05-19 17:16:45,479 - PlaylistPlayer - DEBUG - Obteniendo dispositivos conectados vía ADB...
+2025-05-19 17:16:45,527 - PlaylistPlayer - INFO - Dispositivos ADB conectados y listos: ['2040306023079114', '2040306023079705', '2040306023080222', '2040306023080639', '2040306023080885', '2040306023081159', '2040306023081202', '2040306023081216', '2040306023081477', '2040306023082911', '2040306023083277', '2040306023095800', '2040306023095804', '2040306023096006', '2040306023097355', '2040306023098451', '4LJVPB6DUSIRMVUS', 'DY49GQ7PFQCEKF6H', 'KF9HFUCE6XE6WSU8', 'P7NBHUMRBYRGY9KJ']
+2025-05-19 17:16:45,527 - PlaylistPlayer - INFO - Iniciando workers para 20 dispositivos: ['2040306023079114', '2040306023079705', '2040306023080222', '2040306023080639', '2040306023080885', '2040306023081159', '2040306023081202', '2040306023081216', '2040306023081477', '2040306023082911', '2040306023083277', '2040306023095800', '2040306023095804', '2040306023096006', '2040306023097355', '2040306023098451', '4LJVPB6DUSIRMVUS', 'DY49GQ7PFQCEKF6H', 'KF9HFUCE6XE6WSU8', 'P7NBHUMRBYRGY9KJ']
+2025-05-19 17:16:45,531 - PlaylistPlayer - INFO - [2040306023079114] Worker thread INICIADO.
+2025-05-19 17:16:45,532 - PlaylistPlayer - INFO - [2040306023079114] Personalidad generada: FollowP=0.33, SearchP=0.04, SkipTrackP=0.26
+2025-05-19 17:16:45,533 - PlaylistPlayer - INFO - [2040306023079114] Intentando conectar a uiautomator2 (intento 1/3)...
+2025-05-19 17:16:45,578 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 17:16:46,053 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 17:16:46,053 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:16:46,066 - uiautomator2.core - DEBUG - forward tcp:58152 -> tcp:9008
+2025-05-19 17:16:46,072 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58152
+2025-05-19 17:16:46,115 - uiautomator2.core - DEBUG - launch uiautomator with cmd: CLASSPATH=/data/local/tmp/u2.jar app_process / com.wetest.uia2.Main
+2025-05-19 17:16:46,151 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:16:46,153 - uiautomator2.core - DEBUG - forward tcp:58152 -> tcp:9008
+2025-05-19 17:16:46,157 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58152
+2025-05-19 17:16:46,673 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:16:46,675 - uiautomator2.core - DEBUG - forward tcp:58152 -> tcp:9008
+2025-05-19 17:16:46,677 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58152
+2025-05-19 17:16:47,211 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:16:47,212 - uiautomator2.core - DEBUG - forward tcp:58152 -> tcp:9008
+2025-05-19 17:16:47,214 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58152
+2025-05-19 17:16:47,734 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:16:47,736 - uiautomator2.core - DEBUG - forward tcp:58152 -> tcp:9008
+2025-05-19 17:16:47,737 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58152
+2025-05-19 17:16:48,274 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:16:48,275 - uiautomator2.core - DEBUG - forward tcp:58152 -> tcp:9008
+2025-05-19 17:16:48,277 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58152
+2025-05-19 17:16:48,727 - PlaylistPlayer - INFO - [2040306023079705] Worker thread INICIADO.
+2025-05-19 17:16:48,727 - PlaylistPlayer - INFO - [2040306023079705] Personalidad generada: FollowP=0.37, SearchP=0.11, SkipTrackP=0.40
+2025-05-19 17:16:48,729 - PlaylistPlayer - INFO - [2040306023079705] Intentando conectar a uiautomator2 (intento 1/3)...
+2025-05-19 17:16:48,796 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:16:48,797 - uiautomator2.core - DEBUG - forward tcp:58152 -> tcp:9008
+2025-05-19 17:16:48,799 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58152
+2025-05-19 17:16:49,315 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:16:49,316 - uiautomator2.core - DEBUG - forward tcp:58152 -> tcp:9008
+2025-05-19 17:16:49,319 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58152
+2025-05-19 17:16:49,838 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:16:49,842 - uiautomator2.core - DEBUG - forward tcp:58152 -> tcp:9008
+2025-05-19 17:16:49,844 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58152
+2025-05-19 17:16:50,123 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: [UiAutomator2Server] Starting Server'
+2025-05-19 17:16:50,125 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:16:50,384 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:16:50,388 - uiautomator2.core - DEBUG - forward tcp:58152 -> tcp:9008
+2025-05-19 17:16:50,392 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58152
+2025-05-19 17:16:50,908 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:16:50,920 - uiautomator2.core - DEBUG - forward tcp:58152 -> tcp:9008
+2025-05-19 17:16:50,921 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58152
+2025-05-19 17:16:51,310 - uiautomator2.core - DEBUG - MockAdbProcess: b'SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".\n'
+2025-05-19 17:16:51,316 - uiautomator2.core - DEBUG - MockAdbProcess: b'SLF4J: Defaulting to no-operation (NOP) logger implementation\nSLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.\n'
+2025-05-19 17:16:51,457 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:16:51,469 - uiautomator2.core - DEBUG - forward tcp:58152 -> tcp:9008
+2025-05-19 17:16:51,471 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58152
+2025-05-19 17:16:52,003 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:16:52,005 - uiautomator2.core - DEBUG - forward tcp:58152 -> tcp:9008
+2025-05-19 17:16:52,006 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58152
+2025-05-19 17:16:52,532 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:16:52,534 - uiautomator2.core - DEBUG - forward tcp:58152 -> tcp:9008
+2025-05-19 17:16:52,536 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58152
+2025-05-19 17:16:53,051 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:16:53,052 - uiautomator2.core - DEBUG - forward tcp:58152 -> tcp:9008
+2025-05-19 17:16:53,054 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58152
+2025-05-19 17:16:53,581 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:16:53,594 - uiautomator2.core - DEBUG - forward tcp:58152 -> tcp:9008
+2025-05-19 17:16:53,598 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58152
+2025-05-19 17:16:53,640 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: clipboardManager inited'
+2025-05-19 17:16:53,644 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:16:53,683 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: tmpdir is /data/local/tmp/u2'
+2025-05-19 17:16:53,699 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:16:53,783 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: http server listening on *:9008\n'
+2025-05-19 17:16:54,088 - PlaylistPlayer - INFO - [2040306023080222] Worker thread INICIADO.
+2025-05-19 17:16:54,088 - PlaylistPlayer - INFO - [2040306023080222] Personalidad generada: FollowP=0.75, SearchP=0.14, SkipTrackP=0.20
+2025-05-19 17:16:54,090 - PlaylistPlayer - INFO - [2040306023080222] Intentando conectar a uiautomator2 (intento 1/3)...
+2025-05-19 17:16:54,118 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:16:54,121 - uiautomator2.core - DEBUG - forward tcp:58152 -> tcp:9008
+2025-05-19 17:16:54,123 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58152
+2025-05-19 17:16:54,341 - urllib3.connectionpool - DEBUG - http://127.0.0.1:58152 "GET /ping HTTP/1.1" 200 4
+2025-05-19 17:16:54,345 - PlaylistPlayer - ERROR - [2040306023079114] Error al conectar/healthcheck (intento 1): 'Device' object has no attribute 'wait_for_device'
+2025-05-19 17:16:54,358 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 17:16:54,488 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 17:16:54,489 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:16:54,492 - uiautomator2.core - DEBUG - forward tcp:58389 -> tcp:9008
+2025-05-19 17:16:54,494 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58389
+2025-05-19 17:16:54,505 - uiautomator2.core - DEBUG - launch uiautomator with cmd: CLASSPATH=/data/local/tmp/u2.jar app_process / com.wetest.uia2.Main
+2025-05-19 17:16:54,522 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:16:54,523 - uiautomator2.core - DEBUG - forward tcp:58389 -> tcp:9008
+2025-05-19 17:16:54,525 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58389
+2025-05-19 17:16:55,041 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:16:55,042 - uiautomator2.core - DEBUG - forward tcp:58389 -> tcp:9008
+2025-05-19 17:16:55,044 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58389
+2025-05-19 17:16:55,553 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:16:55,557 - uiautomator2.core - DEBUG - forward tcp:58389 -> tcp:9008
+2025-05-19 17:16:55,559 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58389
+2025-05-19 17:16:55,759 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: [UiAutomator2Server] Starting Server'
+2025-05-19 17:16:55,760 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:16:56,068 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:16:56,069 - uiautomator2.core - DEBUG - forward tcp:58389 -> tcp:9008
+2025-05-19 17:16:56,072 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58389
+2025-05-19 17:16:56,284 - uiautomator2.core - DEBUG - MockAdbProcess: b'SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".'
+2025-05-19 17:16:56,285 - uiautomator2.core - DEBUG - MockAdbProcess: b'\nSLF4J: Defaulting to no-operation (NOP) logger implementation\nSLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.'
+2025-05-19 17:16:56,287 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:16:56,582 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:16:56,584 - uiautomator2.core - DEBUG - forward tcp:58389 -> tcp:9008
+2025-05-19 17:16:56,588 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58389
+2025-05-19 17:16:56,754 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: clipboardManager inited'
+2025-05-19 17:16:56,756 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:16:56,764 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: tmpdir is /data/local/tmp/u2'
+2025-05-19 17:16:56,767 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:16:56,791 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: http server listening on *:9008'
+2025-05-19 17:16:56,792 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:16:57,099 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:16:57,102 - uiautomator2.core - DEBUG - forward tcp:58389 -> tcp:9008
+2025-05-19 17:16:57,103 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58389
+2025-05-19 17:16:57,147 - urllib3.connectionpool - DEBUG - http://127.0.0.1:58389 "GET /ping HTTP/1.1" 200 4
+2025-05-19 17:16:57,148 - PlaylistPlayer - ERROR - [2040306023079705] Error al conectar/healthcheck (intento 1): 'Device' object has no attribute 'wait_for_device'
+2025-05-19 17:16:57,160 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 17:16:57,240 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 17:16:57,241 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:16:57,243 - uiautomator2.core - DEBUG - forward tcp:58649 -> tcp:9008
+2025-05-19 17:16:57,245 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58649
+2025-05-19 17:16:57,253 - uiautomator2.core - DEBUG - launch uiautomator with cmd: CLASSPATH=/data/local/tmp/u2.jar app_process / com.wetest.uia2.Main
+2025-05-19 17:16:57,263 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:16:57,264 - uiautomator2.core - DEBUG - forward tcp:58649 -> tcp:9008
+2025-05-19 17:16:57,266 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58649
+2025-05-19 17:16:57,776 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:16:57,777 - uiautomator2.core - DEBUG - forward tcp:58649 -> tcp:9008
+2025-05-19 17:16:57,779 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58649
+2025-05-19 17:16:57,908 - PlaylistPlayer - INFO - [2040306023080639] Worker thread INICIADO.
+2025-05-19 17:16:57,908 - PlaylistPlayer - INFO - [2040306023080639] Personalidad generada: FollowP=0.54, SearchP=0.16, SkipTrackP=0.23
+2025-05-19 17:16:57,910 - PlaylistPlayer - INFO - [2040306023080639] Intentando conectar a uiautomator2 (intento 1/3)...
+2025-05-19 17:16:58,290 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:16:58,292 - uiautomator2.core - DEBUG - forward tcp:58649 -> tcp:9008
+2025-05-19 17:16:58,294 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58649
+2025-05-19 17:16:58,624 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: [UiAutomator2Server] Starting Server'
+2025-05-19 17:16:58,627 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:16:58,806 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:16:58,807 - uiautomator2.core - DEBUG - forward tcp:58649 -> tcp:9008
+2025-05-19 17:16:58,809 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58649
+2025-05-19 17:16:59,196 - uiautomator2.core - DEBUG - MockAdbProcess: b'SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".'
+2025-05-19 17:16:59,197 - uiautomator2.core - DEBUG - MockAdbProcess: b'\nSLF4J: Defaulting to no-operation (NOP) logger implementation\n'
+2025-05-19 17:16:59,201 - uiautomator2.core - DEBUG - MockAdbProcess: b'SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.\n'
+2025-05-19 17:16:59,323 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:16:59,335 - uiautomator2.core - DEBUG - forward tcp:58649 -> tcp:9008
+2025-05-19 17:16:59,337 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58649
+2025-05-19 17:16:59,775 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: clipboardManager inited'
+2025-05-19 17:16:59,779 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:16:59,783 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: tmpdir is /data/local/tmp/u2'
+2025-05-19 17:16:59,785 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:16:59,813 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: http server listening on *:9008'
+2025-05-19 17:16:59,815 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:16:59,854 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:16:59,857 - uiautomator2.core - DEBUG - forward tcp:58649 -> tcp:9008
+2025-05-19 17:16:59,858 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58649
+2025-05-19 17:16:59,902 - urllib3.connectionpool - DEBUG - http://127.0.0.1:58649 "GET /ping HTTP/1.1" 200 4
+2025-05-19 17:16:59,906 - PlaylistPlayer - ERROR - [2040306023080222] Error al conectar/healthcheck (intento 1): 'Device' object has no attribute 'wait_for_device'
+2025-05-19 17:16:59,920 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 17:17:00,006 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 17:17:00,008 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:00,012 - uiautomator2.core - DEBUG - forward tcp:58957 -> tcp:9008
+2025-05-19 17:17:00,014 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58957
+2025-05-19 17:17:00,023 - uiautomator2.core - DEBUG - launch uiautomator with cmd: CLASSPATH=/data/local/tmp/u2.jar app_process / com.wetest.uia2.Main
+2025-05-19 17:17:00,037 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:00,042 - uiautomator2.core - DEBUG - forward tcp:58957 -> tcp:9008
+2025-05-19 17:17:00,046 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58957
+2025-05-19 17:17:00,556 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:00,557 - uiautomator2.core - DEBUG - forward tcp:58957 -> tcp:9008
+2025-05-19 17:17:00,560 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58957
+2025-05-19 17:17:01,086 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:01,088 - uiautomator2.core - DEBUG - forward tcp:58957 -> tcp:9008
+2025-05-19 17:17:01,089 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58957
+2025-05-19 17:17:01,348 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: [UiAutomator2Server] Starting Server\n'
+2025-05-19 17:17:01,523 - PlaylistPlayer - INFO - [2040306023080885] Worker thread INICIADO.
+2025-05-19 17:17:01,523 - PlaylistPlayer - INFO - [2040306023080885] Personalidad generada: FollowP=0.30, SearchP=0.05, SkipTrackP=0.43
+2025-05-19 17:17:01,525 - PlaylistPlayer - INFO - [2040306023080885] Intentando conectar a uiautomator2 (intento 1/3)...
+2025-05-19 17:17:01,598 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:01,600 - uiautomator2.core - DEBUG - forward tcp:58957 -> tcp:9008
+2025-05-19 17:17:01,604 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58957
+2025-05-19 17:17:01,894 - uiautomator2.core - DEBUG - MockAdbProcess: b'SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".'
+2025-05-19 17:17:01,895 - uiautomator2.core - DEBUG - MockAdbProcess: b'\nSLF4J: Defaulting to no-operation (NOP) logger implementation'
+2025-05-19 17:17:01,899 - uiautomator2.core - DEBUG - MockAdbProcess: b'\nSLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.\n'
+2025-05-19 17:17:02,117 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:02,119 - uiautomator2.core - DEBUG - forward tcp:58957 -> tcp:9008
+2025-05-19 17:17:02,121 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58957
+2025-05-19 17:17:02,472 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: clipboardManager inited'
+2025-05-19 17:17:02,473 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:17:02,479 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: tmpdir is /data/local/tmp/u2'
+2025-05-19 17:17:02,481 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:17:02,507 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: http server listening on *:9008'
+2025-05-19 17:17:02,507 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:17:02,638 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:02,639 - uiautomator2.core - DEBUG - forward tcp:58957 -> tcp:9008
+2025-05-19 17:17:02,640 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58957
+2025-05-19 17:17:02,702 - urllib3.connectionpool - DEBUG - http://127.0.0.1:58957 "GET /ping HTTP/1.1" 200 4
+2025-05-19 17:17:02,705 - PlaylistPlayer - ERROR - [2040306023080639] Error al conectar/healthcheck (intento 1): 'Device' object has no attribute 'wait_for_device'
+2025-05-19 17:17:02,717 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 17:17:02,843 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 17:17:02,843 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:02,855 - uiautomator2.core - DEBUG - forward tcp:59282 -> tcp:9008
+2025-05-19 17:17:02,857 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:59282
+2025-05-19 17:17:02,881 - uiautomator2.core - DEBUG - launch uiautomator with cmd: CLASSPATH=/data/local/tmp/u2.jar app_process / com.wetest.uia2.Main
+2025-05-19 17:17:02,895 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:02,897 - uiautomator2.core - DEBUG - forward tcp:59282 -> tcp:9008
+2025-05-19 17:17:02,898 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:59282
+2025-05-19 17:17:03,412 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:03,413 - uiautomator2.core - DEBUG - forward tcp:59282 -> tcp:9008
+2025-05-19 17:17:03,416 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:59282
+2025-05-19 17:17:03,923 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:03,924 - uiautomator2.core - DEBUG - forward tcp:59282 -> tcp:9008
+2025-05-19 17:17:03,926 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:59282
+2025-05-19 17:17:03,985 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: [UiAutomator2Server] Starting Server\n'
+2025-05-19 17:17:04,442 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:04,443 - uiautomator2.core - DEBUG - forward tcp:59282 -> tcp:9008
+2025-05-19 17:17:04,445 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:59282
+2025-05-19 17:17:04,465 - uiautomator2.core - DEBUG - MockAdbProcess: b'SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".\nSLF4J: Defaulting to no-operation (NOP) logger implementation\nSLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.\n'
+2025-05-19 17:17:04,491 - PlaylistPlayer - INFO - [2040306023079114] Intentando conectar a uiautomator2 (intento 2/3)...
+2025-05-19 17:17:04,912 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: clipboardManager inited'
+2025-05-19 17:17:04,913 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:17:04,923 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: tmpdir is /data/local/tmp/u2\n'
+2025-05-19 17:17:04,946 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: http server listening on *:9008'
+2025-05-19 17:17:04,946 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:17:04,965 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:04,967 - uiautomator2.core - DEBUG - forward tcp:59282 -> tcp:9008
+2025-05-19 17:17:04,970 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:59282
+2025-05-19 17:17:05,000 - urllib3.connectionpool - DEBUG - http://127.0.0.1:59282 "GET /ping HTTP/1.1" 200 4
+2025-05-19 17:17:05,003 - PlaylistPlayer - ERROR - [2040306023080885] Error al conectar/healthcheck (intento 1): 'Device' object has no attribute 'wait_for_device'
+2025-05-19 17:17:05,021 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 17:17:05,580 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 17:17:05,580 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:05,585 - uiautomator2.core - DEBUG - forward tcp:58152 -> tcp:9008
+2025-05-19 17:17:05,587 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58152
+2025-05-19 17:17:05,650 - urllib3.connectionpool - DEBUG - http://127.0.0.1:58152 "GET /ping HTTP/1.1" 200 4
+2025-05-19 17:17:05,652 - PlaylistPlayer - ERROR - [2040306023079114] Error al conectar/healthcheck (intento 2): 'Device' object has no attribute 'wait_for_device'
+2025-05-19 17:17:07,288 - PlaylistPlayer - INFO - [2040306023081159] Worker thread INICIADO.
+2025-05-19 17:17:07,289 - PlaylistPlayer - INFO - [2040306023081159] Personalidad generada: FollowP=0.49, SearchP=0.14, SkipTrackP=0.29
+2025-05-19 17:17:07,290 - PlaylistPlayer - INFO - [2040306023081159] Intentando conectar a uiautomator2 (intento 1/3)...
+2025-05-19 17:17:07,319 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 17:17:07,431 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 17:17:07,431 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:07,436 - uiautomator2.core - DEBUG - forward tcp:55771 -> tcp:9008
+2025-05-19 17:17:07,437 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:55771
+2025-05-19 17:17:07,446 - uiautomator2.core - DEBUG - launch uiautomator with cmd: CLASSPATH=/data/local/tmp/u2.jar app_process / com.wetest.uia2.Main
+2025-05-19 17:17:07,456 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:07,459 - uiautomator2.core - DEBUG - forward tcp:55771 -> tcp:9008
+2025-05-19 17:17:07,461 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:55771
+2025-05-19 17:17:07,972 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:07,975 - uiautomator2.core - DEBUG - forward tcp:55771 -> tcp:9008
+2025-05-19 17:17:07,978 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:55771
+2025-05-19 17:17:08,031 - PlaylistPlayer - INFO - [2040306023079705] Intentando conectar a uiautomator2 (intento 2/3)...
+2025-05-19 17:17:08,487 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:08,488 - uiautomator2.core - DEBUG - forward tcp:55771 -> tcp:9008
+2025-05-19 17:17:08,490 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:55771
+2025-05-19 17:17:08,522 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: [UiAutomator2Server] Starting Server\n'
+2025-05-19 17:17:08,897 - uiautomator2.core - DEBUG - MockAdbProcess: b'SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".'
+2025-05-19 17:17:08,898 - uiautomator2.core - DEBUG - MockAdbProcess: b'\nSLF4J: Defaulting to no-operation (NOP) logger implementation\n'
+2025-05-19 17:17:08,901 - uiautomator2.core - DEBUG - MockAdbProcess: b'SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.\n'
+2025-05-19 17:17:08,997 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:08,999 - uiautomator2.core - DEBUG - forward tcp:55771 -> tcp:9008
+2025-05-19 17:17:09,001 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:55771
+2025-05-19 17:17:09,269 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: clipboardManager inited'
+2025-05-19 17:17:09,271 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:17:09,276 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: tmpdir is /data/local/tmp/u2'
+2025-05-19 17:17:09,277 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:17:09,300 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: http server listening on *:9008\n'
+2025-05-19 17:17:09,520 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:09,537 - uiautomator2.core - DEBUG - forward tcp:55771 -> tcp:9008
+2025-05-19 17:17:09,539 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:55771
+2025-05-19 17:17:09,639 - urllib3.connectionpool - DEBUG - http://127.0.0.1:55771 "GET /ping HTTP/1.1" 200 4
+2025-05-19 17:17:09,674 - PlaylistPlayer - ERROR - [2040306023081159] Error al conectar/healthcheck (intento 1): 'Device' object has no attribute 'wait_for_device'
+2025-05-19 17:17:09,688 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 17:17:09,793 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 17:17:09,793 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:09,796 - uiautomator2.core - DEBUG - forward tcp:58389 -> tcp:9008
+2025-05-19 17:17:09,798 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58389
+2025-05-19 17:17:09,813 - urllib3.connectionpool - DEBUG - http://127.0.0.1:58389 "GET /ping HTTP/1.1" 200 4
+2025-05-19 17:17:09,814 - PlaylistPlayer - ERROR - [2040306023079705] Error al conectar/healthcheck (intento 2): 'Device' object has no attribute 'wait_for_device'
+2025-05-19 17:17:10,960 - PlaylistPlayer - INFO - [2040306023080222] Intentando conectar a uiautomator2 (intento 2/3)...
+2025-05-19 17:17:10,972 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 17:17:11,063 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 17:17:11,064 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:11,076 - uiautomator2.core - DEBUG - forward tcp:58649 -> tcp:9008
+2025-05-19 17:17:11,079 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58649
+2025-05-19 17:17:11,092 - urllib3.connectionpool - DEBUG - http://127.0.0.1:58649 "GET /ping HTTP/1.1" 200 4
+2025-05-19 17:17:11,094 - PlaylistPlayer - ERROR - [2040306023080222] Error al conectar/healthcheck (intento 2): 'Device' object has no attribute 'wait_for_device'
+2025-05-19 17:17:13,173 - PlaylistPlayer - INFO - [2040306023081202] Worker thread INICIADO.
+2025-05-19 17:17:13,174 - PlaylistPlayer - INFO - [2040306023081202] Personalidad generada: FollowP=0.58, SearchP=0.07, SkipTrackP=0.23
+2025-05-19 17:17:13,174 - PlaylistPlayer - INFO - [2040306023081202] Intentando conectar a uiautomator2 (intento 1/3)...
+2025-05-19 17:17:13,192 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 17:17:13,349 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 17:17:13,349 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:13,353 - uiautomator2.core - DEBUG - forward tcp:59817 -> tcp:9008
+2025-05-19 17:17:13,354 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:59817
+2025-05-19 17:17:13,366 - uiautomator2.core - DEBUG - launch uiautomator with cmd: CLASSPATH=/data/local/tmp/u2.jar app_process / com.wetest.uia2.Main
+2025-05-19 17:17:13,388 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:13,390 - uiautomator2.core - DEBUG - forward tcp:59817 -> tcp:9008
+2025-05-19 17:17:13,393 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:59817
+2025-05-19 17:17:13,909 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:13,910 - uiautomator2.core - DEBUG - forward tcp:59817 -> tcp:9008
+2025-05-19 17:17:13,912 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:59817
+2025-05-19 17:17:14,421 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:14,422 - uiautomator2.core - DEBUG - forward tcp:59817 -> tcp:9008
+2025-05-19 17:17:14,424 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:59817
+2025-05-19 17:17:14,529 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: [UiAutomator2Server] Starting Server'
+2025-05-19 17:17:14,530 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:17:14,932 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:14,943 - uiautomator2.core - DEBUG - forward tcp:59817 -> tcp:9008
+2025-05-19 17:17:14,945 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:59817
+2025-05-19 17:17:14,981 - uiautomator2.core - DEBUG - MockAdbProcess: b'SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".'
+2025-05-19 17:17:14,982 - uiautomator2.core - DEBUG - MockAdbProcess: b'\nSLF4J: Defaulting to no-operation (NOP) logger implementation'
+2025-05-19 17:17:14,985 - uiautomator2.core - DEBUG - MockAdbProcess: b'\nSLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.\n'
+2025-05-19 17:17:15,378 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: clipboardManager inited'
+2025-05-19 17:17:15,379 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:17:15,388 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: tmpdir is /data/local/tmp/u2'
+2025-05-19 17:17:15,389 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:17:15,413 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: http server listening on *:9008'
+2025-05-19 17:17:15,415 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:17:15,463 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:15,465 - uiautomator2.core - DEBUG - forward tcp:59817 -> tcp:9008
+2025-05-19 17:17:15,467 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:59817
+2025-05-19 17:17:15,507 - urllib3.connectionpool - DEBUG - http://127.0.0.1:59817 "GET /ping HTTP/1.1" 200 4
+2025-05-19 17:17:15,508 - PlaylistPlayer - ERROR - [2040306023081202] Error al conectar/healthcheck (intento 1): 'Device' object has no attribute 'wait_for_device'
+2025-05-19 17:17:17,103 - PlaylistPlayer - INFO - [2040306023081216] Worker thread INICIADO.
+2025-05-19 17:17:17,103 - PlaylistPlayer - INFO - [2040306023081216] Personalidad generada: FollowP=0.55, SearchP=0.14, SkipTrackP=0.20
+2025-05-19 17:17:17,105 - PlaylistPlayer - INFO - [2040306023081216] Intentando conectar a uiautomator2 (intento 1/3)...
+2025-05-19 17:17:17,121 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 17:17:17,136 - PlaylistPlayer - INFO - [2040306023080639] Intentando conectar a uiautomator2 (intento 2/3)...
+2025-05-19 17:17:17,209 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 17:17:17,210 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:17,212 - uiautomator2.core - DEBUG - forward tcp:60068 -> tcp:9008
+2025-05-19 17:17:17,215 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60068
+2025-05-19 17:17:17,223 - uiautomator2.core - DEBUG - launch uiautomator with cmd: CLASSPATH=/data/local/tmp/u2.jar app_process / com.wetest.uia2.Main
+2025-05-19 17:17:17,232 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:17,233 - uiautomator2.core - DEBUG - forward tcp:60068 -> tcp:9008
+2025-05-19 17:17:17,237 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60068
+2025-05-19 17:17:17,761 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:17,762 - uiautomator2.core - DEBUG - forward tcp:60068 -> tcp:9008
+2025-05-19 17:17:17,765 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60068
+2025-05-19 17:17:17,913 - PlaylistPlayer - INFO - [2040306023080885] Intentando conectar a uiautomator2 (intento 2/3)...
+2025-05-19 17:17:18,278 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:18,280 - uiautomator2.core - DEBUG - forward tcp:60068 -> tcp:9008
+2025-05-19 17:17:18,282 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60068
+2025-05-19 17:17:18,506 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: [UiAutomator2Server] Starting Server'
+2025-05-19 17:17:18,509 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:17:18,795 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:18,805 - uiautomator2.core - DEBUG - forward tcp:60068 -> tcp:9008
+2025-05-19 17:17:18,807 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60068
+2025-05-19 17:17:18,958 - uiautomator2.core - DEBUG - MockAdbProcess: b'SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".'
+2025-05-19 17:17:18,960 - uiautomator2.core - DEBUG - MockAdbProcess: b'\nSLF4J: Defaulting to no-operation (NOP) logger implementation\nSLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.'
+2025-05-19 17:17:18,963 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:17:19,318 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:19,320 - uiautomator2.core - DEBUG - forward tcp:60068 -> tcp:9008
+2025-05-19 17:17:19,323 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60068
+2025-05-19 17:17:19,360 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: clipboardManager inited'
+2025-05-19 17:17:19,361 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:17:19,376 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: tmpdir is /data/local/tmp/u2'
+2025-05-19 17:17:19,377 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:17:19,409 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: http server listening on *:9008'
+2025-05-19 17:17:19,410 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:17:19,841 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:19,853 - uiautomator2.core - DEBUG - forward tcp:60068 -> tcp:9008
+2025-05-19 17:17:19,856 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60068
+2025-05-19 17:17:19,886 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60068 "GET /ping HTTP/1.1" 200 4
+2025-05-19 17:17:19,887 - PlaylistPlayer - ERROR - [2040306023081216] Error al conectar/healthcheck (intento 1): 'Device' object has no attribute 'wait_for_device'
+2025-05-19 17:17:19,901 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 17:17:19,988 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 17:17:19,989 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:19,991 - uiautomator2.core - DEBUG - forward tcp:58957 -> tcp:9008
+2025-05-19 17:17:19,994 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58957
+2025-05-19 17:17:20,008 - urllib3.connectionpool - DEBUG - http://127.0.0.1:58957 "GET /ping HTTP/1.1" 200 4
+2025-05-19 17:17:20,009 - PlaylistPlayer - ERROR - [2040306023080639] Error al conectar/healthcheck (intento 2): 'Device' object has no attribute 'wait_for_device'
+2025-05-19 17:17:20,021 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 17:17:20,128 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 17:17:20,128 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:20,131 - uiautomator2.core - DEBUG - forward tcp:59282 -> tcp:9008
+2025-05-19 17:17:20,133 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:59282
+2025-05-19 17:17:20,141 - PlaylistPlayer - INFO - [2040306023079114] Intentando conectar a uiautomator2 (intento 3/3)...
+2025-05-19 17:17:20,152 - urllib3.connectionpool - DEBUG - http://127.0.0.1:59282 "GET /ping HTTP/1.1" 200 4
+2025-05-19 17:17:20,153 - PlaylistPlayer - ERROR - [2040306023080885] Error al conectar/healthcheck (intento 2): 'Device' object has no attribute 'wait_for_device'
+2025-05-19 17:17:20,165 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 17:17:20,511 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 17:17:20,512 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:20,527 - uiautomator2.core - DEBUG - forward tcp:58152 -> tcp:9008
+2025-05-19 17:17:20,528 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58152
+2025-05-19 17:17:20,602 - urllib3.connectionpool - DEBUG - http://127.0.0.1:58152 "GET /ping HTTP/1.1" 200 4
+2025-05-19 17:17:20,605 - PlaylistPlayer - ERROR - [2040306023079114] Error al conectar/healthcheck (intento 3): 'Device' object has no attribute 'wait_for_device'
+2025-05-19 17:17:20,606 - PlaylistPlayer - CRITICAL - [2040306023079114] Fallaron todos los intentos de conexión. Terminando worker.
+2025-05-19 17:17:22,196 - PlaylistPlayer - INFO - [2040306023081477] Worker thread INICIADO.
+2025-05-19 17:17:22,197 - PlaylistPlayer - INFO - [2040306023081477] Personalidad generada: FollowP=0.60, SearchP=0.08, SkipTrackP=0.23
+2025-05-19 17:17:22,198 - PlaylistPlayer - INFO - [2040306023081477] Intentando conectar a uiautomator2 (intento 1/3)...
+2025-05-19 17:17:22,222 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 17:17:22,311 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 17:17:22,312 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:22,315 - uiautomator2.core - DEBUG - forward tcp:60320 -> tcp:9008
+2025-05-19 17:17:22,317 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60320
+2025-05-19 17:17:22,325 - uiautomator2.core - DEBUG - launch uiautomator with cmd: CLASSPATH=/data/local/tmp/u2.jar app_process / com.wetest.uia2.Main
+2025-05-19 17:17:22,333 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:22,335 - uiautomator2.core - DEBUG - forward tcp:60320 -> tcp:9008
+2025-05-19 17:17:22,336 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60320
+2025-05-19 17:17:22,428 - PlaylistPlayer - INFO - [2040306023081159] Intentando conectar a uiautomator2 (intento 2/3)...
+2025-05-19 17:17:22,859 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:22,860 - uiautomator2.core - DEBUG - forward tcp:60320 -> tcp:9008
+2025-05-19 17:17:22,862 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60320
+2025-05-19 17:17:23,372 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:23,373 - uiautomator2.core - DEBUG - forward tcp:60320 -> tcp:9008
+2025-05-19 17:17:23,376 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60320
+2025-05-19 17:17:23,641 - PlaylistPlayer - INFO - [2040306023079705] Intentando conectar a uiautomator2 (intento 3/3)...
+2025-05-19 17:17:23,659 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: [UiAutomator2Server] Starting Server\n'
+2025-05-19 17:17:23,886 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:23,887 - uiautomator2.core - DEBUG - forward tcp:60320 -> tcp:9008
+2025-05-19 17:17:23,889 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60320
+2025-05-19 17:17:24,108 - uiautomator2.core - DEBUG - MockAdbProcess: b'SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".'
+2025-05-19 17:17:24,109 - uiautomator2.core - DEBUG - MockAdbProcess: b'\nSLF4J: Defaulting to no-operation (NOP) logger implementation\nSLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.\n'
+2025-05-19 17:17:24,400 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:24,402 - uiautomator2.core - DEBUG - forward tcp:60320 -> tcp:9008
+2025-05-19 17:17:24,403 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60320
+2025-05-19 17:17:24,629 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: clipboardManager inited'
+2025-05-19 17:17:24,630 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:17:24,638 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: tmpdir is /data/local/tmp/u2\n'
+2025-05-19 17:17:24,667 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: http server listening on *:9008\n'
+2025-05-19 17:17:24,923 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:24,924 - uiautomator2.core - DEBUG - forward tcp:60320 -> tcp:9008
+2025-05-19 17:17:24,926 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60320
+2025-05-19 17:17:24,970 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60320 "GET /ping HTTP/1.1" 200 4
+2025-05-19 17:17:24,972 - PlaylistPlayer - ERROR - [2040306023081477] Error al conectar/healthcheck (intento 1): 'Device' object has no attribute 'wait_for_device'
+2025-05-19 17:17:24,985 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 17:17:25,095 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 17:17:25,096 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:25,100 - uiautomator2.core - DEBUG - forward tcp:55771 -> tcp:9008
+2025-05-19 17:17:25,102 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:55771
+2025-05-19 17:17:25,115 - urllib3.connectionpool - DEBUG - http://127.0.0.1:55771 "GET /ping HTTP/1.1" 200 4
+2025-05-19 17:17:25,117 - PlaylistPlayer - ERROR - [2040306023081159] Error al conectar/healthcheck (intento 2): 'Device' object has no attribute 'wait_for_device'
+2025-05-19 17:17:25,131 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 17:17:25,203 - PlaylistPlayer - INFO - [2040306023080222] Intentando conectar a uiautomator2 (intento 3/3)...
+2025-05-19 17:17:25,229 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 17:17:25,230 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:25,232 - uiautomator2.core - DEBUG - forward tcp:58389 -> tcp:9008
+2025-05-19 17:17:25,236 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58389
+2025-05-19 17:17:25,251 - urllib3.connectionpool - DEBUG - http://127.0.0.1:58389 "GET /ping HTTP/1.1" 200 4
+2025-05-19 17:17:25,253 - PlaylistPlayer - ERROR - [2040306023079705] Error al conectar/healthcheck (intento 3): 'Device' object has no attribute 'wait_for_device'
+2025-05-19 17:17:25,255 - PlaylistPlayer - CRITICAL - [2040306023079705] Fallaron todos los intentos de conexión. Terminando worker.
+2025-05-19 17:17:25,271 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 17:17:25,365 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 17:17:25,366 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:25,369 - uiautomator2.core - DEBUG - forward tcp:58649 -> tcp:9008
+2025-05-19 17:17:25,371 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58649
+2025-05-19 17:17:25,384 - urllib3.connectionpool - DEBUG - http://127.0.0.1:58649 "GET /ping HTTP/1.1" 200 4
+2025-05-19 17:17:25,387 - PlaylistPlayer - ERROR - [2040306023080222] Error al conectar/healthcheck (intento 3): 'Device' object has no attribute 'wait_for_device'
+2025-05-19 17:17:25,388 - PlaylistPlayer - CRITICAL - [2040306023080222] Fallaron todos los intentos de conexión. Terminando worker.
+2025-05-19 17:17:27,539 - PlaylistPlayer - INFO - [2040306023082911] Worker thread INICIADO.
+2025-05-19 17:17:27,539 - PlaylistPlayer - INFO - [2040306023082911] Personalidad generada: FollowP=0.73, SearchP=0.07, SkipTrackP=0.33
+2025-05-19 17:17:27,541 - PlaylistPlayer - INFO - [2040306023082911] Intentando conectar a uiautomator2 (intento 1/3)...
+2025-05-19 17:17:27,557 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 17:17:27,640 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 17:17:27,640 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:27,642 - uiautomator2.core - DEBUG - forward tcp:60572 -> tcp:9008
+2025-05-19 17:17:27,645 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60572
+2025-05-19 17:17:27,656 - uiautomator2.core - DEBUG - launch uiautomator with cmd: CLASSPATH=/data/local/tmp/u2.jar app_process / com.wetest.uia2.Main
+2025-05-19 17:17:27,668 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:27,670 - uiautomator2.core - DEBUG - forward tcp:60572 -> tcp:9008
+2025-05-19 17:17:27,672 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60572
+2025-05-19 17:17:28,183 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:28,195 - uiautomator2.core - DEBUG - forward tcp:60572 -> tcp:9008
+2025-05-19 17:17:28,196 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60572
+2025-05-19 17:17:28,610 - PlaylistPlayer - INFO - [2040306023081202] Intentando conectar a uiautomator2 (intento 2/3)...
+2025-05-19 17:17:28,708 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:28,719 - uiautomator2.core - DEBUG - forward tcp:60572 -> tcp:9008
+2025-05-19 17:17:28,721 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60572
+2025-05-19 17:17:28,865 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: [UiAutomator2Server] Starting Server\n'
+2025-05-19 17:17:29,229 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:29,246 - uiautomator2.core - DEBUG - forward tcp:60572 -> tcp:9008
+2025-05-19 17:17:29,248 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60572
+2025-05-19 17:17:29,332 - PlaylistPlayer - INFO - [2040306023081216] Intentando conectar a uiautomator2 (intento 2/3)...
+2025-05-19 17:17:29,401 - uiautomator2.core - DEBUG - MockAdbProcess: b'SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".\nSLF4J: Defaulting to no-operation (NOP) logger implementation\nSLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.\n'
+2025-05-19 17:17:29,784 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:29,786 - uiautomator2.core - DEBUG - forward tcp:60572 -> tcp:9008
+2025-05-19 17:17:29,788 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60572
+2025-05-19 17:17:29,909 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: clipboardManager inited'
+2025-05-19 17:17:29,910 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:17:29,918 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: tmpdir is /data/local/tmp/u2'
+2025-05-19 17:17:29,919 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:17:29,944 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: http server listening on *:9008\n'
+2025-05-19 17:17:30,298 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:30,299 - uiautomator2.core - DEBUG - forward tcp:60572 -> tcp:9008
+2025-05-19 17:17:30,301 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60572
+2025-05-19 17:17:30,336 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60572 "GET /ping HTTP/1.1" 200 4
+2025-05-19 17:17:30,337 - PlaylistPlayer - ERROR - [2040306023082911] Error al conectar/healthcheck (intento 1): 'Device' object has no attribute 'wait_for_device'
+2025-05-19 17:17:30,357 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 17:17:30,520 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 17:17:30,521 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:30,524 - uiautomator2.core - DEBUG - forward tcp:59817 -> tcp:9008
+2025-05-19 17:17:30,526 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:59817
+2025-05-19 17:17:30,538 - urllib3.connectionpool - DEBUG - http://127.0.0.1:59817 "GET /ping HTTP/1.1" 200 4
+2025-05-19 17:17:30,541 - PlaylistPlayer - ERROR - [2040306023081202] Error al conectar/healthcheck (intento 2): 'Device' object has no attribute 'wait_for_device'
+2025-05-19 17:17:30,561 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 17:17:30,638 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 17:17:30,639 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:30,641 - uiautomator2.core - DEBUG - forward tcp:60068 -> tcp:9008
+2025-05-19 17:17:30,643 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60068
+2025-05-19 17:17:30,657 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60068 "GET /ping HTTP/1.1" 200 4
+2025-05-19 17:17:30,658 - PlaylistPlayer - ERROR - [2040306023081216] Error al conectar/healthcheck (intento 2): 'Device' object has no attribute 'wait_for_device'
+2025-05-19 17:17:31,797 - PlaylistPlayer - INFO - [2040306023083277] Worker thread INICIADO.
+2025-05-19 17:17:31,797 - PlaylistPlayer - INFO - [2040306023083277] Personalidad generada: FollowP=0.49, SearchP=0.06, SkipTrackP=0.29
+2025-05-19 17:17:31,799 - PlaylistPlayer - INFO - [2040306023083277] Intentando conectar a uiautomator2 (intento 1/3)...
+2025-05-19 17:17:31,814 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 17:17:31,902 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 17:17:31,903 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:31,905 - uiautomator2.core - DEBUG - forward tcp:60835 -> tcp:9008
+2025-05-19 17:17:31,908 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60835
+2025-05-19 17:17:31,915 - uiautomator2.core - DEBUG - launch uiautomator with cmd: CLASSPATH=/data/local/tmp/u2.jar app_process / com.wetest.uia2.Main
+2025-05-19 17:17:31,924 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:31,926 - uiautomator2.core - DEBUG - forward tcp:60835 -> tcp:9008
+2025-05-19 17:17:31,928 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60835
+2025-05-19 17:17:32,444 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:32,445 - uiautomator2.core - DEBUG - forward tcp:60835 -> tcp:9008
+2025-05-19 17:17:32,449 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60835
+2025-05-19 17:17:32,957 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:32,959 - uiautomator2.core - DEBUG - forward tcp:60835 -> tcp:9008
+2025-05-19 17:17:32,961 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60835
+2025-05-19 17:17:33,164 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: [UiAutomator2Server] Starting Server'
+2025-05-19 17:17:33,165 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:17:33,201 - PlaylistPlayer - INFO - [2040306023080639] Intentando conectar a uiautomator2 (intento 3/3)...
+2025-05-19 17:17:33,251 - PlaylistPlayer - INFO - [2040306023080885] Intentando conectar a uiautomator2 (intento 3/3)...
+2025-05-19 17:17:33,477 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:33,478 - uiautomator2.core - DEBUG - forward tcp:60835 -> tcp:9008
+2025-05-19 17:17:33,480 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60835
+2025-05-19 17:17:33,807 - uiautomator2.core - DEBUG - MockAdbProcess: b'SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".'
+2025-05-19 17:17:33,808 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:17:33,810 - uiautomator2.core - DEBUG - MockAdbProcess: b'SLF4J: Defaulting to no-operation (NOP) logger implementation\nSLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.'
+2025-05-19 17:17:33,813 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:17:33,992 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:33,994 - uiautomator2.core - DEBUG - forward tcp:60835 -> tcp:9008
+2025-05-19 17:17:33,996 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60835
+2025-05-19 17:17:34,341 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: clipboardManager inited'
+2025-05-19 17:17:34,342 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:17:34,348 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: tmpdir is /data/local/tmp/u2'
+2025-05-19 17:17:34,351 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:17:34,376 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: http server listening on *:9008'
+2025-05-19 17:17:34,377 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:17:34,507 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:34,509 - uiautomator2.core - DEBUG - forward tcp:60835 -> tcp:9008
+2025-05-19 17:17:34,513 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60835
+2025-05-19 17:17:34,543 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60835 "GET /ping HTTP/1.1" 200 4
+2025-05-19 17:17:34,544 - PlaylistPlayer - ERROR - [2040306023083277] Error al conectar/healthcheck (intento 1): 'Device' object has no attribute 'wait_for_device'
+2025-05-19 17:17:34,557 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 17:17:34,640 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 17:17:34,641 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:34,643 - uiautomator2.core - DEBUG - forward tcp:58957 -> tcp:9008
+2025-05-19 17:17:34,646 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58957
+2025-05-19 17:17:34,660 - urllib3.connectionpool - DEBUG - http://127.0.0.1:58957 "GET /ping HTTP/1.1" 200 4
+2025-05-19 17:17:34,662 - PlaylistPlayer - ERROR - [2040306023080639] Error al conectar/healthcheck (intento 3): 'Device' object has no attribute 'wait_for_device'
+2025-05-19 17:17:34,666 - PlaylistPlayer - CRITICAL - [2040306023080639] Fallaron todos los intentos de conexión. Terminando worker.
+2025-05-19 17:17:34,676 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 17:17:34,806 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 17:17:34,806 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:34,808 - uiautomator2.core - DEBUG - forward tcp:59282 -> tcp:9008
+2025-05-19 17:17:34,811 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:59282
+2025-05-19 17:17:34,827 - urllib3.connectionpool - DEBUG - http://127.0.0.1:59282 "GET /ping HTTP/1.1" 200 4
+2025-05-19 17:17:34,828 - PlaylistPlayer - ERROR - [2040306023080885] Error al conectar/healthcheck (intento 3): 'Device' object has no attribute 'wait_for_device'
+2025-05-19 17:17:34,831 - PlaylistPlayer - CRITICAL - [2040306023080885] Fallaron todos los intentos de conexión. Terminando worker.
+2025-05-19 17:17:36,311 - PlaylistPlayer - INFO - [2040306023081477] Intentando conectar a uiautomator2 (intento 2/3)...
+2025-05-19 17:17:36,325 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 17:17:36,435 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 17:17:36,435 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:36,447 - uiautomator2.core - DEBUG - forward tcp:60320 -> tcp:9008
+2025-05-19 17:17:36,450 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60320
+2025-05-19 17:17:36,464 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60320 "GET /ping HTTP/1.1" 200 4
+2025-05-19 17:17:36,467 - PlaylistPlayer - ERROR - [2040306023081477] Error al conectar/healthcheck (intento 2): 'Device' object has no attribute 'wait_for_device'
+2025-05-19 17:17:37,310 - PlaylistPlayer - INFO - [2040306023095800] Worker thread INICIADO.
+2025-05-19 17:17:37,311 - PlaylistPlayer - INFO - [2040306023095800] Personalidad generada: FollowP=0.33, SearchP=0.11, SkipTrackP=0.18
+2025-05-19 17:17:37,315 - PlaylistPlayer - INFO - [2040306023095800] Intentando conectar a uiautomator2 (intento 1/3)...
+2025-05-19 17:17:37,329 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 17:17:37,413 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 17:17:37,414 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:37,417 - uiautomator2.core - DEBUG - forward tcp:61127 -> tcp:9008
+2025-05-19 17:17:37,419 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:61127
+2025-05-19 17:17:37,427 - uiautomator2.core - DEBUG - launch uiautomator with cmd: CLASSPATH=/data/local/tmp/u2.jar app_process / com.wetest.uia2.Main
+2025-05-19 17:17:37,435 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:37,437 - uiautomator2.core - DEBUG - forward tcp:61127 -> tcp:9008
+2025-05-19 17:17:37,439 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:61127
+2025-05-19 17:17:37,584 - PlaylistPlayer - INFO - [2040306023081159] Intentando conectar a uiautomator2 (intento 3/3)...
+2025-05-19 17:17:37,951 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:37,953 - uiautomator2.core - DEBUG - forward tcp:61127 -> tcp:9008
+2025-05-19 17:17:37,956 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:61127
+2025-05-19 17:17:38,468 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:38,469 - uiautomator2.core - DEBUG - forward tcp:61127 -> tcp:9008
+2025-05-19 17:17:38,471 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:61127
+2025-05-19 17:17:38,572 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: [UiAutomator2Server] Starting Server'
+2025-05-19 17:17:38,574 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:17:38,948 - uiautomator2.core - DEBUG - MockAdbProcess: b'SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".'
+2025-05-19 17:17:38,950 - uiautomator2.core - DEBUG - MockAdbProcess: b'\nSLF4J: Defaulting to no-operation (NOP) logger implementation\nSLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.\n'
+2025-05-19 17:17:38,978 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:38,980 - uiautomator2.core - DEBUG - forward tcp:61127 -> tcp:9008
+2025-05-19 17:17:38,984 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:61127
+2025-05-19 17:17:39,345 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: clipboardManager inited'
+2025-05-19 17:17:39,346 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:17:39,351 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: tmpdir is /data/local/tmp/u2'
+2025-05-19 17:17:39,352 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:17:39,375 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: http server listening on *:9008'
+2025-05-19 17:17:39,377 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:17:39,409 - PlaylistPlayer - INFO - [2040306023081202] Intentando conectar a uiautomator2 (intento 3/3)...
+2025-05-19 17:17:39,493 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:39,495 - uiautomator2.core - DEBUG - forward tcp:61127 -> tcp:9008
+2025-05-19 17:17:39,498 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:61127
+2025-05-19 17:17:39,527 - urllib3.connectionpool - DEBUG - http://127.0.0.1:61127 "GET /ping HTTP/1.1" 200 4
+2025-05-19 17:17:39,528 - PlaylistPlayer - ERROR - [2040306023095800] Error al conectar/healthcheck (intento 1): 'Device' object has no attribute 'wait_for_device'
+2025-05-19 17:17:39,546 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 17:17:39,648 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 17:17:39,648 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:39,651 - uiautomator2.core - DEBUG - forward tcp:55771 -> tcp:9008
+2025-05-19 17:17:39,653 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:55771
+2025-05-19 17:17:39,664 - urllib3.connectionpool - DEBUG - http://127.0.0.1:55771 "GET /ping HTTP/1.1" 200 4
+2025-05-19 17:17:39,667 - PlaylistPlayer - ERROR - [2040306023081159] Error al conectar/healthcheck (intento 3): 'Device' object has no attribute 'wait_for_device'
+2025-05-19 17:17:39,671 - PlaylistPlayer - CRITICAL - [2040306023081159] Fallaron todos los intentos de conexión. Terminando worker.
+2025-05-19 17:17:39,684 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 17:17:39,877 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 17:17:39,877 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:39,881 - uiautomator2.core - DEBUG - forward tcp:59817 -> tcp:9008
+2025-05-19 17:17:39,883 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:59817
+2025-05-19 17:17:39,901 - urllib3.connectionpool - DEBUG - http://127.0.0.1:59817 "GET /ping HTTP/1.1" 200 4
+2025-05-19 17:17:39,903 - PlaylistPlayer - ERROR - [2040306023081202] Error al conectar/healthcheck (intento 3): 'Device' object has no attribute 'wait_for_device'
+2025-05-19 17:17:39,904 - PlaylistPlayer - CRITICAL - [2040306023081202] Fallaron todos los intentos de conexión. Terminando worker.
+2025-05-19 17:17:43,278 - PlaylistPlayer - INFO - [2040306023095804] Worker thread INICIADO.
+2025-05-19 17:17:43,278 - PlaylistPlayer - INFO - [2040306023095804] Personalidad generada: FollowP=0.61, SearchP=0.18, SkipTrackP=0.24
+2025-05-19 17:17:43,280 - PlaylistPlayer - INFO - [2040306023095804] Intentando conectar a uiautomator2 (intento 1/3)...
+2025-05-19 17:17:43,301 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 17:17:43,379 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 17:17:43,380 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:43,385 - uiautomator2.core - DEBUG - forward tcp:63090 -> tcp:9008
+2025-05-19 17:17:43,386 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:63090
+2025-05-19 17:17:43,394 - uiautomator2.core - DEBUG - launch uiautomator with cmd: CLASSPATH=/data/local/tmp/u2.jar app_process / com.wetest.uia2.Main
+2025-05-19 17:17:43,402 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:43,404 - uiautomator2.core - DEBUG - forward tcp:63090 -> tcp:9008
+2025-05-19 17:17:43,406 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:63090
+2025-05-19 17:17:43,679 - PlaylistPlayer - INFO - [2040306023081216] Intentando conectar a uiautomator2 (intento 3/3)...
+2025-05-19 17:17:43,711 - PlaylistPlayer - INFO - [2040306023082911] Intentando conectar a uiautomator2 (intento 2/3)...
+2025-05-19 17:17:43,915 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:43,917 - uiautomator2.core - DEBUG - forward tcp:63090 -> tcp:9008
+2025-05-19 17:17:43,919 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:63090
+2025-05-19 17:17:44,428 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:44,429 - uiautomator2.core - DEBUG - forward tcp:63090 -> tcp:9008
+2025-05-19 17:17:44,431 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:63090
+2025-05-19 17:17:44,602 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: [UiAutomator2Server] Starting Server'
+2025-05-19 17:17:44,604 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:17:44,945 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:44,947 - uiautomator2.core - DEBUG - forward tcp:63090 -> tcp:9008
+2025-05-19 17:17:44,950 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:63090
+2025-05-19 17:17:45,032 - uiautomator2.core - DEBUG - MockAdbProcess: b'SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".'
+2025-05-19 17:17:45,033 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:17:45,037 - uiautomator2.core - DEBUG - MockAdbProcess: b'SLF4J: Defaulting to no-operation (NOP) logger implementation\nSLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.\n'
+2025-05-19 17:17:45,472 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:45,473 - uiautomator2.core - DEBUG - forward tcp:63090 -> tcp:9008
+2025-05-19 17:17:45,474 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:63090
+2025-05-19 17:17:45,537 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: clipboardManager inited'
+2025-05-19 17:17:45,538 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:17:45,544 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: tmpdir is /data/local/tmp/u2'
+2025-05-19 17:17:45,545 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:17:45,569 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: http server listening on *:9008'
+2025-05-19 17:17:45,571 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:17:45,985 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:45,986 - uiautomator2.core - DEBUG - forward tcp:63090 -> tcp:9008
+2025-05-19 17:17:45,988 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:63090
+2025-05-19 17:17:46,021 - urllib3.connectionpool - DEBUG - http://127.0.0.1:63090 "GET /ping HTTP/1.1" 200 4
+2025-05-19 17:17:46,022 - PlaylistPlayer - ERROR - [2040306023095804] Error al conectar/healthcheck (intento 1): 'Device' object has no attribute 'wait_for_device'
+2025-05-19 17:17:46,034 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 17:17:46,113 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 17:17:46,113 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:46,116 - uiautomator2.core - DEBUG - forward tcp:60068 -> tcp:9008
+2025-05-19 17:17:46,118 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60068
+2025-05-19 17:17:46,128 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60068 "GET /ping HTTP/1.1" 200 4
+2025-05-19 17:17:46,130 - PlaylistPlayer - ERROR - [2040306023081216] Error al conectar/healthcheck (intento 3): 'Device' object has no attribute 'wait_for_device'
+2025-05-19 17:17:46,131 - PlaylistPlayer - CRITICAL - [2040306023081216] Fallaron todos los intentos de conexión. Terminando worker.
+2025-05-19 17:17:46,143 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 17:17:46,223 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 17:17:46,224 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:46,226 - uiautomator2.core - DEBUG - forward tcp:60572 -> tcp:9008
+2025-05-19 17:17:46,229 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60572
+2025-05-19 17:17:46,240 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60572 "GET /ping HTTP/1.1" 200 4
+2025-05-19 17:17:46,241 - PlaylistPlayer - ERROR - [2040306023082911] Error al conectar/healthcheck (intento 2): 'Device' object has no attribute 'wait_for_device'
+2025-05-19 17:17:46,815 - PlaylistPlayer - INFO - [2040306023096006] Worker thread INICIADO.
+2025-05-19 17:17:46,816 - PlaylistPlayer - INFO - [2040306023096006] Personalidad generada: FollowP=0.71, SearchP=0.06, SkipTrackP=0.45
+2025-05-19 17:17:46,818 - PlaylistPlayer - INFO - [2040306023096006] Intentando conectar a uiautomator2 (intento 1/3)...
+2025-05-19 17:17:46,834 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 17:17:46,939 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 17:17:46,940 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:46,943 - uiautomator2.core - DEBUG - forward tcp:63236 -> tcp:9008
+2025-05-19 17:17:46,945 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:63236
+2025-05-19 17:17:46,955 - uiautomator2.core - DEBUG - launch uiautomator with cmd: CLASSPATH=/data/local/tmp/u2.jar app_process / com.wetest.uia2.Main
+2025-05-19 17:17:46,965 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:46,968 - uiautomator2.core - DEBUG - forward tcp:63236 -> tcp:9008
+2025-05-19 17:17:46,974 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:63236
+2025-05-19 17:17:47,502 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:47,504 - uiautomator2.core - DEBUG - forward tcp:63236 -> tcp:9008
+2025-05-19 17:17:47,506 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:63236
+2025-05-19 17:17:47,990 - PlaylistPlayer - INFO - [2040306023095800] Intentando conectar a uiautomator2 (intento 2/3)...
+2025-05-19 17:17:48,016 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:48,018 - uiautomator2.core - DEBUG - forward tcp:63236 -> tcp:9008
+2025-05-19 17:17:48,020 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:63236
+2025-05-19 17:17:48,297 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: [UiAutomator2Server] Starting Server\n'
+2025-05-19 17:17:48,551 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:48,553 - uiautomator2.core - DEBUG - forward tcp:63236 -> tcp:9008
+2025-05-19 17:17:48,554 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:63236
+2025-05-19 17:17:48,609 - PlaylistPlayer - INFO - [2040306023083277] Intentando conectar a uiautomator2 (intento 2/3)...
+2025-05-19 17:17:48,822 - uiautomator2.core - DEBUG - MockAdbProcess: b'SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".'
+2025-05-19 17:17:48,830 - uiautomator2.core - DEBUG - MockAdbProcess: b'\nSLF4J: Defaulting to no-operation (NOP) logger implementation\nSLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.\n'
+2025-05-19 17:17:49,067 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:49,069 - uiautomator2.core - DEBUG - forward tcp:63236 -> tcp:9008
+2025-05-19 17:17:49,071 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:63236
+2025-05-19 17:17:49,318 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: clipboardManager inited'
+2025-05-19 17:17:49,319 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:17:49,326 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: tmpdir is /data/local/tmp/u2'
+2025-05-19 17:17:49,327 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:17:49,350 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: http server listening on *:9008'
+2025-05-19 17:17:49,352 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:17:49,584 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:49,586 - uiautomator2.core - DEBUG - forward tcp:63236 -> tcp:9008
+2025-05-19 17:17:49,587 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:63236
+2025-05-19 17:17:49,621 - urllib3.connectionpool - DEBUG - http://127.0.0.1:63236 "GET /ping HTTP/1.1" 200 4
+2025-05-19 17:17:49,622 - PlaylistPlayer - ERROR - [2040306023096006] Error al conectar/healthcheck (intento 1): 'Device' object has no attribute 'wait_for_device'
+2025-05-19 17:17:49,635 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 17:17:49,710 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 17:17:49,711 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:49,713 - uiautomator2.core - DEBUG - forward tcp:61127 -> tcp:9008
+2025-05-19 17:17:49,715 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:61127
+2025-05-19 17:17:49,726 - urllib3.connectionpool - DEBUG - http://127.0.0.1:61127 "GET /ping HTTP/1.1" 200 4
+2025-05-19 17:17:49,728 - PlaylistPlayer - ERROR - [2040306023095800] Error al conectar/healthcheck (intento 2): 'Device' object has no attribute 'wait_for_device'
+2025-05-19 17:17:49,742 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 17:17:49,833 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 17:17:49,834 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:49,836 - uiautomator2.core - DEBUG - forward tcp:60835 -> tcp:9008
+2025-05-19 17:17:49,838 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60835
+2025-05-19 17:17:49,852 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60835 "GET /ping HTTP/1.1" 200 4
+2025-05-19 17:17:49,854 - PlaylistPlayer - ERROR - [2040306023083277] Error al conectar/healthcheck (intento 2): 'Device' object has no attribute 'wait_for_device'
+2025-05-19 17:17:50,366 - PlaylistPlayer - INFO - [2040306023097355] Worker thread INICIADO.
+2025-05-19 17:17:50,366 - PlaylistPlayer - INFO - [2040306023097355] Personalidad generada: FollowP=0.54, SearchP=0.04, SkipTrackP=0.37
+2025-05-19 17:17:50,368 - PlaylistPlayer - INFO - [2040306023097355] Intentando conectar a uiautomator2 (intento 1/3)...
+2025-05-19 17:17:50,385 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 17:17:50,478 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 17:17:50,479 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:50,482 - uiautomator2.core - DEBUG - forward tcp:63385 -> tcp:9008
+2025-05-19 17:17:50,484 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:63385
+2025-05-19 17:17:50,494 - uiautomator2.core - DEBUG - launch uiautomator with cmd: CLASSPATH=/data/local/tmp/u2.jar app_process / com.wetest.uia2.Main
+2025-05-19 17:17:50,509 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:50,510 - uiautomator2.core - DEBUG - forward tcp:63385 -> tcp:9008
+2025-05-19 17:17:50,514 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:63385
+2025-05-19 17:17:51,023 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:51,025 - uiautomator2.core - DEBUG - forward tcp:63385 -> tcp:9008
+2025-05-19 17:17:51,026 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:63385
+2025-05-19 17:17:51,202 - PlaylistPlayer - INFO - [2040306023081477] Intentando conectar a uiautomator2 (intento 3/3)...
+2025-05-19 17:17:51,553 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:51,555 - uiautomator2.core - DEBUG - forward tcp:63385 -> tcp:9008
+2025-05-19 17:17:51,556 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:63385
+2025-05-19 17:17:51,877 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: [UiAutomator2Server] Starting Server'
+2025-05-19 17:17:51,878 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:17:52,066 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:52,068 - uiautomator2.core - DEBUG - forward tcp:63385 -> tcp:9008
+2025-05-19 17:17:52,069 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:63385
+2025-05-19 17:17:52,578 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:52,580 - uiautomator2.core - DEBUG - forward tcp:63385 -> tcp:9008
+2025-05-19 17:17:52,582 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:63385
+2025-05-19 17:17:52,637 - uiautomator2.core - DEBUG - MockAdbProcess: b'SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".'
+2025-05-19 17:17:52,638 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:17:52,640 - uiautomator2.core - DEBUG - MockAdbProcess: b'SLF4J: Defaulting to no-operation (NOP) logger implementation'
+2025-05-19 17:17:52,642 - uiautomator2.core - DEBUG - MockAdbProcess: b'\nSLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.'
+2025-05-19 17:17:52,643 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:17:53,104 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:53,105 - uiautomator2.core - DEBUG - forward tcp:63385 -> tcp:9008
+2025-05-19 17:17:53,106 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:63385
+2025-05-19 17:17:53,139 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: clipboardManager inited\n'
+2025-05-19 17:17:53,149 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: tmpdir is /data/local/tmp/u2'
+2025-05-19 17:17:53,150 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:17:53,178 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: http server listening on *:9008\n'
+2025-05-19 17:17:53,619 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:53,620 - uiautomator2.core - DEBUG - forward tcp:63385 -> tcp:9008
+2025-05-19 17:17:53,622 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:63385
+2025-05-19 17:17:53,671 - urllib3.connectionpool - DEBUG - http://127.0.0.1:63385 "GET /ping HTTP/1.1" 200 4
+2025-05-19 17:17:53,674 - PlaylistPlayer - ERROR - [2040306023097355] Error al conectar/healthcheck (intento 1): 'Device' object has no attribute 'wait_for_device'
+2025-05-19 17:17:53,685 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 17:17:53,784 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 17:17:53,784 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:53,787 - uiautomator2.core - DEBUG - forward tcp:60320 -> tcp:9008
+2025-05-19 17:17:53,789 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60320
+2025-05-19 17:17:53,805 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60320 "GET /ping HTTP/1.1" 200 4
+2025-05-19 17:17:53,808 - PlaylistPlayer - ERROR - [2040306023081477] Error al conectar/healthcheck (intento 3): 'Device' object has no attribute 'wait_for_device'
+2025-05-19 17:17:53,811 - PlaylistPlayer - CRITICAL - [2040306023081477] Fallaron todos los intentos de conexión. Terminando worker.
+2025-05-19 17:17:55,566 - PlaylistPlayer - INFO - [2040306023098451] Worker thread INICIADO.
+2025-05-19 17:17:55,566 - PlaylistPlayer - INFO - [2040306023098451] Personalidad generada: FollowP=0.41, SearchP=0.14, SkipTrackP=0.21
+2025-05-19 17:17:55,568 - PlaylistPlayer - INFO - [2040306023098451] Intentando conectar a uiautomator2 (intento 1/3)...
+2025-05-19 17:17:55,585 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 17:17:55,681 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 17:17:55,681 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:55,695 - uiautomator2.core - DEBUG - forward tcp:63518 -> tcp:9008
+2025-05-19 17:17:55,697 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:63518
+2025-05-19 17:17:55,704 - uiautomator2.core - DEBUG - launch uiautomator with cmd: CLASSPATH=/data/local/tmp/u2.jar app_process / com.wetest.uia2.Main
+2025-05-19 17:17:55,714 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:55,716 - uiautomator2.core - DEBUG - forward tcp:63518 -> tcp:9008
+2025-05-19 17:17:55,720 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:63518
+2025-05-19 17:17:56,229 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:56,231 - uiautomator2.core - DEBUG - forward tcp:63518 -> tcp:9008
+2025-05-19 17:17:56,232 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:63518
+2025-05-19 17:17:56,741 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:56,742 - uiautomator2.core - DEBUG - forward tcp:63518 -> tcp:9008
+2025-05-19 17:17:56,744 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:63518
+2025-05-19 17:17:56,806 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: [UiAutomator2Server] Starting Server'
+2025-05-19 17:17:56,807 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:17:57,177 - PlaylistPlayer - INFO - [2040306023095804] Intentando conectar a uiautomator2 (intento 2/3)...
+2025-05-19 17:17:57,181 - uiautomator2.core - DEBUG - MockAdbProcess: b'SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".'
+2025-05-19 17:17:57,182 - uiautomator2.core - DEBUG - MockAdbProcess: b'\nSLF4J: Defaulting to no-operation (NOP) logger implementation'
+2025-05-19 17:17:57,185 - uiautomator2.core - DEBUG - MockAdbProcess: b'\nSLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.\n'
+2025-05-19 17:17:57,251 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:57,253 - uiautomator2.core - DEBUG - forward tcp:63518 -> tcp:9008
+2025-05-19 17:17:57,254 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:63518
+2025-05-19 17:17:57,566 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: clipboardManager inited'
+2025-05-19 17:17:57,567 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:17:57,573 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: tmpdir is /data/local/tmp/u2'
+2025-05-19 17:17:57,574 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:17:57,597 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: http server listening on *:9008'
+2025-05-19 17:17:57,598 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:17:57,763 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:57,764 - uiautomator2.core - DEBUG - forward tcp:63518 -> tcp:9008
+2025-05-19 17:17:57,767 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:63518
+2025-05-19 17:17:57,804 - urllib3.connectionpool - DEBUG - http://127.0.0.1:63518 "GET /ping HTTP/1.1" 200 4
+2025-05-19 17:17:57,805 - PlaylistPlayer - ERROR - [2040306023098451] Error al conectar/healthcheck (intento 1): 'Device' object has no attribute 'wait_for_device'
+2025-05-19 17:17:57,822 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 17:17:57,909 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 17:17:57,909 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:57,912 - uiautomator2.core - DEBUG - forward tcp:63090 -> tcp:9008
+2025-05-19 17:17:57,914 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:63090
+2025-05-19 17:17:57,926 - urllib3.connectionpool - DEBUG - http://127.0.0.1:63090 "GET /ping HTTP/1.1" 200 4
+2025-05-19 17:17:57,928 - PlaylistPlayer - ERROR - [2040306023095804] Error al conectar/healthcheck (intento 2): 'Device' object has no attribute 'wait_for_device'
+2025-05-19 17:17:59,416 - PlaylistPlayer - INFO - [2040306023082911] Intentando conectar a uiautomator2 (intento 3/3)...
+2025-05-19 17:17:59,428 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 17:17:59,533 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 17:17:59,534 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:17:59,537 - uiautomator2.core - DEBUG - forward tcp:60572 -> tcp:9008
+2025-05-19 17:17:59,540 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60572
+2025-05-19 17:17:59,558 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60572 "GET /ping HTTP/1.1" 200 4
+2025-05-19 17:17:59,561 - PlaylistPlayer - ERROR - [2040306023082911] Error al conectar/healthcheck (intento 3): 'Device' object has no attribute 'wait_for_device'
+2025-05-19 17:17:59,566 - PlaylistPlayer - CRITICAL - [2040306023082911] Fallaron todos los intentos de conexión. Terminando worker.
+2025-05-19 17:18:00,368 - PlaylistPlayer - INFO - [4LJVPB6DUSIRMVUS] Worker thread INICIADO.
+2025-05-19 17:18:00,369 - PlaylistPlayer - INFO - [4LJVPB6DUSIRMVUS] Personalidad generada: FollowP=0.47, SearchP=0.15, SkipTrackP=0.17
+2025-05-19 17:18:00,370 - PlaylistPlayer - INFO - [4LJVPB6DUSIRMVUS] Intentando conectar a uiautomator2 (intento 1/3)...
+2025-05-19 17:18:00,394 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 17:18:00,518 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 17:18:00,519 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:18:00,521 - uiautomator2.core - DEBUG - forward tcp:63671 -> tcp:9008
+2025-05-19 17:18:00,524 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:63671
+2025-05-19 17:18:00,530 - uiautomator2.core - DEBUG - launch uiautomator with cmd: CLASSPATH=/data/local/tmp/u2.jar app_process / com.wetest.uia2.Main
+2025-05-19 17:18:00,539 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:18:00,541 - uiautomator2.core - DEBUG - forward tcp:63671 -> tcp:9008
+2025-05-19 17:18:00,544 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:63671
+2025-05-19 17:18:01,052 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:18:01,053 - uiautomator2.core - DEBUG - forward tcp:63671 -> tcp:9008
+2025-05-19 17:18:01,055 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:63671
+2025-05-19 17:18:01,562 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:18:01,573 - uiautomator2.core - DEBUG - forward tcp:63671 -> tcp:9008
+2025-05-19 17:18:01,574 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:63671
+2025-05-19 17:18:02,082 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:18:02,084 - uiautomator2.core - DEBUG - forward tcp:63671 -> tcp:9008
+2025-05-19 17:18:02,085 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:63671
+2025-05-19 17:18:02,213 - PlaylistPlayer - INFO - [2040306023095800] Intentando conectar a uiautomator2 (intento 3/3)...
+2025-05-19 17:18:02,458 - PlaylistPlayer - INFO - [2040306023083277] Intentando conectar a uiautomator2 (intento 3/3)...
+2025-05-19 17:18:02,598 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:18:02,600 - uiautomator2.core - DEBUG - forward tcp:63671 -> tcp:9008
+2025-05-19 17:18:02,604 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:63671
+2025-05-19 17:18:02,721 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: [UiAutomator2Server] Starting Server'
+2025-05-19 17:18:02,723 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:18:03,136 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:18:03,138 - uiautomator2.core - DEBUG - forward tcp:63671 -> tcp:9008
+2025-05-19 17:18:03,140 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:63671
+2025-05-19 17:18:03,301 - uiautomator2.core - DEBUG - MockAdbProcess: b'SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".'
+2025-05-19 17:18:03,303 - uiautomator2.core - DEBUG - MockAdbProcess: b'\nSLF4J: Defaulting to no-operation (NOP) logger implementation\nSLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.'
+2025-05-19 17:18:03,304 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:18:03,391 - PlaylistPlayer - INFO - [2040306023096006] Intentando conectar a uiautomator2 (intento 2/3)...
+2025-05-19 17:18:03,656 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:18:03,657 - uiautomator2.core - DEBUG - forward tcp:63671 -> tcp:9008
+2025-05-19 17:18:03,659 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:63671
+2025-05-19 17:18:03,788 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: clipboardManager inited'
+2025-05-19 17:18:03,790 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:18:03,800 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: tmpdir is /data/local/tmp/u2'
+2025-05-19 17:18:03,801 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:18:03,827 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: http server listening on *:9008'
+2025-05-19 17:18:03,828 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:18:04,169 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:18:04,170 - uiautomator2.core - DEBUG - forward tcp:63671 -> tcp:9008
+2025-05-19 17:18:04,172 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:63671
+2025-05-19 17:18:04,210 - urllib3.connectionpool - DEBUG - http://127.0.0.1:63671 "GET /ping HTTP/1.1" 200 4
+2025-05-19 17:18:04,212 - PlaylistPlayer - ERROR - [4LJVPB6DUSIRMVUS] Error al conectar/healthcheck (intento 1): 'Device' object has no attribute 'wait_for_device'
+2025-05-19 17:18:04,227 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 17:18:04,303 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 17:18:04,303 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:18:04,306 - uiautomator2.core - DEBUG - forward tcp:61127 -> tcp:9008
+2025-05-19 17:18:04,308 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:61127
+2025-05-19 17:18:04,320 - urllib3.connectionpool - DEBUG - http://127.0.0.1:61127 "GET /ping HTTP/1.1" 200 4
+2025-05-19 17:18:04,321 - PlaylistPlayer - ERROR - [2040306023095800] Error al conectar/healthcheck (intento 3): 'Device' object has no attribute 'wait_for_device'
+2025-05-19 17:18:04,324 - PlaylistPlayer - CRITICAL - [2040306023095800] Fallaron todos los intentos de conexión. Terminando worker.
+2025-05-19 17:18:04,335 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 17:18:04,424 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 17:18:04,424 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:18:04,427 - uiautomator2.core - DEBUG - forward tcp:60835 -> tcp:9008
+2025-05-19 17:18:04,429 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60835
+2025-05-19 17:18:04,442 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60835 "GET /ping HTTP/1.1" 200 4
+2025-05-19 17:18:04,446 - PlaylistPlayer - ERROR - [2040306023083277] Error al conectar/healthcheck (intento 3): 'Device' object has no attribute 'wait_for_device'
+2025-05-19 17:18:04,447 - PlaylistPlayer - CRITICAL - [2040306023083277] Fallaron todos los intentos de conexión. Terminando worker.
+2025-05-19 17:18:04,462 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 17:18:04,555 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 17:18:04,555 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:18:04,558 - uiautomator2.core - DEBUG - forward tcp:63236 -> tcp:9008
+2025-05-19 17:18:04,560 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:63236
+2025-05-19 17:18:04,572 - urllib3.connectionpool - DEBUG - http://127.0.0.1:63236 "GET /ping HTTP/1.1" 200 4
+2025-05-19 17:18:04,573 - PlaylistPlayer - ERROR - [2040306023096006] Error al conectar/healthcheck (intento 2): 'Device' object has no attribute 'wait_for_device'
+2025-05-19 17:18:05,247 - PlaylistPlayer - INFO - [DY49GQ7PFQCEKF6H] Worker thread INICIADO.
+2025-05-19 17:18:05,247 - PlaylistPlayer - INFO - [DY49GQ7PFQCEKF6H] Personalidad generada: FollowP=0.37, SearchP=0.09, SkipTrackP=0.43
+2025-05-19 17:18:05,248 - PlaylistPlayer - INFO - [DY49GQ7PFQCEKF6H] Intentando conectar a uiautomator2 (intento 1/3)...
+2025-05-19 17:18:05,261 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 17:18:05,412 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 17:18:05,413 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:18:05,416 - uiautomator2.core - DEBUG - forward tcp:56198 -> tcp:9008
+2025-05-19 17:18:05,417 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:56198
+2025-05-19 17:18:05,428 - uiautomator2.core - DEBUG - launch uiautomator with cmd: CLASSPATH=/data/local/tmp/u2.jar app_process / com.wetest.uia2.Main
+2025-05-19 17:18:05,429 - PlaylistPlayer - INFO - [2040306023097355] Intentando conectar a uiautomator2 (intento 2/3)...
+2025-05-19 17:18:05,444 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:18:05,446 - uiautomator2.core - DEBUG - forward tcp:56198 -> tcp:9008
+2025-05-19 17:18:05,449 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:56198
+2025-05-19 17:18:05,962 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:18:05,964 - uiautomator2.core - DEBUG - forward tcp:56198 -> tcp:9008
+2025-05-19 17:18:05,965 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:56198
+2025-05-19 17:18:06,473 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:18:06,475 - uiautomator2.core - DEBUG - forward tcp:56198 -> tcp:9008
+2025-05-19 17:18:06,477 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:56198
+2025-05-19 17:18:06,985 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:18:06,998 - uiautomator2.core - DEBUG - forward tcp:56198 -> tcp:9008
+2025-05-19 17:18:06,999 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:56198
+2025-05-19 17:18:07,066 - PlaylistPlayer - INFO - [2040306023098451] Intentando conectar a uiautomator2 (intento 2/3)...
+2025-05-19 17:18:07,507 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:18:07,509 - uiautomator2.core - DEBUG - forward tcp:56198 -> tcp:9008
+2025-05-19 17:18:07,513 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:56198
+2025-05-19 17:18:07,662 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: [UiAutomator2Server] Starting Server'
+2025-05-19 17:18:07,663 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:18:08,022 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:18:08,024 - uiautomator2.core - DEBUG - forward tcp:56198 -> tcp:9008
+2025-05-19 17:18:08,027 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:56198
+2025-05-19 17:18:08,225 - uiautomator2.core - DEBUG - MockAdbProcess: b'SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".\nSLF4J: Defaulting to no-operation (NOP) logger implementation\nSLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.\n'
+2025-05-19 17:18:08,375 - PlaylistPlayer - INFO - [KF9HFUCE6XE6WSU8] Worker thread INICIADO.
+2025-05-19 17:18:08,375 - PlaylistPlayer - INFO - [KF9HFUCE6XE6WSU8] Personalidad generada: FollowP=0.68, SearchP=0.07, SkipTrackP=0.37
+2025-05-19 17:18:08,377 - PlaylistPlayer - INFO - [KF9HFUCE6XE6WSU8] Intentando conectar a uiautomator2 (intento 1/3)...
+2025-05-19 17:18:08,565 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:18:08,577 - uiautomator2.core - DEBUG - forward tcp:56198 -> tcp:9008
+2025-05-19 17:18:08,580 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:56198
+2025-05-19 17:18:08,671 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: clipboardManager inited'
+2025-05-19 17:18:08,672 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:18:08,682 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: tmpdir is /data/local/tmp/u2'
+2025-05-19 17:18:08,682 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:18:08,706 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: http server listening on *:9008'
+2025-05-19 17:18:08,706 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:18:09,093 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:18:09,095 - uiautomator2.core - DEBUG - forward tcp:56198 -> tcp:9008
+2025-05-19 17:18:09,097 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:56198
+2025-05-19 17:18:09,137 - urllib3.connectionpool - DEBUG - http://127.0.0.1:56198 "GET /ping HTTP/1.1" 200 4
+2025-05-19 17:18:09,138 - PlaylistPlayer - ERROR - [DY49GQ7PFQCEKF6H] Error al conectar/healthcheck (intento 1): 'Device' object has no attribute 'wait_for_device'
+2025-05-19 17:18:09,151 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 17:18:09,237 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 17:18:09,237 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:18:09,240 - uiautomator2.core - DEBUG - forward tcp:63385 -> tcp:9008
+2025-05-19 17:18:09,242 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:63385
+2025-05-19 17:18:09,254 - urllib3.connectionpool - DEBUG - http://127.0.0.1:63385 "GET /ping HTTP/1.1" 200 4
+2025-05-19 17:18:09,255 - PlaylistPlayer - ERROR - [2040306023097355] Error al conectar/healthcheck (intento 2): 'Device' object has no attribute 'wait_for_device'
+2025-05-19 17:18:09,266 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 17:18:09,352 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 17:18:09,353 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:18:09,355 - uiautomator2.core - DEBUG - forward tcp:63518 -> tcp:9008
+2025-05-19 17:18:09,359 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:63518
+2025-05-19 17:18:09,370 - urllib3.connectionpool - DEBUG - http://127.0.0.1:63518 "GET /ping HTTP/1.1" 200 4
+2025-05-19 17:18:09,371 - PlaylistPlayer - ERROR - [2040306023098451] Error al conectar/healthcheck (intento 2): 'Device' object has no attribute 'wait_for_device'
+2025-05-19 17:18:09,386 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 17:18:09,444 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 17:18:09,445 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:18:09,448 - uiautomator2.core - DEBUG - forward tcp:59209 -> tcp:9008
+2025-05-19 17:18:09,450 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:59209
+2025-05-19 17:18:09,455 - uiautomator2.core - DEBUG - launch uiautomator with cmd: CLASSPATH=/data/local/tmp/u2.jar app_process / com.wetest.uia2.Main
+2025-05-19 17:18:09,465 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:18:09,467 - uiautomator2.core - DEBUG - forward tcp:59209 -> tcp:9008
+2025-05-19 17:18:09,469 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:59209
+2025-05-19 17:18:09,592 - PlaylistPlayer - INFO - [2040306023095804] Intentando conectar a uiautomator2 (intento 3/3)...
+2025-05-19 17:18:09,982 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:18:09,993 - uiautomator2.core - DEBUG - forward tcp:59209 -> tcp:9008
+2025-05-19 17:18:09,995 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:59209
+2025-05-19 17:18:10,228 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: [UiAutomator2Server] Starting Server\n'
+2025-05-19 17:18:10,481 - uiautomator2.core - DEBUG - MockAdbProcess: b'SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".'
+2025-05-19 17:18:10,482 - uiautomator2.core - DEBUG - MockAdbProcess: b'\nSLF4J: Defaulting to no-operation (NOP) logger implementation\nSLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.\n'
+2025-05-19 17:18:10,503 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:18:10,506 - uiautomator2.core - DEBUG - forward tcp:59209 -> tcp:9008
+2025-05-19 17:18:10,508 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:59209
+2025-05-19 17:18:10,712 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: clipboardManager inited\n'
+2025-05-19 17:18:10,716 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: tmpdir is /data/local/tmp/u2\n'
+2025-05-19 17:18:10,735 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: http server listening on *:9008\n'
+2025-05-19 17:18:11,014 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:18:11,016 - uiautomator2.core - DEBUG - forward tcp:59209 -> tcp:9008
+2025-05-19 17:18:11,018 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:59209
+2025-05-19 17:18:11,046 - urllib3.connectionpool - DEBUG - http://127.0.0.1:59209 "GET /ping HTTP/1.1" 200 4
+2025-05-19 17:18:11,047 - PlaylistPlayer - ERROR - [KF9HFUCE6XE6WSU8] Error al conectar/healthcheck (intento 1): 'Device' object has no attribute 'wait_for_device'
+2025-05-19 17:18:11,059 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 17:18:11,139 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 17:18:11,140 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:18:11,143 - uiautomator2.core - DEBUG - forward tcp:63090 -> tcp:9008
+2025-05-19 17:18:11,146 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:63090
+2025-05-19 17:18:11,158 - urllib3.connectionpool - DEBUG - http://127.0.0.1:63090 "GET /ping HTTP/1.1" 200 4
+2025-05-19 17:18:11,159 - PlaylistPlayer - ERROR - [2040306023095804] Error al conectar/healthcheck (intento 3): 'Device' object has no attribute 'wait_for_device'
+2025-05-19 17:18:11,164 - PlaylistPlayer - CRITICAL - [2040306023095804] Fallaron todos los intentos de conexión. Terminando worker.
+2025-05-19 17:18:12,879 - PlaylistPlayer - INFO - [P7NBHUMRBYRGY9KJ] Worker thread INICIADO.
+2025-05-19 17:18:12,880 - PlaylistPlayer - INFO - [P7NBHUMRBYRGY9KJ] Personalidad generada: FollowP=0.55, SearchP=0.14, SkipTrackP=0.21
+2025-05-19 17:18:12,882 - PlaylistPlayer - INFO - [P7NBHUMRBYRGY9KJ] Intentando conectar a uiautomator2 (intento 1/3)...
+2025-05-19 17:18:12,896 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 17:18:13,169 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 17:18:13,170 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:18:13,172 - uiautomator2.core - DEBUG - forward tcp:64145 -> tcp:9008
+2025-05-19 17:18:13,174 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:64145
+2025-05-19 17:18:13,199 - uiautomator2.core - DEBUG - launch uiautomator with cmd: CLASSPATH=/data/local/tmp/u2.jar app_process / com.wetest.uia2.Main
+2025-05-19 17:18:13,239 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:18:13,242 - uiautomator2.core - DEBUG - forward tcp:64145 -> tcp:9008
+2025-05-19 17:18:13,246 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:64145
+2025-05-19 17:18:13,765 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:18:13,767 - uiautomator2.core - DEBUG - forward tcp:64145 -> tcp:9008
+2025-05-19 17:18:13,769 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:64145
+2025-05-19 17:18:14,298 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:18:14,299 - uiautomator2.core - DEBUG - forward tcp:64145 -> tcp:9008
+2025-05-19 17:18:14,301 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:64145
+2025-05-19 17:18:14,823 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:18:14,834 - uiautomator2.core - DEBUG - forward tcp:64145 -> tcp:9008
+2025-05-19 17:18:14,836 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:64145
+2025-05-19 17:18:15,345 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:18:15,346 - uiautomator2.core - DEBUG - forward tcp:64145 -> tcp:9008
+2025-05-19 17:18:15,348 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:64145
+2025-05-19 17:18:15,856 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:18:15,868 - uiautomator2.core - DEBUG - forward tcp:64145 -> tcp:9008
+2025-05-19 17:18:15,870 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:64145
+2025-05-19 17:18:16,156 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: [UiAutomator2Server] Starting Server'
+2025-05-19 17:18:16,157 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:18:16,376 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:18:16,379 - uiautomator2.core - DEBUG - forward tcp:64145 -> tcp:9008
+2025-05-19 17:18:16,382 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:64145
+2025-05-19 17:18:16,809 - uiautomator2.core - DEBUG - MockAdbProcess: b'SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".'
+2025-05-19 17:18:16,810 - uiautomator2.core - DEBUG - MockAdbProcess: b'\nSLF4J: Defaulting to no-operation (NOP) logger implementation\n'
+2025-05-19 17:18:16,812 - uiautomator2.core - DEBUG - MockAdbProcess: b'SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.\n'
+2025-05-19 17:18:16,893 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:18:16,895 - uiautomator2.core - DEBUG - forward tcp:64145 -> tcp:9008
+2025-05-19 17:18:16,896 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:64145
+2025-05-19 17:18:17,249 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: clipboardManager inited'
+2025-05-19 17:18:17,253 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:18:17,265 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: tmpdir is /data/local/tmp/u2\n'
+2025-05-19 17:18:17,292 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: http server listening on *:9008'
+2025-05-19 17:18:17,293 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 17:18:17,407 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:18:17,410 - uiautomator2.core - DEBUG - forward tcp:64145 -> tcp:9008
+2025-05-19 17:18:17,413 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:64145
+2025-05-19 17:18:17,460 - urllib3.connectionpool - DEBUG - http://127.0.0.1:64145 "GET /ping HTTP/1.1" 200 4
+2025-05-19 17:18:17,462 - PlaylistPlayer - ERROR - [P7NBHUMRBYRGY9KJ] Error al conectar/healthcheck (intento 1): 'Device' object has no attribute 'wait_for_device'
+2025-05-19 17:18:17,595 - PlaylistPlayer - INFO - [4LJVPB6DUSIRMVUS] Intentando conectar a uiautomator2 (intento 2/3)...
+2025-05-19 17:18:17,610 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 17:18:17,712 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 17:18:17,712 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:18:17,715 - uiautomator2.core - DEBUG - forward tcp:63671 -> tcp:9008
+2025-05-19 17:18:17,717 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:63671
+2025-05-19 17:18:17,728 - urllib3.connectionpool - DEBUG - http://127.0.0.1:63671 "GET /ping HTTP/1.1" 200 4
+2025-05-19 17:18:17,731 - PlaylistPlayer - ERROR - [4LJVPB6DUSIRMVUS] Error al conectar/healthcheck (intento 2): 'Device' object has no attribute 'wait_for_device'
+2025-05-19 17:18:18,302 - PlaylistPlayer - INFO - Todos los 20 workers iniciados. El script principal esperará...
+2025-05-19 17:18:18,646 - PlaylistPlayer - INFO - [2040306023096006] Intentando conectar a uiautomator2 (intento 3/3)...
+2025-05-19 17:18:18,657 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 17:18:18,747 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 17:18:18,747 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:18:18,749 - uiautomator2.core - DEBUG - forward tcp:63236 -> tcp:9008
+2025-05-19 17:18:18,752 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:63236
+2025-05-19 17:18:18,758 - PlaylistPlayer - INFO - [DY49GQ7PFQCEKF6H] Intentando conectar a uiautomator2 (intento 2/3)...
+2025-05-19 17:18:18,764 - urllib3.connectionpool - DEBUG - http://127.0.0.1:63236 "GET /ping HTTP/1.1" 200 4
+2025-05-19 17:18:18,766 - PlaylistPlayer - ERROR - [2040306023096006] Error al conectar/healthcheck (intento 3): 'Device' object has no attribute 'wait_for_device'
+2025-05-19 17:18:18,768 - PlaylistPlayer - CRITICAL - [2040306023096006] Fallaron todos los intentos de conexión. Terminando worker.
+2025-05-19 17:18:18,782 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 17:18:18,835 - PlaylistPlayer - INFO - [2040306023098451] Intentando conectar a uiautomator2 (intento 3/3)...
+2025-05-19 17:18:18,888 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 17:18:18,888 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:18:18,891 - uiautomator2.core - DEBUG - forward tcp:56198 -> tcp:9008
+2025-05-19 17:18:18,893 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:56198
+2025-05-19 17:18:18,905 - urllib3.connectionpool - DEBUG - http://127.0.0.1:56198 "GET /ping HTTP/1.1" 200 4
+2025-05-19 17:18:18,906 - PlaylistPlayer - ERROR - [DY49GQ7PFQCEKF6H] Error al conectar/healthcheck (intento 2): 'Device' object has no attribute 'wait_for_device'
+2025-05-19 17:18:18,922 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 17:18:19,026 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 17:18:19,026 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:18:19,029 - uiautomator2.core - DEBUG - forward tcp:63518 -> tcp:9008
+2025-05-19 17:18:19,031 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:63518
+2025-05-19 17:18:19,047 - urllib3.connectionpool - DEBUG - http://127.0.0.1:63518 "GET /ping HTTP/1.1" 200 4
+2025-05-19 17:18:19,049 - PlaylistPlayer - ERROR - [2040306023098451] Error al conectar/healthcheck (intento 3): 'Device' object has no attribute 'wait_for_device'
+2025-05-19 17:18:19,050 - PlaylistPlayer - CRITICAL - [2040306023098451] Fallaron todos los intentos de conexión. Terminando worker.
+2025-05-19 17:18:21,745 - PlaylistPlayer - INFO - [2040306023097355] Intentando conectar a uiautomator2 (intento 3/3)...
+2025-05-19 17:18:21,758 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 17:18:21,849 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 17:18:21,850 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:18:21,853 - uiautomator2.core - DEBUG - forward tcp:63385 -> tcp:9008
+2025-05-19 17:18:21,855 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:63385
+2025-05-19 17:18:21,869 - urllib3.connectionpool - DEBUG - http://127.0.0.1:63385 "GET /ping HTTP/1.1" 200 4
+2025-05-19 17:18:21,870 - PlaylistPlayer - ERROR - [2040306023097355] Error al conectar/healthcheck (intento 3): 'Device' object has no attribute 'wait_for_device'
+2025-05-19 17:18:21,870 - PlaylistPlayer - CRITICAL - [2040306023097355] Fallaron todos los intentos de conexión. Terminando worker.
+2025-05-19 17:18:23,304 - PlaylistPlayer - DEBUG - Hilos activos: ['Worker-4LJVPB6D', 'Worker-DY49GQ7P', 'Worker-KF9HFUCE', 'Worker-P7NBHUMR']
+2025-05-19 17:18:24,487 - PlaylistPlayer - INFO - [KF9HFUCE6XE6WSU8] Intentando conectar a uiautomator2 (intento 2/3)...
+2025-05-19 17:18:24,505 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 17:18:24,570 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 17:18:24,571 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:18:24,573 - uiautomator2.core - DEBUG - forward tcp:59209 -> tcp:9008
+2025-05-19 17:18:24,576 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:59209
+2025-05-19 17:18:24,588 - urllib3.connectionpool - DEBUG - http://127.0.0.1:59209 "GET /ping HTTP/1.1" 200 4
+2025-05-19 17:18:24,589 - PlaylistPlayer - ERROR - [KF9HFUCE6XE6WSU8] Error al conectar/healthcheck (intento 2): 'Device' object has no attribute 'wait_for_device'
+2025-05-19 17:18:28,311 - PlaylistPlayer - DEBUG - Hilos activos: ['Worker-4LJVPB6D', 'Worker-DY49GQ7P', 'Worker-KF9HFUCE', 'Worker-P7NBHUMR']
+2025-05-19 17:18:28,638 - PlaylistPlayer - INFO - [P7NBHUMRBYRGY9KJ] Intentando conectar a uiautomator2 (intento 2/3)...
+2025-05-19 17:18:28,651 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 17:18:28,743 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 17:18:28,743 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:18:28,746 - uiautomator2.core - DEBUG - forward tcp:64145 -> tcp:9008
+2025-05-19 17:18:28,748 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:64145
+2025-05-19 17:18:28,764 - urllib3.connectionpool - DEBUG - http://127.0.0.1:64145 "GET /ping HTTP/1.1" 200 4
+2025-05-19 17:18:28,765 - PlaylistPlayer - ERROR - [P7NBHUMRBYRGY9KJ] Error al conectar/healthcheck (intento 2): 'Device' object has no attribute 'wait_for_device'
+2025-05-19 17:18:30,001 - PlaylistPlayer - INFO - [DY49GQ7PFQCEKF6H] Intentando conectar a uiautomator2 (intento 3/3)...
+2025-05-19 17:18:30,015 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 17:18:30,133 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 17:18:30,134 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:18:30,137 - uiautomator2.core - DEBUG - forward tcp:56198 -> tcp:9008
+2025-05-19 17:18:30,139 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:56198
+2025-05-19 17:18:30,151 - urllib3.connectionpool - DEBUG - http://127.0.0.1:56198 "GET /ping HTTP/1.1" 200 4
+2025-05-19 17:18:30,153 - PlaylistPlayer - ERROR - [DY49GQ7PFQCEKF6H] Error al conectar/healthcheck (intento 3): 'Device' object has no attribute 'wait_for_device'
+2025-05-19 17:18:30,153 - PlaylistPlayer - CRITICAL - [DY49GQ7PFQCEKF6H] Fallaron todos los intentos de conexión. Terminando worker.
+2025-05-19 17:18:30,405 - PlaylistPlayer - INFO - [4LJVPB6DUSIRMVUS] Intentando conectar a uiautomator2 (intento 3/3)...
+2025-05-19 17:18:30,423 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 17:18:30,536 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 17:18:30,537 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:18:30,540 - uiautomator2.core - DEBUG - forward tcp:63671 -> tcp:9008
+2025-05-19 17:18:30,543 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:63671
+2025-05-19 17:18:30,556 - urllib3.connectionpool - DEBUG - http://127.0.0.1:63671 "GET /ping HTTP/1.1" 200 4
+2025-05-19 17:18:30,557 - PlaylistPlayer - ERROR - [4LJVPB6DUSIRMVUS] Error al conectar/healthcheck (intento 3): 'Device' object has no attribute 'wait_for_device'
+2025-05-19 17:18:30,565 - PlaylistPlayer - CRITICAL - [4LJVPB6DUSIRMVUS] Fallaron todos los intentos de conexión. Terminando worker.
+2025-05-19 17:18:33,312 - PlaylistPlayer - DEBUG - Hilos activos: ['Worker-KF9HFUCE', 'Worker-P7NBHUMR']
+2025-05-19 17:18:36,518 - PlaylistPlayer - INFO - [KF9HFUCE6XE6WSU8] Intentando conectar a uiautomator2 (intento 3/3)...
+2025-05-19 17:18:36,539 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 17:18:36,649 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 17:18:36,649 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:18:36,652 - uiautomator2.core - DEBUG - forward tcp:59209 -> tcp:9008
+2025-05-19 17:18:36,654 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:59209
+2025-05-19 17:18:36,672 - urllib3.connectionpool - DEBUG - http://127.0.0.1:59209 "GET /ping HTTP/1.1" 200 4
+2025-05-19 17:18:36,674 - PlaylistPlayer - ERROR - [KF9HFUCE6XE6WSU8] Error al conectar/healthcheck (intento 3): 'Device' object has no attribute 'wait_for_device'
+2025-05-19 17:18:36,678 - PlaylistPlayer - CRITICAL - [KF9HFUCE6XE6WSU8] Fallaron todos los intentos de conexión. Terminando worker.
+2025-05-19 17:18:38,329 - PlaylistPlayer - DEBUG - Hilos activos: ['Worker-P7NBHUMR']
+2025-05-19 17:18:42,616 - PlaylistPlayer - INFO - [P7NBHUMRBYRGY9KJ] Intentando conectar a uiautomator2 (intento 3/3)...
+2025-05-19 17:18:42,629 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 17:18:42,714 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 17:18:42,714 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 17:18:42,717 - uiautomator2.core - DEBUG - forward tcp:64145 -> tcp:9008
+2025-05-19 17:18:42,719 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:64145
+2025-05-19 17:18:42,732 - urllib3.connectionpool - DEBUG - http://127.0.0.1:64145 "GET /ping HTTP/1.1" 200 4
+2025-05-19 17:18:42,734 - PlaylistPlayer - ERROR - [P7NBHUMRBYRGY9KJ] Error al conectar/healthcheck (intento 3): 'Device' object has no attribute 'wait_for_device'
+2025-05-19 17:18:42,735 - PlaylistPlayer - CRITICAL - [P7NBHUMRBYRGY9KJ] Fallaron todos los intentos de conexión. Terminando worker.
+2025-05-19 17:18:43,332 - PlaylistPlayer - DEBUG - Hilos activos: []
+2025-05-19 17:18:43,333 - PlaylistPlayer - INFO - Todos los hilos worker han terminado su ejecución.
+2025-05-19 17:18:43,335 - PlaylistPlayer - INFO - Esperando la finalización de los hilos (join)...
+2025-05-19 17:18:43,337 - PlaylistPlayer - INFO - --- PlaylistPlayer (Modo Multi-Hilo) Finalizado ---

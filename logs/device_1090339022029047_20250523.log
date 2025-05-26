@@ -1,0 +1,34 @@
+2025-05-23 16:20:33,591 - 1090339022029047-com.spotify.musid - INFO - ***** INICIANDO NUEVA SESIÓN PARA DISPOSITIVO: 1090339022029047 / APK: com.spotify.musid *****
+2025-05-23 16:20:33,838 - 1090339022029047-com.spotify.musid - INFO - Conectando a dispositivo: 1090339022029047
+2025-05-23 16:20:34,780 - 1090339022029047-com.spotify.musid - ERROR - Fatal en sesión 1090339022029047/com.spotify.musid: cannot bind listener: Too many open files
+2025-05-23 16:20:34,882 - 1090339022029047-com.spotify.musid - ERROR - Traceback (most recent call last):
+  File "C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\scripts\playlist_mode.py", line 1218, in run_device_session
+    device = u2.connect_usb(device_id)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\def\AppData\Local\Programs\Python\Python312\Lib\site-packages\uiautomator2\__init__.py", line 1119, in connect_usb
+    return Device(serial)
+           ^^^^^^^^^^^^^^
+  File "C:\Users\def\AppData\Local\Programs\Python\Python312\Lib\site-packages\uiautomator2\__init__.py", line 69, in __init__
+    BasicUiautomatorServer.__init__(self, self._dev)
+  File "C:\Users\def\AppData\Local\Programs\Python\Python312\Lib\site-packages\uiautomator2\core.py", line 179, in __init__
+    self.start_uiautomator()
+  File "C:\Users\def\AppData\Local\Programs\Python\Python312\Lib\site-packages\uiautomator2\core.py", line 202, in start_uiautomator
+    if not self._check_alive():
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\def\AppData\Local\Programs\Python\Python312\Lib\site-packages\uiautomator2\core.py", line 258, in _check_alive
+    response = _http_request(self._dev, "GET", "/ping")
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\def\AppData\Local\Programs\Python\Python312\Lib\site-packages\uiautomator2\core.py", line 91, in _http_request
+    lport = dev.forward_port(9008)
+            ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\def\AppData\Local\Programs\Python\Python312\Lib\site-packages\adbutils\_device.py", line 254, in forward_port
+    self.forward("tcp:" + str(local_port), remote)
+  File "C:\Users\def\AppData\Local\Programs\Python\Python312\Lib\site-packages\adbutils\_device.py", line 240, in forward
+    self._client.forward(self._serial, local, remote, norebind)
+  File "C:\Users\def\AppData\Local\Programs\Python\Python312\Lib\site-packages\adbutils\_adb.py", line 381, in forward
+    c.check_okay()
+  File "C:\Users\def\AppData\Local\Programs\Python\Python312\Lib\site-packages\adbutils\_adb.py", line 167, in check_okay
+    raise AdbError(self.read_string_block())
+adbutils.errors.AdbError: cannot bind listener: Too many open files
+
+2025-05-23 16:20:34,983 - 1090339022029047-com.spotify.musid - INFO - Duración total: 0.0 min

@@ -1,0 +1,404 @@
+2025-05-18 20:42:17,507 - AccountManager - INFO - Cargadas 10 cuentas desde el archivo
+2025-05-18 20:42:17,508 - AccountManager - INFO - Cargados 250 proxies desde el archivo
+2025-05-18 20:42:17,516 - AccountManager - INFO - AccountManager inicializado con 10 cuentas y 250 proxies
+2025-05-18 20:42:17,521 - HumanBehavior - INFO - Perfiles de comportamiento predeterminados creados en C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\config\behavior_profiles.json
+2025-05-18 20:42:17,521 - HumanBehavior - INFO - HumanBehaviorSimulator inicializado con 4 perfiles
+2025-05-18 20:42:17,690 - LoginManager - WARNING - Archivo de sesiones no encontrado: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\data\sessions.json
+2025-05-18 20:42:17,691 - LoginManager - INFO - LoginManager inicializado
+2025-05-18 20:42:17,691 - LoginManager - DEBUG - Ruta de sesiones: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\data\sessions.json
+2025-05-18 20:42:17,691 - LoginManager - DEBUG - Ruta de plantillas: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\templates
+2025-05-18 20:42:17,691 - LoginManager - WARNING - Plantillas faltantes: login_submit.png, home_icon.png, library_icon.png
+2025-05-18 20:42:17,692 - LoginManager - WARNING - Algunas funciones de reconocimiento visual pueden fallar
+2025-05-18 20:42:17,747 - AndroidDevice - INFO - Dispositivos detectados: ['2040306023079082']
+2025-05-18 20:42:32,858 - OTWMusicSystem - INFO - Configuración guardada en: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\config\config.json
+2025-05-18 20:42:32,859 - OTWMusicSystem - INFO - Archivo tracks copiado a C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\data\tracks.txt
+2025-05-18 20:42:35,954 - OTWMusicSystem - INFO - Configuración guardada en: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\config\config.json
+2025-05-18 20:42:35,955 - OTWMusicSystem - INFO - Archivo playlists copiado a C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\data\playlists.txt
+2025-05-18 20:42:39,174 - OTWMusicSystem - INFO - Configuración guardada en: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\config\config.json
+2025-05-18 20:42:39,175 - OTWMusicSystem - INFO - Archivo artists copiado a C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\data\artists.txt
+2025-05-18 20:42:41,851 - OTWMusicSystem - INFO - Configuración guardada en: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\config\config.json
+2025-05-18 20:42:41,852 - OTWMusicSystem - INFO - Archivo accounts copiado a C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\data\accounts.txt
+2025-05-18 20:42:44,090 - OTWMusicSystem - INFO - Configuración guardada en: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\config\config.json
+2025-05-18 20:42:44,091 - OTWMusicSystem - INFO - Archivo proxies copiado a C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\data\proxies.txt
+2025-05-18 20:42:46,877 - AndroidDevice - INFO - Dispositivos detectados: ['2040306023079082']
+2025-05-18 20:42:46,877 - LoginManager - INFO - Procesando login para 1 dispositivos: ['2040306023079082']
+2025-05-18 20:42:46,877 - LoginManager - INFO - Procesando dispositivo 2040306023079082
+2025-05-18 20:42:46,877 - LoginManager - INFO - Procesando login para dispositivo 2040306023079082
+2025-05-18 20:42:46,879 - AccountManager - INFO - Cuenta heyingage@instaddr.ch asignada al dispositivo 2040306023079082
+2025-05-18 20:42:46,879 - LoginManager - INFO - Cuenta obtenida para dispositivo 2040306023079082: heyingage@instaddr.ch
+2025-05-18 20:42:46,886 - AccountManager - INFO - Proxy 146.70.40.94:80:fpelmuks-3:0lrxoh26it92 asignado a la cuenta heyingage@instaddr.ch en dispositivo 2040306023079082
+2025-05-18 20:42:46,886 - LoginManager - INFO - Proxy obtenido para cuenta heyingage@instaddr.ch: 146.70.40.94:80:fpelmuks-3:0lrxoh26it92
+2025-05-18 20:42:46,886 - LoginManager - DEBUG - Creando nuevo objeto AndroidDevice para 2040306023079082
+2025-05-18 20:42:46,886 - AndroidDevice - INFO - Conectando al dispositivo 2040306023079082
+2025-05-18 20:42:46,894 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-18 20:42:47,042 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-18 20:42:47,043 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-18 20:42:47,053 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 20:42:47,055 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 20:42:47,066 - uiautomator2.core - DEBUG - launch uiautomator with cmd: CLASSPATH=/data/local/tmp/u2.jar app_process / com.wetest.uia2.Main
+2025-05-18 20:42:47,086 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-18 20:42:47,087 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 20:42:47,089 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 20:42:47,601 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-18 20:42:47,612 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 20:42:47,614 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 20:42:48,090 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: [UiAutomator2Server] Starting Server'
+2025-05-18 20:42:48,091 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-18 20:42:48,126 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-18 20:42:48,137 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 20:42:48,139 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 20:42:48,381 - uiautomator2.core - DEBUG - MockAdbProcess: b'SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".'
+2025-05-18 20:42:48,382 - uiautomator2.core - DEBUG - MockAdbProcess: b'\nSLF4J: Defaulting to no-operation (NOP) logger implementation\n'
+2025-05-18 20:42:48,383 - uiautomator2.core - DEBUG - MockAdbProcess: b'SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.\n'
+2025-05-18 20:42:48,650 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-18 20:42:48,661 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 20:42:48,662 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 20:42:48,721 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: clipboardManager inited\n'
+2025-05-18 20:42:48,728 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: tmpdir is /data/local/tmp/u2'
+2025-05-18 20:42:48,729 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-18 20:42:48,752 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: http server listening on *:9008'
+2025-05-18 20:42:48,753 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-18 20:42:49,173 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-18 20:42:49,184 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 20:42:49,186 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 20:42:49,237 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "GET /ping HTTP/1.1" 200 4
+2025-05-18 20:42:49,238 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'deviceInfo', 'params': {}}
+2025-05-18 20:42:49,249 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 20:42:49,250 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 20:42:49,457 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 262
+2025-05-18 20:42:49,830 - AndroidDevice - INFO - Información del dispositivo actualizada: BLU Studio X5 Max
+2025-05-18 20:42:49,831 - AndroidDevice - INFO - Conectado al dispositivo 2040306023079082
+2025-05-18 20:42:49,831 - LoginManager - DEBUG - Aplicaciones Spotify registradas: []
+2025-05-18 20:42:49,831 - LoginManager - WARNING - No hay aplicaciones Spotify registradas en el dispositivo 2040306023079082
+2025-05-18 20:42:49,831 - LoginManager - INFO - Registrando aplicación Spotify original
+2025-05-18 20:42:50,007 - AndroidDevice - INFO - Aplicación Spotify registrada: com.spotify.music como Spotify Original
+2025-05-18 20:42:50,007 - LoginManager - INFO - Seleccionada aplicación aleatoria para cuenta heyingage@instaddr.ch: com.spotify.music
+2025-05-18 20:42:50,012 - LoginManager - ERROR - Error al configurar proxy: cannot import name 'configure_proxy_for_device' from 'scripts.set_proxy' (C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\scripts\set_proxy.py)
+2025-05-18 20:42:50,013 - LoginManager - DEBUG - Traceback (most recent call last):
+  File "C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\login_manager.py", line 996, in process_login_for_device
+    from scripts.set_proxy import configure_proxy_for_device
+ImportError: cannot import name 'configure_proxy_for_device' from 'scripts.set_proxy' (C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\scripts\set_proxy.py)
+
+2025-05-18 20:42:50,013 - LoginManager - INFO - Iniciando proceso de login en dispositivo 2040306023079082 con cuenta heyingage@instaddr.ch
+2025-05-18 20:42:50,013 - LoginManager - DEBUG - Cerrando com.spotify.music si está abierto
+2025-05-18 20:42:50,013 - AndroidDevice - INFO - Deteniendo aplicación: com.spotify.music
+2025-05-18 20:42:50,216 - AndroidDevice - INFO - Aplicación detenida: com.spotify.music
+2025-05-18 20:42:51,234 - LoginManager - INFO - Abriendo Spotify (com.spotify.music) en dispositivo 2040306023079082
+2025-05-18 20:42:51,234 - AndroidDevice - INFO - Iniciando aplicación: com.spotify.music
+2025-05-18 20:42:55,285 - AndroidDevice - INFO - Aplicación iniciada: com.spotify.music
+2025-05-18 20:42:55,285 - LoginManager - INFO - Spotify (com.spotify.music) abierto en dispositivo 2040306023079082
+2025-05-18 20:42:55,285 - LoginManager - DEBUG - Esperando 5 segundos para que la aplicación se inicie completamente
+2025-05-18 20:43:00,534 - LoginManager - DEBUG - Aplicación com.spotify.music está en primer plano
+2025-05-18 20:43:00,534 - LoginManager - DEBUG - Capturando pantalla en C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_start_2040306023079082_20250518_204300.png
+2025-05-18 20:43:00,534 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'takeScreenshot', 'params': (1, 80)}
+2025-05-18 20:43:00,545 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 20:43:00,546 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 20:43:00,584 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 20:43:00,906 - PIL.Image - DEBUG - Importing BlpImagePlugin
+2025-05-18 20:43:00,907 - PIL.Image - DEBUG - Importing BmpImagePlugin
+2025-05-18 20:43:00,907 - PIL.Image - DEBUG - Importing BufrStubImagePlugin
+2025-05-18 20:43:00,908 - PIL.Image - DEBUG - Importing CurImagePlugin
+2025-05-18 20:43:00,908 - PIL.Image - DEBUG - Importing DcxImagePlugin
+2025-05-18 20:43:00,909 - PIL.Image - DEBUG - Importing DdsImagePlugin
+2025-05-18 20:43:00,912 - PIL.Image - DEBUG - Importing EpsImagePlugin
+2025-05-18 20:43:00,913 - PIL.Image - DEBUG - Importing FitsImagePlugin
+2025-05-18 20:43:00,914 - PIL.Image - DEBUG - Importing FliImagePlugin
+2025-05-18 20:43:00,914 - PIL.Image - DEBUG - Importing FpxImagePlugin
+2025-05-18 20:43:00,915 - PIL.Image - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2025-05-18 20:43:00,915 - PIL.Image - DEBUG - Importing FtexImagePlugin
+2025-05-18 20:43:00,916 - PIL.Image - DEBUG - Importing GbrImagePlugin
+2025-05-18 20:43:00,916 - PIL.Image - DEBUG - Importing GifImagePlugin
+2025-05-18 20:43:00,917 - PIL.Image - DEBUG - Importing GribStubImagePlugin
+2025-05-18 20:43:00,917 - PIL.Image - DEBUG - Importing Hdf5StubImagePlugin
+2025-05-18 20:43:00,918 - PIL.Image - DEBUG - Importing IcnsImagePlugin
+2025-05-18 20:43:00,919 - PIL.Image - DEBUG - Importing IcoImagePlugin
+2025-05-18 20:43:00,920 - PIL.Image - DEBUG - Importing ImImagePlugin
+2025-05-18 20:43:00,921 - PIL.Image - DEBUG - Importing ImtImagePlugin
+2025-05-18 20:43:00,921 - PIL.Image - DEBUG - Importing IptcImagePlugin
+2025-05-18 20:43:00,922 - PIL.Image - DEBUG - Importing JpegImagePlugin
+2025-05-18 20:43:00,922 - PIL.Image - DEBUG - Importing Jpeg2KImagePlugin
+2025-05-18 20:43:00,922 - PIL.Image - DEBUG - Importing McIdasImagePlugin
+2025-05-18 20:43:00,922 - PIL.Image - DEBUG - Importing MicImagePlugin
+2025-05-18 20:43:00,923 - PIL.Image - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2025-05-18 20:43:00,923 - PIL.Image - DEBUG - Importing MpegImagePlugin
+2025-05-18 20:43:00,924 - PIL.Image - DEBUG - Importing MpoImagePlugin
+2025-05-18 20:43:00,928 - PIL.Image - DEBUG - Importing MspImagePlugin
+2025-05-18 20:43:00,929 - PIL.Image - DEBUG - Importing PalmImagePlugin
+2025-05-18 20:43:00,930 - PIL.Image - DEBUG - Importing PcdImagePlugin
+2025-05-18 20:43:00,931 - PIL.Image - DEBUG - Importing PcxImagePlugin
+2025-05-18 20:43:00,932 - PIL.Image - DEBUG - Importing PdfImagePlugin
+2025-05-18 20:43:00,938 - PIL.Image - DEBUG - Importing PixarImagePlugin
+2025-05-18 20:43:00,939 - PIL.Image - DEBUG - Importing PngImagePlugin
+2025-05-18 20:43:00,939 - PIL.Image - DEBUG - Importing PpmImagePlugin
+2025-05-18 20:43:00,939 - PIL.Image - DEBUG - Importing PsdImagePlugin
+2025-05-18 20:43:00,940 - PIL.Image - DEBUG - Importing QoiImagePlugin
+2025-05-18 20:43:00,941 - PIL.Image - DEBUG - Importing SgiImagePlugin
+2025-05-18 20:43:00,941 - PIL.Image - DEBUG - Importing SpiderImagePlugin
+2025-05-18 20:43:00,942 - PIL.Image - DEBUG - Importing SunImagePlugin
+2025-05-18 20:43:00,942 - PIL.Image - DEBUG - Importing TgaImagePlugin
+2025-05-18 20:43:00,943 - PIL.Image - DEBUG - Importing TiffImagePlugin
+2025-05-18 20:43:00,943 - PIL.Image - DEBUG - Importing WebPImagePlugin
+2025-05-18 20:43:00,944 - PIL.Image - DEBUG - Importing WmfImagePlugin
+2025-05-18 20:43:00,945 - PIL.Image - DEBUG - Importing XbmImagePlugin
+2025-05-18 20:43:00,946 - PIL.Image - DEBUG - Importing XpmImagePlugin
+2025-05-18 20:43:00,947 - PIL.Image - DEBUG - Importing XVThumbImagePlugin
+2025-05-18 20:43:00,948 - adbutils.screenshot - WARNING - screencap error: cannot identify image file <_io.BytesIO object at 0x0000022B486E91D0>
+2025-05-18 20:43:01,152 - adbutils.shell - DEBUG - get window size from 'wm size': WindowSize(width=480, height=960) False
+2025-05-18 20:43:01,166 - LoginManager - DEBUG - Captura de pantalla exitosa: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_start_2040306023079082_20250518_204300.png
+2025-05-18 20:43:01,167 - LoginManager - DEBUG - Buscando botón 'Log In' por plantilla
+2025-05-18 20:43:01,167 - LoginManager - DEBUG - Esperando elemento: login_button.png
+2025-05-18 20:43:01,167 - LoginManager - DEBUG - Intento 1/5
+2025-05-18 20:43:01,168 - LoginManager - DEBUG - Capturando pantalla en C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_screenshot_2040306023079082_20250518_204301.png
+2025-05-18 20:43:01,168 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'takeScreenshot', 'params': (1, 80)}
+2025-05-18 20:43:01,178 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 20:43:01,180 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 20:43:01,206 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 20:43:01,557 - adbutils.screenshot - WARNING - screencap error: cannot identify image file <_io.BytesIO object at 0x0000022B4C79C950>
+2025-05-18 20:43:01,713 - adbutils.shell - DEBUG - get window size from 'wm size': WindowSize(width=480, height=960) False
+2025-05-18 20:43:01,725 - LoginManager - DEBUG - Captura de pantalla exitosa: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_screenshot_2040306023079082_20250518_204301.png
+2025-05-18 20:43:01,727 - LoginManager - DEBUG - Buscando coincidencia con plantilla: login_button.png
+2025-05-18 20:43:01,771 - LoginManager - DEBUG - Mejor coincidencia: 0.0000 (umbral: 0.7000)
+2025-05-18 20:43:01,771 - LoginManager - DEBUG - No se encontró coincidencia por encima del umbral (0.7)
+2025-05-18 20:43:01,771 - LoginManager - DEBUG - Elemento no encontrado, esperando 1s antes del siguiente intento
+2025-05-18 20:43:02,772 - LoginManager - DEBUG - Intento 2/5
+2025-05-18 20:43:02,772 - LoginManager - DEBUG - Capturando pantalla en C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_screenshot_2040306023079082_20250518_204302.png
+2025-05-18 20:43:02,772 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'takeScreenshot', 'params': (1, 80)}
+2025-05-18 20:43:02,773 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 20:43:02,774 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 20:43:02,817 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 20:43:03,148 - adbutils.screenshot - WARNING - screencap error: cannot identify image file <_io.BytesIO object at 0x0000022B4C7A0450>
+2025-05-18 20:43:03,317 - adbutils.shell - DEBUG - get window size from 'wm size': WindowSize(width=480, height=960) False
+2025-05-18 20:43:03,330 - LoginManager - DEBUG - Captura de pantalla exitosa: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_screenshot_2040306023079082_20250518_204302.png
+2025-05-18 20:43:03,331 - LoginManager - DEBUG - Buscando coincidencia con plantilla: login_button.png
+2025-05-18 20:43:03,354 - LoginManager - DEBUG - Mejor coincidencia: 0.0000 (umbral: 0.7000)
+2025-05-18 20:43:03,355 - LoginManager - DEBUG - No se encontró coincidencia por encima del umbral (0.7)
+2025-05-18 20:43:03,355 - LoginManager - DEBUG - Elemento no encontrado, esperando 1s antes del siguiente intento
+2025-05-18 20:43:04,356 - LoginManager - DEBUG - Intento 3/5
+2025-05-18 20:43:04,356 - LoginManager - DEBUG - Capturando pantalla en C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_screenshot_2040306023079082_20250518_204304.png
+2025-05-18 20:43:04,356 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'takeScreenshot', 'params': (1, 80)}
+2025-05-18 20:43:04,367 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 20:43:04,368 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 20:43:04,396 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 20:43:04,729 - adbutils.screenshot - WARNING - screencap error: cannot identify image file <_io.BytesIO object at 0x0000022B4C7A05E0>
+2025-05-18 20:43:04,923 - adbutils.shell - DEBUG - get window size from 'wm size': WindowSize(width=480, height=960) False
+2025-05-18 20:43:04,935 - LoginManager - DEBUG - Captura de pantalla exitosa: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_screenshot_2040306023079082_20250518_204304.png
+2025-05-18 20:43:04,936 - LoginManager - DEBUG - Buscando coincidencia con plantilla: login_button.png
+2025-05-18 20:43:04,960 - LoginManager - DEBUG - Mejor coincidencia: 0.0000 (umbral: 0.7000)
+2025-05-18 20:43:04,961 - LoginManager - DEBUG - No se encontró coincidencia por encima del umbral (0.7)
+2025-05-18 20:43:04,961 - LoginManager - DEBUG - Elemento no encontrado, esperando 1s antes del siguiente intento
+2025-05-18 20:43:05,962 - LoginManager - DEBUG - Intento 4/5
+2025-05-18 20:43:05,962 - LoginManager - DEBUG - Capturando pantalla en C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_screenshot_2040306023079082_20250518_204305.png
+2025-05-18 20:43:05,962 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'takeScreenshot', 'params': (1, 80)}
+2025-05-18 20:43:05,973 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 20:43:05,974 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 20:43:06,002 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 20:43:06,345 - adbutils.screenshot - WARNING - screencap error: cannot identify image file <_io.BytesIO object at 0x0000022B4C7A0400>
+2025-05-18 20:43:06,499 - adbutils.shell - DEBUG - get window size from 'wm size': WindowSize(width=480, height=960) False
+2025-05-18 20:43:06,512 - LoginManager - DEBUG - Captura de pantalla exitosa: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_screenshot_2040306023079082_20250518_204305.png
+2025-05-18 20:43:06,512 - LoginManager - DEBUG - Buscando coincidencia con plantilla: login_button.png
+2025-05-18 20:43:06,535 - LoginManager - DEBUG - Mejor coincidencia: 0.0000 (umbral: 0.7000)
+2025-05-18 20:43:06,536 - LoginManager - DEBUG - No se encontró coincidencia por encima del umbral (0.7)
+2025-05-18 20:43:06,536 - LoginManager - DEBUG - Elemento no encontrado, esperando 1s antes del siguiente intento
+2025-05-18 20:43:07,537 - LoginManager - DEBUG - Intento 5/5
+2025-05-18 20:43:07,537 - LoginManager - DEBUG - Capturando pantalla en C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_screenshot_2040306023079082_20250518_204307.png
+2025-05-18 20:43:07,537 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'takeScreenshot', 'params': (1, 80)}
+2025-05-18 20:43:07,547 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 20:43:07,549 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 20:43:07,588 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 20:43:07,931 - adbutils.screenshot - WARNING - screencap error: cannot identify image file <_io.BytesIO object at 0x0000022B4C7A0E50>
+2025-05-18 20:43:08,081 - adbutils.shell - DEBUG - get window size from 'wm size': WindowSize(width=480, height=960) False
+2025-05-18 20:43:08,094 - LoginManager - DEBUG - Captura de pantalla exitosa: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_screenshot_2040306023079082_20250518_204307.png
+2025-05-18 20:43:08,094 - LoginManager - DEBUG - Buscando coincidencia con plantilla: login_button.png
+2025-05-18 20:43:08,117 - LoginManager - DEBUG - Mejor coincidencia: 0.0000 (umbral: 0.7000)
+2025-05-18 20:43:08,118 - LoginManager - DEBUG - No se encontró coincidencia por encima del umbral (0.7)
+2025-05-18 20:43:08,118 - LoginManager - DEBUG - Elemento no encontrado, esperando 1s antes del siguiente intento
+2025-05-18 20:43:09,119 - LoginManager - WARNING - Elemento no encontrado después de 5 intentos
+2025-05-18 20:43:09,119 - LoginManager - DEBUG - Buscando botón 'Log In' por texto
+2025-05-18 20:43:09,119 - LoginManager - DEBUG - Buscando elemento con texto: 'Log In'
+2025-05-18 20:43:09,120 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'exist', 'params': ({'mask': 2, 'childOrSibling': [], 'childOrSiblingSelector': [], 'textContains': 'Log In'},)}
+2025-05-18 20:43:09,121 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 20:43:09,122 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 20:43:09,332 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-18 20:43:09,333 - LoginManager - DEBUG - Elemento con texto 'Log In' no encontrado
+2025-05-18 20:43:09,333 - LoginManager - DEBUG - Buscando elemento con texto: 'Iniciar sesión'
+2025-05-18 20:43:09,333 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'exist', 'params': ({'mask': 2, 'childOrSibling': [], 'childOrSiblingSelector': [], 'textContains': 'Iniciar sesión'},)}
+2025-05-18 20:43:09,344 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 20:43:09,345 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 20:43:09,418 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-18 20:43:09,420 - LoginManager - DEBUG - Elemento con texto 'Iniciar sesión' no encontrado
+2025-05-18 20:43:09,420 - LoginManager - DEBUG - Buscando elemento con texto: 'Login'
+2025-05-18 20:43:09,420 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'exist', 'params': ({'mask': 2, 'childOrSibling': [], 'childOrSiblingSelector': [], 'textContains': 'Login'},)}
+2025-05-18 20:43:09,431 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 20:43:09,433 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 20:43:09,534 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-18 20:43:09,535 - LoginManager - DEBUG - Elemento con texto 'Login' no encontrado
+2025-05-18 20:43:09,535 - LoginManager - DEBUG - Buscando elemento con texto: 'Sign In'
+2025-05-18 20:43:09,535 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'exist', 'params': ({'mask': 2, 'childOrSibling': [], 'childOrSiblingSelector': [], 'textContains': 'Sign In'},)}
+2025-05-18 20:43:09,546 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 20:43:09,548 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 20:43:09,635 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-18 20:43:09,636 - LoginManager - DEBUG - Elemento con texto 'Sign In' no encontrado
+2025-05-18 20:43:09,636 - LoginManager - DEBUG - Buscando botón 'Log In' por resource-id
+2025-05-18 20:43:09,637 - LoginManager - DEBUG - Buscando elemento con resource-id: 'com.spotify.music:id/login_button'
+2025-05-18 20:43:09,637 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'exist', 'params': ({'mask': 2097152, 'childOrSibling': [], 'childOrSiblingSelector': [], 'resourceId': 'com.spotify.music:id/login_button'},)}
+2025-05-18 20:43:09,647 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 20:43:09,649 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 20:43:09,704 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-18 20:43:09,705 - LoginManager - DEBUG - Elemento con resource-id 'com.spotify.music:id/login_button' no encontrado
+2025-05-18 20:43:09,705 - LoginManager - DEBUG - Buscando elemento con resource-id: 'com.spotify.music:id/log_in_button'
+2025-05-18 20:43:09,705 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'exist', 'params': ({'mask': 2097152, 'childOrSibling': [], 'childOrSiblingSelector': [], 'resourceId': 'com.spotify.music:id/log_in_button'},)}
+2025-05-18 20:43:09,706 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 20:43:09,707 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 20:43:09,757 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-18 20:43:09,758 - LoginManager - DEBUG - Elemento con resource-id 'com.spotify.music:id/log_in_button' no encontrado
+2025-05-18 20:43:09,758 - LoginManager - ERROR - No se pudo encontrar el botón 'Log In' en dispositivo 2040306023079082
+2025-05-18 20:43:09,759 - LoginManager - DEBUG - Capturando pantalla en C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_button_not_found_2040306023079082_20250518_204309.png
+2025-05-18 20:43:09,759 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'takeScreenshot', 'params': (1, 80)}
+2025-05-18 20:43:09,770 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 20:43:09,771 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 20:43:09,799 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 20:43:10,121 - adbutils.screenshot - WARNING - screencap error: cannot identify image file <_io.BytesIO object at 0x0000022B4C7A4F40>
+2025-05-18 20:43:10,307 - adbutils.shell - DEBUG - get window size from 'wm size': WindowSize(width=480, height=960) False
+2025-05-18 20:43:10,319 - LoginManager - DEBUG - Captura de pantalla exitosa: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_button_not_found_2040306023079082_20250518_204309.png
+2025-05-18 20:43:15,320 - LoginManager - INFO - Iniciando proceso de login en dispositivo 2040306023079082 con cuenta heyingage@instaddr.ch
+2025-05-18 20:43:15,320 - LoginManager - DEBUG - Cerrando com.spotify.music si está abierto
+2025-05-18 20:43:15,320 - AndroidDevice - INFO - Deteniendo aplicación: com.spotify.music
+2025-05-18 20:43:15,561 - AndroidDevice - INFO - Aplicación detenida: com.spotify.music
+2025-05-18 20:43:16,758 - LoginManager - INFO - Abriendo Spotify (com.spotify.music) en dispositivo 2040306023079082
+2025-05-18 20:43:16,758 - AndroidDevice - INFO - Iniciando aplicación: com.spotify.music
+2025-05-18 20:43:20,793 - AndroidDevice - INFO - Aplicación iniciada: com.spotify.music
+2025-05-18 20:43:20,793 - LoginManager - INFO - Spotify (com.spotify.music) abierto en dispositivo 2040306023079082
+2025-05-18 20:43:20,793 - LoginManager - DEBUG - Esperando 5 segundos para que la aplicación se inicie completamente
+2025-05-18 20:43:25,995 - LoginManager - DEBUG - Aplicación com.spotify.music está en primer plano
+2025-05-18 20:43:25,996 - LoginManager - DEBUG - Capturando pantalla en C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_start_2040306023079082_20250518_204325.png
+2025-05-18 20:43:25,996 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'takeScreenshot', 'params': (1, 80)}
+2025-05-18 20:43:26,006 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 20:43:26,008 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 20:43:26,037 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 20:43:26,357 - adbutils.screenshot - WARNING - screencap error: cannot identify image file <_io.BytesIO object at 0x0000022B4C7A4C20>
+2025-05-18 20:43:26,512 - adbutils.shell - DEBUG - get window size from 'wm size': WindowSize(width=480, height=960) False
+2025-05-18 20:43:26,524 - LoginManager - DEBUG - Captura de pantalla exitosa: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_start_2040306023079082_20250518_204325.png
+2025-05-18 20:43:26,525 - LoginManager - DEBUG - Buscando botón 'Log In' por plantilla
+2025-05-18 20:43:26,525 - LoginManager - DEBUG - Esperando elemento: login_button.png
+2025-05-18 20:43:26,525 - LoginManager - DEBUG - Intento 1/5
+2025-05-18 20:43:26,525 - LoginManager - DEBUG - Capturando pantalla en C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_screenshot_2040306023079082_20250518_204326.png
+2025-05-18 20:43:26,526 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'takeScreenshot', 'params': (1, 80)}
+2025-05-18 20:43:26,536 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 20:43:26,537 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 20:43:26,562 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 20:43:26,891 - adbutils.screenshot - WARNING - screencap error: cannot identify image file <_io.BytesIO object at 0x0000022B4C7A4E00>
+2025-05-18 20:43:27,061 - adbutils.shell - DEBUG - get window size from 'wm size': WindowSize(width=480, height=960) False
+2025-05-18 20:43:27,072 - LoginManager - DEBUG - Captura de pantalla exitosa: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_screenshot_2040306023079082_20250518_204326.png
+2025-05-18 20:43:27,073 - LoginManager - DEBUG - Buscando coincidencia con plantilla: login_button.png
+2025-05-18 20:43:27,096 - LoginManager - DEBUG - Mejor coincidencia: 0.0000 (umbral: 0.7000)
+2025-05-18 20:43:27,097 - LoginManager - DEBUG - No se encontró coincidencia por encima del umbral (0.7)
+2025-05-18 20:43:27,097 - LoginManager - DEBUG - Elemento no encontrado, esperando 1s antes del siguiente intento
+2025-05-18 20:43:28,098 - LoginManager - DEBUG - Intento 2/5
+2025-05-18 20:43:28,098 - LoginManager - DEBUG - Capturando pantalla en C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_screenshot_2040306023079082_20250518_204328.png
+2025-05-18 20:43:28,098 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'takeScreenshot', 'params': (1, 80)}
+2025-05-18 20:43:28,109 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 20:43:28,111 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 20:43:28,146 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 20:43:28,689 - adbutils.screenshot - WARNING - screencap error: cannot identify image file <_io.BytesIO object at 0x0000022B4C7A4B80>
+2025-05-18 20:43:28,889 - adbutils.shell - DEBUG - get window size from 'wm size': WindowSize(width=480, height=960) False
+2025-05-18 20:43:28,902 - LoginManager - DEBUG - Captura de pantalla exitosa: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_screenshot_2040306023079082_20250518_204328.png
+2025-05-18 20:43:28,903 - LoginManager - DEBUG - Buscando coincidencia con plantilla: login_button.png
+2025-05-18 20:43:28,926 - LoginManager - DEBUG - Mejor coincidencia: 0.0000 (umbral: 0.7000)
+2025-05-18 20:43:28,927 - LoginManager - DEBUG - No se encontró coincidencia por encima del umbral (0.7)
+2025-05-18 20:43:28,927 - LoginManager - DEBUG - Elemento no encontrado, esperando 1s antes del siguiente intento
+2025-05-18 20:43:29,928 - LoginManager - DEBUG - Intento 3/5
+2025-05-18 20:43:29,928 - LoginManager - DEBUG - Capturando pantalla en C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_screenshot_2040306023079082_20250518_204329.png
+2025-05-18 20:43:29,928 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'takeScreenshot', 'params': (1, 80)}
+2025-05-18 20:43:29,939 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 20:43:29,940 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 20:43:29,974 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 20:43:30,298 - adbutils.screenshot - WARNING - screencap error: cannot identify image file <_io.BytesIO object at 0x0000022B4C7A4B80>
+2025-05-18 20:43:30,467 - adbutils.shell - DEBUG - get window size from 'wm size': WindowSize(width=480, height=960) False
+2025-05-18 20:43:30,478 - LoginManager - DEBUG - Captura de pantalla exitosa: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_screenshot_2040306023079082_20250518_204329.png
+2025-05-18 20:43:30,479 - LoginManager - DEBUG - Buscando coincidencia con plantilla: login_button.png
+2025-05-18 20:43:30,502 - LoginManager - DEBUG - Mejor coincidencia: 0.0000 (umbral: 0.7000)
+2025-05-18 20:43:30,502 - LoginManager - DEBUG - No se encontró coincidencia por encima del umbral (0.7)
+2025-05-18 20:43:30,502 - LoginManager - DEBUG - Elemento no encontrado, esperando 1s antes del siguiente intento
+2025-05-18 20:43:31,503 - LoginManager - DEBUG - Intento 4/5
+2025-05-18 20:43:31,503 - LoginManager - DEBUG - Capturando pantalla en C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_screenshot_2040306023079082_20250518_204331.png
+2025-05-18 20:43:31,503 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'takeScreenshot', 'params': (1, 80)}
+2025-05-18 20:43:31,514 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 20:43:31,516 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 20:43:31,545 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 20:43:31,914 - adbutils.screenshot - WARNING - screencap error: cannot identify image file <_io.BytesIO object at 0x0000022B4C7A4EA0>
+2025-05-18 20:43:32,155 - adbutils.shell - DEBUG - get window size from 'wm size': WindowSize(width=480, height=960) False
+2025-05-18 20:43:32,169 - LoginManager - DEBUG - Captura de pantalla exitosa: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_screenshot_2040306023079082_20250518_204331.png
+2025-05-18 20:43:32,170 - LoginManager - DEBUG - Buscando coincidencia con plantilla: login_button.png
+2025-05-18 20:43:32,194 - LoginManager - DEBUG - Mejor coincidencia: 0.0000 (umbral: 0.7000)
+2025-05-18 20:43:32,195 - LoginManager - DEBUG - No se encontró coincidencia por encima del umbral (0.7)
+2025-05-18 20:43:32,195 - LoginManager - DEBUG - Elemento no encontrado, esperando 1s antes del siguiente intento
+2025-05-18 20:43:33,196 - LoginManager - DEBUG - Intento 5/5
+2025-05-18 20:43:33,196 - LoginManager - DEBUG - Capturando pantalla en C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_screenshot_2040306023079082_20250518_204333.png
+2025-05-18 20:43:33,196 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'takeScreenshot', 'params': (1, 80)}
+2025-05-18 20:43:33,206 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 20:43:33,208 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 20:43:33,245 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 20:43:33,579 - adbutils.screenshot - WARNING - screencap error: cannot identify image file <_io.BytesIO object at 0x0000022B4C7A4EA0>
+2025-05-18 20:43:33,725 - adbutils.shell - DEBUG - get window size from 'wm size': WindowSize(width=480, height=960) False
+2025-05-18 20:43:33,739 - LoginManager - DEBUG - Captura de pantalla exitosa: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_screenshot_2040306023079082_20250518_204333.png
+2025-05-18 20:43:33,740 - LoginManager - DEBUG - Buscando coincidencia con plantilla: login_button.png
+2025-05-18 20:43:33,762 - LoginManager - DEBUG - Mejor coincidencia: 0.0000 (umbral: 0.7000)
+2025-05-18 20:43:33,763 - LoginManager - DEBUG - No se encontró coincidencia por encima del umbral (0.7)
+2025-05-18 20:43:33,763 - LoginManager - DEBUG - Elemento no encontrado, esperando 1s antes del siguiente intento
+2025-05-18 20:43:34,764 - LoginManager - WARNING - Elemento no encontrado después de 5 intentos
+2025-05-18 20:43:34,764 - LoginManager - DEBUG - Buscando botón 'Log In' por texto
+2025-05-18 20:43:34,764 - LoginManager - DEBUG - Buscando elemento con texto: 'Log In'
+2025-05-18 20:43:34,764 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'exist', 'params': ({'mask': 2, 'childOrSibling': [], 'childOrSiblingSelector': [], 'textContains': 'Log In'},)}
+2025-05-18 20:43:34,775 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 20:43:34,777 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 20:43:34,841 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-18 20:43:34,841 - LoginManager - DEBUG - Elemento con texto 'Log In' no encontrado
+2025-05-18 20:43:34,842 - LoginManager - DEBUG - Buscando elemento con texto: 'Iniciar sesión'
+2025-05-18 20:43:34,842 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'exist', 'params': ({'mask': 2, 'childOrSibling': [], 'childOrSiblingSelector': [], 'textContains': 'Iniciar sesión'},)}
+2025-05-18 20:43:34,843 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 20:43:34,844 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 20:43:34,878 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-18 20:43:34,878 - LoginManager - DEBUG - Elemento con texto 'Iniciar sesión' no encontrado
+2025-05-18 20:43:34,878 - LoginManager - DEBUG - Buscando elemento con texto: 'Login'
+2025-05-18 20:43:34,879 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'exist', 'params': ({'mask': 2, 'childOrSibling': [], 'childOrSiblingSelector': [], 'textContains': 'Login'},)}
+2025-05-18 20:43:34,879 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 20:43:34,880 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 20:43:34,919 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-18 20:43:34,920 - LoginManager - DEBUG - Elemento con texto 'Login' no encontrado
+2025-05-18 20:43:34,920 - LoginManager - DEBUG - Buscando elemento con texto: 'Sign In'
+2025-05-18 20:43:34,920 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'exist', 'params': ({'mask': 2, 'childOrSibling': [], 'childOrSiblingSelector': [], 'textContains': 'Sign In'},)}
+2025-05-18 20:43:34,931 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 20:43:34,932 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 20:43:34,972 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-18 20:43:34,973 - LoginManager - DEBUG - Elemento con texto 'Sign In' no encontrado
+2025-05-18 20:43:34,973 - LoginManager - DEBUG - Buscando botón 'Log In' por resource-id
+2025-05-18 20:43:34,974 - LoginManager - DEBUG - Buscando elemento con resource-id: 'com.spotify.music:id/login_button'
+2025-05-18 20:43:34,974 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'exist', 'params': ({'mask': 2097152, 'childOrSibling': [], 'childOrSiblingSelector': [], 'resourceId': 'com.spotify.music:id/login_button'},)}
+2025-05-18 20:43:34,974 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 20:43:34,975 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 20:43:35,015 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-18 20:43:35,015 - LoginManager - DEBUG - Elemento con resource-id 'com.spotify.music:id/login_button' no encontrado
+2025-05-18 20:43:35,016 - LoginManager - DEBUG - Buscando elemento con resource-id: 'com.spotify.music:id/log_in_button'
+2025-05-18 20:43:35,016 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'exist', 'params': ({'mask': 2097152, 'childOrSibling': [], 'childOrSiblingSelector': [], 'resourceId': 'com.spotify.music:id/log_in_button'},)}
+2025-05-18 20:43:35,027 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 20:43:35,028 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 20:43:35,071 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 40
+2025-05-18 20:43:35,072 - LoginManager - DEBUG - Elemento con resource-id 'com.spotify.music:id/log_in_button' no encontrado
+2025-05-18 20:43:35,072 - LoginManager - ERROR - No se pudo encontrar el botón 'Log In' en dispositivo 2040306023079082
+2025-05-18 20:43:35,072 - LoginManager - DEBUG - Capturando pantalla en C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_button_not_found_2040306023079082_20250518_204335.png
+2025-05-18 20:43:35,072 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'takeScreenshot', 'params': (1, 80)}
+2025-05-18 20:43:35,083 - uiautomator2.core - DEBUG - forward tcp:60779 -> tcp:9008
+2025-05-18 20:43:35,084 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60779
+2025-05-18 20:43:35,111 - urllib3.connectionpool - DEBUG - http://127.0.0.1:60779 "POST /jsonrpc/0 HTTP/1.1" 200 39
+2025-05-18 20:43:35,434 - adbutils.screenshot - WARNING - screencap error: cannot identify image file <_io.BytesIO object at 0x0000022B4C7AD310>
+2025-05-18 20:43:35,584 - adbutils.shell - DEBUG - get window size from 'wm size': WindowSize(width=480, height=960) False
+2025-05-18 20:43:35,596 - LoginManager - DEBUG - Captura de pantalla exitosa: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\screenshots\login_button_not_found_2040306023079082_20250518_204335.png
+2025-05-18 20:43:40,597 - LoginManager - INFO - Iniciando proceso de login en dispositivo 2040306023079082 con cuenta heyingage@instaddr.ch
+2025-05-18 20:43:40,597 - LoginManager - DEBUG - Cerrando com.spotify.music si está abierto
+2025-05-18 20:43:40,598 - AndroidDevice - INFO - Deteniendo aplicación: com.spotify.music
+2025-05-18 20:43:40,811 - AndroidDevice - INFO - Aplicación detenida: com.spotify.music
+2025-05-18 20:43:42,504 - LoginManager - INFO - Abriendo Spotify (com.spotify.music) en dispositivo 2040306023079082
+2025-05-18 20:43:42,504 - AndroidDevice - INFO - Iniciando aplicación: com.spotify.music
+2025-05-18 20:43:46,537 - AndroidDevice - INFO - Aplicación iniciada: com.spotify.music
+2025-05-18 20:43:46,537 - LoginManager - INFO - Spotify (com.spotify.music) abierto en dispositivo 2040306023079082
+2025-05-18 20:43:46,538 - LoginManager - DEBUG - Esperando 5 segundos para que la aplicación se inicie completamente

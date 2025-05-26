@@ -1,0 +1,117 @@
+2025-05-19 10:37:17,604 - AccountManager - INFO - Cargadas 10 cuentas desde el archivo
+2025-05-19 10:37:17,605 - AccountManager - INFO - Cargados 250 proxies desde el archivo
+2025-05-19 10:37:17,617 - AccountManager - INFO - AccountManager inicializado con 10 cuentas y 500 proxies
+2025-05-19 10:37:17,618 - HumanBehavior - INFO - Perfiles de comportamiento cargados desde C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\config\behavior_profiles.json
+2025-05-19 10:37:17,619 - HumanBehavior - INFO - HumanBehaviorSimulator inicializado con 4 perfiles
+2025-05-19 10:37:17,867 - LoginManager - DEBUG - Sesiones cargadas: 1 entradas
+2025-05-19 10:37:17,867 - LoginManager - INFO - LoginManager inicializado
+2025-05-19 10:37:17,868 - LoginManager - DEBUG - Ruta de sesiones: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\data\sessions.json
+2025-05-19 10:37:17,868 - LoginManager - DEBUG - Ruta de plantillas: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\modules\..\templates
+2025-05-19 10:37:17,868 - LoginManager - WARNING - Plantillas faltantes: login_submit.png, home_icon.png, library_icon.png
+2025-05-19 10:37:17,868 - LoginManager - WARNING - Algunas funciones de reconocimiento visual pueden fallar
+2025-05-19 10:37:18,104 - AndroidDevice - INFO - Dispositivos detectados: ['2040306023079082']
+2025-05-19 10:37:29,480 - OTWMusicSystem - INFO - Configuración guardada en: C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\config\config.json
+2025-05-19 10:37:29,481 - OTWMusicSystem - INFO - Archivo playlists copiado a C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\data\playlists.txt
+2025-05-19 10:37:31,954 - PlaylistPlayer - INFO - Iniciando modo de reproducción de playlists
+2025-05-19 10:37:31,955 - PlaylistPlayer - INFO - Playlists cargadas desde C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\scripts\..\data\playlists.txt: 0
+2025-05-19 10:37:31,955 - PlaylistPlayer - INFO - No se encontraron playlists válidas en C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\scripts\..\data\playlists.txt.
+2025-05-19 10:37:31,955 - PlaylistPlayer - ERROR - No hay playlists disponibles para reproducir. Verifique playlists.txt o la conexión.
+2025-05-19 10:37:31,955 - PlaylistPlayer - INFO - Asegúrese de que el archivo 'data/playlists.txt' exista y contenga URLs válidas.
+2025-05-19 10:37:53,793 - PlaylistPlayer - INFO - Iniciando modo de reproducción de playlists
+2025-05-19 10:37:53,795 - PlaylistPlayer - INFO - Playlists cargadas desde C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\scripts\..\data\playlists.txt: 3
+2025-05-19 10:37:53,795 - PlaylistPlayer - DEBUG - Ejemplos de playlists: ['https://open.spotify.com/playlist/3h6pIE4rE6z8OyxNMOqW8t?si=H8FB0OalRKGjeMjEXVgSJw', 'https://open.spotify.com/playlist/5XrvAtxjUWcbTNgLHc9hz2?si=8J8GtCkARCaiIlIOWzgMnA', 'https://open.spotify.com/playlist/1jNkvpdVy0DtpabdXexqLg?si=Jnx5VeI4RtSq-M6_Fy4OMg']
+2025-05-19 10:37:53,795 - PlaylistPlayer - DEBUG - Obteniendo dispositivos conectados
+2025-05-19 10:37:53,820 - PlaylistPlayer - DEBUG - Resultado de 'adb devices':
+List of devices attached
+2040306023079082	device
+
+
+2025-05-19 10:37:53,820 - PlaylistPlayer - INFO - Dispositivos conectados: ['2040306023079082']
+2025-05-19 10:37:53,820 - PlaylistPlayer - INFO - --- Iniciando nuevo ciclo de reproducción de playlists ---
+2025-05-19 10:37:53,820 - PlaylistPlayer - INFO - Procesando dispositivo: 2040306023079082
+2025-05-19 10:37:53,829 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 10:37:54,016 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 10:37:54,016 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 10:37:54,027 - uiautomator2.core - DEBUG - forward tcp:50781 -> tcp:9008
+2025-05-19 10:37:54,030 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:50781
+2025-05-19 10:37:54,075 - uiautomator2.core - DEBUG - launch uiautomator with cmd: CLASSPATH=/data/local/tmp/u2.jar app_process / com.wetest.uia2.Main
+2025-05-19 10:37:54,129 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 10:37:54,130 - uiautomator2.core - DEBUG - forward tcp:50781 -> tcp:9008
+2025-05-19 10:37:54,131 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:50781
+2025-05-19 10:37:54,648 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 10:37:54,659 - uiautomator2.core - DEBUG - forward tcp:50781 -> tcp:9008
+2025-05-19 10:37:54,660 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:50781
+2025-05-19 10:37:55,198 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 10:37:55,199 - uiautomator2.core - DEBUG - forward tcp:50781 -> tcp:9008
+2025-05-19 10:37:55,200 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:50781
+2025-05-19 10:37:55,721 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 10:37:55,721 - uiautomator2.core - DEBUG - forward tcp:50781 -> tcp:9008
+2025-05-19 10:37:55,722 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:50781
+2025-05-19 10:37:56,235 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 10:37:56,236 - uiautomator2.core - DEBUG - forward tcp:50781 -> tcp:9008
+2025-05-19 10:37:56,237 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:50781
+2025-05-19 10:37:56,750 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 10:37:56,752 - uiautomator2.core - DEBUG - forward tcp:50781 -> tcp:9008
+2025-05-19 10:37:56,754 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:50781
+2025-05-19 10:37:57,270 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 10:37:57,281 - uiautomator2.core - DEBUG - forward tcp:50781 -> tcp:9008
+2025-05-19 10:37:57,283 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:50781
+2025-05-19 10:37:57,813 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 10:37:57,825 - uiautomator2.core - DEBUG - forward tcp:50781 -> tcp:9008
+2025-05-19 10:37:57,826 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:50781
+2025-05-19 10:37:58,338 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 10:37:58,339 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: [UiAutomator2Server] Starting Server\n'
+2025-05-19 10:37:58,349 - uiautomator2.core - DEBUG - forward tcp:50781 -> tcp:9008
+2025-05-19 10:37:58,352 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:50781
+2025-05-19 10:37:58,870 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 10:37:58,872 - uiautomator2.core - DEBUG - forward tcp:50781 -> tcp:9008
+2025-05-19 10:37:58,873 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:50781
+2025-05-19 10:37:59,428 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 10:37:59,429 - uiautomator2.core - DEBUG - forward tcp:50781 -> tcp:9008
+2025-05-19 10:37:59,431 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:50781
+2025-05-19 10:37:59,462 - uiautomator2.core - DEBUG - MockAdbProcess: b'SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".\n'
+2025-05-19 10:37:59,463 - uiautomator2.core - DEBUG - MockAdbProcess: b'SLF4J: Defaulting to no-operation (NOP) logger implementation\nSLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.\n'
+2025-05-19 10:37:59,947 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 10:37:59,957 - uiautomator2.core - DEBUG - forward tcp:50781 -> tcp:9008
+2025-05-19 10:37:59,959 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:50781
+2025-05-19 10:38:00,032 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: clipboardManager inited'
+2025-05-19 10:38:00,034 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 10:38:00,040 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: tmpdir is /data/local/tmp/u2'
+2025-05-19 10:38:00,041 - uiautomator2.core - DEBUG - MockAdbProcess: b'\n'
+2025-05-19 10:38:00,068 - uiautomator2.core - DEBUG - MockAdbProcess: b'[server] INFO: http server listening on *:9008\n'
+2025-05-19 10:38:00,490 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 10:38:00,501 - uiautomator2.core - DEBUG - forward tcp:50781 -> tcp:9008
+2025-05-19 10:38:00,503 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:50781
+2025-05-19 10:38:00,543 - urllib3.connectionpool - DEBUG - http://127.0.0.1:50781 "GET /ping HTTP/1.1" 200 4
+2025-05-19 10:38:00,544 - PlaylistPlayer - CRITICAL - Error crítico en el bucle principal de playlist_mode: module 'uiautomator2.exceptions' has no attribute 'UiaError'
+2025-05-19 10:38:00,545 - PlaylistPlayer - DEBUG - Traceback (most recent call last):
+  File "C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\scripts\playlist_player.py", line 767, in playlist_mode
+    device.healthcheck() # Verificar conexión
+AttributeError: 'Device' object has no attribute 'healthcheck'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\scripts\playlist_player.py", line 845, in playlist_mode
+    except u2.exceptions.UiaError as uia_err:
+AttributeError: module 'uiautomator2.exceptions' has no attribute 'UiaError'
+
+2025-05-19 10:38:00,545 - PlaylistPlayer - DEBUG - Obteniendo dispositivos conectados
+2025-05-19 10:38:00,578 - PlaylistPlayer - DEBUG - Resultado de 'adb devices':
+List of devices attached
+2040306023079082	device
+
+
+2025-05-19 10:38:00,578 - PlaylistPlayer - INFO - Dispositivos conectados: ['2040306023079082']
+2025-05-19 10:38:00,590 - uiautomator2.core - DEBUG - file u2.jar md5: 3564c56e4ef077f92c0fd32bcb42aea1
+2025-05-19 10:38:00,701 - uiautomator2.core - DEBUG - file u2.jar already pushed
+2025-05-19 10:38:00,701 - uiautomator2.core - DEBUG - http request GET /ping None
+2025-05-19 10:38:00,703 - uiautomator2.core - DEBUG - forward tcp:50781 -> tcp:9008
+2025-05-19 10:38:00,705 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:50781
+2025-05-19 10:38:00,733 - urllib3.connectionpool - DEBUG - http://127.0.0.1:50781 "GET /ping HTTP/1.1" 200 4
+2025-05-19 10:38:00,735 - PlaylistPlayer - DEBUG - Capturando pantalla en C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\scripts\..\screenshots\playlist_player_2040306023079082_critical_error_shutdown_20250519_103800.png
+2025-05-19 10:38:00,735 - uiautomator2.core - DEBUG - http request POST /jsonrpc/0 {'jsonrpc': '2.0', 'id': 1, 'method': 'takeScreenshot', 'params': (1, 80)}
+2025-05-19 10:38:00,736 - uiautomator2.core - DEBUG - forward tcp:50781 -> tcp:9008
+2025-05-19 10:38:00,738 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:50781
+2025-05-19 10:38:03,533 - urllib3.connectionpool - DEBUG - http://127.0.0.1:50781 "POST /jsonrpc/0 HTTP/1.1" 200 64679
+2025-05-19 10:38:03,686 - PlaylistPlayer - DEBUG - Captura de pantalla guardada en C:\Users\ceram\Downloads\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\scripts\..\screenshots\playlist_player_2040306023079082_critical_error_shutdown_20250519_103800.png

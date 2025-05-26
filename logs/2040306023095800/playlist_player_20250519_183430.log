@@ -1,0 +1,6 @@
+2025-05-19 18:34:30,477 - Worker-20403060 - PlaylistPlayer.2040306023095800 - INFO - Worker thread INICIADO. Logs en: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\logs\2040306023095800\playlist_player_20250519_183430.log
+2025-05-19 18:34:30,478 - Worker-20403060 - PlaylistPlayer.2040306023095800 - INFO - Personalidad Creada: FollowP=0.33, SearchP=0.15, MinTrackT=75s, MinContentT=5m
+2025-05-19 18:34:30,478 - Worker-20403060 - PlaylistPlayer.2040306023095800 - INFO - Intentando conectar a uiautomator2 (intento 1/3)...
+2025-05-19 18:34:38,908 - Worker-20403060 - PlaylistPlayer.2040306023095800 - DEBUG - Conexión u2 establecida preliminarmente.
+2025-05-19 18:34:39,136 - Worker-20403060 - PlaylistPlayer.2040306023095800 - INFO - Conectado (Device: Studio_X5_Max, Android: N/A).
+2025-05-19 18:34:39,213 - Worker-20403060 - PlaylistPlayer.2040306023095800 - ERROR - Spotify (com.spotify.music) NO está instalado (AppNotFoundError). Terminando worker.

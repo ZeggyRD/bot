@@ -1,0 +1,309 @@
+2025-05-19 18:33:45,102 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Worker thread INICIADO. Logs en: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\logs\2040306023079705\playlist_player_20250519_183345.log
+2025-05-19 18:33:45,103 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Personalidad Creada: FollowP=0.71, SearchP=0.15, MinTrackT=30s, MinContentT=3m
+2025-05-19 18:33:45,103 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Intentando conectar a uiautomator2 (intento 1/3)...
+2025-05-19 18:33:49,147 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Conexión u2 establecida preliminarmente.
+2025-05-19 18:33:49,504 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Conectado (Device: Studio_X5_Max, Android: N/A).
+2025-05-19 18:33:49,712 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Spotify (com.spotify.music v9.0.36.484) está instalado.
+2025-05-19 18:33:49,712 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Configuración inicial (kill Spotify y volver a Home).
+2025-05-19 18:33:49,712 - Worker-20403060 - PlaylistPlayer.2040306023079705 - WARNING - Advertencia durante configuración inicial: 'Device' object has no attribute 'app_kill'
+2025-05-19 18:33:49,713 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\2040306023079705\initial_setup_warn_screenshot_2040306023079705_20250519_183349712618.png
+2025-05-19 18:33:50,981 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\2040306023079705\initial_setup_warn_screenshot_2040306023079705_20250519_183349712618.png
+2025-05-19 18:33:50,982 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - --- Iniciando Sesión de Interacción #1 ---
+2025-05-19 18:33:50,982 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Selección: Artista Clave -> https://open.spotify.com/artist/77slAN1w8sLCiCGwiZmNEF
+2025-05-19 18:33:50,982 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Iniciando interacción con ARTISTA: https://open.spotify.com/artist/77slAN1w8sLCiCGwiZmNEF (KEY ARTIST)
+2025-05-19 18:33:50,982 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Intentando abrir URL: https://open.spotify.com/artist/77slAN1w8sLCiCGwiZmNEF (Intento 1/3)
+2025-05-19 18:33:50,982 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Forzando detención de Spotify (com.spotify.music) antes de abrir URL.
+2025-05-19 18:33:52,289 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Presionando HOME.
+2025-05-19 18:33:54,571 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Ejecutando ADB intent para URL: https://open.spotify.com/artist/77slAN1w8sLCiCGwiZmNEF
+2025-05-19 18:33:56,256 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Resultado ADB 'am start': stdout='Starting: Intent { act=android.intent.action.VIEW dat=https://open.spotify.com/... flg=0x10008000 }', stderr=''
+2025-05-19 18:33:58,452 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Esperando que la app se abra y estabilice (5-8s)...
+2025-05-19 18:34:05,404 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-19 18:34:12,967 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - No se detectó diálogo 'Abrir con' explícito.
+2025-05-19 18:34:12,967 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - No se manejó el diálogo 'Abrir con' o no apareció.
+2025-05-19 18:34:12,968 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Verificando si Spotify está en primer plano...
+2025-05-19 18:34:12,971 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Intentando con comando dumpsys (1): adb -s 2040306023079705 shell dumpsys activity top
+2025-05-19 18:34:17,788 - Worker-20403060 - PlaylistPlayer.2040306023079705 - WARNING - Spotify NO parece estar en primer plano según dumpsys.
+2025-05-19 18:34:17,788 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\2040306023079705\spotify_not_foreground_screenshot_2040306023079705_20250519_183417788853.png
+2025-05-19 18:34:17,927 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\2040306023079705\spotify_not_foreground_screenshot_2040306023079705_20250519_183417788853.png
+2025-05-19 18:34:17,927 - Worker-20403060 - PlaylistPlayer.2040306023079705 - WARNING - Spotify no detectado en primer plano después de abrir https://open.spotify.com/artist/77slAN1w8sLCiCGwiZmNEF.
+2025-05-19 18:34:17,928 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\2040306023079705\spotify_not_fg_after_open_77slAN1w8sLCiCGwiZmNEF_screenshot_2040306023079705_20250519_183417927833.png
+2025-05-19 18:34:18,056 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\2040306023079705\spotify_not_fg_after_open_77slAN1w8sLCiCGwiZmNEF_screenshot_2040306023079705_20250519_183417927833.png
+2025-05-19 18:34:18,057 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Pausa antes de reintentar apertura de URL debido a no foreground (6.1s).
+2025-05-19 18:34:23,063 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Intentando abrir URL: https://open.spotify.com/artist/77slAN1w8sLCiCGwiZmNEF (Intento 2/3)
+2025-05-19 18:34:23,063 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Forzando detención de Spotify (com.spotify.music) antes de abrir URL.
+2025-05-19 18:34:24,043 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Presionando HOME.
+2025-05-19 18:34:26,460 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Ejecutando ADB intent para URL: https://open.spotify.com/artist/77slAN1w8sLCiCGwiZmNEF
+2025-05-19 18:34:27,513 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Resultado ADB 'am start': stdout='Starting: Intent { act=android.intent.action.VIEW dat=https://open.spotify.com/... flg=0x10008000 }', stderr=''
+2025-05-19 18:34:29,410 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Esperando que la app se abra y estabilice (5-8s)...
+2025-05-19 18:34:37,298 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-19 18:34:44,549 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - No se detectó diálogo 'Abrir con' explícito.
+2025-05-19 18:34:44,550 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - No se manejó el diálogo 'Abrir con' o no apareció.
+2025-05-19 18:34:44,550 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Verificando si Spotify está en primer plano...
+2025-05-19 18:34:44,550 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Intentando con comando dumpsys (1): adb -s 2040306023079705 shell dumpsys activity top
+2025-05-19 18:34:49,766 - Worker-20403060 - PlaylistPlayer.2040306023079705 - WARNING - Spotify NO parece estar en primer plano según dumpsys.
+2025-05-19 18:34:49,767 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\2040306023079705\spotify_not_foreground_screenshot_2040306023079705_20250519_183449766611.png
+2025-05-19 18:34:49,915 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\2040306023079705\spotify_not_foreground_screenshot_2040306023079705_20250519_183449766611.png
+2025-05-19 18:34:49,915 - Worker-20403060 - PlaylistPlayer.2040306023079705 - WARNING - Spotify no detectado en primer plano después de abrir https://open.spotify.com/artist/77slAN1w8sLCiCGwiZmNEF.
+2025-05-19 18:34:49,915 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\2040306023079705\spotify_not_fg_after_open_77slAN1w8sLCiCGwiZmNEF_screenshot_2040306023079705_20250519_183449915508.png
+2025-05-19 18:34:50,058 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\2040306023079705\spotify_not_fg_after_open_77slAN1w8sLCiCGwiZmNEF_screenshot_2040306023079705_20250519_183449915508.png
+2025-05-19 18:34:50,059 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Pausa antes de reintentar apertura de URL debido a no foreground (5.8s).
+2025-05-19 18:34:56,091 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Intentando abrir URL: https://open.spotify.com/artist/77slAN1w8sLCiCGwiZmNEF (Intento 3/3)
+2025-05-19 18:34:56,091 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Forzando detención de Spotify (com.spotify.music) antes de abrir URL.
+2025-05-19 18:34:57,121 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Presionando HOME.
+2025-05-19 18:34:59,133 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Ejecutando ADB intent para URL: https://open.spotify.com/artist/77slAN1w8sLCiCGwiZmNEF
+2025-05-19 18:35:00,503 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Resultado ADB 'am start': stdout='Starting: Intent { act=android.intent.action.VIEW dat=https://open.spotify.com/... flg=0x10008000 }', stderr=''
+2025-05-19 18:35:02,062 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Esperando que la app se abra y estabilice (5-8s)...
+2025-05-19 18:35:09,156 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-19 18:35:17,066 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - No se detectó diálogo 'Abrir con' explícito.
+2025-05-19 18:35:17,066 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - No se manejó el diálogo 'Abrir con' o no apareció.
+2025-05-19 18:35:17,066 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Verificando si Spotify está en primer plano...
+2025-05-19 18:35:17,066 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Intentando con comando dumpsys (1): adb -s 2040306023079705 shell dumpsys activity top
+2025-05-19 18:35:20,643 - Worker-20403060 - PlaylistPlayer.2040306023079705 - WARNING - Spotify NO parece estar en primer plano según dumpsys.
+2025-05-19 18:35:20,644 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\2040306023079705\spotify_not_foreground_screenshot_2040306023079705_20250519_183520643549.png
+2025-05-19 18:35:20,790 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\2040306023079705\spotify_not_foreground_screenshot_2040306023079705_20250519_183520643549.png
+2025-05-19 18:35:20,790 - Worker-20403060 - PlaylistPlayer.2040306023079705 - WARNING - Spotify no detectado en primer plano después de abrir https://open.spotify.com/artist/77slAN1w8sLCiCGwiZmNEF.
+2025-05-19 18:35:20,791 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\2040306023079705\spotify_not_fg_after_open_77slAN1w8sLCiCGwiZmNEF_screenshot_2040306023079705_20250519_183520791357.png
+2025-05-19 18:35:20,951 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\2040306023079705\spotify_not_fg_after_open_77slAN1w8sLCiCGwiZmNEF_screenshot_2040306023079705_20250519_183520791357.png
+2025-05-19 18:35:20,951 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Pausa antes de reintentar apertura de URL debido a no foreground (6.1s).
+2025-05-19 18:35:26,308 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Intentando abrir URL: https://open.spotify.com/artist/77slAN1w8sLCiCGwiZmNEF (Intento 4/3)
+2025-05-19 18:35:26,308 - Worker-20403060 - PlaylistPlayer.2040306023079705 - ERROR - Máximos reintentos (3) alcanzados para abrir URL https://open.spotify.com/artist/77slAN1w8sLCiCGwiZmNEF
+2025-05-19 18:35:26,308 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\2040306023079705\open_url_max_retries_fail_77slAN1w8sLCiCGwiZmNEF_screenshot_2040306023079705_20250519_183526308169.png
+2025-05-19 18:35:26,458 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\2040306023079705\open_url_max_retries_fail_77slAN1w8sLCiCGwiZmNEF_screenshot_2040306023079705_20250519_183526308169.png
+2025-05-19 18:35:26,458 - Worker-20403060 - PlaylistPlayer.2040306023079705 - ERROR - No se pudo abrir la página del artista https://open.spotify.com/artist/77slAN1w8sLCiCGwiZmNEF. Terminando interacción.
+2025-05-19 18:35:26,458 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Sesión #1 completada. Pausa de 13.9s.
+2025-05-19 18:35:40,391 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - --- Iniciando Sesión de Interacción #2 ---
+2025-05-19 18:35:40,391 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Selección: Link (track) -> https://open.spotify.com/track/68bpWJrSemrbHr5NssH6Hu?si=ae807dd0561d47b3
+2025-05-19 18:35:40,391 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Iniciando interacción con TRACK: https://open.spotify.com/track/68bpWJrSemrbHr5NssH6Hu?si=ae807dd0561d47b3
+2025-05-19 18:35:40,391 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Intentando abrir URL: https://open.spotify.com/track/68bpWJrSemrbHr5NssH6Hu?si=ae807dd0561d47b3 (Intento 1/3)
+2025-05-19 18:35:40,391 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Forzando detención de Spotify (com.spotify.music) antes de abrir URL.
+2025-05-19 18:35:41,288 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Presionando HOME.
+2025-05-19 18:35:43,268 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Ejecutando ADB intent para URL: https://open.spotify.com/track/68bpWJrSemrbHr5NssH6Hu?si=ae807dd0561d47b3
+2025-05-19 18:35:45,056 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Resultado ADB 'am start': stdout='Starting: Intent { act=android.intent.action.VIEW dat=https://open.spotify.com/... flg=0x10008000 }', stderr=''
+2025-05-19 18:35:46,322 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Esperando que la app se abra y estabilice (5-8s)...
+2025-05-19 18:35:53,879 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-19 18:36:39,170 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - No se detectó diálogo 'Abrir con' explícito.
+2025-05-19 18:36:39,171 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - No se manejó el diálogo 'Abrir con' o no apareció.
+2025-05-19 18:36:39,171 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Verificando si Spotify está en primer plano...
+2025-05-19 18:36:39,171 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Intentando con comando dumpsys (1): adb -s 2040306023079705 shell dumpsys activity top
+2025-05-19 18:36:44,465 - Worker-20403060 - PlaylistPlayer.2040306023079705 - WARNING - Spotify NO parece estar en primer plano según dumpsys.
+2025-05-19 18:36:44,466 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\2040306023079705\spotify_not_foreground_screenshot_2040306023079705_20250519_183644465763.png
+2025-05-19 18:36:45,757 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\2040306023079705\spotify_not_foreground_screenshot_2040306023079705_20250519_183644465763.png
+2025-05-19 18:36:45,757 - Worker-20403060 - PlaylistPlayer.2040306023079705 - WARNING - Spotify no detectado en primer plano después de abrir https://open.spotify.com/track/68bpWJrSemrbHr5NssH6Hu?si=ae807dd0561d47b3.
+2025-05-19 18:36:45,758 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\2040306023079705\spotify_not_fg_after_open_68bpWJrSemrbHr5NssH6Hu?si=ae807dd0561d47b3_screenshot_2040306023079705_20250519_183645758231.png
+2025-05-19 18:36:45,913 - Worker-20403060 - PlaylistPlayer.2040306023079705 - ERROR - Error al capturar pantalla: [Errno 22] Invalid argument: 'C:\\Users\\def\\Documents\\OTWMusicSystem_Final\\OTWMusicSystem_Final\\otw_project\\OTW_MUSIC_SYSTEM\\screenshots\\2040306023079705\\spotify_not_fg_after_open_68bpWJrSemrbHr5NssH6Hu?si=ae807dd0561d47b3_screenshot_2040306023079705_20250519_183645758231.png'
+2025-05-19 18:36:45,913 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Pausa antes de reintentar apertura de URL debido a no foreground (6.7s).
+2025-05-19 18:36:50,949 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Intentando abrir URL: https://open.spotify.com/track/68bpWJrSemrbHr5NssH6Hu?si=ae807dd0561d47b3 (Intento 2/3)
+2025-05-19 18:36:50,949 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Forzando detención de Spotify (com.spotify.music) antes de abrir URL.
+2025-05-19 18:36:52,140 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Presionando HOME.
+2025-05-19 18:36:54,432 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Ejecutando ADB intent para URL: https://open.spotify.com/track/68bpWJrSemrbHr5NssH6Hu?si=ae807dd0561d47b3
+2025-05-19 18:36:56,219 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Resultado ADB 'am start': stdout='Starting: Intent { act=android.intent.action.VIEW dat=https://open.spotify.com/... flg=0x10008000 }', stderr=''
+2025-05-19 18:36:58,475 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Esperando que la app se abra y estabilice (5-8s)...
+2025-05-19 18:37:04,630 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-19 18:37:46,023 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - No se detectó diálogo 'Abrir con' explícito.
+2025-05-19 18:37:46,023 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - No se manejó el diálogo 'Abrir con' o no apareció.
+2025-05-19 18:37:46,023 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Verificando si Spotify está en primer plano...
+2025-05-19 18:37:46,023 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Intentando con comando dumpsys (1): adb -s 2040306023079705 shell dumpsys activity top
+2025-05-19 18:37:51,221 - Worker-20403060 - PlaylistPlayer.2040306023079705 - WARNING - Spotify NO parece estar en primer plano según dumpsys.
+2025-05-19 18:37:51,221 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\2040306023079705\spotify_not_foreground_screenshot_2040306023079705_20250519_183751221772.png
+2025-05-19 18:37:52,284 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\2040306023079705\spotify_not_foreground_screenshot_2040306023079705_20250519_183751221772.png
+2025-05-19 18:37:52,284 - Worker-20403060 - PlaylistPlayer.2040306023079705 - WARNING - Spotify no detectado en primer plano después de abrir https://open.spotify.com/track/68bpWJrSemrbHr5NssH6Hu?si=ae807dd0561d47b3.
+2025-05-19 18:37:52,285 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\2040306023079705\spotify_not_fg_after_open_68bpWJrSemrbHr5NssH6Hu?si=ae807dd0561d47b3_screenshot_2040306023079705_20250519_183752284961.png
+2025-05-19 18:37:52,405 - Worker-20403060 - PlaylistPlayer.2040306023079705 - ERROR - Error al capturar pantalla: [Errno 22] Invalid argument: 'C:\\Users\\def\\Documents\\OTWMusicSystem_Final\\OTWMusicSystem_Final\\otw_project\\OTW_MUSIC_SYSTEM\\screenshots\\2040306023079705\\spotify_not_fg_after_open_68bpWJrSemrbHr5NssH6Hu?si=ae807dd0561d47b3_screenshot_2040306023079705_20250519_183752284961.png'
+2025-05-19 18:37:52,405 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Pausa antes de reintentar apertura de URL debido a no foreground (6.6s).
+2025-05-19 18:37:59,189 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Intentando abrir URL: https://open.spotify.com/track/68bpWJrSemrbHr5NssH6Hu?si=ae807dd0561d47b3 (Intento 3/3)
+2025-05-19 18:37:59,189 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Forzando detención de Spotify (com.spotify.music) antes de abrir URL.
+2025-05-19 18:37:59,950 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Presionando HOME.
+2025-05-19 18:38:02,142 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Ejecutando ADB intent para URL: https://open.spotify.com/track/68bpWJrSemrbHr5NssH6Hu?si=ae807dd0561d47b3
+2025-05-19 18:38:03,268 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Resultado ADB 'am start': stdout='Starting: Intent { act=android.intent.action.VIEW dat=https://open.spotify.com/... flg=0x10008000 }', stderr=''
+2025-05-19 18:38:04,761 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Esperando que la app se abra y estabilice (5-8s)...
+2025-05-19 18:38:11,720 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-19 18:38:37,710 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - No se detectó diálogo 'Abrir con' explícito.
+2025-05-19 18:38:37,711 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - No se manejó el diálogo 'Abrir con' o no apareció.
+2025-05-19 18:38:37,711 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Verificando si Spotify está en primer plano...
+2025-05-19 18:38:37,711 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Intentando con comando dumpsys (1): adb -s 2040306023079705 shell dumpsys activity top
+2025-05-19 18:38:40,141 - Worker-20403060 - PlaylistPlayer.2040306023079705 - WARNING - Spotify NO parece estar en primer plano según dumpsys.
+2025-05-19 18:38:40,141 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\2040306023079705\spotify_not_foreground_screenshot_2040306023079705_20250519_183840141442.png
+2025-05-19 18:38:41,382 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\2040306023079705\spotify_not_foreground_screenshot_2040306023079705_20250519_183840141442.png
+2025-05-19 18:38:41,382 - Worker-20403060 - PlaylistPlayer.2040306023079705 - WARNING - Spotify no detectado en primer plano después de abrir https://open.spotify.com/track/68bpWJrSemrbHr5NssH6Hu?si=ae807dd0561d47b3.
+2025-05-19 18:38:41,383 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\2040306023079705\spotify_not_fg_after_open_68bpWJrSemrbHr5NssH6Hu?si=ae807dd0561d47b3_screenshot_2040306023079705_20250519_183841382782.png
+2025-05-19 18:38:41,510 - Worker-20403060 - PlaylistPlayer.2040306023079705 - ERROR - Error al capturar pantalla: [Errno 22] Invalid argument: 'C:\\Users\\def\\Documents\\OTWMusicSystem_Final\\OTWMusicSystem_Final\\otw_project\\OTW_MUSIC_SYSTEM\\screenshots\\2040306023079705\\spotify_not_fg_after_open_68bpWJrSemrbHr5NssH6Hu?si=ae807dd0561d47b3_screenshot_2040306023079705_20250519_183841382782.png'
+2025-05-19 18:38:41,510 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Pausa antes de reintentar apertura de URL debido a no foreground (6.8s).
+2025-05-19 18:38:46,124 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Intentando abrir URL: https://open.spotify.com/track/68bpWJrSemrbHr5NssH6Hu?si=ae807dd0561d47b3 (Intento 4/3)
+2025-05-19 18:38:46,124 - Worker-20403060 - PlaylistPlayer.2040306023079705 - ERROR - Máximos reintentos (3) alcanzados para abrir URL https://open.spotify.com/track/68bpWJrSemrbHr5NssH6Hu?si=ae807dd0561d47b3
+2025-05-19 18:38:46,125 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\2040306023079705\open_url_max_retries_fail_68bpWJrSemrbHr5NssH6Hu?si=ae807dd0561d47b3_screenshot_2040306023079705_20250519_183846124605.png
+2025-05-19 18:38:46,281 - Worker-20403060 - PlaylistPlayer.2040306023079705 - ERROR - Error al capturar pantalla: [Errno 22] Invalid argument: 'C:\\Users\\def\\Documents\\OTWMusicSystem_Final\\OTWMusicSystem_Final\\otw_project\\OTW_MUSIC_SYSTEM\\screenshots\\2040306023079705\\open_url_max_retries_fail_68bpWJrSemrbHr5NssH6Hu?si=ae807dd0561d47b3_screenshot_2040306023079705_20250519_183846124605.png'
+2025-05-19 18:38:46,281 - Worker-20403060 - PlaylistPlayer.2040306023079705 - ERROR - No se pudo abrir el track https://open.spotify.com/track/68bpWJrSemrbHr5NssH6Hu?si=ae807dd0561d47b3. Terminando interacción.
+2025-05-19 18:38:46,282 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Sesión #2 completada. Pausa de 13.5s.
+2025-05-19 18:38:59,788 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - --- Iniciando Sesión de Interacción #3 ---
+2025-05-19 18:38:59,788 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Selección: Artista Clave -> https://open.spotify.com/artist/4iYKhDCuNXSSrli6AOH6cw
+2025-05-19 18:38:59,789 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Iniciando interacción con ARTISTA: https://open.spotify.com/artist/4iYKhDCuNXSSrli6AOH6cw (KEY ARTIST)
+2025-05-19 18:38:59,789 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Intentando abrir URL: https://open.spotify.com/artist/4iYKhDCuNXSSrli6AOH6cw (Intento 1/3)
+2025-05-19 18:38:59,789 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Forzando detención de Spotify (com.spotify.music) antes de abrir URL.
+2025-05-19 18:39:00,808 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Presionando HOME.
+2025-05-19 18:39:03,005 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Ejecutando ADB intent para URL: https://open.spotify.com/artist/4iYKhDCuNXSSrli6AOH6cw
+2025-05-19 18:39:04,910 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Resultado ADB 'am start': stdout='Starting: Intent { act=android.intent.action.VIEW dat=https://open.spotify.com/... flg=0x10008000 }', stderr=''
+2025-05-19 18:39:07,099 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Esperando que la app se abra y estabilice (5-8s)...
+2025-05-19 18:39:15,030 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-19 18:39:21,099 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - No se detectó diálogo 'Abrir con' explícito.
+2025-05-19 18:39:21,099 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - No se manejó el diálogo 'Abrir con' o no apareció.
+2025-05-19 18:39:21,099 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Verificando si Spotify está en primer plano...
+2025-05-19 18:39:21,099 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Intentando con comando dumpsys (1): adb -s 2040306023079705 shell dumpsys activity top
+2025-05-19 18:39:23,516 - Worker-20403060 - PlaylistPlayer.2040306023079705 - WARNING - Spotify NO parece estar en primer plano según dumpsys.
+2025-05-19 18:39:23,517 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\2040306023079705\spotify_not_foreground_screenshot_2040306023079705_20250519_183923517186.png
+2025-05-19 18:39:23,648 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\2040306023079705\spotify_not_foreground_screenshot_2040306023079705_20250519_183923517186.png
+2025-05-19 18:39:23,648 - Worker-20403060 - PlaylistPlayer.2040306023079705 - WARNING - Spotify no detectado en primer plano después de abrir https://open.spotify.com/artist/4iYKhDCuNXSSrli6AOH6cw.
+2025-05-19 18:39:23,649 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\2040306023079705\spotify_not_fg_after_open_4iYKhDCuNXSSrli6AOH6cw_screenshot_2040306023079705_20250519_183923648708.png
+2025-05-19 18:39:23,779 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\2040306023079705\spotify_not_fg_after_open_4iYKhDCuNXSSrli6AOH6cw_screenshot_2040306023079705_20250519_183923648708.png
+2025-05-19 18:39:23,779 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Pausa antes de reintentar apertura de URL debido a no foreground (4.9s).
+2025-05-19 18:39:29,580 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Intentando abrir URL: https://open.spotify.com/artist/4iYKhDCuNXSSrli6AOH6cw (Intento 2/3)
+2025-05-19 18:39:29,580 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Forzando detención de Spotify (com.spotify.music) antes de abrir URL.
+2025-05-19 18:39:30,595 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Presionando HOME.
+2025-05-19 18:39:32,730 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Ejecutando ADB intent para URL: https://open.spotify.com/artist/4iYKhDCuNXSSrli6AOH6cw
+2025-05-19 18:39:33,977 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Resultado ADB 'am start': stdout='Starting: Intent { act=android.intent.action.VIEW dat=https://open.spotify.com/... flg=0x10008000 }', stderr=''
+2025-05-19 18:39:35,821 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Esperando que la app se abra y estabilice (5-8s)...
+2025-05-19 18:39:41,812 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-19 18:39:51,542 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - No se detectó diálogo 'Abrir con' explícito.
+2025-05-19 18:39:51,542 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - No se manejó el diálogo 'Abrir con' o no apareció.
+2025-05-19 18:39:51,542 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Verificando si Spotify está en primer plano...
+2025-05-19 18:39:51,542 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Intentando con comando dumpsys (1): adb -s 2040306023079705 shell dumpsys activity top
+2025-05-19 18:39:52,144 - Worker-20403060 - PlaylistPlayer.2040306023079705 - WARNING - Spotify NO parece estar en primer plano según dumpsys.
+2025-05-19 18:39:52,145 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\2040306023079705\spotify_not_foreground_screenshot_2040306023079705_20250519_183952145186.png
+2025-05-19 18:39:52,262 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\2040306023079705\spotify_not_foreground_screenshot_2040306023079705_20250519_183952145186.png
+2025-05-19 18:39:52,262 - Worker-20403060 - PlaylistPlayer.2040306023079705 - WARNING - Spotify no detectado en primer plano después de abrir https://open.spotify.com/artist/4iYKhDCuNXSSrli6AOH6cw.
+2025-05-19 18:39:52,263 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\2040306023079705\spotify_not_fg_after_open_4iYKhDCuNXSSrli6AOH6cw_screenshot_2040306023079705_20250519_183952263447.png
+2025-05-19 18:39:52,396 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\2040306023079705\spotify_not_fg_after_open_4iYKhDCuNXSSrli6AOH6cw_screenshot_2040306023079705_20250519_183952263447.png
+2025-05-19 18:39:52,396 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Pausa antes de reintentar apertura de URL debido a no foreground (5.8s).
+2025-05-19 18:39:58,251 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Intentando abrir URL: https://open.spotify.com/artist/4iYKhDCuNXSSrli6AOH6cw (Intento 3/3)
+2025-05-19 18:39:58,251 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Forzando detención de Spotify (com.spotify.music) antes de abrir URL.
+2025-05-19 18:39:59,402 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Presionando HOME.
+2025-05-19 18:40:00,494 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Ejecutando ADB intent para URL: https://open.spotify.com/artist/4iYKhDCuNXSSrli6AOH6cw
+2025-05-19 18:40:01,819 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Resultado ADB 'am start': stdout='Starting: Intent { act=android.intent.action.VIEW dat=https://open.spotify.com/... flg=0x10008000 }', stderr=''
+2025-05-19 18:40:03,597 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Esperando que la app se abra y estabilice (5-8s)...
+2025-05-19 18:40:09,189 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-19 18:40:17,459 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - No se detectó diálogo 'Abrir con' explícito.
+2025-05-19 18:40:17,459 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - No se manejó el diálogo 'Abrir con' o no apareció.
+2025-05-19 18:40:17,459 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Verificando si Spotify está en primer plano...
+2025-05-19 18:40:17,459 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Intentando con comando dumpsys (1): adb -s 2040306023079705 shell dumpsys activity top
+2025-05-19 18:40:17,858 - Worker-20403060 - PlaylistPlayer.2040306023079705 - WARNING - Spotify NO parece estar en primer plano según dumpsys.
+2025-05-19 18:40:17,858 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\2040306023079705\spotify_not_foreground_screenshot_2040306023079705_20250519_184017858323.png
+2025-05-19 18:40:18,001 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\2040306023079705\spotify_not_foreground_screenshot_2040306023079705_20250519_184017858323.png
+2025-05-19 18:40:18,001 - Worker-20403060 - PlaylistPlayer.2040306023079705 - WARNING - Spotify no detectado en primer plano después de abrir https://open.spotify.com/artist/4iYKhDCuNXSSrli6AOH6cw.
+2025-05-19 18:40:18,002 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\2040306023079705\spotify_not_fg_after_open_4iYKhDCuNXSSrli6AOH6cw_screenshot_2040306023079705_20250519_184018001883.png
+2025-05-19 18:40:18,150 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\2040306023079705\spotify_not_fg_after_open_4iYKhDCuNXSSrli6AOH6cw_screenshot_2040306023079705_20250519_184018001883.png
+2025-05-19 18:40:18,150 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Pausa antes de reintentar apertura de URL debido a no foreground (5.2s).
+2025-05-19 18:40:22,979 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Intentando abrir URL: https://open.spotify.com/artist/4iYKhDCuNXSSrli6AOH6cw (Intento 4/3)
+2025-05-19 18:40:22,979 - Worker-20403060 - PlaylistPlayer.2040306023079705 - ERROR - Máximos reintentos (3) alcanzados para abrir URL https://open.spotify.com/artist/4iYKhDCuNXSSrli6AOH6cw
+2025-05-19 18:40:22,979 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\2040306023079705\open_url_max_retries_fail_4iYKhDCuNXSSrli6AOH6cw_screenshot_2040306023079705_20250519_184022979081.png
+2025-05-19 18:40:23,100 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\2040306023079705\open_url_max_retries_fail_4iYKhDCuNXSSrli6AOH6cw_screenshot_2040306023079705_20250519_184022979081.png
+2025-05-19 18:40:23,101 - Worker-20403060 - PlaylistPlayer.2040306023079705 - ERROR - No se pudo abrir la página del artista https://open.spotify.com/artist/4iYKhDCuNXSSrli6AOH6cw. Terminando interacción.
+2025-05-19 18:40:23,101 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Decidiendo realizar una búsqueda aleatoria...
+2025-05-19 18:40:23,101 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Pausa de 5.7s antes de la búsqueda.
+2025-05-19 18:40:28,852 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Iniciando simulación de BÚSQUEDA.
+2025-05-19 18:40:28,852 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Intentando Pestaña Búsqueda (sel 1): {'descriptionMatches': '(?i)Search|Buscar', 'className': 'android.widget.Button'}
+2025-05-19 18:40:30,950 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Intentando Pestaña Búsqueda (sel 2): {'descriptionMatches': '(?i)Search|Buscar', 'className': 'android.widget.TextView'}
+2025-05-19 18:40:32,959 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Intentando Pestaña Búsqueda (sel 3): {'resourceId': 'com.spotify.music:id/search_tab'}
+2025-05-19 18:40:34,970 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Intentando Pestaña Búsqueda (sel 4): {'textMatches': '(?i)Search|Buscar'}
+2025-05-19 18:40:36,970 - Worker-20403060 - PlaylistPlayer.2040306023079705 - WARNING - No se encontró o no se pudo clickear la Pestaña de Búsqueda. Saltando búsqueda.
+2025-05-19 18:40:36,971 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\2040306023079705\search_tab_fail_screenshot_2040306023079705_20250519_184036970708.png
+2025-05-19 18:40:37,083 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\2040306023079705\search_tab_fail_screenshot_2040306023079705_20250519_184036970708.png
+2025-05-19 18:40:37,083 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Sesión #3 completada. Pausa de 6.4s.
+2025-05-19 18:40:43,509 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - --- Iniciando Sesión de Interacción #4 ---
+2025-05-19 18:40:43,509 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Selección: Link (track) -> https://open.spotify.com/track/43WNuCxGH0aJ9k40tNEL7u?si=b026927513e24ce1
+2025-05-19 18:40:43,509 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Iniciando interacción con TRACK: https://open.spotify.com/track/43WNuCxGH0aJ9k40tNEL7u?si=b026927513e24ce1
+2025-05-19 18:40:43,510 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Intentando abrir URL: https://open.spotify.com/track/43WNuCxGH0aJ9k40tNEL7u?si=b026927513e24ce1 (Intento 1/3)
+2025-05-19 18:40:43,510 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Forzando detención de Spotify (com.spotify.music) antes de abrir URL.
+2025-05-19 18:40:44,809 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Presionando HOME.
+2025-05-19 18:40:47,066 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Ejecutando ADB intent para URL: https://open.spotify.com/track/43WNuCxGH0aJ9k40tNEL7u?si=b026927513e24ce1
+2025-05-19 18:40:48,391 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Resultado ADB 'am start': stdout='Starting: Intent { act=android.intent.action.VIEW dat=https://open.spotify.com/... flg=0x10008000 }', stderr=''
+2025-05-19 18:40:50,688 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Esperando que la app se abra y estabilice (5-8s)...
+2025-05-19 18:40:56,052 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-19 18:41:13,766 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - No se detectó diálogo 'Abrir con' explícito.
+2025-05-19 18:41:13,766 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - No se manejó el diálogo 'Abrir con' o no apareció.
+2025-05-19 18:41:13,766 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Verificando si Spotify está en primer plano...
+2025-05-19 18:41:13,766 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Intentando con comando dumpsys (1): adb -s 2040306023079705 shell dumpsys activity top
+2025-05-19 18:41:18,012 - Worker-20403060 - PlaylistPlayer.2040306023079705 - WARNING - Spotify NO parece estar en primer plano según dumpsys.
+2025-05-19 18:41:18,014 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\2040306023079705\spotify_not_foreground_screenshot_2040306023079705_20250519_184118013495.png
+2025-05-19 18:41:18,207 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\2040306023079705\spotify_not_foreground_screenshot_2040306023079705_20250519_184118013495.png
+2025-05-19 18:41:18,207 - Worker-20403060 - PlaylistPlayer.2040306023079705 - WARNING - Spotify no detectado en primer plano después de abrir https://open.spotify.com/track/43WNuCxGH0aJ9k40tNEL7u?si=b026927513e24ce1.
+2025-05-19 18:41:18,208 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\2040306023079705\spotify_not_fg_after_open_43WNuCxGH0aJ9k40tNEL7u?si=b026927513e24ce1_screenshot_2040306023079705_20250519_184118208073.png
+2025-05-19 18:41:18,342 - Worker-20403060 - PlaylistPlayer.2040306023079705 - ERROR - Error al capturar pantalla: [Errno 22] Invalid argument: 'C:\\Users\\def\\Documents\\OTWMusicSystem_Final\\OTWMusicSystem_Final\\otw_project\\OTW_MUSIC_SYSTEM\\screenshots\\2040306023079705\\spotify_not_fg_after_open_43WNuCxGH0aJ9k40tNEL7u?si=b026927513e24ce1_screenshot_2040306023079705_20250519_184118208073.png'
+2025-05-19 18:41:18,343 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Pausa antes de reintentar apertura de URL debido a no foreground (5.2s).
+2025-05-19 18:41:24,111 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Intentando abrir URL: https://open.spotify.com/track/43WNuCxGH0aJ9k40tNEL7u?si=b026927513e24ce1 (Intento 2/3)
+2025-05-19 18:41:24,112 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Forzando detención de Spotify (com.spotify.music) antes de abrir URL.
+2025-05-19 18:41:25,171 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Presionando HOME.
+2025-05-19 18:41:27,391 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Ejecutando ADB intent para URL: https://open.spotify.com/track/43WNuCxGH0aJ9k40tNEL7u?si=b026927513e24ce1
+2025-05-19 18:41:28,615 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Resultado ADB 'am start': stdout='Starting: Intent { act=android.intent.action.VIEW dat=https://open.spotify.com/... flg=0x10008000 }', stderr=''
+2025-05-19 18:41:29,887 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Esperando que la app se abra y estabilice (5-8s)...
+2025-05-19 18:41:36,796 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-19 18:42:10,901 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - No se detectó diálogo 'Abrir con' explícito.
+2025-05-19 18:42:10,901 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - No se manejó el diálogo 'Abrir con' o no apareció.
+2025-05-19 18:42:10,901 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Verificando si Spotify está en primer plano...
+2025-05-19 18:42:10,901 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Intentando con comando dumpsys (1): adb -s 2040306023079705 shell dumpsys activity top
+2025-05-19 18:42:16,112 - Worker-20403060 - PlaylistPlayer.2040306023079705 - WARNING - Spotify NO parece estar en primer plano según dumpsys.
+2025-05-19 18:42:16,113 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\2040306023079705\spotify_not_foreground_screenshot_2040306023079705_20250519_184216112740.png
+2025-05-19 18:42:17,283 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\2040306023079705\spotify_not_foreground_screenshot_2040306023079705_20250519_184216112740.png
+2025-05-19 18:42:17,283 - Worker-20403060 - PlaylistPlayer.2040306023079705 - WARNING - Spotify no detectado en primer plano después de abrir https://open.spotify.com/track/43WNuCxGH0aJ9k40tNEL7u?si=b026927513e24ce1.
+2025-05-19 18:42:17,283 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\2040306023079705\spotify_not_fg_after_open_43WNuCxGH0aJ9k40tNEL7u?si=b026927513e24ce1_screenshot_2040306023079705_20250519_184217283456.png
+2025-05-19 18:42:17,495 - Worker-20403060 - PlaylistPlayer.2040306023079705 - ERROR - Error al capturar pantalla: [Errno 22] Invalid argument: 'C:\\Users\\def\\Documents\\OTWMusicSystem_Final\\OTWMusicSystem_Final\\otw_project\\OTW_MUSIC_SYSTEM\\screenshots\\2040306023079705\\spotify_not_fg_after_open_43WNuCxGH0aJ9k40tNEL7u?si=b026927513e24ce1_screenshot_2040306023079705_20250519_184217283456.png'
+2025-05-19 18:42:17,495 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Pausa antes de reintentar apertura de URL debido a no foreground (4.3s).
+2025-05-19 18:42:22,103 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Intentando abrir URL: https://open.spotify.com/track/43WNuCxGH0aJ9k40tNEL7u?si=b026927513e24ce1 (Intento 3/3)
+2025-05-19 18:42:22,103 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Forzando detención de Spotify (com.spotify.music) antes de abrir URL.
+2025-05-19 18:42:23,346 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Presionando HOME.
+2025-05-19 18:42:25,862 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Ejecutando ADB intent para URL: https://open.spotify.com/track/43WNuCxGH0aJ9k40tNEL7u?si=b026927513e24ce1
+2025-05-19 18:42:27,065 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Resultado ADB 'am start': stdout='Starting: Intent { act=android.intent.action.VIEW dat=https://open.spotify.com/... flg=0x10008000 }', stderr=''
+2025-05-19 18:42:29,273 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Esperando que la app se abra y estabilice (5-8s)...
+2025-05-19 18:42:35,534 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-19 18:43:11,150 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - No se detectó diálogo 'Abrir con' explícito.
+2025-05-19 18:43:11,150 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - No se manejó el diálogo 'Abrir con' o no apareció.
+2025-05-19 18:43:11,151 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Verificando si Spotify está en primer plano...
+2025-05-19 18:43:11,151 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Intentando con comando dumpsys (1): adb -s 2040306023079705 shell dumpsys activity top
+2025-05-19 18:43:16,353 - Worker-20403060 - PlaylistPlayer.2040306023079705 - WARNING - Spotify NO parece estar en primer plano según dumpsys.
+2025-05-19 18:43:16,353 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\2040306023079705\spotify_not_foreground_screenshot_2040306023079705_20250519_184316353176.png
+2025-05-19 18:43:17,582 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\2040306023079705\spotify_not_foreground_screenshot_2040306023079705_20250519_184316353176.png
+2025-05-19 18:43:17,582 - Worker-20403060 - PlaylistPlayer.2040306023079705 - WARNING - Spotify no detectado en primer plano después de abrir https://open.spotify.com/track/43WNuCxGH0aJ9k40tNEL7u?si=b026927513e24ce1.
+2025-05-19 18:43:17,582 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\2040306023079705\spotify_not_fg_after_open_43WNuCxGH0aJ9k40tNEL7u?si=b026927513e24ce1_screenshot_2040306023079705_20250519_184317582508.png
+2025-05-19 18:43:17,713 - Worker-20403060 - PlaylistPlayer.2040306023079705 - ERROR - Error al capturar pantalla: [Errno 22] Invalid argument: 'C:\\Users\\def\\Documents\\OTWMusicSystem_Final\\OTWMusicSystem_Final\\otw_project\\OTW_MUSIC_SYSTEM\\screenshots\\2040306023079705\\spotify_not_fg_after_open_43WNuCxGH0aJ9k40tNEL7u?si=b026927513e24ce1_screenshot_2040306023079705_20250519_184317582508.png'
+2025-05-19 18:43:17,714 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Pausa antes de reintentar apertura de URL debido a no foreground (4.3s).
+2025-05-19 18:43:22,050 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Intentando abrir URL: https://open.spotify.com/track/43WNuCxGH0aJ9k40tNEL7u?si=b026927513e24ce1 (Intento 4/3)
+2025-05-19 18:43:22,050 - Worker-20403060 - PlaylistPlayer.2040306023079705 - ERROR - Máximos reintentos (3) alcanzados para abrir URL https://open.spotify.com/track/43WNuCxGH0aJ9k40tNEL7u?si=b026927513e24ce1
+2025-05-19 18:43:22,050 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\2040306023079705\open_url_max_retries_fail_43WNuCxGH0aJ9k40tNEL7u?si=b026927513e24ce1_screenshot_2040306023079705_20250519_184322050762.png
+2025-05-19 18:43:22,191 - Worker-20403060 - PlaylistPlayer.2040306023079705 - ERROR - Error al capturar pantalla: [Errno 22] Invalid argument: 'C:\\Users\\def\\Documents\\OTWMusicSystem_Final\\OTWMusicSystem_Final\\otw_project\\OTW_MUSIC_SYSTEM\\screenshots\\2040306023079705\\open_url_max_retries_fail_43WNuCxGH0aJ9k40tNEL7u?si=b026927513e24ce1_screenshot_2040306023079705_20250519_184322050762.png'
+2025-05-19 18:43:22,191 - Worker-20403060 - PlaylistPlayer.2040306023079705 - ERROR - No se pudo abrir el track https://open.spotify.com/track/43WNuCxGH0aJ9k40tNEL7u?si=b026927513e24ce1. Terminando interacción.
+2025-05-19 18:43:22,191 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Decidiendo realizar una búsqueda aleatoria...
+2025-05-19 18:43:22,191 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Pausa de 7.9s antes de la búsqueda.
+2025-05-19 18:43:30,086 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Iniciando simulación de BÚSQUEDA.
+2025-05-19 18:43:30,086 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Intentando Pestaña Búsqueda (sel 1): {'descriptionMatches': '(?i)Search|Buscar', 'className': 'android.widget.Button'}
+2025-05-19 18:43:32,051 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Intentando Pestaña Búsqueda (sel 2): {'descriptionMatches': '(?i)Search|Buscar', 'className': 'android.widget.TextView'}
+2025-05-19 18:43:34,093 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Intentando Pestaña Búsqueda (sel 3): {'resourceId': 'com.spotify.music:id/search_tab'}
+2025-05-19 18:43:36,087 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Intentando Pestaña Búsqueda (sel 4): {'textMatches': '(?i)Search|Buscar'}
+2025-05-19 18:43:38,191 - Worker-20403060 - PlaylistPlayer.2040306023079705 - WARNING - No se encontró o no se pudo clickear la Pestaña de Búsqueda. Saltando búsqueda.
+2025-05-19 18:43:38,192 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\2040306023079705\search_tab_fail_screenshot_2040306023079705_20250519_184338192098.png
+2025-05-19 18:43:38,411 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\2040306023079705\search_tab_fail_screenshot_2040306023079705_20250519_184338192098.png
+2025-05-19 18:43:38,411 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Sesión #4 completada. Pausa de 9.3s.
+2025-05-19 18:43:47,677 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - --- Iniciando Sesión de Interacción #5 ---
+2025-05-19 18:43:47,677 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Selección: Link (track) -> https://open.spotify.com/track/3XfnpskwSDhZlonjEhyNfw?si=e9ea9266e3584eac
+2025-05-19 18:43:47,677 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Iniciando interacción con TRACK: https://open.spotify.com/track/3XfnpskwSDhZlonjEhyNfw?si=e9ea9266e3584eac
+2025-05-19 18:43:47,677 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Intentando abrir URL: https://open.spotify.com/track/3XfnpskwSDhZlonjEhyNfw?si=e9ea9266e3584eac (Intento 1/3)
+2025-05-19 18:43:47,678 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Forzando detención de Spotify (com.spotify.music) antes de abrir URL.
+2025-05-19 18:43:48,598 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Presionando HOME.
+2025-05-19 18:43:50,577 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Ejecutando ADB intent para URL: https://open.spotify.com/track/3XfnpskwSDhZlonjEhyNfw?si=e9ea9266e3584eac
+2025-05-19 18:43:51,891 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Resultado ADB 'am start': stdout='Starting: Intent { act=android.intent.action.VIEW dat=https://open.spotify.com/... flg=0x10008000 }', stderr=''
+2025-05-19 18:43:53,307 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Esperando que la app se abra y estabilice (5-8s)...
+2025-05-19 18:44:00,363 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Verificando diálogo 'Abrir con'...
+2025-05-19 18:44:39,482 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - No se detectó diálogo 'Abrir con' explícito.
+2025-05-19 18:44:39,482 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - No se manejó el diálogo 'Abrir con' o no apareció.
+2025-05-19 18:44:39,482 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Verificando si Spotify está en primer plano...
+2025-05-19 18:44:39,482 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Intentando con comando dumpsys (1): adb -s 2040306023079705 shell dumpsys activity top
+2025-05-19 18:44:44,707 - Worker-20403060 - PlaylistPlayer.2040306023079705 - WARNING - Spotify NO parece estar en primer plano según dumpsys.
+2025-05-19 18:44:44,709 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\2040306023079705\spotify_not_foreground_screenshot_2040306023079705_20250519_184444708664.png
+2025-05-19 18:44:45,887 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Captura de pantalla guardada: C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\2040306023079705\spotify_not_foreground_screenshot_2040306023079705_20250519_184444708664.png
+2025-05-19 18:44:45,887 - Worker-20403060 - PlaylistPlayer.2040306023079705 - WARNING - Spotify no detectado en primer plano después de abrir https://open.spotify.com/track/3XfnpskwSDhZlonjEhyNfw?si=e9ea9266e3584eac.
+2025-05-19 18:44:45,888 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Capturando pantalla en C:\Users\def\Documents\OTWMusicSystem_Final\OTWMusicSystem_Final\otw_project\OTW_MUSIC_SYSTEM\screenshots\2040306023079705\spotify_not_fg_after_open_3XfnpskwSDhZlonjEhyNfw?si=e9ea9266e3584eac_screenshot_2040306023079705_20250519_184445888495.png
+2025-05-19 18:44:46,027 - Worker-20403060 - PlaylistPlayer.2040306023079705 - ERROR - Error al capturar pantalla: [Errno 22] Invalid argument: 'C:\\Users\\def\\Documents\\OTWMusicSystem_Final\\OTWMusicSystem_Final\\otw_project\\OTW_MUSIC_SYSTEM\\screenshots\\2040306023079705\\spotify_not_fg_after_open_3XfnpskwSDhZlonjEhyNfw?si=e9ea9266e3584eac_screenshot_2040306023079705_20250519_184445888495.png'
+2025-05-19 18:44:46,028 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Pausa antes de reintentar apertura de URL debido a no foreground (6.6s).
+2025-05-19 18:44:52,763 - Worker-20403060 - PlaylistPlayer.2040306023079705 - INFO - Intentando abrir URL: https://open.spotify.com/track/3XfnpskwSDhZlonjEhyNfw?si=e9ea9266e3584eac (Intento 2/3)
+2025-05-19 18:44:52,763 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Forzando detención de Spotify (com.spotify.music) antes de abrir URL.
+2025-05-19 18:44:53,941 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Presionando HOME.
+2025-05-19 18:44:56,078 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Ejecutando ADB intent para URL: https://open.spotify.com/track/3XfnpskwSDhZlonjEhyNfw?si=e9ea9266e3584eac
+2025-05-19 18:44:57,282 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Resultado ADB 'am start': stdout='Starting: Intent { act=android.intent.action.VIEW dat=https://open.spotify.com/... flg=0x10008000 }', stderr=''
+2025-05-19 18:44:58,885 - Worker-20403060 - PlaylistPlayer.2040306023079705 - DEBUG - Esperando que la app se abra y estabilice (5-8s)...

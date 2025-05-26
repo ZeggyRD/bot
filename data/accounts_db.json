@@ -1,0 +1,145 @@
+{
+    "betoddhot@mofu.be": {
+        "password": "ChristIsKing2025k!",
+        "last_used": "2025-05-18T20:51:19.381990",
+        "usage_count": 1,
+        "last_proxy": "154.13.90.91:80:fpelmuks-5:0lrxoh26it92",
+        "last_device": "2040306023079082",
+        "status": "active",
+        "history": [
+            {
+                "date": "2025-05-18T20:51:19.381990",
+                "device": "2040306023079082",
+                "action": "assigned"
+            }
+        ]
+    },
+    "wetustax@via.tokyo.jp": {
+        "password": "ChristIsKing2025k!",
+        "last_used": null,
+        "usage_count": 0,
+        "last_proxy": null,
+        "last_device": null,
+        "status": "active",
+        "history": []
+    },
+    "denhisgin@honeys.be": {
+        "password": "ChristIsKing2025k!",
+        "last_used": "2025-05-18T21:06:11.409630",
+        "usage_count": 1,
+        "last_proxy": "149.6.162.2:80:fpelmuks-1:0lrxoh26it92",
+        "last_device": "2040306023079082",
+        "status": "active",
+        "history": [
+            {
+                "date": "2025-05-18T21:06:11.409630",
+                "device": "2040306023079082",
+                "action": "assigned"
+            }
+        ]
+    },
+    "heyingage@instaddr.ch": {
+        "password": "ChristIsKing2025k!",
+        "last_used": "2025-05-18T20:42:46.878443",
+        "usage_count": 1,
+        "last_proxy": "146.70.40.94:80:fpelmuks-3:0lrxoh26it92",
+        "last_device": "2040306023079082",
+        "status": "active",
+        "history": [
+            {
+                "date": "2025-05-18T20:42:46.878443",
+                "device": "2040306023079082",
+                "action": "assigned"
+            }
+        ]
+    },
+    "seematmar@cream.pink": {
+        "password": "ChristIsKing2025k!",
+        "last_used": "2025-05-18T21:26:00.086653",
+        "usage_count": 1,
+        "last_proxy": "149.14.243.178:80:fpelmuks-10:0lrxoh26it92",
+        "last_device": "2040306023079082",
+        "status": "active",
+        "history": [
+            {
+                "date": "2025-05-18T21:26:00.086653",
+                "device": "2040306023079082",
+                "action": "assigned"
+            }
+        ]
+    },
+    "napanycow@cream.pink": {
+        "password": "ChristIsKing2025k!",
+        "last_used": "2025-05-18T20:46:53.038481",
+        "usage_count": 1,
+        "last_proxy": "149.6.162.10:80:fpelmuks-4:0lrxoh26it92",
+        "last_device": "2040306023079082",
+        "status": "active",
+        "history": [
+            {
+                "date": "2025-05-18T20:46:53.038481",
+                "device": "2040306023079082",
+                "action": "assigned"
+            }
+        ]
+    },
+    "youoat22@usako.net": {
+        "password": "ChristIsKing2025k!",
+        "last_used": "2025-05-18T21:36:04.054205",
+        "usage_count": 1,
+        "last_proxy": "149.6.162.10:80:fpelmuks-12:0lrxoh26it92",
+        "last_device": "2040306023079082",
+        "status": "active",
+        "history": [
+            {
+                "date": "2025-05-18T21:36:04.054205",
+                "device": "2040306023079082",
+                "action": "assigned"
+            },
+            {
+                "date": "2025-05-18T21:37:45.988646",
+                "device": "2040306023079082",
+                "action": "login_success"
+            }
+        ]
+    },
+    "henpaw280@fuwari.be": {
+        "password": "ChristIsKing2025k!",
+        "last_used": "2025-05-18T21:22:41.895673",
+        "usage_count": 1,
+        "last_proxy": "107.155.114.2:80:fpelmuks-8:0lrxoh26it92",
+        "last_device": "2040306023079082",
+        "status": "active",
+        "history": [
+            {
+                "date": "2025-05-18T21:22:41.895673",
+                "device": "2040306023079082",
+                "action": "assigned"
+            }
+        ]
+    },
+    "amrugbum@stayhome.li": {
+        "password": "ChristIsKing2025k!",
+        "last_used": "2025-05-18T21:18:56.310615",
+        "usage_count": 1,
+        "last_proxy": "107.155.114.18:80:fpelmuks-6:0lrxoh26it92",
+        "last_device": "2040306023079082",
+        "status": "active",
+        "history": [
+            {
+                "date": "2025-05-18T21:18:56.310615",
+                "device": "2040306023079082",
+                "action": "assigned"
+            }
+        ]
+    },
+    "pawagoha@addrin.uk": {
+        "password": "ChristIsKing2025k!",
+        "last_used": null,
+        "usage_count": 0,
+        "last_proxy": null,
+        "last_device": null,
+        "status": "active",
+        "history": []
+    }
+}
