@@ -4,11 +4,10 @@ core/spotify_orchestration.py
 Skeleton for orchestrating a full Spotify session in four phases.
 """
 import logging
-import time  # Added for session_id in the expanded stub
+import time
 
 logger = logging.getLogger(__name__)
 
-# Basic configuration for the logger if no handlers are configured by a main script
 if not logger.handlers:
     handler = logging.StreamHandler()
     formatter = logging.Formatter(
