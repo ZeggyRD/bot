@@ -1,7 +1,7 @@
 """
 core/spotify_orchestration.py
 
-Skeleton for orchestrating a full Spotify session in four phases, with Phase 1 implementation.
+Orchestrates a full Spotify session in four phases.
 """
 import logging
 import time
@@ -12,7 +12,7 @@ from core.exceptions import UIFlowError
 
 logger = logging.getLogger(__name__)
 
-# Basic configuration for the logger if no handlers are configured by a main script
+# Configure logger if not already done
 if not logger.handlers:
     handler = logging.StreamHandler()
     formatter = logging.Formatter(
@@ -34,58 +34,71 @@ def run_spotify_session(device, personality, account_email, spotify_package_name
 
     logger.info(f"[{session_id}] Completed Spotify session on {device.device_id}")
 
+
 def _phase_initial_playlist(device, personality, account_email, spotify_package_name, playlist_urls, session_id):
     logger.info(f"[{session_id}] --- Entering Phase 1: Initial Playlist ---")
     try:
+        # 1) Load first URL from data/playlists.txt
         playlist_file_path = os.path.join("data", "playlists.txt")
-        url_to_open = None
-
-        logger.debug(f"[{session_id}] Attempting to read from {playlist_file_path}")
+        logger.debug(f"[{session_id}] Reading playlist file: {playlist_file_path}")
         try:
             with open(playlist_file_path, "r") as f:
                 url_to_open = f.readline().strip()
         except FileNotFoundError as e:
             logger.error(f"[{session_id}] Playlist file not found: {playlist_file_path}")
-            raise UIFlowError(f"Playlist file not found: {playlist_file_path}")
+            raise UIFlowError(f"Playlist file not found: {playlist_file_path}") from e
 
         if not url_to_open:
-            logger.error(f"[{session_id}] No URL found in {playlist_file_path}.")
-            raise UIFlowError(f"No URL found in {playlist_file_path}")
+            logger.error(f"[{session_id}] No URL found in {playlist_file_path}")
+            raise UIFlowError("No URL found in playlist file")
 
-        logger.info(f"[{session_id}] Phase 1: Read URL '{url_to_open}' from {playlist_file_path}")
-
+        logger.info(f"[{session_id}] Phase 1: opening URL '{url_to_open}'")
         if not open_url(device.device, url_to_open, app_package=spotify_package_name, personality=personality):
             raise UIFlowError(f"open_url failed for {url_to_open}")
 
-        logger.debug(f"[{session_id}] Phase 1: Applying post-URL open sleep.")
-        human_sleep(2.0, 4.0, personality)
+        logger.debug(f"[{session_id}] Phase 1: pausing after URL open")
+        human_sleep(personality)
 
         logger.info(f"[{session_id}] --- Initial Playlist succeeded ---")
         return True
-    except FileNotFoundError as e_fnf:
-        logger.error(f"[{session_id}] --- Initial Playlist failed: Essential playlist file issue - {e_fnf}")
-        raise UIFlowError(f"Initial playlist file error: {e_fnf}") from e_fnf
-    except UIFlowError as e_ui:
-        logger.error(f"[{session_id}] --- Initial Playlist failed: UI Flow Error - {e_ui}")
+
+    except UIFlowError:
         raise
     except Exception as e:
-        logger.exception(f"[{session_id}] --- Initial Playlist failed with unexpected error: {e}")
+        logger.exception(f"[{session_id}] --- Initial Playlist unexpected error: {e}")
         raise UIFlowError(f"Unexpected error in Initial Playlist: {e}") from e
+
 
 def _phase_artist_visit(device, personality, account_email, spotify_package_name, playlist_urls, session_id):
     logger.info(f"[{session_id}] --- Entering Phase 2: Artist Visit ---")
-    # TODO: implement
-    logger.info(f"[{session_id}] --- Exiting Phase 2: Artist Visit (Placeholder) ---")
-    return True
+    try:
+        # Treat all URLs after the first as artist profile links
+        artist_links = playlist_urls[1:]
+        for url in artist_links:
+            logger.debug(f"[{session_id}] Visiting artist URL: {url}")
+            if not open_url(device.device, url, app_package=spotify_package_name, personality=personality):
+                raise UIFlowError(f"open_url failed for artist URL {url}")
+            human_sleep(personality)
+
+        logger.info(f"[{session_id}] --- Artist Visit completed ---")
+        return True
+
+    except UIFlowError:
+        raise
+    except Exception as e:
+        logger.exception(f"[{session_id}] --- Artist Visit failed: {e}")
+        raise UIFlowError(f"Artist Visit error: {e}") from e
+
 
 def _phase_track_sampling(device, personality, account_email, spotify_package_name, playlist_urls, session_id):
     logger.info(f"[{session_id}] --- Entering Phase 3: Track Sampling ---")
-    # TODO: implement
+    # TODO: implement sampling a few random tracks from playlist_urls
     logger.info(f"[{session_id}] --- Exiting Phase 3: Track Sampling (Placeholder) ---")
     return True
 
+
 def _phase_final_playlist(device, personality, account_email, spotify_package_name, playlist_urls, session_id):
     logger.info(f"[{session_id}] --- Entering Phase 4: Final Playlist ---")
-    # TODO: implement
+    # TODO: implement final playlist playback
     logger.info(f"[{session_id}] --- Exiting Phase 4: Final Playlist (Placeholder) ---")
     return True
