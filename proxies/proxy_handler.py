@@ -6,12 +6,19 @@ import threading
 import requests
 import logging
 from datetime import datetime, timedelta
+from core.config import WEBSHARE_API_KEY # Import from config
 
-# Configuración básica de logging
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+# Setup logger
+logger = logging.getLogger("ProxyHandler")
+if not logger.handlers: # Ensure handlers are not added multiple times if module is reloaded
+    handler = logging.StreamHandler()
+    formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+    handler.setFormatter(formatter)
+    logger.addHandler(handler)
+    logger.setLevel(logging.INFO) # Or logging.DEBUG for more verbosity
 
 # Constantes
-WEBSHARE_API_KEY = "m9je2zfmnjbvgo6ye5zvmho0o7nxqizo8wk94sel" # Clave API proporcionada
+# WEBSHARE_API_KEY = "m9je2zfmnjbvgo6ye5zvmho0o7nxqizo8wk94sel" # Clave API proporcionada - REMOVED
 WEBSHARE_API_URL = "https://proxy.webshare.io/api/v2/proxy/list/"
 PROXY_CHECK_URL = "https://httpbin.org/ip" # URL para verificar si el proxy funciona
 PROXY_CHECK_TIMEOUT = 10 # Segundos
@@ -59,7 +66,7 @@ class ProxyManager:
 
     def load_proxies(self):
         """Carga proxies desde el archivo especificado."""
-        logging.info(f"Loading proxies from {self.proxy_file}")
+        logger.info(f"Loading proxies from {self.proxy_file}") # Changed logging to logger
         loaded_count = 0
         try:
             with open(self.proxy_file, 'r') as f:
@@ -77,17 +84,21 @@ class ProxyManager:
                         self.proxies.append(Proxy(host, int(port), None, None))
                         loaded_count += 1
                     else:
-                        logging.warning(f"Skipping invalid proxy line: {line}")
-            logging.info(f"Loaded {loaded_count} proxies.")
+                        logger.warning(f"Skipping invalid proxy line: {line}") # Changed logging to logger
+            logger.info(f"Loaded {loaded_count} proxies.") # Changed logging to logger
             self.min_pool_size = int(len(self.proxies) * MIN_PROXY_POOL_PERCENTAGE)
         except FileNotFoundError:
-            logging.error(f"Proxy file not found: {self.proxy_file}")
+            logger.error(f"Proxy file not found: {self.proxy_file}") # Changed logging to logger
         except Exception as e:
-            logging.error(f"Error loading proxies: {e}")
+            logger.error(f"Error loading proxies: {e}") # Changed logging to logger
 
     def _fetch_webshare_proxies(self, limit=50):
         """Obtiene proxies desde la API de Webshare."""
-        logging.info("Fetching new proxies from Webshare API...")
+        if not WEBSHARE_API_KEY or WEBSHARE_API_KEY == "YOUR_API_KEY_HERE":
+            logger.warning("Webshare API key is not configured or is a placeholder. Skipping Webshare proxy fetching.")
+            return []
+            
+        logger.info("Fetching new proxies from Webshare API...") # Changed logging to logger
         headers = {"Authorization": f"Token {WEBSHARE_API_KEY}"}
         params = {"limit": limit}
         new_proxies = []
@@ -102,19 +113,19 @@ class ProxyManager:
                     # Evitar duplicados basados en la dirección
                     if not any(existing_proxy.address == new_proxy.address for existing_proxy in self.proxies):
                         new_proxies.append(new_proxy)
-                        logging.info(f"Fetched new proxy from Webshare: {new_proxy.address}")
-            logging.info(f"Fetched {len(new_proxies)} new unique proxies from Webshare.")
+                        logger.info(f"Fetched new proxy from Webshare: {new_proxy.address}") # Changed logging to logger
+            logger.info(f"Fetched {len(new_proxies)} new unique proxies from Webshare.") # Changed logging to logger
             return new_proxies
         except requests.exceptions.RequestException as e:
-            logging.error(f"Error fetching proxies from Webshare API: {e}")
+            logger.error(f"Error fetching proxies from Webshare API: {e}") # Changed logging to logger
             return []
         except Exception as e:
-            logging.error(f"Unexpected error processing Webshare API response: {e}")
+            logger.error(f"Unexpected error processing Webshare API response: {e}") # Changed logging to logger
             return []
 
     def _check_proxy_health(self, proxy: Proxy):
         """Verifica la salud de un proxy individual."""
-        logging.debug(f"Checking health for proxy: {proxy.address}")
+        logger.debug(f"Checking health for proxy: {proxy.address}") # Changed logging to logger
         proxy_dict = {
             "http": proxy.proxy_url,
             "https": proxy.proxy_url
@@ -126,15 +137,15 @@ class ProxyManager:
             # print(response.json())
             proxy.healthy = True
             proxy.fail_count = 0
-            logging.debug(f"Proxy {proxy.address} is healthy.")
+            logger.debug(f"Proxy {proxy.address} is healthy.") # Changed logging to logger
         except requests.exceptions.RequestException as e:
             proxy.healthy = False
             proxy.fail_count += 1
-            logging.warning(f"Proxy {proxy.address} check failed: {e}")
+            logger.warning(f"Proxy {proxy.address} check failed: {e}") # Changed logging to logger
         except Exception as e:
             proxy.healthy = False
             proxy.fail_count += 1
-            logging.error(f"Unexpected error checking proxy {proxy.address}: {e}")
+            logger.error(f"Unexpected error checking proxy {proxy.address}: {e}") # Changed logging to logger
         finally:
             proxy.last_checked = datetime.now()
 
@@ -144,18 +155,18 @@ class ProxyManager:
             healthy_proxies = [p for p in self.proxies if p.healthy and not p.in_use]
             num_healthy_available = len(healthy_proxies)
 
-            logging.info(f"Maintaining proxy pool. Total: {len(self.proxies)}, Healthy & Available: {num_healthy_available}, Min Required: {self.min_pool_size}")
+            logger.info(f"Maintaining proxy pool. Total: {len(self.proxies)}, Healthy & Available: {num_healthy_available}, Min Required: {self.min_pool_size}") # Changed logging to logger
 
             # Obtener nuevos si estamos por debajo del mínimo
             if num_healthy_available < self.min_pool_size:
-                logging.warning(f"Healthy proxy pool ({num_healthy_available}) is below minimum ({self.min_pool_size}). Fetching more...")
+                logger.warning(f"Healthy proxy pool ({num_healthy_available}) is below minimum ({self.min_pool_size}). Fetching more...") # Changed logging to logger
                 new_proxies = self._fetch_webshare_proxies()
                 if new_proxies:
                     self.proxies.extend(new_proxies)
                     self.min_pool_size = int(len(self.proxies) * MIN_PROXY_POOL_PERCENTAGE)
-                    logging.info(f"Added {len(new_proxies)} new proxies. Total pool size: {len(self.proxies)}")
+                    logger.info(f"Added {len(new_proxies)} new proxies. Total pool size: {len(self.proxies)}") # Changed logging to logger
                 else:
-                    logging.error("Failed to fetch new proxies from Webshare.")
+                    logger.error("Failed to fetch new proxies from Webshare.") # Changed logging to logger
 
             # Chequear salud de proxies no chequeados o viejos (ej. cada hora)
             now = datetime.now()
@@ -169,14 +180,14 @@ class ProxyManager:
             self.proxies = [p for p in self.proxies if p.fail_count <= 5]
             removed_count = initial_count - len(self.proxies)
             if removed_count > 0:
-                logging.warning(f"Removed {removed_count} consistently failing proxies.")
+                logger.warning(f"Removed {removed_count} consistently failing proxies.") # Changed logging to logger
                 self.min_pool_size = int(len(self.proxies) * MIN_PROXY_POOL_PERCENTAGE)
 
     def get_proxy(self) -> Proxy | None:
         """Obtiene el siguiente proxy disponible usando rotación round-robin."""
         with self.lock:
             if not self.proxies:
-                logging.error("Proxy pool is empty.")
+                logger.error("Proxy pool is empty.") # Changed logging to logger
                 return None
 
             # Intentar mantener el pool antes de buscar
@@ -196,26 +207,26 @@ class ProxyManager:
 
                 if is_available and is_healthy and is_reusable:
                     proxy.mark_as_used()
-                    logging.info(f"Assigning proxy: {proxy.address}")
+                    logger.info(f"Assigning proxy: {proxy.address}") # Changed logging to logger
                     return proxy
 
                 # Si hemos dado una vuelta completa y no encontramos nada
                 if self.current_index == initial_index:
-                    logging.warning("No suitable proxy available currently. All might be in use, unhealthy, or recently used.")
+                    logger.warning("No suitable proxy available currently. All might be in use, unhealthy, or recently used.") # Changed logging to logger
                     # Podríamos esperar un poco y reintentar, o devolver None
                     # Intentar obtener nuevos proxies si fallamos aquí
-                    logging.info("Attempting to fetch new proxies due to unavailability...")
+                    logger.info("Attempting to fetch new proxies due to unavailability...") # Changed logging to logger
                     new_proxies = self._fetch_webshare_proxies()
                     if new_proxies:
                         self.proxies.extend(new_proxies)
                         self.min_pool_size = int(len(self.proxies) * MIN_PROXY_POOL_PERCENTAGE)
-                        logging.info(f"Added {len(new_proxies)} new proxies. Retrying get_proxy().")
+                        logger.info(f"Added {len(new_proxies)} new proxies. Retrying get_proxy().") # Changed logging to logger
                         # Reiniciar búsqueda desde el principio después de añadir
                         self.current_index = 0
                         initial_index = 0 # Resetear para evitar loop infinito si los nuevos tampoco sirven
                         continue # Reintentar la búsqueda
                     else:
-                        logging.error("Failed to fetch new proxies. No proxy assigned.")
+                        logger.error("Failed to fetch new proxies. No proxy assigned.") # Changed logging to logger
                         return None # No hay proxies disponibles ni pudimos obtener nuevos
 
     def release_proxy(self, proxy: Proxy, success: bool):
@@ -223,7 +234,7 @@ class ProxyManager:
         with self.lock:
             proxy.mark_as_free()
             if not success:
-                logging.warning(f"Operation failed with proxy {proxy.address}. Marking for re-check.")
+                logger.warning(f"Operation failed with proxy {proxy.address}. Marking for re-check.") # Changed logging to logger
                 # Marcar como no saludable para forzar un chequeo la próxima vez
                 proxy.healthy = None
                 proxy.fail_count += 1
@@ -231,7 +242,7 @@ class ProxyManager:
                 # Si tuvo éxito, reseteamos el contador de fallos (si aplica)
                 # proxy.fail_count = 0 # Opcional: resetear solo si estaba fallando antes
                 pass
-            logging.info(f"Released proxy: {proxy.address}")
+            logger.info(f"Released proxy: {proxy.address}") # Changed logging to logger
 
     # def _background_tasks(self):
     #     """Tareas periódicas de mantenimiento en segundo plano."""
@@ -239,7 +250,7 @@ class ProxyManager:
     #         try:
     #             self._maintain_pool()
     #         except Exception as e:
-    #             logging.error(f"Error in background proxy maintenance: {e}")
+    #             logger.error(f"Error in background proxy maintenance: {e}") # Changed logging to logger
     #         time.sleep(60 * 10) # Ejecutar cada 10 minutos
 
 # Ejemplo de uso

@@ -23,14 +23,14 @@ logging.basicConfig(
         logging.StreamHandler()
     ]
 )
-logger = logging.getLogger("AndroidDevice")
+logger = logging.getLogger("Device")
 
 # Constantes
 DEVICE_DB_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "data", "devices_db.json")
 SPOTIFY_PREFIX = "com.spotify.mus"
 SOCKSDROID_PACKAGE = "net.typeblog.socks"
 
-class AndroidDevice:
+class Device:
     def __init__(self, device_id=None):
         """Inicializa un objeto para controlar un dispositivo Android"""
         self.device_id = device_id
@@ -40,8 +40,8 @@ class AndroidDevice:
         self.device_info = {}
         self.devices_db = self._load_devices_db()
         
-        if device_id:
-            self.connect(device_id)
+        # if device_id:  # Connection is no longer automatic
+        #     self.connect(device_id)
     
     def _load_devices_db(self):
         """Carga la base de datos de dispositivos desde el archivo JSON"""
@@ -64,8 +64,8 @@ class AndroidDevice:
             logger.error(f"Error al guardar la base de datos de dispositivos: {e}")
     
     @staticmethod
-    def get_connected_devices():
-        """Obtiene la lista de dispositivos Android conectados por USB"""
+    def get_connected_device_ids():
+        """Obtiene la lista de IDs de dispositivos Android conectados por USB"""
         try:
             result = subprocess.run(
                 ["adb", "devices"], 
@@ -550,20 +550,100 @@ class AndroidDevice:
         time.sleep(delay)
         return delay
 
+class DeviceManager:
+    def __init__(self):
+        """Inicializa el administrador de dispositivos."""
+        self.managed_devices: dict[str, Device] = {}
+        logger.info("DeviceManager initialized.")
+
+    def update_devices(self):
+        """Actualiza la lista de dispositivos gestionados y su estado de conexión."""
+        logger.info("Updating devices...")
+        connected_device_ids = Device.get_connected_device_ids()
+        
+        # Check currently connected devices
+        for device_id in connected_device_ids:
+            if device_id in self.managed_devices:
+                device_instance = self.managed_devices[device_id]
+                if not device_instance.connected:
+                    logger.info(f"Device {device_id} was managed but disconnected. Attempting to reconnect.")
+                    if device_instance.connect(): # connect() already updates self.connected
+                        logger.info(f"Successfully reconnected to device {device_id}.")
+                    else:
+                        logger.warning(f"Failed to reconnect to device {device_id}.")
+                # If already connected and managed, do nothing
+            else:
+                logger.info(f"New device found: {device_id}. Adding to managed devices.")
+                new_device = Device(device_id=device_id)
+                if new_device.connect():
+                    self.managed_devices[device_id] = new_device
+                    logger.info(f"Successfully connected to and managed new device {device_id}.")
+                else:
+                    logger.warning(f"Failed to connect to new device {device_id}.")
+
+        # Check for disconnected devices among managed ones
+        managed_ids = list(self.managed_devices.keys()) # Avoid issues with dict size change during iteration
+        for device_id in managed_ids:
+            if device_id not in connected_device_ids:
+                if self.managed_devices[device_id].connected:
+                    logger.info(f"Managed device {device_id} is no longer connected.")
+                    self.managed_devices[device_id].connected = False # Mark as disconnected
+                    # Optionally, call a device.disconnect() method if it exists
+                    # For now, we might remove it or keep it as inactive
+                    # logger.info(f"Removing device {device_id} from managed list for now.")
+                    # del self.managed_devices[device_id] 
+                else:
+                    # If it was already marked as disconnected and still not in connected_ids,
+                    # we can choose to remove it or just log.
+                    logger.debug(f"Previously disconnected device {device_id} remains disconnected.")
+
+    def get_active_devices(self) -> list[Device]:
+        """Devuelve una lista de dispositivos gestionados que están actualmente conectados."""
+        active_devices = [
+            dev for dev in self.managed_devices.values() if dev.connected
+        ]
+        logger.info(f"Found {len(active_devices)} active devices.")
+        return active_devices
+
+
 if __name__ == "__main__":
-    # Ejemplo de uso
-    devices = AndroidDevice.get_connected_devices()
+    manager = DeviceManager()
+    manager.update_devices() # Initial scan
     
-    if devices:
-        device = AndroidDevice(devices[0])
-        
-        # Registrar aplicaciones Spotify
-        device.register_all_spotify()
-        apps = device.get_registered_spotify_apps()
-        print(f"Aplicaciones Spotify registradas: {apps}")
-        
-        # Capturar pantalla
-        screenshot_path = device.capture_screenshot()
-        print(f"Captura de pantalla guardada en: {screenshot_path}")
+    # Potentially show devices after first scan
+    active_devices_initial = manager.get_active_devices()
+    if active_devices_initial:
+        print(f"Found {len(active_devices_initial)} active devices initially:")
+        for dev_instance in active_devices_initial:
+            print(f"  Device ID: {dev_instance.device_id}, Model: {dev_instance.device_info.get('model', 'N/A')}, Connected: {dev_instance.connected}")
     else:
-        print("No hay dispositivos conectados")
+        print("No active devices found initially.")
+
+    # Simulate some time passing and update again
+    print("\nSimulating a delay and updating devices again...\n")
+    time.sleep(2) # Simulate time for potential device changes
+    manager.update_devices()
+    
+    active_devices_updated = manager.get_active_devices()
+    if active_devices_updated:
+        print(f"Found {len(active_devices_updated)} active devices after update:")
+        for dev_instance in active_devices_updated:
+            print(f"  Device ID: {dev_instance.device_id}, Model: {dev_instance.device_info.get('model', 'N/A')}, Connected: {dev_instance.connected}")
+            # Further example: Register Spotify apps for the first active device
+            if dev_instance == active_devices_updated[0] and dev_instance.connected: # Ensure it's connected before using
+                print(f"    Attempting to register Spotify apps for {dev_instance.device_id}...")
+                dev_instance.register_all_spotify()
+                apps = dev_instance.get_registered_spotify_apps()
+                print(f"    Registered Spotify Apps on {dev_instance.device_id}: {apps}")
+                
+                # Example of capturing a screenshot
+                screenshot_path = dev_instance.capture_screenshot()
+                if screenshot_path:
+                    print(f"    Screenshot saved to: {screenshot_path}")
+                else:
+                    print(f"    Failed to capture screenshot for {dev_instance.device_id}")
+            elif not dev_instance.connected:
+                 print(f"    Device {dev_instance.device_id} is not connected, skipping further actions.")
+
+    else:
+        print("No active devices found after update.")
