@@ -11,6 +11,8 @@ from concurrent.futures import ThreadPoolExecutor
 from core.device_manager import DeviceManager
 from core.account_orchestrator import AccountOrchestrator
 from core.spotify_orchestration import run_spotify_session
+from proxies.proxy_handler import ProxyHandler
+from personalities.device_personality import PersonalityProfile
 
 DATA_DIR      = "data"
 PLAYLIST_FILE = os.path.join(DATA_DIR, "playlists.txt")
@@ -24,19 +26,23 @@ def load_list(path):
 def playlist_mode():
     # 1) Load inputs
     playlist_urls = load_list(PLAYLIST_FILE)
-    accounts      = load_list(ACCOUNTS_FILE)
-    proxies       = load_list(PROXIES_FILE)
+    # AccountOrchestrator reads accounts/proxies itself
+    account_manager = AccountOrchestrator()
 
-    # 2) Init managers
-    device_manager  = DeviceManager()
-    devices         = device_manager.discover_devices()
-    account_manager = AccountOrchestrator(accounts, proxies)
+    # 2) Init DeviceManager
+    device_manager = DeviceManager()
+    device_manager.update_devices()           # scan ADB devices
+    devices = device_manager.get_active_devices()
 
     # 3) Worker function
     def worker(device):
-        # Assign next account & proxy
-        account_email, proxy = account_manager.next_account_and_proxy()
-        personality         = account_manager.load_personality(account_email)
+        # Assign per-device account & proxy
+        account_email, account_password = account_manager.get_account_for_session(device.device_id)
+        proxy = ProxyHandler().get_proxy()
+
+        # Load personality profile
+        username = account_email.split('@')[0]
+        personality = PersonalityProfile(username=username, profile_directory='personalities/')
 
         # Run the full 4-phase Spotify session
         return run_spotify_session(
@@ -53,7 +59,7 @@ def playlist_mode():
 
     # 5) Summary
     successes = sum(1 for ok in results if ok)
-    failures  = len(results) - successes
+    failures = len(results) - successes
     print(f"✅ {successes} succeeded, ❌ {failures} failed out of {len(devices)} devices.")
 
 if __name__ == "__main__":
