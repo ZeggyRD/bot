@@ -75,7 +75,24 @@ def _phase_track_sampling(device, personality, account_email, spotify_package_na
 
 def _phase_final_playlist(device, personality, account_email, spotify_package_name, playlist_urls, session_id):
     logger.info(f"[{session_id}] --- Entering Phase 4: Final Playlist ---")
-    # TODO: implement final playlist playback
-    logger.info(f"[{session_id}] --- Exiting Phase 4: Final Playlist (Placeholder) ---")
-    return True
-    return True
+    try:
+        # 1) Re-open the initial playlist URL for a final run
+        playlist_file = os.path.join("data", "playlists.txt")
+        with open(playlist_file, "r") as f:
+            first_url = f.readline().strip()
+
+        logger.debug(f"[{session_id}] Final Playlist – Reopening URL: {first_url}")
+        if not open_url(device.device, first_url, app_package=spotify_package_name, personality=personality):
+            raise UIFlowError(f"open_url failed for final playlist URL {first_url}")
+
+        # 2) Let it play longer this time
+        human_sleep(60.0, 120.0, personality)  # 1–2 minutes of listening
+
+        logger.info(f"[{session_id}] --- Final Playlist completed successfully ---")
+        return True
+
+    except UIFlowError:
+        raise
+    except Exception as e:
+        logger.exception(f"[{session_id}] --- Final Playlist failed: {e}")
+        raise UIFlowError(f"Final Playlist error: {e}") from e
